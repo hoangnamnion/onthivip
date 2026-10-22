@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Học Tự Luận - Kiến Trúc Cảnh Quan | Mỗi Trang 1 Câu</title>
+    <meta name="description" content="Học tự luận 23 câu Kiến Trúc Cảnh Quan theo từng câu mượt mà 120 FPS không giật lag, hỗ trợ đánh dấu Đã đọc rùi.">
+    <meta name="theme-color" content="#ffd23f">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Base Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+        /* ==========================================================================
+           TỰ LUẬN 120 FPS: MỖI TRANG 1 CÂU + ĐÃ ĐỌC RÙI TRACKING
+           ========================================================================== */
+        :root {
+            --neo-black: #141414;
+            --neo-yellow: #ffd23f;
+            --neo-yellow-light: #fff8d6;
+            --neo-pink: #ff5277;
+            --neo-green: #10b981;
+            --neo-green-light: #d1fae5;
+            --neo-bg: #fffdf5;
+            --neo-border-w: 3px;
+            --neo-radius-sm: 8px;
+            --neo-radius-md: 14px;
+            --neo-radius-lg: 18px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--neo-bg);
+            color: var(--neo-black);
+            background-image: radial-gradient(#d1d5db 1px, transparent 1px);
+            background-size: 20px 20px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* NAVBAR */
+        .tuluan-nav {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: var(--neo-yellow);
+            border-bottom: var(--neo-border-w) solid var(--neo-black);
+            padding: 10px 16px;
+            box-shadow: 0 4px 0 rgba(0, 0, 0, 0.05);
+        }
+
+        .tuluan-nav-inner {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+        }
+
+        .nav-left {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            min-width: 0;
+        }
+
+        .btn-nav-back {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 14px;
+            background: #ffffff;
+            border: 2.5px solid var(--neo-black);
+            border-radius: var(--neo-radius-sm);
+            box-shadow: 2.5px 2.5px 0 var(--neo-black);
+            font-weight: 800;
+            font-size: 0.88rem;
+            color: var(--neo-black);
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            white-space: nowrap;
+        }
+
+        .btn-nav-back:hover {
+            transform: translate(-1.5px, -1.5px);
+            box-shadow: 4px 4px 0 var(--neo-black);
+            background: #fef9c3;
+        }
+
+        .btn-nav-back:active {
+            transform: translate(1px, 1px);
+            box-shadow: 1px 1px 0 var(--neo-black);
+        }
+
+        .nav-page-title {
+            font-family: 'Fredoka', sans-serif;
+            font-size: 1.15rem;
+            font-weight: 800;
+            color: var(--neo-black);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .nav-right-actions {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-shrink: 0;
+        }
+
+        .nav-action-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 14px;
+            background: #ffffff;
+            border: 2.5px solid var(--neo-black);
+            border-radius: var(--neo-radius-sm);
+            box-shadow: 2.5px 2.5px 0 var(--neo-black);
+            font-weight: 800;
+            font-size: 0.86rem;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            white-space: nowrap;
+        }
+
+        .nav-action-btn:hover {
+            transform: translate(-1.5px, -1.5px);
+            box-shadow: 4px 4px 0 var(--neo-black);
+        }
+
+        .btn-mobile-menu {
+            display: none;
+            padding: 8px 12px;
+            font-size: 1.1rem;
+            background: #ffffff;
+            border: 2.5px solid var(--neo-black);
+            border-radius: var(--neo-radius-sm);
+            box-shadow: 2px 2px 0 var(--neo-black);
+            cursor: pointer;
+            font-weight: 900;
+        }
+
+        /* PROGRESS HEADER */
+        .progress-header-section {
+            background: #ffffff;
+            border-bottom: 2.5px solid var(--neo-black);
+            padding: 12px 16px;
+        }
+
+        .progress-header-inner {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .progress-top-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .read-progress-label {
+            font-size: 0.92rem;
+            font-weight: 800;
+            color: var(--neo-black);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .chapter-pills-row {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+
+        .chapter-chip {
+            padding: 5px 12px;
+            background: #f1f5f9;
+            border: 2px solid var(--neo-black);
+            border-radius: 999px;
+            box-shadow: 2px 2px 0 var(--neo-black);
+            font-weight: 800;
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        .chapter-chip:hover {
+            background: #e2e8f0;
+            transform: translate(-1px, -1px);
+        }
+
+        .chapter-chip.active {
+            background: var(--neo-yellow);
+            transform: translate(-1px, -1px);
+            box-shadow: 2.5px 2.5px 0 var(--neo-black);
+        }
+
+        .progress-track-outer {
+            width: 100%;
+            height: 12px;
+            background: #e2e8f0;
+            border: 2px solid var(--neo-black);
+            border-radius: 999px;
+            overflow: hidden;
+            box-shadow: 1.5px 1.5px 0 var(--neo-black);
+        }
+
+        .progress-track-fill {
+            height: 100%;
+            background: var(--neo-green);
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+
+        /* QUICK JUMP NUMBER PILLS */
+        .q-nav-grid-wrap {
+            max-width: 1100px;
+            margin: 14px auto 0 auto;
+            width: 100%;
+            padding: 0 16px;
+        }
+
+        .q-nav-grid-box {
+            background: #ffffff;
+            border: 2.5px solid var(--neo-black);
+            border-radius: var(--neo-radius-sm);
+            box-shadow: 3px 3px 0 var(--neo-black);
+            padding: 10px 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            overflow-x: auto;
+            scrollbar-width: thin;
+        }
+
+        .q-nav-grid-box::-webkit-scrollbar {
+            height: 5px;
+        }
+
+        .q-nav-grid-box::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+
+        .q-nav-pill {
+            flex-shrink: 0;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 3px;
+            min-width: 38px;
+            height: 34px;
+            padding: 0 7px;
+            background: #f8fafc;
+            border: 2px solid var(--neo-black);
+            border-radius: 6px;
+            box-shadow: 2px 2px 0 var(--neo-black);
+            font-family: 'Fredoka', sans-serif;
+            font-weight: 800;
+            font-size: 0.82rem;
+            cursor: pointer;
+            transition: all 0.12s ease;
+            position: relative;
+        }
+
+        .q-nav-pill:hover {
+            transform: translate(-1px, -1px);
+            background: var(--neo-yellow-light);
+        }
+
+        .q-nav-pill.current {
+            background: var(--neo-yellow) !important;
+            transform: scale(1.08) translate(-1px, -1px);
+            box-shadow: 3px 3px 0 var(--neo-black);
+            border-color: #000;
+            z-index: 2;
+        }
+
+        .q-nav-pill.is-read {
+            background: var(--neo-green-light);
+            border-color: #059669;
+        }
+
+        .q-nav-pill.is-read .q-pill-check {
+            color: #059669;
+            font-weight: 900;
+            font-size: 0.75rem;
+            margin-left: 2px;
+        }
+
+        /* MAIN STAGE (1 QUESTION) */
+        .stage-container {
+            max-width: 1100px;
+            margin: 18px auto 30px auto;
+            width: 100%;
+            padding: 0 16px;
+            flex: 1;
+        }
+
+        .tuluan-card {
+            background: #ffffff;
+            border: var(--neo-border-w) solid var(--neo-black);
+            border-radius: var(--neo-radius-md);
+            box-shadow: 6px 6px 0 var(--neo-black);
+            padding: 24px 26px;
+            transition: all 0.2s ease;
+        }
+
+        /* Card Header */
+        .card-meta-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            padding-bottom: 14px;
+            border-bottom: 2.5px dashed #cbd5e1;
+            margin-bottom: 18px;
+        }
+
+        .card-pill-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .pill-qnum {
+            font-family: 'Fredoka', sans-serif;
+            font-size: 0.88rem;
+            font-weight: 900;
+            background: var(--neo-black);
+            color: #ffffff;
+            padding: 4px 12px;
+            border-radius: 999px;
+            letter-spacing: 0.5px;
+        }
+
+        .pill-chapter {
+            font-size: 0.82rem;
+            font-weight: 800;
+            background: #e0e7ff;
+            color: #3730a3;
+            border: 1.5px solid var(--neo-black);
+            padding: 3px 10px;
+            border-radius: 999px;
+        }
+
+        .pill-tag {
+            font-size: 0.82rem;
+            font-weight: 700;
+            background: #f1f5f9;
+            color: #334155;
+            padding: 3px 10px;
+            border-radius: 6px;
+        }
+
+        .card-action-btns {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-card-tool {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 7px 12px;
+            background: #ffffff;
+            border: 2px solid var(--neo-black);
+            border-radius: var(--neo-radius-sm);
+            box-shadow: 2px 2px 0 var(--neo-black);
+            font-weight: 800;
+            font-size: 0.82rem;
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        .btn-card-tool:hover {
+            transform: translate(-1px, -1px);
+            box-shadow: 3px 3px 0 var(--neo-black);
+            background: #fef08a;
+        }
+
+        /* QUESTION BOX */
+        .question-section {
+            background: #f8fafc;
+            border: 2.5px solid var(--neo-black);
+            border-radius: var(--neo-radius-sm);
+            padding: 18px 20px;
+            margin-bottom: 20px;
+        }
+
+        .section-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-family: 'Fredoka', sans-serif;
+            font-weight: 800;
+            font-size: 0.8rem;
+            padding: 3px 9px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .question-badge {
+            background: #ffedd5;
+            color: #9a3412;
+            border: 1.5px solid #fdba74;
+        }
+
+        .question-prompt-text {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: 1.18rem;
+            font-weight: 800;
+            color: var(--neo-black);
+            line-height: 1.52;
+        }
+
+        /* ANSWER BOX */
+        .answer-section {
+            background: #ffffff;
+            border: 2.5px solid var(--neo-black);
+            border-radius: var(--neo-radius-sm);
+            padding: 20px 22px;
+            transition: all 0.25s ease;
+        }
+
+        .answer-section.is-hidden .answer-content-body {
+            display: none;
+        }
+
+        .answer-section.is-hidden {
+            background: #f1f5f9;
+            border-style: dashed;
+            padding: 16px 20px;
+            text-align: center;
+        }
+
+        .answer-section.is-hidden::after {
+            content: "🙈 Đáp án câu này đang ẩn. Bấm nút 'Hiện đáp án' ở góc trên để đối chiếu.";
+            display: block;
+            font-size: 0.92rem;
+            font-weight: 700;
+            color: #64748b;
+            margin-top: 6px;
+        }
+
+        .answer-badge {
+            background: #dcfce7;
+            color: #166534;
+            border: 1.5px solid #86efac;
+            margin-bottom: 14px;
+        }
+
+        .answer-content-body {
+            font-size: 0.98rem;
+            line-height: 1.7;
+            color: #1f2937;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .ans-p {
+            margin: 0;
+            line-height: 1.68;
+        }
+
+        .ans-lead {
+            color: #0f172a;
+            font-weight: 800;
+        }
+
+        .ans-section-heading {
+            font-family: 'Fredoka', 'Plus Jakarta Sans', sans-serif;
+            font-size: 1.02rem;
+            font-weight: 800;
+            color: #b45309;
+            margin-top: 10px;
+            margin-bottom: 2px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .ans-section-heading::before {
+            content: "▶";
+            font-size: 0.75rem;
+            color: #f59e0b;
+        }
+
+        /* Tables inside Answers */
+        .table-responsive {
+            overflow-x: auto;
+            margin: 12px 0;
+            border: 2px solid var(--neo-black);
+            border-radius: var(--neo-radius-sm);
+            box-shadow: 3px 3px 0 var(--neo-black);
+        }
+
+        .neo-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+            text-align: left;
+            background: #ffffff;
+        }
+
+        .neo-table th {
+            background: var(--neo-yellow);
+            color: var(--neo-black);
+            padding: 10px 14px;
+            font-weight: 900;
+            border: 1.5px solid var(--neo-black);
+            font-family: 'Fredoka', sans-serif;
+        }
+
+        .neo-table td {
+            padding: 10px 14px;
+            border: 1.5px solid var(--neo-black);
+            vertical-align: top;
+            line-height: 1.55;
+        }
+
+        .neo-table tbody tr:nth-child(even) {
+            background: #fffdf5;
+        }
+
+        /* ASCII Tree Diagram */
+        .diagram-box {
+            background: #0f172a;
+            color: #f8fafc;
+            border: 2.5px solid var(--neo-black);
+            border-radius: var(--neo-radius-sm);
+            padding: 16px 18px;
+            margin: 12px 0;
+            box-shadow: 3px 3px 0 var(--neo-black);
+            overflow-x: auto;
+        }
+
+        .diagram-pre {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 0.9rem;
+            line-height: 1.55;
+            margin: 0;
+            white-space: pre;
+            color: #38bdf8;
+            font-weight: 600;
+        }
+
+        /* FOOTER ACTIONS (NEXT, PREV, MARK READ) */
+        .single-q-footer {
+            margin-top: 26px;
+            padding-top: 20px;
+            border-top: 2.5px dashed #cbd5e1;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .btn-nav-step {
+            padding: 12px 18px;
+            font-weight: 800;
+            font-size: 0.92rem;
+            background: #ffffff;
+            cursor: pointer;
+        }
+
+        .btn-nav-step:disabled {
+            opacity: 0.4;
+            pointer-events: none;
+            box-shadow: none;
+        }
+
+        .btn-mark-read {
+            flex: 1;
+            max-width: 320px;
+            min-width: 200px;
+            padding: 13px 20px;
+            font-size: 0.98rem;
+            font-weight: 900;
+            background: #ffffff;
+            border-color: var(--neo-black);
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        .btn-mark-read.is-marked {
+            background: var(--neo-green) !important;
+            color: #ffffff !important;
+            border-color: var(--neo-black) !important;
+            box-shadow: 4px 4px 0 var(--neo-black) !important;
+        }
+
+        .btn-mark-read:hover {
+            transform: translate(-1.5px, -1.5px);
+            box-shadow: 4px 4px 0 var(--neo-black);
+        }
+
+        /* MOBILE DRAWER */
+        .mobile-drawer-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(0, 0, 0, 0.6);
+            backdrop-filter: blur(2px);
+            z-index: 1000;
+            display: none;
+            opacity: 0;
+            transition: opacity 0.25s ease;
+        }
+
+        .mobile-drawer-overlay.open {
+            display: block;
+            opacity: 1;
+        }
+
+        .mobile-drawer {
+            position: fixed;
+            top: 0;
+            right: 0;
+            width: 320px;
+            max-width: 85vw;
+            height: 100vh;
+            background: #ffffff;
+            border-left: 3.5px solid var(--neo-black);
+            z-index: 1001;
+            transform: translateX(100%);
+            transition: transform 0.25s ease;
+            display: flex;
+            flex-direction: column;
+            padding: 16px;
+        }
+
+        .mobile-drawer.open {
+            transform: translateX(0);
+        }
+
+        .drawer-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-bottom: 12px;
+            border-bottom: 2.5px solid var(--neo-black);
+            margin-bottom: 14px;
+        }
+
+        .drawer-title {
+            font-family: 'Fredoka', sans-serif;
+            font-weight: 800;
+            font-size: 1.15rem;
+        }
+
+        .drawer-close-btn {
+            background: var(--neo-pink);
+            color: #ffffff;
+            border: 2px solid var(--neo-black);
+            border-radius: 8px;
+            width: 32px;
+            height: 32px;
+            cursor: pointer;
+            font-weight: 900;
+            font-size: 1rem;
+            box-shadow: 2px 2px 0 var(--neo-black);
+        }
+
+        .drawer-grid-box {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 8px;
+            overflow-y: auto;
+            flex: 1;
+            padding-right: 4px;
+        }
+
+        /* KEYBOARD HINT FOOTER */
+        .keyboard-hint-box {
+            text-align: center;
+            font-size: 0.82rem;
+            font-weight: 700;
+            color: #64748b;
+            margin-bottom: 24px;
+        }
+
+        /* THEME-FOCUS OVERRIDES (GIẢM MÀU MÈ) */
+        body.theme-focus {
+            background-color: #f8fafc !important;
+            background-image: none !important;
+        }
+
+        body.theme-focus .tuluan-nav {
+            background: #f1f5f9 !important;
+            border-bottom-color: #cbd5e1 !important;
+        }
+
+        body.theme-focus .btn-nav-back,
+        body.theme-focus .nav-action-btn,
+        body.theme-focus .chapter-chip,
+        body.theme-focus .tuluan-card,
+        body.theme-focus .q-nav-grid-box,
+        body.theme-focus .q-nav-pill,
+        body.theme-focus .btn-card-tool,
+        body.theme-focus .question-section,
+        body.theme-focus .answer-section,
+        body.theme-focus .btn-nav-step,
+        body.theme-focus .btn-mark-read {
+            box-shadow: none !important;
+            border-color: #cbd5e1 !important;
+        }
+
+        body.theme-focus .chapter-chip.active {
+            background: #e2e8f0 !important;
+            border-color: #94a3b8 !important;
+            color: #0f172a !important;
+        }
+
+        body.theme-focus .pill-qnum {
+            background: #334155 !important;
+        }
+
+        body.theme-focus .neo-table th {
+            background: #e2e8f0 !important;
+            border-color: #cbd5e1 !important;
+        }
+
+        body.theme-focus .neo-table td {
+            border-color: #cbd5e1 !important;
+        }
+
+        body.theme-focus .btn-mark-read.is-marked {
+            background: #059669 !important;
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            .btn-mobile-menu {
+                display: inline-block;
+            }
+
+            .tuluan-card {
+                padding: 18px 16px;
+            }
+
+            .question-prompt-text {
+                font-size: 1.05rem;
+            }
+
+            .answer-content-body {
+                font-size: 0.92rem;
+            }
+
+            .single-q-footer {
+                flex-direction: column;
+            }
+
+            .btn-mark-read {
+                order: -1;
+                width: 100%;
+                max-width: 100%;
+            }
+
+            .btn-nav-step {
+                width: 48%;
+            }
+
+            .single-q-footer {
+                flex-direction: row;
+                flex-wrap: wrap;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+    <header class="tuluan-nav">
+        <div class="tuluan-nav-inner">
+            <div class="nav-left">
+                <a href="product.html" class="btn-nav-back" id="btnNavBack" title="Quay lại môn học">
+                    <span>←</span> Quay lại
+                </a>
+                <div class="nav-page-title">
+                    <span>📖</span> TỰ LUẬN: KTCQ
+                </div>
+            </div>
+
+            <div class="nav-right-actions">
+                <button type="button" class="nav-action-btn btn-focus-theme-toggle" id="btnTuluanThemeHeader" onclick="window.toggleFocusTheme()" title="Đổi màu giao diện: Giảm màu mè hoặc Pop Art">
+                    <span class="theme-toggle-icon" id="themeTuluanIcon">🌱</span>
+                    <span class="theme-toggle-text" id="themeTuluanText">Giảm màu mè</span>
+                </button>
+                <button type="button" class="btn-mobile-menu" onclick="window.openMobileDrawer()" aria-label="Mục lục 23 câu">
+                    ☰
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- TIẾN ĐỘ ĐÃ ĐỌC RÙI & LỌC CHƯƠNG -->
+    <section class="progress-header-section">
+        <div class="progress-header-inner">
+            <div class="progress-top-row">
+                <div class="read-progress-label" id="readProgressText">
+                    Đã đọc rùi: <b>0/23 câu</b> (0%)
+                </div>
+                <div class="chapter-pills-row">
+                    <button type="button" class="chapter-chip active" data-chapter="0" onclick="window.filterByChapter(0)">Tất cả (23)</button>
+                    <button type="button" class="chapter-chip" data-chapter="1" onclick="window.filterByChapter(1)">Chương 1 (12)</button>
+                    <button type="button" class="chapter-chip" data-chapter="2" onclick="window.filterByChapter(2)">Chương 2 (4)</button>
+                    <button type="button" class="chapter-chip" data-chapter="3" onclick="window.filterByChapter(3)">Chương 3 (7)</button>
+                </div>
+            </div>
+
+            <!-- Thanh tiến trình xanh lá -->
+            <div class="progress-track-outer">
+                <div class="progress-track-fill" id="readProgressFill"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- DANH SÁCH SỐ CÂU ĐỂ CHỌN NHANH (NAVIGATION GRID) -->
+    <div class="q-nav-grid-wrap">
+        <div class="q-nav-grid-box" id="questionNavGrid">
+            <!-- Dynamically rendered pills 01 to 23 -->
+        </div>
+    </div>
+
+    <!-- MAIN STAGE (CHỈ 1 CÂU DUY NHẤT - MƯỢT MÀ 120 FPS) -->
+    <main class="stage-container" id="singleQuestionStage">
+        <!-- Rendered by tuluan.js -->
+    </main>
+
+    <!-- KEYBOARD HINT FOOTER -->
+    <footer class="keyboard-hint-box">
+        💡 <b>Mẹo học nhanh:</b> Dùng phím mũi tên <b>← / →</b> để chuyển câu • Phím <b>Space hoặc D</b> để điền "Đã đọc rùi"
+    </footer>
+
+    <!-- MOBILE DRAWER -->
+    <div class="mobile-drawer-overlay" id="drawerOverlay" onclick="window.closeMobileDrawer()"></div>
+    <div class="mobile-drawer" id="mobileDrawer">
+        <div class="drawer-header">
+            <div class="drawer-title">📑 Chọn Câu Hỏi (23 câu)</div>
+            <button type="button" class="drawer-close-btn" onclick="window.closeMobileDrawer()">✕</button>
+        </div>
+        <div class="drawer-grid-box" id="drawerNavGrid">
+            <!-- Dynamically rendered -->
+        </div>
+    </div>
+
+    <!-- SCRIPTS -->
+    <script src="js/api-config.js"></script>
+    <script src="js/tuluan-data.js"></script>
+    <script src="js/tuluan.js"></script>
+</body>
+
+</html>

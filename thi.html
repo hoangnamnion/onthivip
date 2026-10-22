@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Phòng Thi Trực Tuyến | Hệ Thống Khảo Thí VIP 2026</title>
+    <meta name="theme-color" content="#ffd23f">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+    <!-- Preconnect Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/thi-premium.css?v=2.5">
+    <script src="js/api-config.js"></script>
+    <style>
+        body.low-graphics .mesh-bg { display: none !important; }
+        body.low-graphics .falling-icon { display: none !important; }
+        body.low-graphics canvas { display: none !important; }
+        body.low-graphics * { animation: none !important; transition: none !important; }
+        body.low-graphics { background: #f8fafc !important; color: #0f172a !important; }
+    </style>
+</head>
+
+<body>
+    <div class="app-full">
+        <!-- ====== HEADER ====== -->
+        <div class="header exam-header">
+            <button class="home-btn" onclick="goBack()" title="Quay lại">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#6C5CE7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+            </button>
+
+            <div class="header-center">
+                <div class="header-title" id="sectionTitle">Loading...</div>
+                <div class="header-timer" id="timer">⏱ 00:00</div>
+            </div>
+
+            <div class="header-actions">
+                <button class="icon-btn" onclick="resetExam()" title="Làm lại từ đầu">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M1 4v6h6M23 20v-6h-6"/><path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/></svg>
+                </button>
+                <button class="submit-btn-new" onclick="finishExam()">
+                    Nộp bài
+                </button>
+            </div>
+        </div>
+
+        <!-- ====== CONTENT ====== -->
+        <div class="content">
+            <div class="toolbar-row" style="display: flex; gap: 8px; justify-content: flex-end; align-items: center; margin-bottom: 12px; flex-wrap: wrap;">
+                <button class="chip-btn" id="btnFocusThemeToolbar" onclick="toggleFocusTheme()" style="background: #ffffff; border: 2px solid #141414; box-shadow: 2px 2px 0 #141414; font-weight: 800; cursor: pointer; padding: 5px 12px; border-radius: 999px; color: #141414;" title="Đổi theme giảm màu mè giúp tập trung ôn thi">
+                    <span id="themeToolbarIcon">🌱</span> <span id="themeToolbarText">Giảm màu mè</span>
+                </button>
+                <button class="chip-btn" id="btnToolbarFlagged" onclick="openFlaggedModal()" style="background: #fef08a; border: 2px solid #141414; box-shadow: 2px 2px 0 #141414; font-weight: 800; cursor: pointer; padding: 5px 12px; border-radius: 999px; color: #854d0e; display: none;" title="Bấm để xem danh sách câu hỏi đang cắm cờ">
+                    ⭐ Phân vân: <span id="toolbarFlagCount">0</span>
+                </button>
+                <button class="chip-btn" id="btnToggleAutoNext" onclick="toggleAutoNextInExam()" style="background: #ffd23f; border: 2px solid #141414; box-shadow: 2px 2px 0 #141414; font-weight: 800; cursor: pointer; padding: 5px 12px; border-radius: 999px; color: #141414;">
+                    ⚡ Auto Next: BẬT
+                </button>
+                <button class="chip-btn danger" id="btnLowGraphics" onclick="toggleLowGraphics()" title="Tắt bớt hiệu ứng">
+                    ⚡ Hiệu ứng
+                </button>
+            </div>
+            <div id="loading" style="text-align:center; margin-top:30px">Đang tải câu hỏi...</div>
+            <div id="quizArea" style="display:none">
+                <div id="qFlagBanner" style="display: none; background: #fef08a; border: 2.5px solid #141414; border-radius: 12px; padding: 10px 14px; margin-bottom: 12px; align-items: center; justify-content: space-between; box-shadow: 3px 3px 0 #141414;">
+                    <div style="font-weight: 900; font-size: 0.92rem; color: #854d0e; display: flex; align-items: center; gap: 8px;">
+                        <span style="font-size: 1.2rem;">⭐</span>
+                        <span>CÂU NÀY ĐANG ĐƯỢC CẮM CỜ PHÂN VÂN</span>
+                    </div>
+                    <button type="button" onclick="openFlaggedModal()" style="background: #ffd23f; border: 2px solid #141414; border-radius: 8px; padding: 4px 10px; font-weight: 800; font-size: 0.8rem; cursor: pointer; box-shadow: 1.5px 1.5px 0 #141414;">
+                        Xem danh sách cờ ➔
+                    </button>
+                </div>
+                <div class="q-number-row" id="qNumber"></div>
+                <div class="question-text" id="qText"></div>
+                <div class="options-grid" id="optionsArea"></div>
+            </div>
+        </div>
+
+        <!-- ====== FOOTER ====== -->
+        <div class="footer exam-footer">
+            <button class="footer-btn menu-btn-footer" onclick="toggleModal()" title="Danh sách câu hỏi & phân vân">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+                <span class="flag-counter-badge" id="flagCounterBadge" style="display: none;">0</span>
+            </button>
+            <button class="footer-btn nav-prev" id="btnPrev" onclick="changeQuestion(-1)">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+                Trước
+            </button>
+            <button class="footer-btn nav-next" id="btnNext" onclick="changeQuestion(1)">
+                Tiếp
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </button>
+        </div>
+
+        <!-- ====== TOAST NOTIFICATION ====== -->
+        <div class="bookmark-toast" id="bookmarkToast">⭐ Đã cắm cờ câu hỏi</div>
+
+        <!-- ====== MODAL: QUESTION LIST ====== -->
+        <div class="modal" id="modalList">
+            <div class="modal-header">
+                <h3>📋 Danh sách câu hỏi</h3>
+                <button class="modal-close-btn" onclick="toggleModal()">✕</button>
+            </div>
+            <!-- BỘ LỌC PALETTE NEO-BRUTALISM -->
+            <div class="palette-tools">
+                <div class="palette-theme-bar" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; padding-bottom: 8px; border-bottom: 1.5px dashed #cbd5e1;">
+                    <span style="font-size: 0.78rem; font-weight: 800; color: #475569;">GIAO DIỆN ÔN THI:</span>
+                    <button class="theme-toggle-btn" id="btnToggleThemeInModal" onclick="toggleFocusTheme()" style="background: #ffffff; border: 2px solid #141414; box-shadow: 2px 2px 0 #141414; border-radius: 999px; font-size: 0.76rem; font-weight: 800; padding: 5px 12px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px;" title="Chuyển đổi theme giảm màu mè tập trung ôn">
+                        <span id="themeModalIcon">🌱</span> <span id="themeModalText">Theme: Giảm màu mè</span>
+                    </button>
+                </div>
+                <div class="palette-filter-tabs">
+                    <button class="pal-tab-btn active" id="palTabAll" onclick="setPaletteFilter('all')">
+                        Tất cả (<span id="palCountAll">0</span>)
+                    </button>
+                    <button class="pal-tab-btn tab-flagged" id="palTabFlagged" onclick="setPaletteFilter('flagged')">
+                        ⭐ Phân vân (<span id="palCountFlagged">0</span>)
+                    </button>
+                    <button class="pal-tab-btn" id="palTabUnanswered" onclick="setPaletteFilter('unanswered')">
+                        Chưa làm (<span id="palCountUnanswered">0</span>)
+                    </button>
+                </div>
+            </div>
+            <div class="grid-map" id="gridMap"></div>
+        </div>
+
+        <!-- ====== MODAL: RESULT ====== -->
+        <div class="modal result-modal" id="modalResult"
+            style="display:none; align-items:center; justify-content:center; background: rgba(0,0,0,0.45);">
+            <div class="result-box">
+                <div class="result-title">📊 KẾT QUẢ BÀI THI</div>
+                <div class="res-score" id="resScore">0</div>
+                <div class="res-detail">
+                    <div class="res-item correct-item"><b id="resRight">0</b>Đúng</div>
+                    <div class="res-item wrong-item"><b id="resWrong">0</b>Sai</div>
+                    <div class="res-item skip-item"><b id="resSkip">0</b>Bỏ qua</div>
+                </div>
+                <div id="resTime" class="res-time">Tổng thời gian: 00:00</div>
+
+                <div class="result-actions">
+                    <button class="result-btn primary" onclick="closeResult()">👁 Xem lại</button>
+                    <button class="result-btn warning" onclick="resetExam()">🔄 Thi lại</button>
+                    <button class="result-btn muted" onclick="goBack()">Thoát</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/hihihaaaa.js"></script>
+    <script src="js/certificate.js"></script>
+    <script src="js/script.js?v=2.5"></script>
+    <script>
+        // KIỂM TRA ĐĂNG NHẬP
+        const userData = sessionStorage.getItem('current_user') || localStorage.getItem('current_user');
+        if (!userData) {
+            alert("Bạn cần phải đăng nhập để làm bài!");
+            window.location.href = "index.html";
+        }
+
+        const p = new URLSearchParams(window.location.search);
+        const fid = p.get('id');
+
+
+        if (fid) {
+            if (document.readyState === 'complete') {
+                loadExam(fid);
+            } else {
+                window.addEventListener('load', () => loadExam(fid));
+            }
+        } else {
+            alert("Lỗi mã đề!"); window.location.href = "index.html";
+        }
+        function goBack() { window.location.href = `product.html?id=${fid}`; }
+
+        function toggleAutoNextInExam() {
+            if (typeof isAutoNextEnabled !== 'undefined') {
+                isAutoNextEnabled = !isAutoNextEnabled;
+                const btn = document.getElementById('btnToggleAutoNext');
+                if (btn) {
+                    btn.innerHTML = isAutoNextEnabled ? '⚡ Auto Next: BẬT' : '⚡ Auto Next: TẮT';
+                    btn.style.background = isAutoNextEnabled ? '#ffd23f' : '#ffffff';
+                }
+                if (typeof showAutoNextStatus === 'function') showAutoNextStatus();
+            }
+        }
+
+        // --- SMART REVIEW FILTER ---
+        function closeResult() { 
+            document.getElementById('modalResult').style.display = 'none'; 
+            
+            if (typeof isSubmitted !== 'undefined' && isSubmitted) {
+                showReviewFilterBar();
+            }
+        }
+
+        function showReviewFilterBar() {
+            let filterBar = document.getElementById('reviewFilterBar');
+            if (!filterBar) {
+                filterBar = document.createElement('div');
+                filterBar.id = 'reviewFilterBar';
+                filterBar.style.cssText = `
+                    display: flex; gap: 8px; margin-bottom: 15px; padding: 10px;
+                    background: rgba(255, 255, 255, 0.9);
+                    background: #ffffff;
+                    border: 2.5px solid #141414;
+                    border-radius: 14px;
+                    justify-content: center; flex-wrap: wrap;
+                    box-shadow: 4px 4px 0 #141414;
+                    animation: fadeIn 0.3s;
+                `;
+                
+                const quizArea = document.getElementById('quizArea');
+                quizArea.insertBefore(filterBar, quizArea.firstChild);
+            }
+            
+            filterBar.style.display = 'flex';
+            filterBar.innerHTML = `
+                <button onclick="applyReviewFilter('all')" class="filter-btn" id="filter-all" style="background:#ffd23f; color:#141414; border:2px solid #141414; padding:6px 14px; border-radius:8px; cursor:pointer; font-weight:800; box-shadow:2px 2px 0 #141414;">Tất cả</button>
+                <button onclick="applyReviewFilter('wrong')" class="filter-btn" id="filter-wrong" style="background:#ff5277; color:white; border:2px solid #141414; padding:6px 14px; border-radius:8px; cursor:pointer; font-weight:800; opacity:0.6;">❌ Câu sai</button>
+                <button onclick="applyReviewFilter('skipped')" class="filter-btn" id="filter-skipped" style="background:#e2e8f0; color:#141414; border:2px solid #141414; padding:6px 14px; border-radius:8px; cursor:pointer; font-weight:800; opacity:0.6;">⚠️ Chưa làm</button>
+                <button onclick="applyReviewFilter('bookmarked')" class="filter-btn" id="filter-bookmarked" style="background:#ffd23f; color:#141414; border:2px solid #141414; padding:6px 14px; border-radius:8px; cursor:pointer; font-weight:800; opacity:0.6;">🚩 Đã ghim</button>
+            `;
+
+            setupReviewObserver();
+        }
+
+        function applyReviewFilter(type) {
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.style.opacity = '0.6'; btn.style.boxShadow = 'none';
+            });
+            
+            const activeBtn = document.getElementById('filter-' + type);
+            if (activeBtn) {
+                activeBtn.style.opacity = '1';
+                let color = 'rgba(99,110,114,0.3)';
+                if (type === 'all') color = 'rgba(9,132,227,0.3)';
+                if (type === 'wrong') color = 'rgba(225,112,85,0.3)';
+                if (type === 'bookmarked') color = 'rgba(241,196,15,0.5)';
+                activeBtn.style.boxShadow = '0 4px 6px ' + color;
+            }
+            
+            if (type === 'all') {
+                isReviewFilterMode = false;
+                isRetryMode = false;
+                filteredQuestions = [];
+            } else if (type === 'wrong') {
+                isReviewFilterMode = true;
+                isRetryMode = false;
+                filteredQuestions = allQuestions.filter(q => q.firstAttemptSelected !== null && !q.isCorrectFirstTime);
+                filteredQuestions.forEach((q, idx) => q.filteredIndex = idx);
+            } else if (type === 'skipped') {
+                isReviewFilterMode = true;
+                isRetryMode = false;
+                filteredQuestions = allQuestions.filter(q => q.firstAttemptSelected === null);
+                filteredQuestions.forEach((q, idx) => q.filteredIndex = idx);
+            } else if (type === 'bookmarked') {
+                isReviewFilterMode = true;
+                isRetryMode = false;
+                let bms = [];
+                if (typeof getBookmarks === 'function') {
+                    bms = getBookmarks();
+                } else {
+                    try {
+                        const raw = localStorage.getItem('bookmarks_' + currentFileName);
+                        const parsed = JSON.parse(raw);
+                        if (Array.isArray(parsed)) {
+                            bms = parsed.map(n => Number(n)).filter(n => !isNaN(n));
+                        } else if (typeof parsed === 'object' && parsed !== null) {
+                            for (let k in parsed) {
+                                if (parsed[k]) {
+                                    const num = parseInt(k.replace(/\D/g, ''), 10);
+                                    if (!isNaN(num)) bms.push(num >= 1 ? num - 1 : num);
+                                }
+                            }
+                        }
+                    } catch(e) {}
+                }
+                filteredQuestions = allQuestions.filter(q => bms.includes(Number(q.originalIndex !== undefined ? q.originalIndex : 0)));
+                filteredQuestions.forEach((q, idx) => q.filteredIndex = idx);
+            }
+            
+            currentIndex = 0;
+            if (typeof renderQuestion === 'function') {
+                if (isReviewFilterMode && filteredQuestions.length === 0) {
+                    document.getElementById('qText').innerHTML = '<div style="text-align:center; padding: 20px; font-weight:bold; color:#636e72">Không có câu hỏi nào trong mục này!</div>';
+                    document.getElementById('optionsArea').innerHTML = '';
+                    document.getElementById('qNumber').innerHTML = 'Lọc: 0 câu';
+                    document.getElementById('btnPrev').disabled = true;
+                    document.getElementById('btnNext').disabled = true;
+                } else {
+                    renderQuestion(0);
+                }
+            }
+        }
+
+        let obs = null;
+        function setupReviewObserver() {
+            if (obs) return;
+            const target = document.getElementById('qNumber');
+            obs = new MutationObserver(() => {
+                // Sửa chữ "Làm lại lần" thành "Chế độ xem lại"
+                if (typeof isSubmitted !== 'undefined' && isSubmitted && typeof isRetryMode !== 'undefined' && isRetryMode) {
+                    const el = document.getElementById('qNumber');
+                    if (el && el.innerHTML.includes('Làm lại lần')) {
+                        el.innerHTML = el.innerHTML.replace(/Làm lại lần \d+/, 'Lọc câu hỏi');
+                    }
+                }
+            });
+            if(target) obs.observe(target, { childList: true, subtree: true });
+        }
+
+        // Tối ưu hóa nhiệt và khởi chạy chế độ Mát máy
+        document.addEventListener('DOMContentLoaded', () => {
+            if (typeof initEcoMode === 'function') {
+                initEcoMode();
+            }
+        });
+
+        if ('serviceWorker' in navigator && window.location.protocol.startsWith('http')) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js').catch(() => {});
+            });
+        }
+    </script>
+
+</body>
+
+</html>
