@@ -165,6 +165,33 @@
             font-weight: 900;
         }
 
+        /* COURSE SWITCHER */
+        .course-switch-btn {
+            padding: 6px 14px;
+            background: #ffffff;
+            border: 2px solid var(--neo-black);
+            border-radius: var(--neo-radius-sm);
+            box-shadow: 2px 2px 0 var(--neo-black);
+            font-weight: 800;
+            font-size: 0.84rem;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .course-switch-btn:hover {
+            background: var(--neo-yellow-light);
+            transform: translate(-1px, -1px);
+        }
+
+        .course-switch-btn.active {
+            background: var(--neo-yellow) !important;
+            box-shadow: 3px 3px 0 var(--neo-black);
+            transform: translate(-1px, -1px);
+        }
+
         /* PROGRESS HEADER */
         .progress-header-section {
             background: #ffffff;
@@ -820,7 +847,7 @@
                 <a href="product.html" class="btn-nav-back" id="btnNavBack" title="Quay lại môn học">
                     <span>←</span> Quay lại
                 </a>
-                <div class="nav-page-title">
+                <div class="nav-page-title" id="tuluanPageTitle">
                     <span>📖</span> TỰ LUẬN: KTCQ
                 </div>
             </div>
@@ -830,7 +857,7 @@
                     <span class="theme-toggle-icon" id="themeTuluanIcon">🌱</span>
                     <span class="theme-toggle-text" id="themeTuluanText">Giảm màu mè</span>
                 </button>
-                <button type="button" class="btn-mobile-menu" onclick="window.openMobileDrawer()" aria-label="Mục lục 23 câu">
+                <button type="button" class="btn-mobile-menu" onclick="window.openMobileDrawer()" aria-label="Mục lục câu hỏi">
                     ☰
                 </button>
             </div>
@@ -840,15 +867,23 @@
     <!-- TIẾN ĐỘ ĐÃ ĐỌC RÙI & LỌC CHƯƠNG -->
     <section class="progress-header-section">
         <div class="progress-header-inner">
+            <!-- Course Switcher -->
+            <div class="course-switcher-bar" style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap; padding-bottom: 8px; border-bottom: 1.5px dashed #e2e8f0;">
+                <span style="font-weight: 900; font-size: 0.82rem; color: #475569;">CHỌN MÔN:</span>
+                <button type="button" class="course-switch-btn active" data-course="KTCQ" onclick="window.switchCourse('KTCQ')">
+                    🌿 Kiến Trúc Cảnh Quan (23 câu)
+                </button>
+                <button type="button" class="course-switch-btn" data-course="KCXDCB" onclick="window.switchCourse('KCXDCB')">
+                    🏗️ Kết Cấu Xây Dựng (27 câu)
+                </button>
+            </div>
+
             <div class="progress-top-row">
                 <div class="read-progress-label" id="readProgressText">
                     Đã đọc rùi: <b>0/23 câu</b> (0%)
                 </div>
-                <div class="chapter-pills-row">
-                    <button type="button" class="chapter-chip active" data-chapter="0" onclick="window.filterByChapter(0)">Tất cả (23)</button>
-                    <button type="button" class="chapter-chip" data-chapter="1" onclick="window.filterByChapter(1)">Chương 1 (12)</button>
-                    <button type="button" class="chapter-chip" data-chapter="2" onclick="window.filterByChapter(2)">Chương 2 (4)</button>
-                    <button type="button" class="chapter-chip" data-chapter="3" onclick="window.filterByChapter(3)">Chương 3 (7)</button>
+                <div class="chapter-pills-row" id="chapterChipsRow">
+                    <!-- Dynamically rendered by tuluan.js -->
                 </div>
             </div>
 
@@ -892,6 +927,13 @@
     <script src="js/api-config.js"></script>
     <script src="js/tuluan-data.js"></script>
     <script src="js/tuluan.js"></script>
+    <script>
+        if ('serviceWorker' in navigator && window.location.protocol.startsWith('http')) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js').catch(() => {});
+            });
+        }
+    </script>
 </body>
 
 </html>

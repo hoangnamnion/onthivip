@@ -130,9 +130,18 @@ const getTelegramChatId = () => atob(_T_CHAT_);
 // =====================================================
 // QUẢN LÝ THÔNG BÁO BẢN CẬP NHẬT MỚI & SNOOZE 2 TIẾNG
 // =====================================================
-const CURRENT_UPDATE_VERSION = 'v2.6_20261021';
+const CURRENT_UPDATE_VERSION = 'v2.7_20261024';
 
 function checkNewUpdateNotification() {
+    // Nếu có phiên bản cập nhật mới, tự động xóa snooze cũ để người dùng thấy thông báo mới
+    try {
+        const lastSeenVersion = localStorage.getItem('last_seen_update_version');
+        if (lastSeenVersion !== CURRENT_UPDATE_VERSION) {
+            localStorage.removeItem('snooze_update_until');
+            localStorage.setItem('last_seen_update_version', CURRENT_UPDATE_VERSION);
+        }
+    } catch (e) {}
+
     let snoozeUntil = 0;
     try {
         snoozeUntil = parseInt(localStorage.getItem('snooze_update_until') || '0', 10);

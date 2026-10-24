@@ -196,7 +196,7 @@
 
     <!-- Scripts lõi -->
     <script src="js/api-config.js"></script>
-    <script src="js/hihihaaaa.js"></script>
+    <script src="js/hihihaaaa.js?v=20261024_2"></script>
     <script>
         // Xóa cờ admin cũ nếu có
         localStorage.removeItem('neo_admin_logged');
@@ -317,20 +317,31 @@
                 }
             }
 
-            btn.innerHTML = `
-                ${badge}
-                <div class="card-icon-wrap" style="width: 50px; height: 50px; margin-bottom: 12px; background: var(--neo-yellow);">
-                    <img loading="lazy" src="anhnen/Booke.gif" style="width: 36px; height: 36px; object-fit: contain;">
+            const isTuluan = item.isTuluanOnly || item.file === 'KCXDCB';
+            const featureTags = isTuluan ? `
+                <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-bottom:18px;">
+                    <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">📝 27 Câu Tự Luận</span>
+                    <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">🏗️ Thép & BTCT</span>
+                    <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">💡 Đáp Án Chi Tiết</span>
                 </div>
-                <div style="font-family:'Fredoka','Plus Jakarta Sans',sans-serif; font-weight:900; font-size:1.3rem; color:var(--neo-black); margin-bottom: 6px;">${item.ten}</div>
-                <div style="font-size:0.86rem; color:#4b5563; font-weight:600; margin-bottom:14px;">${item.desc || 'Trắc nghiệm chuẩn 2026 • Chấm điểm tức thì'}</div>
-                
+            ` : `
                 <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-bottom:18px;">
                     <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">📝 ${item.questions || 100} Câu Hỏi</span>
                     <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">⏱️ 60 Phút</span>
                     <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">⚡ Tự Động Chấm</span>
                 </div>
+            `;
 
+            const actionButtons = isTuluan ? `
+                <div style="display: flex; gap: 8px; margin-top: auto; width: 100%;">
+                    <button class="btn-neo" onclick="event.stopPropagation(); window.location.href='tuluan.html?id=${item.file}&name=${encodeURIComponent(item.ten)}';" style="flex: 1; padding: 11px 8px; font-size: 0.9rem; background: #ffffff;">
+                        📖 ĐỀ CƯƠNG
+                    </button>
+                    <button class="btn-neo btn-yellow" onclick="event.stopPropagation(); window.location.href='tuluan.html?id=${item.file}&name=${encodeURIComponent(item.ten)}';" style="flex: 1.2; padding: 11px 8px; font-size: 0.9rem;">
+                        🚀 HỌC TỰ LUẬN
+                    </button>
+                </div>
+            ` : `
                 <div style="display: flex; gap: 8px; margin-top: auto; width: 100%;">
                     <button class="btn-neo" onclick="event.stopPropagation(); window.location.href='ontap.html?id=${item.file || 'KTCQ'}&name=${encodeURIComponent(item.ten)}';" style="flex: 1; padding: 11px 8px; font-size: 0.9rem; background: #ffffff;">
                         📖 ÔN TẬP
@@ -341,8 +352,24 @@
                 </div>
             `;
 
+            btn.innerHTML = `
+                ${badge}
+                <div class="card-icon-wrap" style="width: 50px; height: 50px; margin-bottom: 12px; background: var(--neo-yellow);">
+                    <img loading="lazy" src="anhnen/Booke.gif" style="width: 36px; height: 36px; object-fit: contain;">
+                </div>
+                <div style="font-family:'Fredoka','Plus Jakarta Sans',sans-serif; font-weight:900; font-size:1.3rem; color:var(--neo-black); margin-bottom: 6px;">${item.ten}</div>
+                <div style="font-size:0.86rem; color:#4b5563; font-weight:600; margin-bottom:14px;">${item.desc || 'Trắc nghiệm chuẩn 2026 • Chấm điểm tức thì'}</div>
+                
+                ${featureTags}
+                ${actionButtons}
+            `;
+
             btn.onclick = () => {
-                window.location.href = `product.html?id=${item.file || 'KTCQ'}&name=${encodeURIComponent(item.ten)}`;
+                if (isTuluan) {
+                    window.location.href = `tuluan.html?id=${item.file}&name=${encodeURIComponent(item.ten)}`;
+                } else {
+                    window.location.href = `product.html?id=${item.file || 'KTCQ'}&name=${encodeURIComponent(item.ten)}`;
+                }
             };
 
             return btn;
@@ -427,7 +454,9 @@
         // 4. Offline Service Worker Registration
         if ('serviceWorker' in navigator && window.location.protocol.startsWith('http')) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('./sw.js').catch(() => { });
+                navigator.serviceWorker.register('./sw.js').then(reg => {
+                    reg.update();
+                }).catch(() => { });
             });
         }
     </script>
@@ -438,49 +467,49 @@
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; border-bottom: 2.5px solid var(--neo-black); padding-bottom: 10px;">
                 <div id="updateModalTitle" style="font-family: 'Fredoka', sans-serif; font-size: 1.25rem; font-weight: 800; display: flex; align-items: center; gap: 8px; color: var(--neo-black);">
                     <span style="font-size: 1.35rem;">🎉</span> BẢN CẬP NHẬT MỚI
-                    <span style="background: #10b981; color: #fff; font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; font-weight: 900; margin-left: 2px;">v2.6</span>
+                    <span style="background: #10b981; color: #fff; font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; font-weight: 900; margin-left: 2px;">v2.7</span>
                 </div>
                 <button type="button" onclick="closeUpdateModal()" style="border: 2px solid var(--neo-black); background: var(--neo-pink); color: #fff; width: 32px; height: 32px; border-radius: 8px; font-weight: 900; cursor: pointer; box-shadow: 2px 2px 0 var(--neo-black); font-size: 1rem; line-height: 1;" title="Đóng">✕</button>
             </div>
 
             <div style="max-height: 380px; overflow-y: auto; padding-right: 4px; margin-bottom: 18px; display: flex; flex-direction: column; gap: 10px;">
-                <!-- Feature 1 -->
+                <!-- Feature 1: Xáo trộn đề KTCQ -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>📝</span> Module Học Tự Luận Thông Minh
+                        <span>🔀</span> Xáo Trộn Đề Kiến Trúc Cảnh Quan (KTCQ)
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Trọn bộ 23 câu tự luận Kiến Trúc Cảnh Quan với 4 chế độ: Xương sống luận điểm, Giấu chữ Active Recall, Tự gõ đối chiếu dàn ý & Đánh dấu câu trọng tâm.
+                        Toàn bộ 100 câu hỏi và 4 phương án A, B, C, D đã được xáo trộn ngẫu nhiên hoàn toàn. Giúp các bạn ôn luyện phản xạ chắc chắn, chống học vẹt vị trí đáp án trước kỳ thi!
                     </div>
                 </div>
 
-                <!-- Feature 2 -->
+                <!-- Feature 2: Bổ sung môn Kết cấu xây dựng cơ bản KCXDCB -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #047857; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🌱</span> Theme Giảm Màu Mè (Tập Trung Ôn)
+                        <span>🏗️</span> Thêm Môn Kết Cấu Xây Dựng Cơ Bản (KCXDCB)
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        1 chạm chuyển toàn bộ website sang giao diện dịu mắt, chống chói, ẩn bớt hiệu ứng để tập trung ôn thi tối đa không mỏi mắt.
+                        Bổ sung 27 câu tự luận trọng tâm kèm đầy đủ công thức, bảng tra cứu và 5 sơ đồ kỹ thuật chi tiết (Phần 1: Kết cấu Thép 15 câu, Phần 2: Bê tông cốt thép 12 câu).
                     </div>
                 </div>
 
-                <!-- Feature 3 -->
+                <!-- Feature 3: Giao diện học tự luận 120 FPS -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #0369a1; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>⚡</span> Tăng Tốc Auto Next x2
+                        <span>📝</span> Học Tự Luận 120 FPS & "Đã Đọc Rùi"
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Tự động chuyển câu nhanh gấp đôi (0.6s) khi làm đúng; giữ nguyên tốc độ khi làm sai để người học kịp xem lại giải thích.
+                        Mỗi trang 1 câu siêu mượt mà không lag, chuyển đổi nhanh giữa KTCQ và KCXDCB, ghi nhớ độc lập tiến độ "Đã đọc rùi" trên thiết bị.
                     </div>
                 </div>
 
-                <!-- Feature 4 -->
+                <!-- Feature 4: Theme giảm màu mè -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #6d28d9; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🚀</span> Hiệu Năng 120 FPS & SafeStorage
+                        <span>🌱</span> Theme Giảm Màu Mè & Tối Ưu Tốc Độ
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Tải trang mượt mà 120 FPS, tối ưu bộ nhớ và bảo toàn tiến độ làm bài an toàn trong cả chế độ ẩn danh (Incognito).
+                        Chuyển đổi giao diện ôn tập dịu mắt chống chói khi học đêm, hỗ trợ phím tắt chuyển câu và lưu tiến độ an toàn.
                     </div>
                 </div>
             </div>

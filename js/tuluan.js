@@ -1,5 +1,6 @@
 /**
  * Logic học Tự Luận - Mỗi trang 1 câu (Single-Question View)
+ * Đa môn học: KTCQ (23 câu) & KCXDCB (27 câu)
  * Tối ưu hiệu năng 120 FPS không giật lag, hỗ trợ đánh dấu "Đã đọc rùi".
  */
 
@@ -7,13 +8,12 @@
     'use strict';
 
     // State
+    let activeCourseId = 'KTCQ';
+    let currentCourse = null;
     let currentIndex = 0; // 0 to questions.length - 1
     let questions = [];
-    let readQuestions = new Set(); // Set of question IDs marked as "Đã đọc rùi"
+    let readQuestions = new Set();
     let answerHidden = false;
-
-    // LocalStorage Key
-    const STORAGE_KEY_READ = 'tuluan_read_questions_v2';
 
     // Helper: Bỏ dấu tiếng Việt
     function removeVietnameseTones(str) {
@@ -32,51 +32,98 @@
     }
 
     function init() {
-        if (!window.TULUAN_DATA || !Array.isArray(window.TULUAN_DATA.questions)) {
-            console.error('Không tìm thấy dữ liệu TULUAN_DATA!');
+        const courses = window.TULUAN_COURSES || (window.TULUAN_DATA ? { 'KTCQ': window.TULUAN_DATA } : null);
+        if (!courses) {
+            console.error('Không tìm thấy dữ liệu TULUAN_COURSES!');
             return;
         }
 
-        questions = window.TULUAN_DATA.questions;
-
-        // Load danh sách câu "Đã đọc rùi" từ localStorage
-        loadReadStatus();
-
-        // Xử lý query param ?q= hoặc vị trí câu đã lưu
+        // 1. Xác định môn học đang chọn
         const params = new URLSearchParams(window.location.search);
-        const qParam = parseInt(params.get('q'), 10);
-        if (!isNaN(qParam) && qParam >= 1 && qParam <= questions.length) {
-            currentIndex = qParam - 1;
+        const urlId = params.get('id');
+
+        if (urlId && courses[urlId.toUpperCase()]) {
+            activeCourseId = urlId.toUpperCase();
         } else {
-            // Mở câu chưa đọc đầu tiên hoặc câu gần nhất
-            const lastSavedIndex = parseInt(localStorage.getItem('tuluan_last_viewed_q') || '0', 10);
-            if (!isNaN(lastSavedIndex) && lastSavedIndex >= 0 && lastSavedIndex < questions.length) {
-                currentIndex = lastSavedIndex;
+            const savedCourse = localStorage.getItem('tuluan_last_active_course');
+            if (savedCourse && courses[savedCourse]) {
+                activeCourseId = savedCourse;
+            } else {
+                activeCourseId = 'KTCQ';
             }
         }
 
+        setCourse(activeCourseId, false);
+        setupKeyboardNav();
+    }
+
+    function setCourse(courseId, resetIndex = true) {
+        const courses = window.TULUAN_COURSES;
+        if (!courses || !courses[courseId]) return;
+
+        activeCourseId = courseId;
+        currentCourse = courses[courseId];
+        questions = currentCourse.questions || [];
+
+        localStorage.setItem('tuluan_last_active_course', activeCourseId);
+
+        // Load danh sách "Đã đọc rùi" của môn này
+        loadReadStatus();
+
+        if (resetIndex) {
+            currentIndex = 0;
+        } else {
+            const params = new URLSearchParams(window.location.search);
+            const qParam = parseInt(params.get('q'), 10);
+            if (!isNaN(qParam) && qParam >= 1 && qParam <= questions.length) {
+                currentIndex = qParam - 1;
+            } else {
+                const lastSavedIndex = parseInt(localStorage.getItem(`tuluan_last_q_${activeCourseId}`) || '0', 10);
+                if (!isNaN(lastSavedIndex) && lastSavedIndex >= 0 && lastSavedIndex < questions.length) {
+                    currentIndex = lastSavedIndex;
+                } else {
+                    currentIndex = 0;
+                }
+            }
+        }
+
+        updateCourseUI();
         setupBackButton();
         renderProgress();
+        renderChapterChips();
         renderNavGrid();
         renderCurrentQuestion();
-        setupKeyboardNav();
+    }
+
+    function updateCourseUI() {
+        const titleEl = document.getElementById('tuluanPageTitle');
+        if (titleEl && currentCourse) {
+            titleEl.innerHTML = `<span>${currentCourse.icon || '📖'}</span> TỰ LUẬN: ${currentCourse.shortName || currentCourse.id}`;
+        }
+
+        // Active state trên Course Switcher Pills
+        const courseBtns = document.querySelectorAll('.course-switch-btn');
+        courseBtns.forEach(btn => {
+            if (btn.getAttribute('data-course') === activeCourseId) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
     }
 
     function setupBackButton() {
         const btnBack = document.getElementById('btnNavBack');
-        if (!btnBack) return;
+        if (!btnBack || !currentCourse) return;
 
-        const params = new URLSearchParams(window.location.search);
-        const courseId = params.get('id') || 'KTCQ';
-        const courseName = params.get('name') || 'Kiến Trúc Cảnh Quan';
-
-        btnBack.href = `product.html?id=${courseId}&name=${encodeURIComponent(courseName)}`;
+        btnBack.href = `product.html?id=${currentCourse.id}&name=${encodeURIComponent(currentCourse.name)}`;
     }
 
     // Load & Save Read Status
     function loadReadStatus() {
+        readQuestions = new Set();
         try {
-            const raw = localStorage.getItem(STORAGE_KEY_READ);
+            const raw = localStorage.getItem(`tuluan_read_questions_v2_${activeCourseId}`);
             if (raw) {
                 const arr = JSON.parse(raw);
                 if (Array.isArray(arr)) {
@@ -90,15 +137,35 @@
 
     function saveReadStatus() {
         try {
-            localStorage.setItem(STORAGE_KEY_READ, JSON.stringify(Array.from(readQuestions)));
+            localStorage.setItem(`tuluan_read_questions_v2_${activeCourseId}`, JSON.stringify(Array.from(readQuestions)));
         } catch (e) {}
+    }
+
+    // Render Chapter Filter Chips động theo môn
+    function renderChapterChips() {
+        const container = document.getElementById('chapterChipsRow');
+        if (!container || !currentCourse) return;
+
+        let html = `<button type="button" class="chapter-chip active" data-chapter="0" onclick="window.filterByChapter(0)">Tất cả (${questions.length})</button>`;
+
+        if (Array.isArray(currentCourse.chapters)) {
+            currentCourse.chapters.forEach(ch => {
+                html += `
+                    <button type="button" class="chapter-chip" data-chapter="${ch.id}" onclick="window.filterByChapter(${ch.id})">
+                        ${escapeHtml(ch.title.split(':')[0] || ch.title)} (${ch.count})
+                    </button>
+                `;
+            });
+        }
+
+        container.innerHTML = html;
     }
 
     // Render thanh tiến độ "Đã đọc rùi"
     function renderProgress() {
         const count = readQuestions.size;
         const total = questions.length;
-        const percent = Math.round((count / total) * 100);
+        const percent = total > 0 ? Math.round((count / total) * 100) : 0;
 
         const countText = document.getElementById('readProgressText');
         const fillBar = document.getElementById('readProgressFill');
@@ -130,9 +197,11 @@
             if (isCurrent) classes.push('current');
             if (isRead) classes.push('is-read');
 
+            const label = q.qCode ? q.qCode.replace('Câu ', '') : (q.id < 10 ? '0' + q.id : q.id);
+
             html += `
-                <button type="button" class="${classes.join(' ')}" onclick="window.goToQuestion(${idx})" title="Câu ${q.id}: ${escapeHtml(q.title)}">
-                    <span class="q-pill-num">${q.id < 10 ? '0' + q.id : q.id}</span>
+                <button type="button" class="${classes.join(' ')}" onclick="window.goToQuestion(${idx})" title="${q.qCode || 'Câu ' + q.id}: ${escapeHtml(q.title)}">
+                    <span class="q-pill-num">${label}</span>
                     ${isRead ? '<span class="q-pill-check">✓</span>' : ''}
                 </button>
             `;
@@ -142,7 +211,7 @@
         if (drawerGrid) drawerGrid.innerHTML = html;
     }
 
-    // Render câu hỏi hiện tại (chỉ 1 câu trên trang -> mượt mà 120 FPS không lag)
+    // Render câu hỏi hiện tại (1 câu duy nhất)
     function renderCurrentQuestion() {
         const stage = document.getElementById('singleQuestionStage');
         if (!stage) return;
@@ -150,19 +219,19 @@
         const q = questions[currentIndex];
         if (!q) return;
 
-        // Lưu câu vừa xem
-        localStorage.setItem('tuluan_last_viewed_q', currentIndex.toString());
+        localStorage.setItem(`tuluan_last_q_${activeCourseId}`, currentIndex.toString());
 
         const isRead = readQuestions.has(q.id);
-        const qNumFormatted = q.id < 10 ? '0' + q.id : q.id;
+        const qCodeLabel = q.qCode || `CÂU ${q.id < 10 ? '0' + q.id : q.id}`;
+        const chapterLabel = q.chapterTitle ? q.chapterTitle.split('–')[0].split(':')[0] : `Chương ${q.chapterId}`;
 
         stage.innerHTML = `
             <article class="tuluan-card" id="currentCard">
                 <!-- Card Header -->
                 <div class="card-meta-header">
                     <div class="card-pill-group">
-                        <span class="pill-qnum">CÂU ${qNumFormatted} / ${questions.length}</span>
-                        <span class="pill-chapter">${escapeHtml(q.chapterTitle.split('.')[0])}</span>
+                        <span class="pill-qnum">${escapeHtml(qCodeLabel)} (${currentIndex + 1}/${questions.length})</span>
+                        <span class="pill-chapter">${escapeHtml(chapterLabel)}</span>
                         <span class="pill-tag">${escapeHtml(q.title)}</span>
                     </div>
 
@@ -217,7 +286,7 @@
         renderNavGrid();
         renderProgress();
 
-        // Cuộn nhẹ lên đầu trang bài học
+        // Cuộn nhẹ lên đầu nội dung
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
@@ -251,10 +320,10 @@
         const isCurrentlyRead = readQuestions.has(q.id);
         if (isCurrentlyRead) {
             readQuestions.delete(q.id);
-            showToast(`↩ Đã bỏ đánh dấu Câu ${q.id}!`);
+            showToast(`↩ Đã bỏ đánh dấu ${q.qCode || 'Câu ' + q.id}!`);
         } else {
             readQuestions.add(q.id);
-            showToast(`🎉 Đã điền: Câu ${q.id} đã đọc rùi!`);
+            showToast(`🎉 Đã điền: ${q.qCode || 'Câu ' + q.id} đã đọc rùi!`);
         }
 
         saveReadStatus();
@@ -286,10 +355,10 @@
         const q = questions[currentIndex];
         if (!q) return;
 
-        const textToCopy = `【CÂU ${q.id}: ${q.title}】\n\n❓ CÂU HỎI:\n${q.question}\n\n💡 ĐÁP ÁN:\n${q.plainAnswer}\n\n(Nguồn: Đề Cương Tự Luận KTCQ VIP 2026)`;
+        const textToCopy = `【${q.qCode || 'CÂU ' + q.id}: ${q.title}】\n\n❓ CÂU HỎI:\n${q.question}\n\n💡 ĐÁP ÁN:\n${q.plainAnswer}\n\n(Nguồn: Đề Cương Tự Luận ${currentCourse.shortName} VIP 2026)`;
 
         navigator.clipboard.writeText(textToCopy).then(() => {
-            showToast(`📋 Đã sao chép Câu ${q.id} vào bộ nhớ tạm!`);
+            showToast(`📋 Đã sao chép ${q.qCode || 'Câu ' + q.id} vào clipboard!`);
         }).catch(() => {
             const ta = document.createElement('textarea');
             ta.value = textToCopy;
@@ -297,11 +366,24 @@
             ta.select();
             document.execCommand('copy');
             document.body.removeChild(ta);
-            showToast(`📋 Đã sao chép Câu ${q.id}!`);
+            showToast(`📋 Đã sao chép!`);
         });
     };
 
-    // Chuyển theo chương
+    // Đổi môn học trực tiếp
+    window.switchCourse = function (courseId) {
+        if (courseId === activeCourseId) return;
+
+        const url = new URL(window.location.href);
+        url.searchParams.set('id', courseId);
+        url.searchParams.delete('q');
+        window.history.replaceState({}, '', url.toString());
+
+        setCourse(courseId, true);
+        showToast(`📚 Đã chuyển sang môn: ${currentCourse.name}`);
+    };
+
+    // Lọc theo chương
     window.filterByChapter = function (chapterId) {
         const chips = document.querySelectorAll('.chapter-chip');
         chips.forEach(c => {
@@ -317,14 +399,13 @@
             return;
         }
 
-        // Tìm câu đầu tiên của chương
         const targetIdx = questions.findIndex(q => q.chapterId === chapterId);
         if (targetIdx !== -1) {
             window.goToQuestion(targetIdx);
         }
     };
 
-    // Điều hướng bằng phím mũi tên
+    // Phím tắt bàn phím
     function setupKeyboardNav() {
         window.addEventListener('keydown', (e) => {
             if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) {
@@ -335,7 +416,6 @@
             } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
                 window.prevQuestion();
             } else if (e.key === ' ' || e.key.toLowerCase() === 'd') {
-                // Phím Space hoặc D: toggle đã đọc rùi
                 window.toggleReadCurrent();
                 e.preventDefault();
             }
@@ -363,7 +443,6 @@
         }
     };
 
-    // Toast
     function showToast(message) {
         let toast = document.getElementById('tuluanGlobalToast');
         if (!toast) {

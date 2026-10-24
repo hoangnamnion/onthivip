@@ -6,13 +6,14 @@
  * =========================================================================
  */
 
-const CACHE_NAME = 'neo-dethi-cache-v1.2.1';
+const CACHE_NAME = 'neo-dethi-cache-v1.6.0';
 
 const PRECACHE_MANIFEST = [
   './',
   './index.html',
   './product.html',
   './thi.html',
+  './tuluan.html',
   './ontap.html',
   './onsai.html',
   './flashcard.html',
@@ -21,12 +22,19 @@ const PRECACHE_MANIFEST = [
   './js/api-config.js',
   './js/hihihaaaa.js',
   './js/script.js',
+  './js/tuluan.js',
+  './js/tuluan-data.js',
   './js/review.js',
   './js/flashcard.js',
   './js/fps120.js',
   './js/certificate.js',
   './filethi/KTCQ.txt',
-  './filethi/NLQH.txt'
+  './filethi/NLQH.txt',
+  './img/kcxdcb/9162b2edeaa0ecbf7e14f5613eb2f45b517726be.png',
+  './img/kcxdcb/e58ab7a6c371906d2adf85702ec75dd4674c7316.png',
+  './img/kcxdcb/1bb7388ff0284f35bef7d3bcf91a92b274a25087.png',
+  './img/kcxdcb/efb0cbd9aa9e672e533fac5581319c3f0a65b991.png',
+  './img/kcxdcb/6e37f3300b3ce76767735ece39b67468656878af.png'
 ];
 
 self.addEventListener('install', (event) => {
@@ -79,6 +87,23 @@ self.addEventListener('fetch', (event) => {
 
         return cachedResponse || fetchPromise;
       })
+    );
+    return;
+  }
+
+  // Network-First for dynamic config/manifests (hihihaaaa.js, api-config.js)
+  const reqUrl = req.url || '';
+  if (reqUrl.includes('hihihaaaa.js') || reqUrl.includes('api-config.js')) {
+    event.respondWith(
+      fetch(req)
+        .then((networkRes) => {
+          if (networkRes && networkRes.status === 200) {
+            const cloned = networkRes.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(req, cloned));
+          }
+          return networkRes;
+        })
+        .catch(() => caches.match(req))
     );
     return;
   }
