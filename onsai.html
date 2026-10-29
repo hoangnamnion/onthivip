@@ -371,12 +371,12 @@ function init() {
 // 2. PARSE TXT → mảng câu hỏi
 // ============================================================
 function parseTxt(text) {
-    text = text.replace(/(\s+)(\*?[A-D]\.)/g, '\n$2');
+    text = text.replace(/(\s+)(\*?[A-F]\.)/gi, '\n$2');
     const lines = text.split('\n');
     const questions = [];
     let cur = null;
     const qReg = /^(Câu\s+\d+|Bài\s+\d+|Question\s+\d+)/i;
-    const optReg = /^(\*)?([A-D])\./;
+    const optReg = /^(\*)?([A-F])\./i;
 
     lines.forEach(line => {
         line = line.trim();
@@ -385,7 +385,7 @@ function parseTxt(text) {
             if (cur) questions.push(cur);
             cur = { text: line, options: [] };
         } else if (optReg.test(line) && cur) {
-            cur.options.push({ text: line.replace(/^\*?[A-D]\.\s*/i, '').trim(), isCorrect: line.startsWith('*') });
+            cur.options.push({ text: line.replace(/^\*?[A-F]\.\s*/i, '').trim(), isCorrect: line.startsWith('*') });
         } else if (cur && cur.options.length === 0) {
             cur.text += ' ' + line;
         }

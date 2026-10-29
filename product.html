@@ -567,49 +567,60 @@
 
     <!-- MODAL THÔNG BÁO BẢN CẬP NHẬT MỚI (UPDATE MODAL) -->
     <div class="neo-modal-overlay" id="updateModal" style="display: none;" onclick="if(event.target===this) closeUpdateModal()">
-        <div class="neo-modal-card update-modal-card" role="dialog" aria-modal="true" aria-labelledby="updateModalTitle" style="max-width: 480px; text-align: left; padding: 22px;">
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; border-bottom: 2.5px solid var(--neo-black); padding-bottom: 10px;">
-                <div id="updateModalTitle" style="font-family: 'Fredoka', sans-serif; font-size: 1.25rem; font-weight: 800; display: flex; align-items: center; gap: 8px; color: var(--neo-black);">
-                    <span style="font-size: 1.35rem;">🎉</span> BẢN CẬP NHẬT MỚI
-                    <span style="background: #10b981; color: #fff; font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; font-weight: 900; margin-left: 2px;">v2.9</span>
+        <div class="neo-modal-card update-modal-card" role="dialog" aria-modal="true" aria-labelledby="updateModalTitle">
+            <div class="update-modal-head">
+                <div id="updateModalTitle" class="update-modal-title">
+                    <span style="font-size: 1.35rem; line-height: 1;">🎉</span>
+                    <span class="update-modal-title-text">BẢN CẬP NHẬT MỚI</span>
+                    <span class="update-modal-ver-badge">v3.0</span>
                 </div>
-                <button type="button" onclick="closeUpdateModal()" style="border: 2px solid var(--neo-black); background: var(--neo-pink); color: #fff; width: 32px; height: 32px; border-radius: 8px; font-weight: 900; cursor: pointer; box-shadow: 2px 2px 0 var(--neo-black); font-size: 1rem; line-height: 1;" title="Đóng">✕</button>
+                <button type="button" onclick="closeUpdateModal()" class="update-modal-close-btn" title="Đóng">✕</button>
             </div>
 
-            <div style="max-height: 380px; overflow-y: auto; padding-right: 4px; margin-bottom: 18px; display: flex; flex-direction: column; gap: 10px;">
-                <!-- Feature 1: Chuyên đề trọng tâm NLQH -->
+            <div class="update-modal-body">
+                <!-- Feature 1: Đào trọn bộ tài nguyên Tùng Marketing -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #0284c7; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>📘</span> Chuyên Đề Trọng Tâm: Nguyên Lý Quy Hoạch (NLQH)
+                        <span>🚀</span> Kho Đề Thi Siêu Cấp: 30 Bộ Đề & 9.000+ Câu Hỏi
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Tập trung toàn diện cho môn Nguyên Lý Quy Hoạch (NLQH) với đầy đủ 113 câu trắc nghiệm cốt lõi và 14 câu tự luận đề cương chuẩn thi.
+                        Đã tích hợp toàn bộ ngân hàng câu hỏi chuẩn từ tungmarketing.id.vn: 30 môn học hoàn chỉnh (UTT, ULSA, PTIT...) sẵn sàng thi và ôn tập 100% offline.
                     </div>
                 </div>
 
-                <!-- Feature 2: Tự luận & bảng tra cứu đô thị -->
+                <!-- Feature 2: Kho Drive & Azota 51+ môn học -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #047857; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>📝</span> Tự Luận 14 Câu & Bảng Tra Cứu Tiêu Chuẩn Đô Thị
+                        <span>📁</span> Tích Hợp Kho Drive & Đề Thi Azota (51+ Môn)
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Trọn bộ 14 câu tự luận mẫu chi tiết kèm bảng tra cứu tiêu chuẩn phân loại đô thị (Loại V, IV, III, II, I, Đặc biệt) chuẩn chỉnh theo bài giảng.
+                        Tab mới "Kho Drive & Azota" tra cứu và truy cập trực tiếp toàn bộ thư mục Google Drive, tài liệu đề cương PDF và link thi thử Azota của hơn 51 môn học.
                     </div>
                 </div>
 
-                <!-- Feature 3: Giao diện học tự luận 120 FPS & Đầy đủ chế độ -->
+                <!-- Feature 3: Bộ lọc trường đại học & môn học -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>⚡</span> Đầy Đủ 4 Chế Độ Học & Tự Luận 120 FPS
+                        <span>🏷️</span> Phân Loại Theo Trường: UTT, ULSA, PTIT, Đại Cương
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Dù đang làm dở hay thi mới, các chế độ Ôn Tập, Flashcard, Học Tự Luận và Ôn Sai luôn sẵn sàng ngay bên dưới để bạn luyện tập linh hoạt.
+                        Nhanh chóng chuyển đổi giữa các trường và tìm kiếm môn thi thần tốc ngay trên thanh công cụ neo-brutalism.
                     </div>
                 </div>
 
-                <!-- Feature 4: Theme giảm màu mè -->
+                <!-- Feature 4: Chuyên đề NLQH & Tự luận -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #6d28d9; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>📘</span> Nguyên Lý Quy Hoạch (NLQH) & Tự Luận 14 Câu
+                    </div>
+                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
+                        Đầy đủ 113 câu trắc nghiệm và 14 câu tự luận kèm bảng tra cứu tiêu chuẩn đô thị và chế độ học 120 FPS.
+                    </div>
+                </div>
+
+                <!-- Feature 5: Theme giảm màu mè -->
+                <div class="update-item-card">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #059669; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
                         <span>🌱</span> Theme Giảm Màu Mè & Tối Ưu Tốc Độ
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
@@ -619,7 +630,7 @@
             </div>
 
             <!-- Actions -->
-            <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+            <div class="update-modal-actions">
                 <button type="button" class="btn-neo btn-yellow" onclick="closeUpdateModal()" style="flex: 1.2; min-width: 140px; padding: 11px 14px; font-size: 0.92rem; font-weight: 900; justify-content: center;">
                     🚀 Trải nghiệm ngay
                 </button>

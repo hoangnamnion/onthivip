@@ -6,7 +6,7 @@
  * =========================================================================
  */
 
-const CACHE_NAME = 'neo-dethi-cache-v1.8.0';
+const CACHE_NAME = 'neo-dethi-cache-v3.0.0';
 
 const PRECACHE_MANIFEST = [
   './',
@@ -19,6 +19,9 @@ const PRECACHE_MANIFEST = [
   './flashcard.html',
   './css/style.css',
   './css/thi-premium.css',
+  './img/logo-utt.png',
+  './img/logo-ptit.png',
+  './img/logo-ulsa.png',
   './js/api-config.js',
   './js/hihihaaaa.js',
   './js/script.js',
@@ -28,13 +31,36 @@ const PRECACHE_MANIFEST = [
   './js/flashcard.js',
   './js/fps120.js',
   './js/certificate.js',
-  './filethi/KTCQ.txt',
   './filethi/NLQH.txt',
-  './img/kcxdcb/9162b2edeaa0ecbf7e14f5613eb2f45b517726be.png',
-  './img/kcxdcb/e58ab7a6c371906d2adf85702ec75dd4674c7316.png',
-  './img/kcxdcb/1bb7388ff0284f35bef7d3bcf91a92b274a25087.png',
-  './img/kcxdcb/efb0cbd9aa9e672e533fac5581319c3f0a65b991.png',
-  './img/kcxdcb/6e37f3300b3ce76767735ece39b67468656878af.png'
+  './filethi/chu-nghia-xa-hoi-khoa-hoc-k76-utt.txt',
+  './filethi/chu-nghia-xa-hoi-khoa-hoc-utt.txt',
+  './filethi/dclg-qlccc-k76-utt.txt',
+  './filethi/dia-ly-van-tai-utt.txt',
+  './filethi/hoc-phan-1-quan-su-utt.txt',
+  './filethi/hoc-phan-2-quan-su-utt.txt',
+  './filethi/ke-toan-quan-tri-k76-utt.txt',
+  './filethi/khoa-hoc-quan-ly-utt.txt',
+  './filethi/kinh-te-chinh-tri-k76-utt.txt',
+  './filethi/kinh-te-hoc.txt',
+  './filethi/kinh-te-vi-mo-ulsa.txt',
+  './filethi/lich-su-dang-utt.txt',
+  './filethi/lsvm-the-gioi-utt.txt',
+  './filethi/marketing-can-ban-ulsa.txt',
+  './filethi/na-tath-ulsa.txt',
+  './filethi/nguyen-li-thong-ke-utt.txt',
+  './filethi/phap-luat-dai-cuong-k76-utt.txt',
+  './filethi/phap-luat-dai-cuong-utt.txt',
+  './filethi/phap-luat-kinh-te-utt.txt',
+  './filethi/quan-tri-hoc-ulsa.txt',
+  './filethi/tai-chinh-tien-te-utt.txt',
+  './filethi/tcbm-ptcv-ulsa.txt',
+  './filethi/thuong-mai-dien-tu-utt.txt',
+  './filethi/tien-te-ngan-hang-k76-utt.txt',
+  './filethi/tin-hoc-co-ban-utt.txt',
+  './filethi/triet-hoc-ptit.txt',
+  './filethi/triet-hoc-ulsa.txt',
+  './filethi/tu-tuong-hcm-utt.txt',
+  './filethi/van-hoa-doanh-nghiep-ulsa.txt'
 ];
 
 self.addEventListener('install', (event) => {

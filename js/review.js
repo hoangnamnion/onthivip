@@ -87,14 +87,14 @@ function toggleAnswers() {
 }
 
 function parseAndRenderList(text) {
-    text = text.replace(/(\s+)(\*?[A-D]\.)/g, "\n$2");
+    text = text.replace(/(\s+)(\*?[A-F]\.)/gi, "\n$2");
     const lines = text.split('\n');
     let currentQ = null;
     let idx = 1;
     const container = document.getElementById('listContent');
     const fragment = document.createDocumentFragment();
     const qStartRegex = /^(Câu\s+\d+|Bài\s+\d+|Question\s+\d+)/i;
-    const optRegex = /^(\*)?([A-D])\./; 
+    const optRegex = /^(\*)?([A-F])\./i; 
     const sectionRegex = /^(Phần|Chương)\s+\d+/i;
 
     // Tải bookmarks theo chuẩn Contract 1 (mảng số nguyên index 0-based)

@@ -326,12 +326,12 @@ function shuffleOptions() {
 }
 
 function parseData(text) {
-    text = text.replace(/(\s+)(\*?[A-D]\.)/g, "\n$2");
+    text = text.replace(/(\s+)(\*?[A-F]\.)/gi, "\n$2");
     const lines = text.split('\n');
     let currentQ = null;
     allQuestions = [];
     const qStartRegex = /^(Câu\s+\d+|Bài\s+\d+|Question\s+\d+)/i;
-    const optRegex = /^(\*)?([A-D])\./;
+    const optRegex = /^(\*)?([A-F])\./i;
 
     lines.forEach(line => {
         line = line.trim();
@@ -350,7 +350,7 @@ function parseData(text) {
             };
         } else if (optRegex.test(line) && currentQ) {
             let isCorrect = line.startsWith('*');
-            const textWithoutLabel = line.replace(/^(\*)?[A-D]\.\s*/, '').trim();
+            const textWithoutLabel = line.replace(/^(\*)?[A-F]\.\s*/i, '').trim();
             currentQ.options.push({
                 text: textWithoutLabel,
                 isCorrect: isCorrect
@@ -705,7 +705,7 @@ function renderQuestion(index) {
         const optionText = opt.text;
         let displayText = optionText;
 
-        const match = optionText.match(/^([A-D])\.\s*(.*)/);
+        const match = optionText.match(/^([A-F])\.\s*(.*)/i);
 
         if (match) {
             const label = match[1];

@@ -1,0 +1,303 @@
+Câu 1. Điều nào sau đây không phải là lợi thế của trang mạng thương mại điện tử?
+A. Khả năng tiếp cận khách hàng toàn cầu, không bị giới hạn bởi vị trí địa lý.
+B. Tăng tốc độ giao dịch và giảm chi phí vận hành so với mô hình kinh doanh truyền thống.
+*C. Không cần bất kỳ chính sách bảo mật nào vì dữ liệu trên web tự động được bảo vệ.
+D. Hỗ trợ cá nhân hóa trải nghiệm khách hàng thông qua dữ liệu và thuật toán phân tích hành vi.
+
+Câu 2. Anh/Chị cho biết cơ sở hạ tầng của thương mại điện tử (e-commerce infrastructure) không bao gồm các thành phần nào sau đây?
+A. Phần cứng (Hardware), Phần mềm (Software), Cơ sở hạ tầng mạng (Network Infrastructure).
+B. Hệ thống thanh toán trực tuyến (Payment Gateway), Cơ sở hạ tầng vận chuyển và giao hàng (Logistics and Delivery).
+*C. Sản phẩm hoặc dịch vụ bán trực tuyến, Chiến lược marketing, Chính sách bán hàng và Nguồn nhân lực.
+D. Hệ thống an ninh mạng (Cybersecurity Infrastructure).
+
+Câu 3. Một trong những tác động quan trọng nhất của thương mại điện tử đối với thị trường là gì?
+A. Giúp mọi doanh nghiệp có thể bán hàng mà không cần tạo dựng thương hiệu.
+*B. Thay đổi bản chất thị trường, từ thị trường truyền thống sang thị trường điện tử.
+C. Tăng sự phụ thuộc của doanh nghiệp vào khách hàng, khiến họ mất quyền kiểm soát giá cả.
+D. Loại bỏ hoàn toàn việc phải tuân thủ các quy định pháp lý trong giao dịch kinh doanh.
+
+Câu 4. Lạm phát có thể tác động đến thương mại điện tử như thế nào?
+A. Làm tăng nhu cầu mua sắm trực tuyến do giá hàng hóa giảm.
+*B. Tạo áp lực tăng giá sản phẩm trực tuyến, ảnh hưởng đến sức mua của người tiêu dùng.
+C. Tăng lợi nhuận cho các doanh nghiệp thương mại điện tử nhờ giá cả ổn định.
+D. Giảm chi phí vận chuyển hàng hóa trong thương mại điện tử.
+
+Câu 5. Cho biết thương mại điện tử có bao nhiêu đặc trưng?
+A. 3
+*B. 4
+C. 5
+D. 6
+
+Câu 6. Hệ thống quản lý cơ sở dữ liệu (DBMS) trong TMĐT có chức năng gì?
+A. Chỉ dùng để lưu trữ dữ liệu sản phẩm trên trang web.
+*B. Quản lý, tổ chức và bảo mật dữ liệu khách hàng, đơn hàng và giao dịch.
+C. Chỉ giúp tăng tốc độ tải trang web mà không liên quan đến giao dịch TMĐT.
+D. Không ảnh hưởng đến hoạt động kinh doanh của doanh nghiệp.
+
+Câu 7. Cho biết: “Mạng nối kết intranet của các đối tác kinh doanh với internet” — Đây là mạng nào?
+A. Internet
+*B. Extranet
+C. Intranet
+D. Mạng WAN
+
+Câu 8. Lợi ích nào của thương mại điện tử có tác động lớn nhất đến xã hội?
+*A. Giúp giảm ùn tắc giao thông và ô nhiễm môi trường nhờ việc mua sắm trực tuyến.
+B. Thay thế hoàn toàn các dịch vụ công truyền thống, giúp chính phủ vận hành nhanh hơn.
+C. Đảm bảo tất cả người tiêu dùng đều có thể tiếp cận các sản phẩm giá rẻ, không có rào cản kinh tế.
+D. Loại bỏ hoàn toàn khoảng cách giàu nghèo, nhờ vào hệ thống TMĐT minh bạch.
+
+Câu 9. Tác động lớn nhất của thương mại điện tử đến marketing sản phẩm là gì?
+*A. Chuyển đổi chiến lược marketing từ “đẩy” sang “kéo”, tăng sự tương tác với khách hàng.
+B. Giảm hoàn toàn chi phí marketing, nhờ vào hệ thống tự động hóa tiếp thị.
+C. Loại bỏ hoàn toàn vai trò của đội ngũ bán hàng, vì mọi giao dịch đều tự động.
+D. Giúp tất cả doanh nghiệp dễ dàng thu hút khách hàng, mà không cần chiến lược cụ thể.
+
+Câu 10. Nhược điểm lớn nhất của thị trường điện tử so với thị trường truyền thống là gì?
+A. Không có sự minh bạch trong giao dịch.
+*B. Phụ thuộc vào công nghệ và bảo mật dữ liệu.
+C. Không thể mở rộng quy mô kinh doanh.
+D. Khó khăn trong việc tiếp cận khách hàng.
+
+Câu 11. Trở ngại lớn nhất của người tiêu dùng khi gia nhập thị trường thương mại điện tử là gì?
+*A. An ninh và sự riêng tư khi tham gia thị trường TMĐT.
+B. Chi phí internet còn cao và khó tiếp cận.
+C. Nhiều vấn đề về luật, chính sách và thuế chưa được làm rõ.
+D. Việc chuyển đổi thói quen tiêu dùng từ thực đến ảo gặp nhiều khó khăn.
+
+Câu 12. Khách hàng trong thị trường điện tử là?
+A. Khách hàng là mục tiêu.
+*B. Khách hàng là đối tác.
+C. Khách hàng là trung gian.
+D. Khách hàng là ngẫu nhiên.
+
+Câu 13. Chọn phương án đúng về sự khác biệt trong tiến trình mua bán giữa thương mại điện tử và thương mại truyền thống?
+A. Trong quá trình thu thập thông tin, thương mại điện tử sử dụng tạp chí, tờ rơi, catalogue giấy.
+B. Hàng hóa được mô tả trên các mẫu biểu in.
+C. Chủ yếu sử dụng điện thoại, thư, fax để kiểm tra khả năng cung ứng và thỏa thuận giá cả hàng hóa.
+*D. Trao đổi thông tin hàng hóa và lượng hàng hóa tồn kho thông qua biểu mẫu điện tử, EDI.
+
+Câu 14. Yếu tố nào ảnh hưởng lớn nhất đến hiệu quả của trang web thương mại điện tử?
+A. Thiết kế giao diện bắt mắt và thu hút người dùng.
+B. Hệ thống quản lý nội dung và khả năng tích hợp với các nền tảng khác.
+*C. Khả năng truy cập ổn định, tốc độ tải nhanh và bảo mật dữ liệu.
+D. Chiến dịch quảng cáo mạnh mẽ trên các nền tảng truyền thông xã hội.
+
+Câu 15. Mối quan hệ giữa hệ thống vận chuyển và thương mại điện tử được thể hiện như thế nào trong việc cải thiện hiệu quả kinh doanh của doanh nghiệp?
+A. Hệ thống vận chuyển chỉ ảnh hưởng đến chi phí sản xuất mà không ảnh hưởng đến thời gian giao hàng.
+B. Hệ thống vận chuyển không quan trọng đối với các doanh nghiệp chỉ cung cấp dịch vụ số.
+*C. Hệ thống vận chuyển hiệu quả giúp giảm chi phí logistics, tăng cường trải nghiệm khách hàng và nâng cao khả năng cạnh tranh của doanh nghiệp.
+D. Hệ thống vận chuyển chỉ quan trọng với các doanh nghiệp lớn có quy mô quốc tế.
+
+Câu 16. Loại dữ liệu nào sau đây không phải là một phần của hệ thống cơ sở dữ liệu thương mại điện tử?
+A. Dữ liệu về sản phẩm, giá cả và kho hàng.
+B. Dữ liệu cá nhân của khách hàng, lịch sử giao dịch.
+C. Dữ liệu truy cập website và hành vi người dùng.
+*D. Dữ liệu văn bản từ sách giáo khoa không liên quan đến hoạt động thương mại.
+
+Câu 17. Dân số đang gia tăng nhanh chóng ở một quốc gia có thể tạo ra áp lực nào đối với thương mại điện tử?
+A. Tăng cường nguồn nhân lực cho các doanh nghiệp.
+B. Tăng cường cạnh tranh giữa các doanh nghiệp thương mại điện tử.
+*C. Tạo ra nhu cầu cao về sản phẩm và dịch vụ, nhưng cũng tạo ra thách thức về logistics và hạ tầng.
+D. Tạo ra thách thức trong việc duy trì chất lượng dịch vụ khách hàng do số lượng đơn hàng tăng lên.
+
+Câu 18. Vấn đề nào dưới đây là một thách thức lớn khi xây dựng khung pháp lý cho thương mại điện tử?
+A. Khuyến khích các doanh nghiệp tăng cường quảng cáo.
+*B. Cân bằng giữa bảo mật thông tin cá nhân và sự tự do dòng chảy dữ liệu.
+C. Giảm thiểu số lượng giao dịch trên các nền tảng thương mại điện tử.
+D. Tăng cường sự tham gia của người tiêu dùng vào thị trường.
+
+Câu 19. “Thương mại điện tử cung cấp khả năng mua và bán sản phẩm và thông tin trên internet và dịch vụ trực tuyến khác”. Đây là thương mại điện tử nhìn từ góc độ:
+A. Kinh doanh viễn thông.
+B. Quá trình kinh doanh.
+C. Kinh doanh dịch vụ.
+*D. Trợ giúp trực tuyến.
+
+Câu 20. Để hợp pháp hóa giá trị văn bản của dữ liệu điện tử, điều gì là cần thiết?
+A. Các bên tham gia phải ký kết hợp đồng bằng điện tử, vì điều này là bắt buộc theo quy định hiện hành để đảm bảo tính pháp lý.
+*B. Cần phải có các quy định luật pháp cụ thể để công nhận giá trị pháp lý của dữ liệu điện tử, mà không cần thiết phải tuân theo hình thức truyền thống.
+C. Dữ liệu điện tử phải được gửi qua các phương tiện truyền thông xã hội, vì sự phổ biến của mạng xã hội đã giúp tăng cường độ tin cậy cho các giao dịch điện tử.
+D. Cần có sự đồng ý bằng lời nói của tất cả các bên tham gia giao dịch, do đó các bên có thể bỏ qua yêu cầu về hình thức văn bản.
+
+Câu 21. Tại sao việc tối ưu hóa truy vấn cơ sở dữ liệu lại quan trọng trong thương mại điện tử?
+*A. Giúp trang web tải nhanh hơn, cải thiện trải nghiệm người dùng và giảm tải cho máy chủ.
+B. Không có ảnh hưởng đáng kể vì máy chủ luôn có thể xử lý mọi truy vấn.
+C. Chỉ quan trọng với các trang web lớn, còn doanh nghiệp nhỏ không cần quan tâm.
+D. Chủ yếu để giảm chi phí thuê máy chủ, không ảnh hưởng đến hiệu suất của trang web.
+
+Câu 22. Tại sao bảo mật và an toàn thông tin được xem là một trong những điều kiện quan trọng nhất để phát triển thương mại điện tử?
+A. TMĐT hoạt động hoàn toàn dựa trên lòng tin, nên không cần biện pháp bảo mật cụ thể.
+*B. Nếu không có cơ chế bảo mật chặt chẽ, các giao dịch có thể bị đánh cắp thông tin, gian lận hoặc tấn công mạng.
+C. Bảo mật chỉ quan trọng đối với các doanh nghiệp lớn, không ảnh hưởng đến cá nhân bán hàng trực tuyến.
+D. Chỉ ảnh hưởng đến hệ thống thanh toán quốc tế, nhưng không quan trọng đối với thị trường nội địa.
+
+Câu 23. Cho biết, đặc trưng nào của thương mại điện tử làm thay đổi căn bản văn hóa giao dịch trong thương mại điện tử?
+*A. Thương mại điện tử không thể hiện các văn bản giao dịch trên giấy.
+B. Thương mại điện tử phụ thuộc vào công nghệ và trình độ công nghệ thông tin của người sử dụng.
+C. Thương mại điện tử phụ thuộc vào mức độ số hóa.
+D. Thương mại điện tử có tốc độ nhanh nhờ áp dụng kỹ thuật số.
+
+Câu 24. Khi thu nhập của người tiêu dùng tăng lên, điều gì có thể xảy ra trong hành vi tiêu dùng trực tuyến của họ?
+A. Giảm số lượng giao dịch trực tuyến.
+*B. Tăng cường nhu cầu cho sản phẩm và dịch vụ cao cấp.
+C. Không có thay đổi trong hành vi tiêu dùng.
+D. Tăng cường nhu cầu cho sản phẩm giá rẻ.
+
+Câu 25. Tại sao hệ thống cơ sở dữ liệu TMĐT cần có khả năng mở rộng (scalability)?
+*A. Để có thể xử lý lượng lớn giao dịch và dữ liệu khi doanh nghiệp phát triển.
+B. Để giảm chi phí vận hành bằng cách hạn chế dung lượng lưu trữ.
+C. Vì số lượng khách hàng luôn cố định, nên hệ thống cần mở rộng để tối ưu hóa hiệu suất.
+D. Để tránh phải nâng cấp phần cứng và phần mềm khi doanh nghiệp phát triển.
+
+Câu 26. Hãy chọn nhận định đúng trong các nhận định sau?
+*A. Xem xét dưới góc độ số hóa, thương mại điện tử cũng được hiểu tương đương với kinh doanh điện tử.
+B. Dưới góc độ số hóa, một sản phẩm có thể là sản phẩm vật chất hoặc sản phẩm số hóa nhưng tổ chức thì phải là tổ chức số hóa.
+C. Dưới góc độ số hóa, chỉ tồn tại tổ chức số hóa hoặc quá trình số hóa.
+D. Không tồn tại sự kết hợp giữa thương mại truyền thống và thương mại điện tử thuần túy.
+
+Câu 27. Đặc điểm nào sau đây KHÔNG phải là đặc trưng của thị trường điện tử?
+A. Giao dịch có thể thực hiện trực tuyến mà không cần gặp mặt trực tiếp giữa người mua và người bán.
+*B. Tương tác giữa người bán và người mua bị loại bỏ hoàn toàn trong quá trình giao dịch.
+C. Thị trường điện tử cho phép doanh nghiệp tiếp cận khách hàng ngoài phạm vi địa lý truyền thống.
+D. Hoạt động của thị trường điện tử không bị giới hạn bởi thời gian, có thể diễn ra liên tục mọi lúc, mọi nơi.
+
+Câu 28. Theo Luật Giao dịch điện tử, điều nào dưới đây là đúng về tính hợp pháp của thông điệp điện tử?
+A. Thông điệp điện tử không cần phải được xác thực và có thể bị từ chối khi xảy ra tranh chấp.
+*B. Thông điệp điện tử có giá trị pháp lý như văn bản giấy nếu nó đáp ứng các tiêu chí về tính nguyên vẹn và xác thực.
+C. Tất cả các thông điệp điện tử đều phải được ký bởi một cơ quan chính phủ để có giá trị pháp lý.
+D. Thông điệp điện tử không được phép sử dụng cho các giao dịch tài chính.
+
+Câu 29. “Thương mại điện tử là việc chuyển giao thông tin, sản phẩm hay dịch vụ hoặc thanh toán thông qua điện thoại, mạng máy tính hoặc bất kỳ phương tiện điện tử nào khác”. Đây là thương mại điện tử nhìn từ góc độ:
+*A. Kinh doanh viễn thông.
+B. Quá trình kinh doanh.
+C. Kinh doanh dịch vụ.
+D. Trợ giúp trực tuyến.
+
+Câu 30. Trong thương mại điện tử, cấu trúc cơ sở bao gồm những yếu tố nào?
+A. Chỉ bao gồm trang web thương mại điện tử, hệ thống quản lý sản phẩm và hệ thống thanh toán.
+*B. Bao gồm trang web, hệ thống thanh toán, cơ sở dữ liệu, và hạ tầng công nghệ hỗ trợ.
+C. Chỉ tập trung vào nền tảng thương mại điện tử mà không cần tích hợp với các hệ thống quản lý dữ liệu.
+D. Chỉ cần một website trực tuyến có khả năng hiển thị sản phẩm cho khách hàng.
+
+Câu 31. Văn bản gốc được xem là bằng chứng tin cậy vì nó đảm bảo được những yếu tố nào?
+A. Văn bản gốc chỉ cần đảm bảo nguyên vẹn và không thay đổi để có thể được coi là bằng chứng đáng tin cậy trong giao dịch pháp lý.
+*B. Văn bản gốc phải đảm bảo tính nguyên vẹn, xác thực và không thay đổi, tạo ra một cơ sở pháp lý vững chắc cho việc chứng minh nội dung thông tin và quyền lợi của các bên.
+C. Các yếu tố đảm bảo tính tin cậy của văn bản gốc không cần thiết phải được xác minh, miễn là có sự đồng thuận của các bên tham gia.
+D. Chỉ cần có chữ ký của người có thẩm quyền là đủ để chứng minh tính hợp lệ của văn bản gốc, không cần phải quan tâm đến các yếu tố khác.
+
+Câu 32. “Thương mại điện tử có thể đạt được cấp độ từ thấp đến cao. Cấp độ thấp nhất là sử dụng thư điện tử, đến internet để tìm kiếm thông tin,… đến xây dựng website cho hoạt động kinh doanh; cuối cùng là áp dụng các giải pháp toàn diện về thương mại điện tử.” Đây là đặc trưng nào của thương mại điện tử?
+A. Thương mại điện tử không thể hiện các văn bản giao dịch trên giấy.
+B. Thương mại điện tử phụ thuộc vào công nghệ và trình độ công nghệ thông tin của người sử dụng.
+*C. Thương mại điện tử phụ thuộc vào mức độ số hóa.
+D. Thương mại điện tử có tốc độ nhanh nhờ áp dụng kỹ thuật số.
+
+Câu 33. Yếu tố nào không thuộc nhóm điều kiện phát triển của thương mại điện tử?
+A. Hạ tầng công nghệ, bao gồm hệ thống mạng, máy chủ và phần mềm hỗ trợ.
+B. Hệ thống thanh toán tài chính tự động, đảm bảo giao dịch nhanh chóng và an toàn.
+*C. Sự can thiệp của nhà nước vào mọi giao dịch để kiểm soát toàn bộ thị trường thương mại điện tử.
+D. Hạ tầng nhân lực, bao gồm đội ngũ chuyên gia công nghệ và người dùng có kiến thức về TMĐT.
+
+Câu 34. Sự phát triển của hệ thống thanh toán điện tử đã thay đổi cách thức giao dịch trong thương mại điện tử như thế nào?
+A. Hệ thống thanh toán điện tử chỉ làm tăng chi phí cho người bán mà không có lợi cho người mua.
+*B. Hệ thống thanh toán điện tử giúp giảm thiểu rủi ro gian lận trong giao dịch và tạo sự linh hoạt trong phương thức thanh toán, từ đó thúc đẩy sự phát triển của thương mại điện tử.
+C. Hệ thống thanh toán điện tử chỉ có lợi cho các doanh nghiệp lớn, trong khi doanh nghiệp nhỏ không hưởng lợi nhiều.
+D. Hệ thống thanh toán điện tử chỉ phát triển mạnh tại các quốc gia phát triển mà không có nhiều tác động đến các thị trường mới nổi.
+
+Câu 35. Cơ sở dữ liệu trong thương mại điện tử có vai trò gì?
+*A. Lưu trữ thông tin sản phẩm, khách hàng và đơn hàng để hỗ trợ quản lý và ra quyết định.
+B. Chỉ dùng để thu thập địa chỉ email khách hàng nhằm gửi email quảng cáo.
+C. Chủ yếu giúp trang web tải nhanh hơn mà không có tác dụng trong hoạt động kinh doanh.
+D. Không có giá trị thực tế vì dữ liệu trên trang web không cần quản lý tập trung.
+
+Câu 36. Cho biết mô hình giao tiếp trong thị trường điện tử?
+A. Một người với một người.
+B. Một người với nhiều người.
+*C. Nhiều người với nhiều người.
+D. Khách hàng đơn lẻ với nhau.
+
+Câu 37. “Bạn mua và tải một bộ sách điện tử (ebook) từ Amazon Kindle, sản phẩm là tệp kỹ thuật số, giao dịch qua nền tảng trực tuyến và giao hàng ngay lập tức qua Internet” — xem xét từ góc độ số hóa. Anh/Chị cho biết hoạt động này có phải là thương mại điện tử thuần túy hay không?
+*A. Có.
+B. Không.
+
+Câu 38. Yếu tố nào sau đây không thuộc về hạ tầng kinh tế xã hội của thương mại điện tử?
+A. Mạng lưới internet.
+B. Hệ thống giao thông vận tải.
+*C. Chính sách thuế dành cho thương mại điện tử.
+D. Hệ thống thanh toán điện tử.
+
+Câu 39. Luật nào quy định về việc sử dụng chữ ký điện tử và tính hợp pháp của thông điệp điện tử tại Việt Nam?
+A. Luật Thương mại.
+*B. Luật Giao dịch điện tử.
+C. Luật Bảo vệ quyền lợi người tiêu dùng.
+D. Luật Sở hữu trí tuệ.
+
+Câu 40. Một khách hàng đặt mua một chiếc điện thoại thông qua trang web của công ty và nhận hàng tại nhà. Anh/Chị cho biết quá trình thanh toán được thực hiện trực tuyến. Đây là ví dụ của loại hình nào?
+A. Traditional Commerce.
+*B. Partial Electronic Commerce.
+C. Pure Electronic Commerce.
+D. Không thuộc thương mại điện tử.
+
+Câu 41. Điền vào chỗ trống: Trên góc độ doanh nghiệp, khái niệm Thương mại điện tử là “Thương mại điện tử là việc thực hiện ……… hoạt động kinh doanh bao gồm: marketing, bán hàng, phân phối và thanh toán thông qua các phương tiện điện tử.”
+A. một phần.
+B. toàn bộ.
+*C. một phần hay toàn bộ.
+D. tiến trình toàn bộ.
+
+Câu 42. Một doanh nghiệp TMĐT muốn cải thiện tốc độ truy cập trang web của mình có thể thực hiện phương pháp nào?
+*A. Sử dụng dịch vụ CDN (Content Delivery Network) để giảm thời gian tải trang.
+B. Tăng số lượng hình ảnh và video chất lượng cao mà không cần tối ưu.
+C. Giảm thiểu bảo mật web để trang tải nhanh hơn.
+D. Hạn chế các phương thức thanh toán để đơn giản hóa giao diện.
+
+Câu 43. Anh/Chị cho biết mô tả thương mại điện tử toàn phần (Pure Electronic Commerce)?
+A. Mua sắm trên Shopee và thanh toán tiền mặt khi nhận hàng.
+*B. Đặt vé máy bay trực tuyến và nhận vé qua email.
+C. Gọi đồ ăn qua ứng dụng và nhận giao tận nơi.
+D. Mua sách tại cửa hàng và thanh toán bằng thẻ tín dụng.
+
+Câu 44. Cho biết: “Mạng nội bộ công ty thực hiện chức năng công nghệ thông tin như trình duyệt hoặc sử dụng giao diện internet” — Đây là mạng nào?
+A. Internet.
+B. Extranet.
+*C. Intranet.
+D. Mạng LAN.
+
+Câu 45. Nhận thức xã hội đóng vai trò gì trong sự phát triển của thương mại điện tử?
+A. Không có tác động đáng kể, vì TMĐT chủ yếu phụ thuộc vào công nghệ và pháp lý.
+B. Chỉ ảnh hưởng đến một số ngành hàng nhất định, như thời trang và đồ điện tử.
+*C. Góp phần quyết định đến mức độ chấp nhận TMĐT, vì thói quen và niềm tin của người tiêu dùng có thể làm tăng hoặc giảm tỷ lệ giao dịch trực tuyến.
+D. Chủ yếu ảnh hưởng đến doanh nghiệp lớn, nhưng không có tác động nhiều đến các doanh nghiệp nhỏ và cá nhân bán hàng trực tuyến.
+
+Câu 46. Yếu tố nào dưới đây trong cơ sở hạ tầng xã hội là quan trọng nhất để thúc đẩy sự chấp nhận rộng rãi của thương mại điện tử trong xã hội?
+A. Sự phổ biến của các phương tiện truyền thông đại chúng.
+*B. Khả năng tiếp cận dễ dàng và chi phí hợp lý của internet tốc độ cao.
+C. Các chiến dịch quảng cáo của doanh nghiệp thương mại điện tử.
+D. Sự ổn định của hệ thống chính trị và xã hội.
+
+Câu 47. Một website thương mại điện tử nên sử dụng loại cơ sở dữ liệu nào để tối ưu hóa hiệu suất và khả năng xử lý giao dịch?
+A. Chỉ sử dụng cơ sở dữ liệu quan hệ (Relational Database - SQL) để đảm bảo tính tổ chức và nhất quán.
+B. Sử dụng cơ sở dữ liệu NoSQL để xử lý lượng lớn dữ liệu phi cấu trúc và truy vấn nhanh hơn.
+*C. Kết hợp cả cơ sở dữ liệu SQL và NoSQL để tận dụng lợi thế của cả hai loại.
+D. Không cần cơ sở dữ liệu vì tất cả thông tin có thể lưu trữ trên trang web.
+
+Câu 48. Nhận định nào sau đây là SAI về sự khác biệt giữa các yếu tố của thị trường truyền thống và thị trường điện tử?
+A. Marketing và quảng cáo trong thị trường điện tử có mục tiêu và tương tác một - một.
+B. Trong thị trường điện tử, mô hình giao tiếp nhiều người với nhiều người.
+C. Thị trường điện tử là thị trường cộng đồng.
+*D. Trong thị trường điện tử tư duy thiên về phía cung.
+
+Câu 49. Chữ E trong cụm từ E-commerce là viết tắt của từ tiếng Anh nào dưới đây?
+*A. Electronic.
+B. External.
+C. Economy.
+D. Extent.
+
+Câu 50. Thị trường điện tử có ưu điểm nào sau đây so với thị trường truyền thống?
+*A. Giảm thiểu chi phí vận hành và tiếp cận khách hàng toàn cầu.
+B. Giúp doanh nghiệp dễ dàng kiểm soát giá cả hơn.
+C. Hoạt động kinh doanh ổn định hơn do ảnh hưởng bởi yếu tố công nghệ.
+D. Ít bị ảnh hưởng bởi hành vi của người tiêu dùng.
+
+Câu 51. Một trong những mục tiêu chính của UNCITRAL là ________ trong thương mại quốc tế, nhằm giảm thiểu tranh chấp và chi phí giao dịch.
+A. Tăng cường tính chuyên quyền của các quốc gia.
+*B. Thúc đẩy sự nhất quán và hài hòa trong luật thương mại.
+C. Bảo vệ lợi ích của các tập đoàn lớn.
+D. Khuyến khích cạnh tranh lành mạnh giữa các quốc gia.

@@ -1,0 +1,2026 @@
+Câu 1. Chức năng nào của tiền tệ liên quan đến việc đo lường giá trị của hàng hóa và dịch vụ?
+A. Chức năng dự trữ giá trị
+B. Chức năng phương tiện trao đổi
+*C. Chức năng thước đo giá trị
+
+Câu 2. Loại tiền tệ nào không phải là tiền pháp định?
+A. Tiền giấy
+B. Tiền xu
+*C. Tiền Bitcoin
+
+Câu 3. Tiền mặt có thể được coi là hình thức tiền tệ nào trong ba loại tiền cơ bản?
+*A. Tiền pháp định
+B. Tiền hàng hóa
+C. Tiền tín dụng
+
+Câu 4. Chức năng nào của tiền tệ giúp người sử dụng có thể tích lũy giá trị cho các nhu cầu trong tương lai?
+A. Chức năng phương tiện trao đổi
+B. Chức năng thước đo giá trị
+*C. Chức năng dự trữ giá trị
+
+Câu 5. Trước khi tiền tệ ra đời, hình thức trao đổi chủ yếu trong nền kinh tế là:
+A. Tiền giấy
+B. Thẻ tín dụng
+*C. Hệ thống trao đổi hàng hóa
+
+Câu 6. Cung tiền được hiểu là:
+A. Là lượng tiền mà chính phủ phát hành để điều tiết nền kinh tế
+*B. Là tổng số tiền được lưu hành trong nền kinh tế, bao gồm tiền mặt và tiền gửi ngân hàng
+C. Là số tiền mà các doanh nghiệp vay từ ngân hàng
+
+Câu 7. Cầu tiền được hiểu là:
+A. Lượng tiền mà các ngân hàng thương mại có thể cho vay
+*B. Lượng tiền mà các hộ gia đình và doanh nghiệp muốn nắm giữ tại một thời điểm nhất định
+C. Lượng tiền mà chính phủ phát hành trong nền kinh tế
+
+Câu 8. Chủ thể nào có thể phát hành tiền giấy?
+A. Ngân hàng chính sách
+*B. Ngân hàng Trung ương
+C. Ngân hàng thương mại
+
+Câu 9. Khối tiền M1 bao gồm những yếu tố nào?
+*A. Tiền mặt lưu hành và tiền gửi không kỳ hạn
+B. Tiền mặt lưu hành, tiền gửi không kỳ hạn và tiền gửi có kỳ hạn
+C. Tiền mặt lưu hành, tiền gửi ngân hàng và chứng khoán ngắn hạn
+
+Câu 10. Khối tiền M2 bao gồm những thành phần nào?
+*A. M1 cộng với tiền gửi có kỳ hạn dưới 1 năm và các tài sản tài chính ngắn hạn khác
+B. M1 cộng với tiền gửi có kỳ hạn trên 1 năm và chứng khoán dài hạn
+C. M1 cộng với tiền gửi có kỳ hạn và tiền gửi tiết kiệm dài hạn
+
+Câu 11. Khối tiền nào sau đây bao gồm cổ phiếu?
+A. M1
+B. M2
+*C. M3
+
+Câu 12. Nguyên nhân nào dưới đây là nguyên nhân chủ yếu dẫn đến lạm phát trong nền kinh tế?
+A. Tăng trưởng chậm trong sản xuất nông nghiệp
+*B. Tăng cung tiền quá mức mà không tương ứng với sự gia tăng sản lượng hàng hóa
+C. Giảm thuế đối với các công ty lớn
+
+Câu 13. Biện pháp nào dưới đây thường được sử dụng để kiềm chế lạm phát?
+A. Giảm lãi suất ngân hàng
+B. Tăng cường chi tiêu công
+*C. Thắt chặt chính sách tiền tệ
+
+Câu 14. Lạm phát do cầu kéo xảy ra khi:
+A. Cung tiền trong nền kinh tế giảm mạnh
+*B. Có sự tăng trưởng mạnh mẽ về cầu hàng hóa và dịch vụ trong điều kiện sản lượng nền kinh tế vượt quá mức tiềm năng
+C. Chi phí sản xuất tăng cao
+
+Câu 15. Biện pháp nào dưới đây có thể giúp kiểm soát lạm phát do chi phí đẩy?
+*A. Tăng cường kiểm soát lãi suất
+B. Giảm thuế cho các doanh nghiệp
+C. Cắt giảm chi tiêu công
+
+Câu 16. Lạm phát có thể gây ra tác động tiêu cực nào đối với nền kinh tế?
+A. Tăng trưởng kinh tế nhanh chóng
+*B. Tạo ra sự bất ổn trong giá cả và làm giảm sức mua của đồng tiền
+C. Giảm chi phí sản xuất và thúc đẩy đầu tư
+
+Câu 17. Một trong những ưu điểm lớn nhất của tiền giấy so với tiền kim loại là gì?
+A. Tiền giấy có giá trị cao hơn tiền kim loại
+*B. Tiền giấy dễ dàng sản xuất và vận chuyển hơn
+C. Tiền giấy có thể sử dụng lâu dài mà không bị hư hỏng
+
+Câu 18. "Chuyển khoản" trong phương tiện thanh toán có nghĩa là:
+A. Việc chuyển tiền mặt giữa hai người
+*B. Việc chuyển tiền giữa các tài khoản ngân hàng
+C. Việc thanh toán qua ví điện tử
+
+Câu 19. Tiền dấu hiệu được hiểu là:
+*A. Tiền được sử dụng trong các giao dịch thương mại.
+B. Tiền có giá trị nội tại rất nhỏ so với sức mua của nó.
+C. Tiền dùng để thanh toán trong các giao dịch mua bán.
+
+Câu 20. Trong các yếu tố dưới đây, đâu là dấu hiệu nhận diện tiền xu?
+*A. Được làm bằng kim loại có hình dạng tròn hoặc đa giác.
+B. Có kích thước lớn hơn tờ tiền.
+C. Được làm từ chất liệu giấy hoặc polymer.
+
+Câu 21. Khối tiền tệ thực hiện chức năng làm phương tiện trao đổi tốt nhất tại một quốc gia là:
+*A. M1.
+B. M2.
+C. M3.
+
+Câu 22. "Giấy bạc ngân hàng" thực chất là:
+A. Một loại tín tệ.
+B. Tiền được làm bằng giấy.
+*C. Tiền được ra đời thông qua hoạt động tín dụng và ghi trên hệ thống tài khoản của ngân hàng.
+
+Câu 23. Cầu tiền giao dịch nhằm đáp ứng:
+A. Các nhu cầu tiền dự phòng của các chủ thể
+B. Các nhu cầu giao dịch của các chủ thể đầu tư
+*C. Các nhu cầu giao dịch và dự phòng
+
+Câu 24. Lạm phát do chi phí đẩy xảy ra bởi áp lực của sự gia tăng:
+*A. Chi phí sản xuất tăng làm cho giá cả hàng hóa tăng
+B. Cầu tiêu dùng tăng mạnh
+C. Chính phủ tăng chi tiêu công
+
+Câu 25. Lạm phát phi mã là
+A. Tỷ lệ lạm phát 1 con số
+B. Nền kinh tế cân bằng ở trên mức sản lượng tiềm năng
+*C. Tỷ lệ lạm phát 2 con số
+
+Câu 26. Lạm phát có thể gây ra tác động nào tiêu cực đến nền kinh tế?
+A. Tăng trưởng kinh tế mạnh mẽ
+*B. Giảm giá trị thực của tiền lương và thu nhập
+C. Làm tăng giá trị đồng tiền
+
+Câu 27. Lạm phát có thể có ảnh hưởng tích cực nếu:
+A. Nó duy trì ở mức rất cao
+B. Lạm phát quá thấp khiến cho nền kinh tế rơi vào suy thoái
+*C. Lạm phát ở mức vừa phải giúp kích thích sản xuất và đầu tư
+
+Câu 28. Chính phủ có thể kiểm soát lạm phát bằng cách nào sau đây?
+A. Tăng chi tiêu công một cách không kiểm soát
+B. Giảm thuế để tăng sức mua của người t iêu dùng
+*C. Thắt chặt chính sách tài khóa, giảm chi tiêu công
+
+Câu 29. Về mặt bản chất, tài chính phản ánh:
+A. Việc sử dụng quỹ tiền tệ đáp ứng các nhu cầu xã hội
+B. Sự dịch chuyển tiền tệ
+*C. Tổng thể các quan hệ kinh tế phát sinh trong quá trình chuyển giao các nguồn lực tài chính giữa các chủ thể trong xã hội
+
+Câu 30. Đối tượng của phân phối tài chính là:
+A. Tổng sản phẩm quốc nội, nguồn tài chính chuyển ra nước ngoài và nguồn tài chính chuyển từ nước ngoài vào, tài sản tài nguyên chuyển hóa thành tiền
+*B. Tổng thể các nguồn tài chính trong xã hội
+C. Tổng thu nhập quốc dân
+
+Câu 31. Cơ cấu hệ thống tài chính gồm:
+A. Ngân hàng thương mại và ngân hàng trung ương
+B. Thị trường tài chính và các định chế tài chính trung gian
+*C. Thị trường tài chính, các chủ thể tài chính và cơ sở hạ tầng tài chính
+
+Câu 32. Chức năng phân phối lại của nền kinh tế nhằm mục đích gì?
+A. Tăng trưởng sản xuất trong nền kinh tế
+*B. Điều tiết thu nhập và tài sản giữa các nhóm dân cư
+C. Tăng trưởng tỷ lệ đầu tư quốc tế
+
+Câu 33. Phân phối lần đầu trong nền kinh tế chủ yếu liên quan đến việc phân chia thu nhập từ:
+A. Việc đầu tư vào tài sản công
+*B. Các hoạt động sản xuất và phân phối hàng hóa và dịch vụ
+C. Các khoản trợ cấp xã hội và phúc lợi
+
+Câu 34. Chức năng kiểm tra của tài chính có tác dụng chính trong việc:
+*A. Đảm bảo các tổ chức tài chính hoạt động theo đúng quy định của pháp luật
+B. Quản lý các nguồn lực tài chính quốc gia
+C. Phân phối thu nhập trong xã hội
+
+Câu 35. Tài chính có vai trò gì đối với nền kinh tế?
+A. Hỗ trợ các cá nhân thực hiện các giao dịch tài chính.
+*B. Tạo ra các cơ hội đầu tư và đảm bảo sự lưu thông của tiền tệ trong nền kinh tế.
+C. Đảm bảo các công ty có thể giảm thiểu rủi ro kinh doanh.
+
+Câu 36. Hệ thống tài chính đóng vai trò quan trọng trong nền kinh tế vì lý do nào?
+*A. Cung cấp vốn cho các hoạt động sản xuất và đầu tư
+B. Quản lý các chương trình bảo hiểm xã hội
+C. Tăng cường sự ổn định của chính phủ
+
+Câu 37. Thị trường tài chính là:
+A. Là nơi các ngân hàng thực hiện các giao dịch tài chính
+*B. Là nơi các tổ chức tài chính và các nhà đầu tư mua bán các tài sản tài chính
+C. Là nơi Chính phủ phát hành tiền tệ mới
+
+Câu 38. Các tổ chức tài chính trung gian như ngân hàng thương mại có vai trò gì trong hệ thống tài chính?
+A. Cung cấp các dịch vụ bảo hiểm và tín dụng cho doanh nghiệp
+B. Quản lý các quỹ đầu tư và phát hành trái phiếu
+*C. Trung gian trong việc huy động và phân phối vốn giữa các bên dư thừa và thiếu vốn
+
+Câu 39. Phân phối lần đầu trong nền kinh tế không bao gồm yếu tố nào?
+A. Lợi nhuận từ đầu tư vốn
+B. Thu nhập từ lao động
+*C. Trợ cấp từ Chính phủ
+
+Câu 40. Thành phần nào trong hệ thống tài chính đóng vai trò huy động vốn từ các nhà đầu tư và phân phối cho các doanh nghiệp và chính phủ?
+A. Ngân hàng trung ương
+B. Hộ gia đình
+*C. Thị trường tài chính
+
+Câu 41. Yếu tố nào dưới đây KHÔNG thuộc khái niệm cơ sở hệ thống tài chính:
+A. Hệ thống thanh toán
+B. Hệ thống giám sát
+*C. Các quỹ đầu tư
+
+Câu 42. Chế độ lưu thông tiền tệ là gì?
+*A. Quy định cách thức tiền tệ được phát hành, quản lý và sử dụng trong nền kinh tế
+B. Quy định về lãi suất ngân hàng
+C. Quy định về các chính sách thuế
+
+Câu 43. Chế độ lưu thông tiền tệ "tiền giấy" có đặc điểm gì nổi bật?
+*A. Tiền không có giá trị nội tại, phụ thuộc vào sự tin tưởng của người sử dụng
+B. Tiền có giá trị nội tại cao, được in bằng kim loại quý
+C. Tiền được sử dụng chỉ trong các giao dịch thương mại quốc tế
+
+Câu 44. Trong chế độ lưu thông dấu hiệu giá trị, tiền tệ có vai trò gì trong nền kinh tế?
+A. Dùng để tích trữ của cải
+*B. Dùng để giao dịch hàng hóa, dịch vụ và thanh toán nợ
+C. Dùng để thay thế tất cả các loại tài sản khác
+
+Câu 45. Chế độ lưu thông tiền vàng là gì?
+*A. Tiền tệ được đảm bảo bằng giá trị của vàng
+B. Tiền tệ được phát hành bởi ngân hàng thương mại
+C. Tiền tệ được sử dụng cho các giao dịch quốc tế
+
+Câu 46. Đâu là đặc điểm nổi bật của tiền kim loại so với tiền hàng hóa?
+A. Tiền kim loại có giá trị thực tế không thay đổi
+*B. Tiền kim loại dễ dàng chia nhỏ và có thể lưu thông rộng rãi
+C. Tiền kim loại không có giá trị nội tại
+
+Câu 47. Khi hệ thống tiền tệ chuyển từ tiền kim loại sang tiền giấy, một trong những yếu tố quan trọng giúp hệ thống này hoạt động là gì?
+A. Tỷ lệ vàng và bạc phải luôn được giữ vững
+*B. Chính phủ phải đảm bảo giá trị tiền giấy bằng vàng
+C. Tiền giấy phải có giá trị theo nội dung văn bản in trên đó
+
+Câu 48. Một trong những vai trò quan trọng của tiền tệ trong nền kinh tế là gì?
+*A. Là phương tiện duy trì sự ổn định trong nền kinh tế
+B. Tiền tệ giúp giải quyết tất cả các vấn đề trong nền kinh tế
+C. Tiền tệ giúp các quốc gia thiết lập chính sách thuế
+
+Câu 49. Một trong những yếu tố quan trọng giúp tiền tệ hoạt động hiệu quả là gì?
+A. Tiền tệ phải có giá trị nội tại
+B. Tiền tệ phải được phát hành một cách vô hạn
+*C. Tiền tệ cần có sự ổn định và được chấp nhận rộng rãi
+
+Câu 50. Chức năng phân phối lại của tài chính có nghĩa là gì?
+A. Phân phối lại tài sản từ khu vực công sang khu vực tư
+*B. Điều chỉnh và phân phối lại thu nhập giữa các cá nhân và nhóm trong xã hội
+C. Điều chỉnh chính sách tiền tệ của ngân hàng trung ương
+
+Câu 51. Tín dụng được định nghĩa là gì?
+A. Việc ngân hàng phát hành tiền tệ cho các doanh nghiệp
+*B. Là mối quan hệ sử dụng vốn lẫn nhau giữa người cho vay và người đi vay dựa trên nguyên tắc hoàn trả
+C. Quá trình tạo ra tiền từ các giao dịch kinh tế
+
+Câu 52. Tín dụng phát triển mạnh mẽ vào thời kỳ nào trong lịch sử?
+*A. Khi nền kinh tế thị trường và các ngân hàng hiện đại bắt đầu phát triển
+B. Khi các nền văn minh cổ đại xuất hiện
+C. Trong thời kỳ chiến tranh thế giới
+
+Câu 53. Tín dụng có ảnh hưởng như thế nào đối với nền kinh tế hiện đại
+A. Làm giảm sự cạnh tranh giữa các doanh nghiệp.
+*B. Tạo điều kiện cho các cá nhân và doanh nghiệp tiếp cận vốn, thúc đẩy tăng trưởng kinh tế.
+C. Chỉ có ảnh hưởng tiêu cực đối với thị trường tài chính.
+
+Câu 54. Căn cứ vào chủ thể tín dụng, tín dụng có những loại sau:
+A. Tín dụng vốn lưu động, tín dụng vốn cố định
+B. Tín dụng tiêu dùng, tín dụng sản xuất
+*C. Tín dụng thương mại, tín dụng nhà nước, tín dụng ngân hàng
+
+Câu 55. Tín dụng tín chấp là gì?
+A. Tín dụng mà người vay phải cung cấp tài sản có giá trị làm bảo đảm cho khoản vay.
+*B. Tín dụng mà người vay không cần cung cấp tài sản bảo đảm, mà chỉ dựa vào uy tín cá nhân và khả năng trả nợ.
+C. Tín dụng chỉ được cấp cho các doanh nghiệp lớn.
+
+Câu 56. Tín dụng có thể được phân loại theo thời gian thành các nhóm nào?
+*A. Tín dụng ngắn hạn, trung hạn, dài hạn.
+B. Tín dụng tiêu dùng, tín dụng sản xuất.
+C. Tín dụng ngân hàng, tín dụng ngoài ngân hàng.
+
+Câu 57. Tín dụng tiêu dùng là loại tín dụng dùng để làm gì
+A. Đầu tư vào các dự án kinh doanh.
+*B. Mua sắm hàng hóa và dịch vụ cho cá nhân.
+C. Tài trợ cho các hoạt động sản xuất.
+
+Câu 58. Tín dụng có đảm bảo là gì?
+A. Là loại tín dụng chỉ cho vay đối với những người có tài sản lớn.
+*B. Là loại tín dụng mà người vay phải cung cấp tài sản hoặc tài sản đảm bảo cho khoản vay.
+C. Là loại tín dụng không yêu cầu người vay cung cấp bất kỳ tài sản bảo đảm nào.
+
+Câu 59. Tín dụng sản xuất là loại tín dụng nhằm mục đích:
+*A. Đầu tư vào các hoạt động sản xuất kinh doanh, mua sắm máy móc thiết bị.
+B. Tài trợ cho các hoạt động tiêu dùng cá nhân.
+C. Cung cấp tiền cho các hoạt động thương mại quốc tế.
+
+Câu 60. Tín dụng thương mại là gì?
+A. Là loại tín dụng cung cấp cho các mục đích tiêu dùng của cá nhân.
+B. Là loại tín dụng mà các tổ chức tài chính cung cấp cho doanh nghiệp để đầu tư sản xuất.
+*C. Là loại tín dụng cung cấp cho các hoạt động mua bán chịu hàng hóa và dịch vụ giữa các doanh nghiệp.
+
+Câu 61. Tín dụng ngân hàng được hiểu là?
+A. Khoản vay giữa các doanh nghiệp với nhau
+*B. Khoản vay mà ngân hàng cấp cho cá nhân, doanh nghiệp, Chính phủ…
+C. Khoản vay từ nhà nước cho doanh nghiệp
+
+Câu 62. Tín dụng thương mại chủ yếu được cấp trong các giao dịch:
+*A. Mua bán chịu hàng hóa
+B. Cho vay để mua nhà
+C. Cho vay cho các dự án đầu tư
+
+Câu 63. Lãi suất tín dụng là gì?
+A. Là tỷ lệ lợi nhuận mà ngân hàng nhận được từ các khoản đầu tư
+*B. Là tỷ lệ phần trăm mà người vay phải trả cho người cho vay khi sử dụng vốn vay
+C. Là khoản phí dịch vụ mà ngân hàng thu khi mở tài khoản
+
+Câu 64. Tín dụng nhà nước được hiểu là gì?
+A. Là tín dụng do các tổ chức tài chính tư nhân cung cấp.
+B. Là tín dụng do ngân hàng thương mại cung cấp cho doanh nghiệp.
+*C. Là tín dụng do Nhà nước hoặc các tổ chức của Nhà nước cấp cho các tổ chức, cá nhân trong nền kinh tế.
+
+Câu 65. Tín dụng theo đối tượng đi vay có thể phân loại thành các nhóm nào?
+A. Tín dụng tiêu dùng và tín dụng đầu tư.
+*B. Tín dụng doanh nghiệp và tín dụng cá nhân.
+C. Tín dụng dài hạn và tín dụng ngắn hạn.
+
+Câu 66. Tín dụng vốn cố định là loại tín dụng dùng để làm gì?
+A. Để tài trợ cho các chi tiêu ngắn hạn của doanh nghiệp.
+*B. Để mua sắm tài sản cố định trong doanh nghiệp như máy móc, thiết bị, nhà xưởng.
+C. Để tài trợ cho mua sắm nguyên vật liệu trong doanh nghiệp.
+
+Câu 67. Tín dụng vốn lưu động là loại tín dụng dùng để làm gì?
+A. Để tài trợ cho các dự án đầu tư dài hạn như máy móc, nhà xưởng.
+B. Để thanh toán các khoản nợ dài hạn của doanh nghiệp.
+*C. Để tài trợ cho các hoạt động sản xuất, kinh doanh ngắn hạn như mua nguyên vật liệu, chi trả lương.
+
+Câu 68. Thời hạn cho vay được hiểu là:
+*A. Là khoảng thời gian được tính từ khi khách hàng bắt đầu nhận tiền vay cho đến thời điểm khách hàng hoàn trả hết nợ gốc và lãi vay đã thoả thuận trong hợp đồng tín dụng
+B. Là khoảng thời gian được tính từ khi hợp đồng tín dụng có hiệu lực cho đến thời điểm khách hàng trả hết tiền gốc và lãi vay đã được thoả thuận trong hợp đồng tín dụng
+C. Là khoảng thời gian được tính từ khi khách hàng bắt đầu trả nợ cho đến thời điểm hoàn trả nợ gốc và lãi tiền vay đã được thoả thuận trong hợp đồng tín dụng được ký giữa ngân hàng
+
+Câu 69. Tín dụng ngắn hạn là loại tín dụng có thời gian vay:
+*A. Dưới 1 năm.
+B. Từ 1 đến 3 năm.
+C. Từ 3 đến 5 năm.
+
+Câu 70. Tín dụng dài hạn là loại tín dụng có thời gian vay:
+A. Dưới 1 năm.
+B. Từ 1 đến 3 năm.
+*C. Trên 5 năm.
+
+Câu 71. Ngân hàng trung ương có vai trò quan trọng nào trong nền kinh tế?
+A. Cung cấp tín dụng cho các doanh nghiệp tư nhân.
+*B. Quản lý cung tiền và thực hiện chính sách tiền tệ quốc gia.
+C. Điều hành các khoản vay tiêu dùng cho người dân.
+
+Câu 72. Chức năng nào sau đây là chức năng chính của ngân hàng trung ương?
+*A. Phát hành tiền tệ và điều hành chính sách tiền tệ.
+B. Cung cấp tín dụng cho các ngân hàng thương mại.
+C. Quản lý tài sản của các ngân hàng thương mại.
+
+Câu 73. Một trong các mục tiêu của ngân hàng trung ương trong việc thực hiện chính sách tiền tệ là gì?
+A. Hỗ trợ các doanh nghiệp nhỏ và vừa.
+*B. Kiểm soát sự thay đổi giá trị đồng tiền và ổn định lạm phát.
+C. Đảm bảo tăng trưởng tín dụng của các ngân hàng thương mại.
+
+Câu 74. Ngân hàng trung ương có vai trò gì trong việc hỗ trợ các ngân hàng thương mại?
+A. Cung cấp tín dụng cho các doanh nghiệp trực tiếp.
+B. Cung cấp dịch vụ thanh toán cho các ngân hàng thương mại.
+*C. Đảm bảo thanh khoản, giám sát hoạt động tín dụng và là người cho vay cuối cùng đối với các ngân hàng thương mại.
+
+Câu 75. Chức năng nào sau đây không phải là chức năng của ngân hàng trung ương?
+A. Phát hành tiền tệ và quản lý cung tiền.
+B. Điều chỉnh tỷ giá hối đoái.
+*C. Thực hiện chính sách tài khóa cho ngân sách chính phủ.
+
+Câu 76. Chức năng phát hành tiền tệ của ngân hàng trung ương có tác dụng gì đối với nền kinh tế?
+A. Điều chỉnh lãi suất cho vay giữa các ngân hàng thương mại.
+*B. Đảm bảo tính ổn định của đồng tiền và đáp ứng nhu cầu thanh toán trong nền kinh tế.
+C. Cung cấp tín dụng cho các tổ chức tài chính quốc tế.
+
+Câu 77. Chức năng "Ngân hàng của Ngân hàng" của ngân hàng trung ương có nghĩa là gì?
+*A. Ngân hàng trung ương cung cấp dịch vụ ngân hàng cho các ngân hàng thương mại, bao gồm các khoản vay và thanh toán.
+B. Ngân hàng trung ương chỉ cung cấp dịch vụ cho các tổ chức tài chính quốc tế.
+C. Ngân hàng trung ương cung cấp vốn cho các doanh nghiệp tư nhân.
+
+Câu 78. Chức năng "Ngân hàng Nhà nước" của ngân hàng trung ương có nghĩa là gì?
+A. Ngân hàng trung ương cung cấp các khoản vay trực tiếp cho cá nhân.
+B. Ngân hàng trung ương thực hiện các chính sách tài khóa của Chính phủ.
+*C. Ngân hàng trung ương thay mặt Chính phủ thực hiện các nhiệm vụ về quản lý tài chính, ngân sách và phát hành tiền.
+
+Câu 79. Chức năng "Ngân hàng Nhà nước" giúp duy trì ổn định tài chính quốc gia thông qua những hoạt động nào?
+A. Quản lý các khoản vay của các ngân hàng thương mại.
+B. Cung cấp vốn đầu tư cho các doanh nghiệp công nghệ cao.
+*C. Phát hành tiền tệ và quản lý các hoạt động tài chính quốc gia.
+
+Câu 80. Chính sách tiền tệ được hiểu là gì?
+A. Chính sách của Chính phủ về việc tăng trưởng nền kinh tế.
+*B. Chính sách điều chỉnh cung tiền và lãi suất để kiểm soát lạm phát và ổn định nền kinh tế.
+C. Chính sách của ngân hàng trung ương về việc tăng trưởng tín dụng cho các ngân hàng thương mại.
+
+Câu 81. Chính sách tiền tệ nới lỏng có mục đích chính là gì?
+A. Kiểm soát lạm phát và ổn định giá trị đồng tiền.
+B. Giảm tỷ giá hối đoái và giảm thâm hụt ngân sách.
+*C. Khuyến khích đầu tư và tiêu dùng, tăng trưởng kinh tế.
+
+Câu 82. Công cụ trực tiếp của chính sách tiền tệ bao gồm?
+A. Quản lý dự trữ ngoại hối của Chính phủ.
+*B. Tỷ lệ dự trữ bắt buộc, lãi suất tái chiết khấu, và giao dịch thị trường mở.
+C. Lãi suất tín dụng, hạn mức tín dụng
+
+Câu 83. Công cụ nào sau đây không phải là công cụ của chính sách tiền tệ?
+A. Lãi suất tái chiết khấu.
+B. Giao dịch thị trường mở.
+*C. Chính sách tài khóa
+
+Câu 84. Chính sách tiền tệ thắt chặt (hạn chế) chủ yếu nhằm mục đích gì?
+A. Tăng trưởng nền kinh tế và giảm tỷ lệ thất nghiệp.
+*B. Kiểm soát lạm phát và ổn định giá trị đồng tiền.
+C. Cung cấp tín dụng rẻ cho các ngân hàng thương mại.
+
+Câu 85. Tỷ lệ dự trữ bắt buộc của các ngân hàng thương mại là gì?
+A. Tỷ lệ tiền mặt mà ngân hàng thương mại phải giữ lại để đối phó với các khoản vay.
+*B. Tỷ lệ mà ngân hàng thương mại phải giữ dự trữ và không cho vay.
+C. Tỷ lệ tiền gửi mà ngân hàng thương mại phải trả cho khách hàng.
+
+Câu 86. Lãi suất tái chiết khấu là gì?
+A. Lãi suất mà ngân hàng thương mại tính cho khách hàng khi cho vay.
+*B. Lãi suất mà ngân hàng trung ương áp dụng khi các ngân hàng thương mại vay vốn từ ngân hàng trung ương.
+C. Lãi suất trên các khoản vay của chính phủ.
+
+Câu 87. Nghiệp vụ thị trường mở được hiểu là gì?
+A. Ngân hàng trung ương mua bán ngoại tệ với các ngân hàng thương mại.
+*B. Ngân hàng trung ương thực hiện mua bán trái phiếu Chính phủ trên thị trường mở để điều chỉnh cung tiền.
+C. Chính phủ phát hành cổ phiếu để huy động vốn.
+
+Câu 88. Chức năng chính của các tổ chức tài chính trung gian là gì?
+A. Giảm lãi suất tín dụng cho các doanh nghiệp.
+*B. Giúp tiết kiệm chi phí giao dịch và rủi ro thông qua việc kết nối giữa người tiết kiệm và người vay.
+C. Phát hành trái phiếu Chính phủ.
+
+Câu 89. Các tổ chức tài chính trung gian đóng vai trò gì trong nền kinh tế?
+A. Chỉ cung cấp tín dụng cho các ngân hàng thương mại.
+*B. Kết nối giữa các nhà có vốn với các chủ thể cần vốn.
+C. Đảm bảo thanh khoản cho các chính phủ.
+
+Câu 90. Các tổ chức tài chính trung gian có thể là những tổ chức nào sau đây?
+*A. Các ngân hàng thương mại, công ty bảo hiểm, quỹ đầu tư, quỹ hưu trí.
+B. Chỉ các ngân hàng thương mại.
+C. Các tổ chức tài chính quốc tế như IMF và WB.
+
+Câu 91. Chính sách tiền tệ của Ngân hàng Trung ương sử dụng những công cụ gián tiếp nào sau đây:
+A. Dự trữ bắt buộc, lãi suất tái chiết khấu, lãi suất tín dụng
+B. Hạn mức tín dụng, nghiệp vụ thị trường mở
+*C. Dự trữ bắt buộc, lãi suất tái chiết khấu, nghiệp vụ thị trường mở
+
+Câu 92. Ngân hàng Trung ương phát hành tiền dựa trên cơ sở nào?
+*A. Khối lượng tiền cần phát hành phụ thuộc vào tốc độ tăng trưởng kinh tế và nhu cầu tiền trong từng thời kỳ.
+B. Khối lượng tiền cần phát hành phụ thuộc vào GDP bình quân trên đầu người trong từng thời kỳ.
+C. Khối lượng tiền cần phát hành phụ thuộc nhu cầu tiền trong từng thời kỳ.
+
+Câu 93. Ngân hàng thương mại có những chức năng chủ yếu nào?
+A. Chức năng trung gian thanh toán, trung gian tín dụng
+*B. Chức năng trung gian tín dụng, trung gian thanh toán, tạo tiền.
+C. Chức năng tạo tiền, trung gian thanh toán
+
+Câu 94. Chủ thể nào dưới đây được coi là trung gian tiết kiệm theo hợp đồng?
+*A. Ngân hàng thương mại
+B. Ngân hàng chính sách xã hội
+C. Bảo hiểm phi nhân thọ
+
+Câu 95. Chủ thể nào dưới đây không được coi là trung gian đầu tư?
+A. Tổ chức tín dụng
+B. Công ty tài chính
+*C. Quỹ đầu tư
+
+Câu 96. Thị trường tài chính được hiểu là:
+A. Là nơi các giao dịch về hàng hóa diễn ra
+*B. Là nơi cung cầu nguồn tài chính gặp nhau và tại đó các tài sản tài chính được mua bán
+C. Là nơi các giao dịch về bất động sản diễn ra
+
+Câu 97. Đặc điểm của thị trường vốn là:
+A. Giao dịch các tài sản có kỳ hạn ngắn, thường dưới 1 năm
+*B. Giao dịch các tài sản có kỳ hạn dài hơn 1 năm
+C. Chỉ giao dịch tiền tệ giữa các quốc gia
+
+Câu 98. Một trong số những chức năng của thị trường tài chính là:
+A. Đảm bảo sự tồn tại của các công ty lớn
+*B. Dẫn nguồn tài chính từ những chủ thể có khả năng cung ứng nguồn tài chính đến những chủ thể cần nguồn tài chính
+C. Chỉ điều tiết các vấn đề liên quan đến lãi suất
+
+Câu 99. Nhận định nào đúng về thị trường tiền tệ?
+A. Là nơi giao dịch các loại tài sản tài chính dài hạn và có tính lỏng thấp
+*B. Là nơi các ngân hàng và tổ chức tài chính giao dịch tiền tệ và các công cụ tài chính ngắn hạn và có tính lỏng cao
+C. Là nơi các công ty phát hành cổ phiếu
+
+Câu 100. Tín phiếu kho bạc là công cụ tài chính phát hành bởi:
+A. Các ngân hàng thương mại
+*B. Kho bạc Nhà nước
+C. Các công ty cổ phần
+
+Câu 101. Tín phiếu kho bạc thường có đặc điểm:
+A. Lãi suất rất cao và kỳ hạn dài
+*B. Là công cụ tài chính an toàn và có lãi suất thấp
+C. Chỉ được phát hành bởi các công ty lớn
+
+Câu 102. Trái phiếu là công cụ tài chính được phát hành bởi:
+*A. Chính phủ hoặc các công ty lớn
+B. Các tổ chức tín dụng nước ngoài
+C. Các cá nhân hoặc tổ chức không phải là công ty lớn
+
+Câu 103. Theo sự luân chuyển nguồn tài chính, thị trường tài chính có thể được chia thành:
+A. Thị trường trái phiếu và thị trường cổ phiếu
+B. Thị trường tiền tệ và thị trường ngoại hối
+*C. Thị trường sơ cấp và thị trường thứ cấp
+
+Câu 104. Thị trường chứng khoán sơ cấp là:
+A. Thị trường nơi các nhà đầu tư giao dịch cổ phiếu đã được phát hành
+*B. Thị trường nơi các công ty phát hành cổ phiếu, trái phiếu lần đầu để huy động vốn
+C. Thị trường nơi các tổ chức tài chính thực hiện giao dịch mua bán tài sản
+
+Câu 105. Thị trường chứng khoán thứ cấp là:
+A. Thị trường nơi các công ty phát hành cổ phiếu lần đầu tiên
+*B. Thị trường nơi các nhà đầu tư giao dịch cổ phiếu và trái phiếu đã được phát hành
+C. Thị trường chỉ dành cho các giao dịch giữa các tổ chức tài chính
+
+Câu 106. Theo tính chất pháp lý, thị trường tài chính có thể được chia thành:
+A. Thị trường trái phiếu và thị trường cổ phiếu
+B. Thị trường tiền tệ và thị trường ngoại hối
+*C. Thị trường chính thức và thị trường không chính thức
+
+Câu 107. Theo thời gian hoạt động, thị trường tài chính có thể chia thành:
+*A. Thị trường sơ cấp và thị trường thứ cấp
+B. Thị trường tiền tệ và thị trường vốn
+C. Thị trường ngoại hối và thị trường vàng
+
+Câu 108. Lý do chủ yếu mà các nhà đầu tư tham gia thị trường chứng khoán là:
+A. Để huy động vốn cho các dự án lớn
+*B. Để kiếm lời từ sự tăng giá của cổ phiếu hoặc nhận cổ tức
+C. Để giảm thiểu rủi ro tài chính
+
+Câu 109. Thị trường chứng khoán sơ cấp có vai trò quan trọng vì?
+A. Nó cho phép các nhà đầu tư bán chứng khoán cho nhau
+B. Nó giúp các nhà đầu tư tiếp cận với các chứng khoán đã phát hành
+*C. Nó tạo ra cơ hội cho các công ty huy động vốn mới thông qua phát hành cổ phiếu hoặc trái phiếu
+
+Câu 110. Thuê mua tài chính được hiểu là:
+A. Một hình thức vay vốn với lãi suất thấp để mua tài sản
+*B. Một hình thức cho thuê tài sản, trong đó người thuê có quyền sử dụng tài sản trong một khoảng thời gian nhất định
+C. Một hình thức mua tài sản mà không cần phải trả tiền ngay lập tức
+
+Câu 111. Tính thanh khoản của một công cụ tài chính thể hiện điều gì?
+*A. Công cụ tài chính có thể được mua bán dễ dàng và nhanh chóng mà không làm thay đổi giá trị của nó
+B. Công cụ tài chính có mức lãi suất cao
+C. Công cụ tài chính có thể được sử dụng làm thế chấp vay vốn
+
+Câu 112. Thị trường tài chính có vai trò quan trọng gì đối với nền kinh tế?
+*A. Giúp huy động vốn, phân phối vốn và giảm thiểu rủi ro cho các nhà đầu tư
+B. Tạo ra một môi trường mua bán tài sản vật chất
+C. Kiểm soát hoàn toàn các hoạt động của ngân hàng trung ương
+
+Câu 113. Trái phiếu được hiểu là:
+A. Một loại chứng khoán mà nhà đầu tư sở hữu và nhận cổ tức
+*B. Một chứng khoán nợ mà nhà phát hành cam kết trả lãi định kỳ và gốc khi đáo hạn
+C. Một loại tiền tệ có thể giao dịch trên thị trường quốc tế
+
+Câu 114. Cổ phiếu được hiểu là:
+A. Một loại trái phiếu do chính phủ phát hành
+*B. Một chứng khoán xác nhận quyền sở hữu của một cá nhân đối với một phần tài sản của công ty
+C. Một khoản vay dài hạn từ ngân hàng cho doanh nghiệp
+
+Câu 115. Chứng chỉ tiền gửi là:
+A. Một loại chứng khoán xác nhận quyền sở hữu cổ phần trong một công ty
+*B. Một loại chứng chỉ xác nhận việc gửi tiền vào ngân hàng với thời hạn nhất định và lãi suất cố định
+C. Một chứng chỉ xác nhận quyền vay vốn từ ngân hàng
+
+Câu 116. Tín phiếu ngân hàng trung ương là:
+A. Một loại chứng khoán dài hạn do ngân hang trung ương phát hành để huy động vốn
+*B. Một loại chứng khoán ngắn hạn do ngân hang trung ương phát hành để vay vốn từ thị trường
+C. Một loại trái phiếu do chính phủ phát hành
+
+Câu 117. Trái phiếu doanh nghiệp có đặc điểm nào sau đây?
+*A. Là giấy nhận nợ giúp công ty huy động vốn
+B. Người sở hữu trái phiếu có quyền bỏ phiếu trong các cuộc họp cổ đông
+C. Trái phiếu luôn mang lại lợi nhuận cao cho nhà đầu tư
+
+Câu 118. Thị trường liên ngân hàng thuộc thị trường nào?
+A. Thị trường cho vay ngắn hạn
+*B. Thị trường tiền tệ
+C. Thị trường chứng khoán sơ cấp
+
+Câu 119. Thị trường ngoại hối là thị trường:
+*A. Giao dịch cổ phiếu của các công ty đa quốc gia
+B. Giao dịch tiền tệ của các quốc gia
+C. Giao dịch trái phiếu và công cụ nợ
+
+Câu 120. Trái phiếu chính phủ là loại trái phiếu do:
+A. Các công ty tư nhân phát hành
+*B. Chính phủ phát hành để huy động vốn cho các dự án công
+C. Các ngân hàng phát hành để huy động vốn cho vay
+
+Câu 121. Ngân sách Nhà nước được hiểu là:
+A. Là kế hoạch tài chính của các doanh nghiệp quốc doanh để quản lý các hoạt động kinh tế.
+*B. Là quỹ tiền tệ tập trung lớn của Nhà nước, hình thành từ GDP và các nguồn tài chính khác, sử dụng cho các chức năng của Nhà nước.
+C. Là quỹ tài chính của các tổ chức phi chính phủ để thực hiện các hoạt động xã hội.
+
+Câu 122. Chi NSNN được hiểu là:
+A. Việc thu các khoản thuế và lệ phí từ các cá nhân, tổ chức.
+*B. Việc phân phối và sử dụng quỹ NSNN nhằm đảm bảo thực hiện các chức năng, nhiệm vụ của Nhà nước theo những nguyên tắc nhất định.
+C. Việc vay nợ từ các tổ chức tài chính quốc tế để chi cho các dự án phát triển.
+
+Câu 123. Khái niệm nào sau đây đúng về tài chính công?
+A. Tài chính công là phương thức huy động và phân bổ nguồn lực tài chính của các doanh nghiệp tư nhân.
+*B. Tài chính công là phương thức huy động, phân bổ và sử dụng các nguồn lực tài chính do Nhà nước thực hiện để cung cấp hàng hóa công cho xã hội.
+C. Tài chính công chỉ liên quan đến các quỹ tài chính do các tổ chức phi chính phủ quản lý.
+
+Câu 124. Đặc điểm nào sau đây không thuộc về tài chính công?
+A. Tài chính công gắn liền với sở hữu Nhà nước và lợi ích công.
+B. Tài chính công do Nhà nước là chủ thể duy nhất quyết định thu chi.
+*C. Tài chính công phục vụ cho các hoạt động vì lợi nhuận của các tổ chức kinh tế. (tài chính công phục vụ lợi ích chung của xã hội)
+
+Câu 125. Nhận định nào đúng về vai trò của tài chính công?
+A. Quản lý các doanh nghiệp tư nhân.
+*B. Đảm bảo duy trì sự tồn tại và hoạt động của bộ máy Nhà nước.
+C. Cung cấp vốn cho các dự án đầu tư quốc tế.
+
+Câu 126. Một trong các mục tiêu của tài chính công là:
+*A. Thúc đẩy chuyển dịch cơ cấu kinh tế và đảm bảo tăng trưởng bền vững.
+B. Giảm thuế cho các doanh nghiệp lớn.
+C. Cung cấp lợi nhuận cho các công ty nhà nước.
+
+Câu 127. Tài chính công có vai trò gì trong việc thực hiện công bằng xã hội?
+A. Tài chính công chỉ giúp tăng thu nhập cho những người giàu có.
+*B. Tài chính công giúp tái phân phối thu nhập xã hội qua thuế và chi tiêu công để điều tiết thu nhập và nâng đỡ thu nhập thấp.
+C. Tài chính công không liên quan đến công bằng xã hội.
+
+Câu 128. Trong hệ thống tài chính quốc gia, tài chính công đóng vai trò như thế nào?
+A. Là một phần không quan trọng trong hệ thống tài chính quốc gia.
+B. Là một yếu tố không chịu sự điều chỉnh của pháp luật quốc gia.
+*C. Giữ vai trò chủ đạo trong việc quản lý, điều tiết kinh tế xã hội và giám sát các hoạt động tài chính của các chủ thể khác.
+
+Câu 129. Ngân sách Nhà nước có vai trò gì trong nền kinh tế?
+*A. Giải quyết các vấn đề tài chính vĩ mô và các cân đối vĩ mô của nền kinh tế.
+B. Quản lý chi phí của các doanh nghiệp quốc gia.
+C. Đảm bảo lợi nhuận cho các công ty đa quốc gia.
+
+Câu 130. Đặc điểm nào dưới đây là chính xác về tổ chức hệ thống Ngân sách Nhà nước?
+A. Hệ thống Ngân sách Nhà nước là một tập hợp các quỹ tài chính của các tổ chức phi chính phủ.
+*B. Hệ thống Ngân sách Nhà nước có mối quan hệ hữu cơ giữa các cấp Ngân sách trong quá trình thực hiện nhiệm vụ thu chi.
+C. Hệ thống Ngân sách Nhà nước không có sự thống nhất về cơ sở kinh tế và chính trị.
+
+Câu 131. Thu NSNN được hiểu là:
+A. Việc nhà nước thu các khoản phí và lệ phí từ các tổ chức, cá nhân.
+*B. Việc nhà nước dùng quyền lực của mình để tập trung một phần nguồn tài chính quốc gia hình thành quỹ ngân sách nhà nước nhằm đáp ứng nhu cầu chi tiêu của nhà nước.
+C. Việc nhà nước thu các khoản thuế từ các pháp nhân và thể nhân.
+
+Câu 132. Nhận định nào đúng về phí?
+*A. Khoản thu mà người dân phải trả khi thụ hưởng các dịch vụ công. (Phí cấp giấy phép lái xe,phí đăng kiểm xe, phí cấp hộ chiếu..)
+B. Khoản đóng góp bắt buộc của các pháp nhân và thể nhân cho ngân sách nhà nước.
+C. Khoản thu từ lợi tức các cơ sở kinh tế nhà nước.
+
+Câu 133. Thuế trực thu được biết đến là:
+A. Thuế đánh vào tài sản và tiêu dùng.
+*B. Thuế đánh vào thu nhập hoặc lợi nhuận của các pháp nhân và thể nhân.
+C. Thuế đánh vào các khoản viện trợ quốc tế.
+
+Câu 134. Thuế gián thu là:
+A. Thuế đánh trực tiếp vào thu nhập hoặc lợi nhuận của cá nhân và tổ chức.
+*B. Thuế đánh vào tiêu dùng, sản phẩm, hàng hóa và dịch vụ.
+C. Thuế đánh vào tài sản và di sản.
+
+Câu 135. Lệ phí được hiểu là:
+*A. Khoản thu phát sinh ở cơ quan của bộ máy chính quyền nhà nước khi cung cấp các dịch vụ công về hành chính, pháp lý.
+B. Khoản thu từ các hoạt động kinh tế của nhà nước.
+C. Khoản thu mà người dân phải trả khi thụ hưởng các dịch vụ công.
+
+Câu 136. Chi thường xuyên là:
+A. Các khoản chi dài hạn phục vụ cho mục tiêu phát triển bền vững của đất nước.
+*B. Các khoản chi có thời hạn tác động ngắn, chủ yếu phục vụ chức năng quản lý, điều hành xã hội của Nhà nước.
+C. Các khoản chi cho các hoạt động quân sự và quốc phòng.
+
+Câu 137. Nợ công là gì?
+A. Tất cả các khoản vay của các doanh nghiệp tư nhân để phát triển sản xuất.
+*B. Tất cả các khoản nợ tích tụ từ các khoản vay trong nước và nước ngoài của khu vực công, mà trách nhiệm trả nợ thuộc về Nhà nước.
+C. Các khoản vay từ các tổ chức quốc tế hỗ trợ cho các dự án phát triển xã hội.
+
+Câu 138. Nhận định nào đúng về thâm hụt ngân sách nhà nước?
+*A. Là tình trạng khi tổng chi ngân sách vượt quá tổng thu ngân sách trong một kỳ.
+B. Là tình trạng khi tổng thu ngân sách lớn hơn tổng chi ngân sách.
+C. Là tình trạng khi ngân sách nhà nước không có đủ nguồn lực để chi trả các khoản vay.
+
+Câu 139. Quỹ dự trữ của Nhà nước có chức năng gì?
+A. Đảm bảo chi trả các khoản trợ cấp xã hội cho người dân.
+*B. Dự trữ, dự phòng rủi ro và bất trắc của nền kinh tế - xã hội.
+C. Hỗ trợ các doanh nghiệp vừa và nhỏ.
+
+Câu 140. Quỹ bảo hiểm xã hội được sử dụng để làm gì?
+*A. Chi trả trợ cấp cho người lao động khi nghỉ hưu và trong các tình huống mất khả năng lao động.
+B. Hỗ trợ chi phí khám, chữa bệnh cho người tham gia bảo hiểm.
+C. Đầu tư vào các dự án hạ tầng xã hội.
+
+Câu 141. Quỹ hỗ trợ phát triển chủ yếu dành cho mục tiêu gì?
+A. Đầu tư vào các dự án bảo vệ môi trường.
+*B. Đầu tư và hỗ trợ các hoạt động phát triển kinh tế, đặc biệt là các doanh nghiệp nhỏ và vừa.
+C. Hỗ trợ cho các đối tượng thuộc diện chính sách xã hội.
+
+Câu 142. Quỹ bảo lãnh tín dụng cho các doanh nghiệp nhỏ và vừa có đặc điểm gì?
+A. Quỹ này chủ yếu hỗ trợ các doanh nghiệp lớn.
+*B. Quỹ này có tính chất hỗ trợ tài chính cho các doanh nghiệp nhỏ và vừa với các điều kiện tín dụng ưu đãi.
+C. Quỹ này chủ yếu tập trung vào các dự án phát triển cơ sở hạ tầng.
+
+Câu 143. Nợ công bao gồm các nghĩa vụ nợ nào?
+A. Nghĩa vụ nợ của các doanh nghiệp tư nhân.
+*B. Nghĩa vụ nợ của các cấp chính quyền địa phương, các bộ ngành, Ngân hàng Nhà nước và các thể chế độc lập được bao cấp bởi Nhà nước.
+C. Nghĩa vụ nợ của các tổ chức quốc tế đối với các quốc gia.
+
+Câu 144. Nợ công đáp ứng nhu cầu gì trong nền kinh tế?
+A. Để tăng cường nguồn tài chính cho các doanh nghiệp tư nhân.
+B. Để chi trả cho các khoản trợ cấp xã hội.
+*C. Để bù đắp bội chi ngân sách nhà nước và cung cấp vốn cho chi đầu tư phát triển, kích thích phát triển kinh tế - xã hội.
+
+Câu 145. Chi đầu tư phát triển là:
+A. Chi tiêu dùng cho các hoạt động hàng ngày của doanh nghiệp.
+*B. Chi phí cho các dự án và hoạt động nhằm phát triển cơ sở hạ tầng, mở rộng sản xuất và nâng cao năng lực của nền kinh tế.
+C. Chi phí trả lương cho nhân viên trong các cơ quan nhà nước.
+
+Câu 146. Tài chính doanh nghiệp được hiểu là:
+A. Quá trình quản lý nguồn tài chính của các tổ chức tài chính
+*B. Quá trình quản lý, huy động và sử dụng các nguồn lực tài chính của doanh nghiệp nhằm đạt được mục tiêu tài chính của doanh nghiệp
+C. Quá trình lập kế hoạch tài chính cho các tổ chức phi lợi nhuận
+
+Câu 147. Quỹ đầu tư phát triển của doanh nghiệp là:
+A. Quỹ dùng để trả nợ cho các chủ nợ
+B. Quỹ dùng để chi trả cổ tức cho cổ đông
+*C. Quỹ dùng để tái đầu tư vào các dự án, mở rộng sản xuất hoặc phát triển kinh doanh của doanh nghiệp
+
+Câu 148. Tài chính doanh nghiệp liên quan trực tiếp đến hoạt động nào trong quá trình ra quyết định kinh doanh?
+A. Lập chiến lược marketing
+B. Định giá sản phẩm
+*C. Quản lý rủi ro và quyết định đầu tư
+
+Câu 149. Tại sao tài chính doanh nghiệp lại quan trọng đối với sự tồn tại và phát triển của doanh nghiệp?
+A. Giúp doanh nghiệp có thể trả lương cho nhân viên
+*B. Đảm bảo doanh nghiệp có đủ vốn để duy trì hoạt động và đầu tư vào phát triển
+C. Giúp doanh nghiệp tránh được các khoản thuế
+
+Câu 150. Quyết định tài chính doanh nghiệp chủ yếu liên quan đến những yếu tố nào?
+A. Quyết định về sản xuất và marketing
+*B. Quyết định về huy động vốn, đầu tư và phân phối lợi nhuận
+C. Quyết định về chiến lược nhân sự và mở rộng thị trường
+
+Câu 151. Quyết định tài chính về phân phối lợi nhuận bao gồm việc?
+*A. Quyết định về mức độ trả cổ tức cho cổ đông và việc tái đầu tư lợi nhuận vào doanh nghiệp
+B. Quyết định về việc bán tài sản của công ty để tăng lợi nhuận
+C. Quyết định về việc cho nhân viên vay tiền
+
+Câu 152. Một trong những mục tiêu của quyết định tài chính doanh nghiệp là:
+A. Tăng trưởng doanh thu ngắn hạn
+*B. Tối đa hóa giá trị của doanh nghiệp và lợi ích cổ đông trong dài hạn
+C. Tăng số lượng nhân viên
+
+Câu 153. Phân phối lợi nhuận của doanh nghiệp là:
+A. Quy trình chi trả tiền lương cho nhân viên
+*B. Quy trình phân chia và sử dụng lợi nhuận sau thuế của doanh nghiệp
+C. Quy trình phân bổ doanh thu giữa các bộ phận trong doanh nghiệp
+
+Câu 154. Mục tiêu gia tăng trách nhiệm xã hội của doanh nghiệp bao gồm những yếu tố nào?
+A. Tăng lợi nhuận tối đa cho các cổ đông.
+*B. Đảm bảo quyền lợi cho người lao động, bảo vệ người tiêu dùng, bảo vệ môi trường.
+C. Giảm giá thành sản phẩm và tối ưu hoá lợi nhuận.
+
+Câu 155. Một trong những yếu tố cần xem xét khi ra quyết định đầu tư là:
+*A. Lợi nhuận dự kiến từ dự án đầu tư và mức độ rủi ro liên quan
+B. Giá trị của cổ phiếu trên thị trường
+C. Mức độ ảnh hưởng của quyết định đầu tư đến mức lương của nhân viên
+
+Câu 156. Nhân tố nào dưới đây không phải là yếu tố ảnh hưởng đến quyết định tài chính của doanh nghiệp?
+A. Mục tiêu tài chính của doanh nghiệp
+*B. Chiến lược phát triển sản phẩm
+C. Môi trường kinh tế vĩ mô (lãi suất, tỷ giá, lạm phát)
+
+Câu 157. Mức độ rủi ro mà doanh nghiệp sẵn sàng chấp nhận ảnh hưởng trực tiếp đến quyết định tài chính nào?
+A. Quyết định về giá trị cổ phiếu
+*B. Quyết định về cấu trúc vốn (nợ và vốn chủ sở hữu)
+C. Quyết định về chiến lược marketing
+
+Câu 158. Tài sản cố định có đặc điểm cơ bản nào sau đây?
+*A. Có thời gian sử dụng trên một năm và được sử dụng để sản xuất, kinh doanh
+B. Là tài sản có thể chuyển nhượng ngay lập tức
+C. Không thể sử dụng trong quá trình sản xuất và kinh doanh
+
+Câu 159. Tài sản cố định được phân loại thành:
+*A. Tài sản cố định hữu hình và tài sản cố định vô hình
+B. Tài sản cố định và tài sản lưu động
+C. Tài sản cố định và tài sản ngắn hạn
+
+Câu 160. Khấu hao tài sản cố định có nghĩa là:
+*A. Là việc giảm giá trị của tài sản cố định do sự hao mòn tự nhiên, công nghệ lạc hậu hoặc sử dụng lâu dài
+B. Là việc gia tăng giá trị của tài sản cố định trong quá trình sử dụng
+C. Là việc trả lại tài sản cố định cho nhà cung cấp
+
+Câu 161. Tài sản cố định có tính chất gì trong quá trình sử dụng?
+A. Không bị hao mòn trong quá trình sử dụng
+*B. Bị hao mòn, giảm giá trị trong quá trình sử dụng do sự khấu hao hoặc lạc hậu
+C. Tăng giá trị theo thời gian sử dụng
+
+Câu 162. Nhận định nào đúng về tài sản cố định trong doanh nghiệp?
+A. Chỉ được sử dụng trong một chu kỳ sản xuất ngắn hạn
+*B. Được sử dụng liên tục và lâu dài trong sản xuất, kinh doanh
+C. Không ảnh hưởng đến quy trình sản xuất của doanh nghiệp
+
+Câu 163. Tài sản cố định vô hình có đặc điểm nào?
+A. Có thể cảm nhận được bằng cách chạm vào
+*B. Không có hình dáng vật lý nhưng có giá trị sử dụng lâu dài
+C. Chỉ tồn tại trong một thời gian ngắn
+
+Câu 164. Tài sản lưu động được hiểu là:
+A. Tài sản có thời gian sử dụng dài hơn một năm và sử dụng trong sản xuất kinh doanh
+B. Tài sản có giá trị lớn và có thể chuyển nhượng dễ dàng
+*C. Tài sản sử dụng trong quá trình sản xuất, kinh doanh và có thể chuyển hóa thành tiền mặt trong vòng một năm hoặc chu kỳ sản xuất kinh doanh
+
+Câu 165. Tài sản lưu động có vai trò gì trong doanh nghiệp?
+*A. Đảm bảo khả năng thanh toán và duy trì hoạt động sản xuất, kinh doanh liên tục
+B. Tạo ra lợi nhuận từ việc tăng giá trị tài sản
+C. Giảm chi phí tài chính trong dài hạn
+
+Câu 166. Một trong những yếu tố quan trọng khi quản lý tài sản lưu động là gì?
+A. Giảm giá trị tài sản lưu động trong thời gian dài
+*B. Đảm bảo rằng tài sản lưu động có thể chuyển đổi thành tiền mặt nhanh chóng khi cần thiết
+C. Tăng số lượng tài sản lưu động để đạt được lợi nhuận cao
+
+Câu 167. Một trong những đặc điểm của nguồn vốn chủ sở hữu là:
+A. Có lãi suất cố định
+*B. Không cần phải hoàn trả
+C. Được bảo đảm bởi tài sản của doanh nghiệp
+
+Câu 168. Đặc điểm của nợ phải trả đối với doanh nghiệp là:
+A. Doanh nghiệp không cần phải trả nợ
+B. Nợ phải trả không có lãi suất
+*C. Doanh nghiệp phải trả lại nợ trong một thời gian nhất định
+
+Câu 169. Chi phí trong doanh nghiệp được hiểu là:
+*A. Số tiền doanh nghiệp phải chi để sản xuất và kinh doanh
+B. Số tiền doanh nghiệp nhận được từ khách hàng
+C. Lợi nhuận doanh nghiệp tạo ra từ hoạt động kinh doanh
+
+Câu 170. Giá thành của sản phẩm là:
+*A. Tổng chi phí liên quan đến việc sản xuất và tiêu thụ sản phẩm
+B. Giá bán sản phẩm trên thị trường
+C. Lợi nhuận doanh nghiệp thu được từ sản phẩm
+
+Câu 171. Giá thành sản phẩm ảnh hưởng như thế nào đến quyết định giá bán?
+A. Doanh nghiệp chỉ cần dựa vào chi phí sản xuất mà không quan tâm đến giá bán
+*B. Giá thành quyết định giá bán sản phẩm, nhưng không phải lúc nào cũng bằng nhau
+C. Doanh nghiệp phải bán thấp hơn giá thành để có thị phần
+
+Câu 172. Doanh thu của doanh nghiệp là:
+*A. Số tiền doanh nghiệp thu được từ việc bán hàng hoặc cung cấp dịch vụ
+B. Số tiền doanh nghiệp chi để sản xuất sản phẩm
+C. Lợi nhuận sau thuế mà doanh nghiệp thu được
+
+Câu 173. Doanh thu khác được xác định là:
+A. Doanh thu từ các hoạt động sản xuất chính của doanh nghiệp
+B. Doanh thu từ việc cung cấp dịch vụ
+*C. Doanh thu từ các hoạt động không phải là hoạt động chính của doanh nghiệp
+
+Câu 174. Doanh thu từ hoạt động tài chính của doanh nghiệp là:
+A. Doanh thu từ việc bán sản phẩm và cung cấp dịch vụ
+*B. Doanh thu từ hoạt động đầu tư, cổ tức, lãi vay, lãi từ đầu tư tài chính
+C. Doanh thu từ việc cho thuê tài sản
+
+Câu 175. Lợi nhuận từ hoạt động tài chính của doanh nghiệp bao gồm:
+A. Doanh thu từ bán hàng và cung cấp dịch vụ
+*B. Lợi nhuận từ các khoản đầu tư tài chính, cổ tức, lãi vay, và lãi từ các khoản cho vay
+C. Lợi nhuận từ các hoạt động kinh doanh chính
+
+Câu 176. Hình thức chu chuyển tiền tệ trong nền kinh tế bao gồm:
+*A. Thanh toán tiền mặt và thanh toán không dùng tiền mặt
+B. Thanh toán qua ngân hàng và thanh toán trực tiếp tại quầy
+C. Thanh toán qua thẻ tín dụng và thanh toán qua ví điện tử
+
+Câu 177. Thanh toán bằng tiền mặt chủ yếu phục vụ cho:
+*A. Các giao dịch nhỏ lẻ hoặc khi không có điều kiện qua ngân hàng
+B. Các giao dịch lớn giữa các doanh nghiệp
+C. Chỉ sử dụng trong giao dịch mua bán trực tuyến
+
+Câu 178. Thanh toán qua ngân hàng (chuyển khoản) có đặc điểm:
+*A. Thực hiện qua việc trích chuyển tiền trên tài khoản hoặc bù trừ lẫn nhau thông qua ngân hàng
+B. Chủ yếu phục vụ cho các giao dịch nhỏ lẻ
+C. Không yêu cầu tài khoản ngân hàng của các bên tham gia giao dịch
+
+Câu 179. Mối quan hệ giữa thanh toán bằng tiền mặt và thanh toán qua ngân hàng trong nền kinh tế là:
+A. Không có sự liên hệ nào
+B. Chúng hoàn toàn thay thế cho nhau
+*C. Hai hình thức này có mối liên hệ mật thiết và thường xuyên chuyển hóa lẫn nhau
+
+Câu 180. Khi nền kinh tế phát triển, xu hướng về chu chuyển tiền tệ sẽ như thế nào?
+A. Thanh toán bằng tiền mặt sẽ tăng tỷ trọng
+*B. Thanh toán qua ngân hàng sẽ tăng tỷ trọng và thanh toán bằng tiền mặt sẽ giảm tỷ trọng
+C. Cả hai hình thức thanh toán đều giữ tỷ trọng như nhau
+
+Câu 181. Tại sao thanh toán qua ngân hàng (chuyển khoản) trở nên phổ biến hơn trong nền kinh tế phát triển?
+*A. Thanh toán qua ngân hàng nhanh chóng và tiện lợi cho các giao dịch lớn.
+B. Thanh toán qua ngân hàng có phí giao dịch rất thấp.
+C. Người dân không thích sử dụng tiền mặt vì lý do an toàn.
+
+Câu 182. Trong thanh toán qua ngân hàng, các giao dịch thường được thực hiện thông qua:
+A. Việc rút tiền mặt từ các cây ATM.
+*B. Việc chuyển tiền giữa các tài khoản thông qua ngân hàng hoặc tổ chức tài chính.
+C. Việc trao đổi tiền mặt giữa các bên giao dịch.
+
+Câu 183. Khi nền kinh tế phát triển, xu hướng giảm tỷ trọng thanh toán bằng tiền mặt là do:
+*A. Sự ra đời của các phương thức thanh toán qua thẻ và chuyển khoản.
+B. Các quy định của Chính phủ hạn chế sử dụng tiền mặt.
+C. Việc sử dụng tiền mặt trong giao dịch bị pháp luật cấm.
+
+Câu 184. Một đặc điểm quan trọng của thanh toán qua ngân hàng là:
+A. Tiền tệ vận động cùng với vận động của vật tư, hàng hóa.
+*B. Tiền tệ vận động độc lập so với vật tư, hàng hóa cả về thời gian và không gian.
+C. Tiền tệ luôn đi kèm với vật tư, hàng hóa trong thanh toán.
+
+Câu 185. Trong thanh toán qua ngân hàng, vai trò của tiền mặt là:
+A. Tiền mặt xuất hiện như trong thanh toán bằng tiền mặt.
+*B. Tiền mặt không xuất hiện mà chỉ tồn tại dưới dạng tiền ghi sổ.
+C. Tiền mặt luôn được sử dụng để thanh toán trực tiếp..
+
+Câu 186. Trong thanh toán qua ngân hàng, vai trò của ngân hàng là:
+A. Ngân hàng chỉ đóng vai trò trung gian trong việc chuyển tiền giữa các bên.
+B. Ngân hàng không có vai trò gì trong việc tổ chức và thực hiện thanh toán.
+*C. Ngân hàng đóng vai trò quản lý, tổ chức và thực hiện các khoản thanh toán
+
+Câu 187. Tác dụng của thanh toán qua ngân hàng đối với nền kinh tế là:
+*A. Thúc đẩy quá trình vận động của vật tư, hàng hóa trong nền kinh tế.
+B. Giảm thiểu sự vận động của vật tư, hàng hóa trong nền kinh tế.
+C. Làm cho các giao dịch hàng hóa trở nên khó khăn và phức tạp hơn.
+
+Câu 188. Nhận định nào đúng về thanh toán qua ngân hàng?
+A. Cho phép ngân hàng rút bớt lượng vốn tín dụng từ nền kinh tế.
+*B. Giúp ngân hàng tập trung ngày càng nhiều các khoản vốn tiền tệ, làm tăng nguồn vốn tín dụng để đầu tư vào tái sản xuất mở rộng.
+C. Làm giảm nguồn vốn tín dụng trong nền kinh tế.
+
+Câu 189. Thanh toán qua ngân hàng giúp tiết kiệm chi phí cho xã hội bằng cách:
+*A. Giảm bớt lượng tiền mặt trong lưu thông.
+B. Tăng số lượng tiền mặt lưu thông trong nền kinh tế.
+C. Cấm sử dụng tiền mặt trong tất cả các giao dịch.
+
+Câu 190. Phát biểu nào đúng khi nói về vai trò của ngân hàng trong thanh toán qua ngân hàng?
+A. Ngân hàng chỉ có vai trò trong việc cung cấp dịch vụ tiền gửi cho khách hàng.
+*B. Ngân hàng là tổ chức tổ chức và thực hiện các khoản thanh toán trong nền kinh tế, bao gồm cả Ngân hàng Nhà nước và Ngân hàng Thương mại.
+C. Ngân hàng không có vai trò quan trọng trong việc tổ chức thanh toán qua ngân hàng.
+
+Câu 191. Trong quá trình thanh toán qua ngân hàng, tiền tệ được thể hiện dưới dạng:
+A. Tiền mặt.
+*B. Tiền chuyển khoản, tức là tiền ghi sổ.
+C. Tiền kỹ thuật số.
+
+Câu 192. Thanh toán quốc tế có phạm vi áp dụng là:
+A. Chỉ áp dụng trong phạm vi một quốc gia.
+*B. Thanh toán vượt ra khỏi biên giới quốc gia, được Ngân hàng Nhà nước cấp phép.
+C. Chỉ áp dụng trong khu vực ASEAN.
+
+Câu 193. Điều kiện để chủ tài khoản thanh toán thực hiện giao dịch là gì?
+*A. Chủ tài khoản phải có đủ tiền trong tài khoản tại thời điểm thanh toán để chi trả theo lệnh thanh toán.
+B. Chủ tài khoản không cần có đủ tiền trong tài khoản, ngân hàng sẽ tự động hoàn thành giao dịch.
+C. Chủ tài khoản chỉ cần có tài khoản tại ngân hàng, không cần tiền trong tài khoản.
+
+Câu 194. Lệnh thanh toán là gì?
+*A. Lệnh thanh toán là lệnh của các tổ chức, cá nhân sử dụng dịch vụ thanh toán đối với các tổ chức cung ứng dịch vụ thanh toán.
+B. Lệnh thanh toán là chỉ thị của ngân hàng đối với khách hàng.
+C. Lệnh thanh toán là giấy tờ chứng minh giao dịch thanh toán đã được thực hiện.
+
+Câu 195. Chứng từ thanh toán có đặc điểm gì?
+A. Chứng từ thanh toán chỉ tồn tại dưới dạng giấy và không có bản sao.
+*B. Chứng từ thanh toán có thể là văn bản giấy hoặc chứng từ điện tử để chứng minh và lưu giữ lệnh thanh toán.
+C. Chứng từ thanh toán chỉ có dưới dạng điện tử.
+
+Câu 196. Mục đích của việc kiểm tra, kiểm soát chứng từ thanh toán là gì?
+*A. Đảm bảo việc tiếp nhận và xử lý các chứng từ thanh toán một cách kịp thời, an toàn và nhanh chóng.
+B. Đảm bảo rằng chứng từ thanh toán không bị làm giả.
+C. Đảm bảo rằng chỉ có ngân hàng được phép kiểm tra chứng từ thanh toán.
+
+Câu 197. Séc được hiểu là?
+*A. Lệnh trả tiền của chủ tài khoản, yêu cầu ngân hàng thanh toán một số tiền cho người thụ hưởng.
+B. Hợp đồng vay mượn giữa hai cá nhân hoặc tổ chức.
+C. Giấy tờ xác nhận một khoản vay giữa người vay và ngân hàng.
+
+Câu 198. Ủy nhiệm chi là gì?
+A. Là phương thức thanh toán giữa các ngân hàng
+*B. Là hình thức người trả tiền yêu cầu ngân hàng chuyển tiền cho người nhận
+C. Là hình thức chuyển tiền trực tiếp từ người trả tiền sang người nhận
+
+Câu 199. Thanh toán bằng uỷ thác thu là gì?
+A. Là phương thức thanh toán trong đó người mua thanh toán ngay khi nhận hàng
+*B. Là phương thức thanh toán trong đó người bán yêu cầu ngân hàng thu tiền từ người mua sau khi giao hàng
+C. Là phương thức thanh toán bằng séc
+
+Câu 200. Thẻ ngân hàng được sử dụng để làm gì?
+A. Chỉ dùng để gửi tiền vào tài khoản ngân hàng.
+*B. Sử dụng trong thanh toán tiền mua hàng hóa, dịch vụ, hoặc rút tiền mặt tại các ngân hàng và đại lý.
+C. Chỉ dùng để giao dịch chuyển tiền quốc tế.
+
+Câu 201. Giao dịch thanh toán quốc tế là gì?
+A. Giao dịch thanh toán được thực hiện hoàn toàn ở nước sở tại.
+B. Giao dịch thanh toán chỉ thực hiện ở nước ngoài.
+*C. Giao dịch thanh toán được thực hiện ở nước sở tại, nhưng kết thúc ở nước ngoài hoặc ngược lại và liên quan đến ngoại hối.
+
+Câu 202. Hối phiếu là gì?
+A. Là một phương tiện thanh toán quốc tế không phổ biến.
+*B. Là một phương tiện thanh toán quốc tế phổ biến, được sử dụng và luân chuyển rộng rãi nhờ phương pháp ký hậu, có sự đảm bảo chi trả của ngân hàng.
+C. Là một hình thức thanh toán chỉ sử dụng trong các giao dịch trong nước.
+
+Câu 203. Séc trong thanh toán quốc tế có đặc điểm gì?
+A. Chỉ dùng cho thanh toán trong nước.
+*B. Được phát hành bởi khách hàng và ngân hàng sẽ thực hiện thanh toán cho người cầm séc ở nước ngoài.
+C. Là hình thức thanh toán chỉ áp dụng cho các giao dịch mua bán hàng hóa.
+
+Câu 204. Giấy chuyển ngân được sử dụng để làm gì trong thanh toán quốc tế?
+A. Là phương tiện thanh toán chỉ dành cho các giao dịch quốc tế lớn.
+*B. Là phương tiện sử dụng trong các nghiệp vụ chuyển tiền của ngân hàng theo yêu cầu của khách hàng.
+C. Là giấy tờ chứng nhận quyền sở hữu tài sản của người thụ hưởng..
+
+Câu 205. Thẻ ngân hàng là gì?
+*A. Một công cụ thanh toán hiện đại do ngân hàng phát hành, được sử dụng để thanh toán mua hàng hóa, dịch vụ, hoặc rút tiền mặt.
+B. Một hình thức vay tín dụng giữa ngân hàng và khách hàng.
+C. Một loại chứng từ thanh toán chỉ được sử dụng trong các giao dịch quốc tế.
+
+Câu 206. Tín dụng qua thẻ tín dụng là loại tín dụng nào?
+A. Tín dụng trực tiếp.
+B. Tín dụng có bảo đảm.
+*C. Tín dụng không có bảo đảm.
+
+Câu 207. Đâu là loại tín dụng đảm bảo dưới các hình thức tín chấp?
+A. Tín dụng thương mại
+*B. Tín dụng ngân hàng
+C. Tín dụng Nhà nước
+
+Câu 208. Khi doanh nghiệp không có đủ tiền mặt để thanh toán cho đối tác nhưng cần mua hàng, hình thức tín dụng nào sẽ được sử dụng?
+A. Tín dụng ngân hàng
+B. Tín dụng tiêu dùng
+*C. Tín dụng thương mại
+
+Câu 209. Tín dụng thương mại là một hình thức tín dụng được thực hiện giữa:
+A. Cá nhân và ngân hàng
+B. Ngân hàng và doanh nghiệp
+*C. Doanh nghiệp và doanh nghiệp
+
+Câu 210. Lãi suất tín dụng thường bị ảnh hưởng bởi một trong số các yếu tố nào sau đây?
+A. Chính sách thuế của nhà nước
+*B. Tình hình lạm phát và cung cầu tín dụng
+C. Quy mô của thị trường chứng khoán
+
+Câu 211. Một trong những yếu tố quyết định mức lãi suất tín dụng là:
+*A. Mức độ rủi ro của người vay và thời hạn của khoản vay
+B. Mức độ tiết kiệm của quốc gia
+C. Chính sách trợ cấp của chính phủ
+
+Câu 212. Công thức tính lãi tiền vay đơn giản (lãi suất tính theo năm) là gì?
+*A. Lãi = Tiền vay × Lãi suất × Thời gian vay
+B. Lãi = Tiền vay × Thời gian vay / Lãi suất
+C. Lãi = Tiền vay × Lãi suất
+
+Câu 213. Tín dụng thương mại có thể giúp các doanh nghiệp giải quyết việc thiếu hụt vốn trong thời hạn?
+*A. Ngắn hạn
+B. Dài hạn
+C. Trung hạn
+
+Câu 214. Nhận định nào đúng với hạn chế của tín dụng thương mại?
+A. Không có đủ vốn để thanh toán
+*B. Khoản vay tín dụng thường chỉ trong thời gian ngắn và yêu cầu thanh toán nhanh
+C. Lãi suất cao hơn các hình thức tín dụng khác
+
+Câu 215. Nhận định nào đúng với tín dụng thương mại?
+A. Thời hạn vay quá dài
+*B. Giới hạn về qui mô, nghĩa là nó bị giới hạn bởi khối lượng hàng hóa của người bán chịu
+C. Lãi suất quá cao, gây khó khăn cho các doanh nghiệp nhỏ
+
+Câu 216. Khi nào ngân hàng sẽ từ chối cấp tín dụng cho khách hàng?
+A. Khi khách hàng có tài sản bảo đảm
+B. Khi khách hàng có lịch sử tín dụng tốt
+*C. Khi khách hàng không có khả năng trả nợ hoặc không có nguồn thu ổn định
+
+Câu 217. Ngân hàng cấp tín dụng cho khách hàng để làm gì?
+A. Hỗ trợ thanh toán các khoản nợ khác
+*B. Đầu tư vào các hoạt động sản xuất, kinh doanh hoặc tiêu dùng của khách hàng
+C. Tăng trưởng vốn chủ sở hữu của ngân hàng
+
+Câu 218. Nhận định nào sau đây là là đúng?
+A. Tín dụng thương mại do ngân hàng cung cấp.
+*B. Tín dụng thương mại được cấp giữa các doanh nghiệp với nhau.
+C. Tín dụng ngân hàng thường có lãi suất thấp hơn tín dụng thương mại.
+
+Câu 219. Tín dụng thương mại có đặc điểm gì khác so với tín dụng ngân hàng?
+A. Tín dụng thương mại có thể cấp tín dụng đa chiều với phạm vi rộng.
+B. Tín dụng thương mại có thể kéo dài đến nhiều năm.
+*C. Tín dụng thương mại thường ít bị ràng buộc về lãi suất.
+
+Câu 220. So với tín dụng ngân hàng, tín dụng thương mại có lợi thế nào?
+A. Lãi suất của tín dụng thương mại là biểu lãi suất cụ thể được ấn định trước.
+B. Tín dụng thương mại có thời hạn dài hơn.
+*C. Tín dụng thương mại dễ dàng tiếp cận và nhanh chóng.
+
+Câu 221. Mục đích chủ yếu của tín dụng nhà nước là gì?
+A. Cung cấp vốn cho các dự án kinh doanh tư nhân.
+*B. Hỗ trợ các ngành, lĩnh vực quan trọng trong nền kinh tế quốc dân.
+C. Tạo ra lợi nhuận cho ngân sách Nhà nước.
+
+Câu 222. Tín dụng nhà nước có thể được cung cấp dưới hình thức nào?
+A. Các khoản vay không có lãi suất.
+*B. Các khoản vay có lãi suất thấp hoặc có hỗ trợ từ ngân sách nhà nước.
+C. Các khoản vay từ các tổ chức quốc tế.
+
+Câu 223. Tín dụng nhà nước có tác dụng gì đối với nền kinh tế?
+A. Tạo ra sự cạnh tranh giữa các doanh nghiệp.
+*B. Đảm bảo cung cấp đủ vốn cho các dự án đầu tư của Nhà nước và thúc đẩy phát triển các lĩnh vực ưu tiên.
+C. Giảm bớt sự phát triển của các ngành nghề tư nhân.
+
+Câu 224. Điểm khác biệt giữa tín dụng nhà nước và tín dụng ngân hàng là:
+*A. Tín dụng nhà nước chỉ được cấp cho các đối tượng ưu tiên, trong khi tín dụng ngân hàng có thể cấp cho mọi đối tượng.
+B. Tín dụng ngân hàng không có lãi suất, còn tín dụng nhà nước luôn có lãi suất.
+C. Tín dụng nhà nước yêu cầu bảo đảm tài sản, trong khi tín dụng ngân hàng không yêu cầu bảo đảm..
+
+Câu 225. Tín dụng Nhà nước sử dụng các công cụ nào sau đây?
+A. Thương phiếu, trái phiếu chính phủ
+B. Tín phiếu kho bạc, trái phiếu chính phủ, thương phiếu
+*C. Hiệp định vay nợ, tín phiếu kho bạc, trái phiếu chính phủ
+
+Câu 226. Thương phiếu là công cụ của loại tín dụng nào?
+*A. Tín dụng thương mại
+B. Tín dụng Nhà nước
+C. Tín dụng tư nhân
+
+Câu 227. Tính hoàn trả trong hoạt động tín dụng có đặc điểm là:
+A. Không biết trước về thời gian và mức độ
+B. Không biết trước về thời gian
+*C. Biết trước về thời gian và mức độ
+
+Câu 228. Cơ sở khách quan của tín dụng thương mại là:
+*A. Sự cách biệt giữa thời gian tiêu thụ và thời gian sản xuất của các doanh nghiệp
+B. Do hạn chế của quan hệ tín dụng ngân hàng
+C. Thủ tục vay đơn giản, nhanh gọn
+
+Câu 229. Tín dụng thương mại có đặc điểm:
+*A. Là quan hệ tín dụng trực tiếp
+B. Là quan hệ tín dụng dài hạn
+C. Là quan hệ tín dụng gián tiếp
+
+Câu 230. Trong tín dụng nhà nước, Nhà nước chủ yếu xuất hiện với tư cách:
+A. Người đi vay
+*B. Người cho vay
+C. Người môi giới
+
+Câu 231. Lãi suất tín dụng được trả vì:
+A. Người cho vay đã hy sinh quyền sở hữu
+B. Người đi vay cần vốn
+*C. Người cho vay đã hy sinh quyền sử dụng vốn
+
+Câu 232. Lãi suất thị trường luôn biến động vì:
+A. Do cầu cho vay vốn luôn biến động
+B. Do cung cho vay vốn luôn biến động
+*C. Do cung – cầu về tín dụng luôn biến động
+
+Câu 233. Lạm phát dự tính tăng lên sẽ làm:
+A. Tăng nhu cầu vay vốn và giảm lãi suất nếu cung vốn không đổi
+*B. Tăng nhu cầu vay vốn và tăng lãi suất nếu cung vốn không đổi
+C. Giảm nhu cầu vay vốn và giản lãi suất nếu cung vốn không đổi
+
+Câu 234. Phát biểu nào sau đây sai:
+A. Tín dụng thương mại là quan hệ tín dụng giữa các nhà sản xuất kinh doanh với nhau, hình thành trên cơ sở mua bán chịu hàng hoá
+*B. Công cụ phục vụ chủ yếu cho hoạt động tín dụng ngân hàng là thương phiếu, chứng chỉ tiền gửi, các loại chứng chỉ huy động vốn
+C. Tín dụng Nhà nước được sử dụng như một công cụ tài chính để đảm bảo cho sự phát triển ổn định của nền kinh tế xã hội
+
+Câu 235. Lãi suất thực là lãi suất:
+*A. Luôn nhỏ hơn lãi suất danh nghĩa
+B. Là lãi suất do các tổ chức tài chính công bố
+C. Luôn lớn hơn lãi suất danh nghĩa
+
+Câu 236. Nhận định nào đúng khi nói về chức năng phát hành tiền của ngân hàng trung ương và ngân hàng thương mại?
+A. Ngân hàng Trung ương phát hành tiền giấy, ngân hàng thương mại phát hành tiền kim loại
+B. Cả hai ngân hàng đều phát hành tiền giấy
+*C. Ngân hàng thương mại phát hành tiền chuyển khoản, ngân hàng Trung ương phát hành tiền giấy và tiền kim loại
+
+Câu 237. Chính sách tiền tệ thắt chặt có thể được thực hiện thông qua các công cụ nào?
+*A. Tăng tỷ lệ dự trữ bắt buộc và tăng lãi suất tái chiết khấu.
+B. Giảm tỷ lệ dự trữ bắt buộc và giảm lãi suất tái chiết khấu.
+C. Mua trái phiếu của các ngân hàng thương mại.
+
+Câu 238. Chính sách tiền tệ nới lỏng có thể được thực hiện qua các biện pháp nào?
+*A. Giảm tỷ lệ dự trữ bắt buộc và giảm lãi suất tái chiết khấu.
+B. Tăng tỷ lệ dự trữ bắt buộc và tăng lãi suất tái chiết khấu.
+C. Đẩy mạnh các khoản vay tiêu dùng cho các doanh nghiệp.
+
+Câu 239. Hoạt động huy động vốn của ngân hàng thương mại chủ yếu bao gồm những hình thức nào?
+A. Phát hành cổ phiếu và trái phiếu.
+*B. Tiền gửi của khách hàng, vay trong hệ thống ngân hàng, phát hành giấy tờ có giá.
+C. Vay từ các tổ chức tài chính quốc tế.
+
+Câu 240. Ngân hàng thương mại có thể sử dụng nguồn vốn huy động để thực hiện các hoạt động nào?
+A. Chỉ cho vay các cá nhân và doanh nghiệp.
+*B. Cung cấp tín dụng cho khách hàng, đầu tư góp vốn liên doanh và đầu tư chứng khoán.
+C. Chỉ vay lại từ Ngân hàng Trung ương.
+
+Câu 241. Khi ngân hàng thương mại sử dụng vốn huy động để cho vay, điều này có thể dẫn đến điều gì?
+A. Lãi suất cho vay giảm xuống rất thấp.
+*B. Cung cấp tín dụng cho nền kinh tế, thúc đẩy tiêu dùng và đầu tư.
+C. Ngân hàng không cần phải trả lại tiền cho khách hàng.
+
+Câu 242. Một trong những phương thức mà ngân hàng thương mại sử dụng để quản lý rủi ro khi huy động vốn là gì?
+A. Phát hành trái phiếu không có bảo lãnh.
+B. Cung cấp tín dụng cho tất cả các khách hàng mà không kiểm tra.
+*C. Đa dạng hóa các sản phẩm tiền gửi và tín dụng để phân tán rủi ro.
+
+Câu 243. Nguồn huy động vốn chủ yếu của Ngân hàng thương mại là?
+A. Vay của Ngân hàng trung ương
+*B. Tiền gửi của khách hàng cá nhân, doanh nghiệp
+C. Phát hành chứng khoán
+
+Câu 244. Ngân hàng thương mại dùng nguồn vốn đã huy động được sẽ chủ yếu dùng để?
+A. Cho Ngân hàng trung ương vay
+*B. Cho khách hàng cá nhân, doanh nghiệp vay
+C. Mua chứng khoán
+
+Câu 245. Điểm khác biệt chính giữa ngân hàng thương mại và các tổ chức tài chính trung gian khác là gì?
+*A. Ngân hàng thương mại chỉ cung cấp dịch vụ vay vốn, trong khi các tổ chức tài chính trung gian khác chỉ huy động vốn.
+B. Ngân hàng thương mại có quyền phát hành tiền chuyển khoản, trong khi các tổ chức tài chính trung gian khác không có quyền này.
+C. Ngân hàng thương mại chỉ phục vụ cho các doanh nghiệp, còn tổ chức tài chính trung gian khác phục vụ cá nhân.
+
+Câu 246. Điểm khác biệt cơ bản giữa ngân hàng thương mại và quỹ đầu tư là gì?
+*A. Ngân hàng thương mại tập trung vào hoạt động cho vay và huy động vốn, trong khi quỹ đầu tư tập trung vào việc đầu tư vào cổ phiếu và chứng khoán.
+B. Ngân hàng thương mại không cho vay, trong khi quỹ đầu tư cung cấp tín dụng cho các doanh nghiệp.
+C. Quỹ đầu tư chỉ cung cấp các khoản vay ngắn hạn, còn ngân hàng thương mại chỉ cung cấp vay dài hạn.
+
+Câu 247. Khi nền kinh tế của một quốc gia đang trong tình trạng lạm phát cao, Ngân hàng Trung ương sẽ áp dụng biện pháp chính sách tiền tệ nào để kiềm chế lạm phát?
+A. Giảm tỷ lệ lãi suất tái cấp vốn.
+*B. Tăng tỷ lệ dự trữ bắt buộc của ngân hàng thương mại.
+C. Mua vào trái phiếu chính phủ để tăng cung tiền.
+
+Câu 248. Trong bối cảnh nền kinh tế đang suy thoái và tỷ lệ thất nghiệp tăng cao, Ngân hàng Trung ương sẽ áp dụng chính sách tiền tệ nào để thúc đẩy tăng trưởng kinh tế?
+A. Tăng lãi suất và giảm cung tiền.
+*B. Giảm tỷ lệ dự trữ bắt buộc và giảm lãi suất.
+C. Bán trái phiếu chính phủ để giảm cung tiền.
+
+Câu 249. Trong tình huống nền kinh tế đang có dấu hiệu quá nóng với mức tiêu dùng và đầu tư cao, Ngân hàng Trung ương muốn giảm bớt sự tăng trưởng quá mức của tín dụng, họ sẽ thực hiện biện pháp chính sách tiền tệ nào?
+*A. Tăng lãi suất để làm giảm nhu cầu vay vốn.
+B. Giảm tỷ lệ dự trữ bắt buộc của ngân hàng thương mại.
+C. Mua trái phiếu chính phủ để cung cấp thêm tiền.
+
+Câu 250. Sự khác biệt nào dưới đây giữa ngân hàng trung ương và ngân hàng thương mại là đúng?
+A. Ngân hàng trung ương chỉ huy động vốn từ các tổ chức tài chính, còn ngân hàng thương mại huy động vốn từ cá nhân.
+B. Ngân hàng trung ương là tổ chức độc lập không chịu sự quản lý của nhà nước, trong khi ngân hàng thương mại do nhà nước điều hành.
+*C. Ngân hàng thương mại cung cấp các khoản vay cho nền kinh tế, trong khi ngân hàng trung ương không tham gia vào việc cho vay đối với nền kinh tế trực tiếp bằng tiền.
+
+Câu 251. Việc phát hành tiền của NHTW theo các kênh sau?
+A. Cho vay các NHTM và các tổ chức tín dụng, qua thị trường vàng và ngoại tệ
+B. Phát hành qua thị trường vàng và ngoại tệ
+*C. Cho vay các NHTM và các tổ chức tín dụng, qua thị trường vàng và ngoại tệ, NSNN vay và thông qua nghiệp vụ thị trường mở
+
+Câu 252. Công ty tài chính chủ yếu cung cấp dịch vụ nào?
+*A. Cho vay tiêu dùng, vay mua nhà, cho thuê tài sản, đầu tư và các dịch vụ tài chính khác.
+B. Cung cấp bảo hiểm nhân thọ và bảo hiểm sức khỏe.
+C. Cung cấp các dịch vụ bán lẻ và phân phối sản phẩm.
+
+Câu 253. Công ty tài chính có thể kiếm lợi nhuận từ đâu?
+*A. Thu từ hoạt động cho vay và đầu tư tài chính.
+B. Chỉ từ lãi suất vay tiêu dùng.
+C. Chỉ từ việc bán các sản phẩm tài chính cho doanh nghiệp.
+
+Câu 254. Công ty tài chính có thể sử dụng các nguồn vốn nào để cho vay?
+*A. Vốn tự có của công ty, vốn vay từ ngân hàng, phát hành chứng từ có giá
+B. Vốn tự có của công ty là nguồn duy nhất.
+C. Vốn từ các khoản đầu tư chứng khoán.
+
+Câu 255. Quỹ đầu tư có thể đầu tư vào các loại tài sản nào?
+A. Chỉ đầu tư vào cổ phiếu.
+B. Chỉ đầu tư vào trái phiếu và các sản phẩm bảo hiểm.
+*C. Có thể đầu tư vào cổ phiếu, trái phiếu, bất động sản, vàng, và các tài sản tài chính khác.
+
+Câu 256. Quỹ hưu trí là gì?
+*A. Là quỹ đầu tư dài hạn, được thành lập để giúp người lao động tích lũy tiền cho tuổi hưu trí.
+B. Là quỹ giúp người lao động nhận trợ cấp thất nghiệp.
+C. Là quỹ đầu tư vào chứng khoán và trái phiếu ngắn hạn.
+
+Câu 257. Công ty bảo hiểm nhân thọ khác gì so với công ty bảo hiểm phi nhân thọ?
+*A. Công ty bảo hiểm nhân thọ chủ yếu cung cấp bảo hiểm cho các trường hợp liên quan đến tử vong và tai nạn, trong khi công ty bảo hiểm phi nhân thọ cung cấp bảo hiểm cho tài sản và rủi ro ngắn hạn.
+B. Công ty bảo hiểm nhân thọ chỉ cung cấp bảo hiểm sức khỏe.
+C. Công ty bảo hiểm phi nhân thọ không có chức năng bồi thường cho người tham gia bảo hiểm.
+
+Câu 258. Quá trình hoạt động của công ty bảo hiểm bao gồm những bước nào?
+*A. Thu phí bảo hiểm, quản lý rủi ro, chi trả quyền lợi bảo hiểm cho khách hàng.
+B. Đầu tư và cho vay tiền.
+C. Bán sản phẩm bảo hiểm qua các cửa hàng bán lẻ.
+
+Câu 259. Công ty bảo hiểm sẽ sử dụng số tiền thu được từ phí bảo hiểm như thế nào?
+*A. Đầu tư vào các dự án bất động sản, chứng khoán và các tài sản khác.
+B. Chỉ sử dụng để chi trả tiền lương cho nhân viên công ty.
+C. Chỉ dùng để trả các khoản chi phí quảng cáo.
+
+Câu 260. Công ty bảo hiểm có thể cung cấp những loại sản phẩm nào?
+*A. Bảo hiểm nhân thọ, bảo hiểm sức khỏe, bảo hiểm xe cộ, bảo hiểm tài sản.
+B. Chỉ cung cấp bảo hiểm nhân thọ.
+C. Cung cấp dịch vụ ngân hàng và tín dụng.
+
+Câu 261. Khi ngân hàng phát hành chứng chỉ tiền gửi, điều nào dưới đây là đúng?
+A. Chứng chỉ tiền gửi luôn có thể chuyển nhượng tự do
+*B. Người sở hữu chứng chỉ tiền gửi sẽ không được hưởng lãi suất nếu rút tiền trước thời hạn
+C. Chứng chỉ tiền gửi không có thời gian đáo hạn cố định
+
+Câu 262. Chứng chỉ tiền gửi có thể được coi là một hình thức đầu tư vào đâu?
+A. Cổ phiếu của công ty niêm yết
+B. Các loại trái phiếu chính phủ
+*C. Tiền gửi tại ngân hàng với mức lãi suất cố định
+
+Câu 263. Một trong những ưu điểm của chứng chỉ tiền gửi là gì?
+A. Không cần phải ký hợp đồng với ngân hàng
+B. Người sở hữu có quyền thay đổi mức lãi suất hàng năm
+*C. Đảm bảo an toàn về vốn và lãi suất ổn định
+
+Câu 264. Thị trường vốn giao dịch chủ yếu các tài sản tài chính nào sau đây?
+A. Tiền tệ ngắn hạn
+*B. Cổ phiếu và trái phiếu
+C. Bất động sản
+
+Câu 265. Ngân hàng trung ương chủ yếu thực hiện các hoạt động nào trong thị trường tài chính?
+A. Cung cấp các khoản vay cho cá nhân
+*B. Kiểm soát và điều tiết chính sách tiền tệ
+C. Mua bán chứng khoán của các công ty
+
+Câu 266. Công cụ tài chính nào sau đây là tài sản có tính an toàn tín dụng cao nhất?
+A. Cổ phiếu công ty
+B. Trái phiếu doanh nghiệp
+*C. Trái phiếu chính phủ
+
+Câu 267. Trong thị trường tiền tệ, những công cụ tài chính nào được giao dịch?
+A. Cổ phiếu, trái phiếu doanh nghiệp
+B. Trái phiếu chính phủ, chứng chỉ tiền gửi
+*C. Ngoại tệ, tín phiếu kho bạc nhà nước, thương phiếu
+
+Câu 268. Chỉ số lãi suất liên ngân hàng chủ yếu được áp dụng trong thị trường nào?
+A. Thị trường cho vay ngắn hạn
+*B. Thị trường tiền tệ
+C. Thị trường chứng khoán sơ cấp
+
+Câu 269. Tỷ giá hối đoái chủ yếu được áp dụng trong thị trường nào? A.Thị trường cho vay ngắn hạn
+*A. Thị trường tiền tệ
+B. Thị trường chứng khoán sơ cấp
+
+Câu 270. Công cụ tài chính nào sau đây không phải là công cụ của thị trường tiền tệ?
+A. Kỳ phiếu ngân hàng
+B. Tín phiếu kho bạc
+*C. Trái phiếu chính phủ
+
+Câu 271. Sự khác biệt chính giữa thị trường tiền tệ và thị trường vốn là gì?
+A. Thị trường tiền tệ chỉ giao dịch các tài sản dài hạn, còn thị trường vốn giao dịch các tài sản ngắn hạn
+*B. Thị trường tiền tệ giao dịch các công cụ tài chính ngắn hạn, trong khi thị trường vốn giao dịch các công cụ tài chính dài hạn
+C. Thị trường tiền tệ không có tính thanh khoản, còn thị trường vốn có tính thanh khoản cao
+
+Câu 272. Nhận định nào sau đây là đúng?
+A. Thị trường tiền tệ chủ yếu phục vụ cho các nhà đầu tư cá nhân, trong khi thị trường vốn phục vụ các tổ chức tài chính
+*B. Thị trường tiền tệ có tính thanh khoản cao hơn và rủi ro thấp hơn so với thị trường vốn
+C. Thị trường vốn chủ yếu tập trung vào các công cụ tài chính ngắn hạn
+
+Câu 273. Thị trường vốn thường có lãi suất cao hơn thị trường tiền tệ vì?
+A. Các công cụ tài chính trên thị trường vốn có kỳ hạn ngắn hơn
+*B. Các công cụ tài chính trên thị trường vốn thường có rủi ro cao hơn và được giao dịch trong thời gian dài hơn
+C. Thị trường tiền tệ không có sự tham gia của các tổ chức tài chính lớn
+
+Câu 274. Khi một nhà đầu tư muốn bán cổ phiếu mà mình đã mua trên thị trường chứng khoán, giao dịch sẽ thực hiện trên thị trường nào?
+A. Thị trường sơ cấp
+*B. Thị trường thứ cấp
+C. Thị trường vốn
+
+Câu 275. Tổ chức nào dưới đây thường chịu trách nhiệm giám sát và điều hành các giao dịch trên thị trường chứng khoán?
+A. Ngân hàng Nhà nước
+B. Các tổ chức tín dụng
+*C. Các Ủy ban chứng khoán quốc gia hoặc tổ chức quản lý tài chính
+
+Câu 276. Điểm khác biệt chính giữa thị trường sơ cấp và thị trường thứ cấp là?
+A. Thị trường sơ cấp chỉ giao dịch trái phiếu, trong khi thị trường thứ cấp giao dịch cổ phiếu
+*B. Thị trường sơ cấp là nơi các chứng khoán được phát hành lần đầu, còn thị trường thứ cấp là nơi các chứng khoán đã phát hành trước đó được giao dịch giữa các nhà đầu tư
+C. Thị trường sơ cấp không có sự tham gia của nhà đầu tư cá nhân, còn thị trường thứ cấp có
+
+Câu 277. Thị trường chứng khoán thứ cấp giúp?
+A. Các công ty huy động vốn mới để phát triển
+*B. Tăng khả năng thanh khoản và giá trị của chứng khoán đã phát hành
+C. Cung cấp cổ phiếu và trái phiếu cho các công ty phát hành
+
+Câu 278. Phương thức phát hành chứng khoán riêng lẻ là?
+*A. Phát hành cổ phiếu chỉ cho một số ít nhà đầu tư đủ điều kiện, không thông qua sàn giao dịch chứng khoán
+B. Phát hành cổ phiếu ra công chúng rộng rãi qua các tổ chức tài chính
+C. Phát hành chứng khoán thông qua đấu giá công khai trên sàn chứng khoán
+
+Câu 279. Đâu là những điều kiện phát hành của phương thức phát hành chứng khoán công khai?
+A. Chỉ áp dụng cho các công ty đã niêm yết trên sàn giao dịch chứng khoán
+*B. Cần phải có sự phê duyệt của Ủy ban chứng khoán và công khai thông tin với nhà đầu tư
+C. Không cần báo cáo tài chính hoặc thông tin minh bạch
+
+Câu 280. Trong quá trình phát hành chứng khoán, tổ chức nào hỗ trợ nhà phát hành trong việc chào bán và phân phối chứng khoán ra công chúng?
+A. Các ngân hàng thương mại
+*B. Các công ty chứng khoán, tổ chức bảo lãnh phát hành
+C. Bộ Tài chính
+
+Câu 281. Sàn giao dịch chứng khoán tập trung ở Việt Nam hiện nay là?
+A. Sở Giao dịch Chứng khoán TP.HCM (HOSE), Ủy ban chứng khoán nhà nước
+*B. Sở Giao dịch Chứng khoán Hà Nội (HNX), Sở Giao dịch Chứng khoán TP.HCM (HOSE)
+C. Trung tâm Lưu ký Chứng khoán Việt Nam (VSD).
+
+Câu 282. Một trong những chức năng quan trọng của Trung tâm Lưu ký Chứng khoán Việt Nam (VSD. là gì?
+A. Giám sát các giao dịch chứng khoán trên thị trường
+*B. Lưu ký, thanh toán và chuyển nhượng chứng khoán cho các nhà đầu tư
+C. Cung cấp dịch vụ môi giới chứng khoán
+
+Câu 283. Nhà phát hành phải chịu trách nhiệm gì khi phát hành chứng khoán ra công chúng?
+A. Đảm bảo rằng chứng khoán phát hành sẽ không giảm giá
+*B. Cung cấp thông tin đầy đủ, chính xác và minh bạch cho nhà đầu tư
+C. Đảm bảo giá cổ phiếu sẽ luôn tăng
+
+Câu 284. Nhà phát hành trái phiếu có nghĩa vụ gì đối với các nhà đầu tư trái phiếu?
+*A. Trả lại vốn gốc và lãi suất đúng hạn theo hợp đồng phát hành
+B. Cung cấp cổ tức cho các nhà đầu tư trái phiếu
+C. Chia sẻ lợi nhuận kinh doanh với các nhà đầu tư trái phiếu
+
+Câu 285. Trái phiếu chính phủ thường được coi là công cụ tài chính có mức độ rủi ro thấp nhất vì lý do gì?
+*A. Chính phủ có khả năng thanh toán nợ cao và được bảo vệ bởi các quỹ dự trữ quốc gia
+B. Chính phủ luôn trả lãi suất cao
+C. Chính phủ không có khả năng vỡ nợ
+
+Câu 286. Hệ thống Ngân sách Nhà nước (NSNN) ở Việt Nam được tổ chức như thế nào?
+A. Chỉ có một cấp NS cấp Trung ương.
+*B. Gồm hai cấp: Ngân sách Trung ương (NSTW) và Ngân sách địa phương.
+C. Chỉ gồm Ngân sách Trung ương và Ngân sách các cơ quan hành chính.
+
+Câu 287. Ngân sách Nhà nước ở cấp địa phương bao gồm các cấp nào ở Việt Nam?
+A. Ngân sách các tổ chức quốc tế, Ngân sách các tổ chức phi chính phủ.
+*B. Ngân sách tỉnh, thành phố trực thuộc Trung ương; Ngân sách huyện, quận, thị xã; Ngân sách xã, phường, thị trấn.
+C. Ngân sách của các ngân hàng thương mại quốc gia.
+
+Câu 288. Biện pháp nào phù hợp để cắt giảm chi tiêu công trong trường hợp thâm hụt ngân sách?
+*A. Cắt giảm chi cho các dự án cơ sở hạ tầng không cấp bách
+B. Cắt giảm chi cho các chương trình an sinh xã hội, y tế, giáo dục
+C. Cắt giảm chi cho quốc phòng và an ninh
+
+Câu 289. Các dịch vụ công do Nhà nước cung cấp thường là:
+A. Dịch vụ có thu phí cao
+*B. Dịch vụ miễn phí hoặc có chi phí thấp
+C. Dịch vụ chỉ phục vụ cho các cá nhân giàu có
+
+Câu 290. Chi đầu tư phát triển bao gồm những nội dung nào dưới đây?
+A. Chi cho các hoạt động quản lý và điều hành của nhà nước.
+B. Chi cho nghiên cứu khoa học và công nghệ, giáo dục và đào tạo.
+*C. Chi cho các cơ sở hạ tầng kinh tế - xã hội, hỗ trợ vốn cho các doanh nghiệp nhà nước, chi dự trữ quốc gia, và thực hiện các mục tiêu chương trình quốc gia.
+
+Câu 291. Khoản nào dưới đây thuộc về chi đầu tư phát triển vào cơ sở hạ tầng kinh tế - xã hội?
+A. Khoản chi nhằm phát triển các sản phẩm tiêu dùng trong nước.
+*B. Khoản chi để xây dựng và phát triển các công trình có tính chất chiến lược, trọng điểm, nhằm thúc đẩy tăng trưởng kinh tế.
+C. Khoản chi cho các chương trình bảo vệ môi trường và phát triển bền vững..
+
+Câu 292. Khi ngân sách nhà nước bị thâm hụt, Chính phủ có thể áp dụng biện pháp nào để xử lý?
+A. Giảm thuế và thu các khoản phí.
+B. Tăng các khoản chi ngân sách, đặc biệt là chi đầu tư công.
+*C. Vay nợ trong và ngoài nước để bù đắp thâm hụt.
+
+Câu 293. Chi ngân sách cho quốc phòng và an ninh có tầm quan trọng như thế nào đối với sự phát triển của một quốc gia?
+*A. Là yếu tố không thể thiếu để đảm bảo sự ổn định về chính trị và xã hội
+B. Là chi phí phát sinh do chiến tranh
+C. Chỉ quan trọng trong thời gian chiến tranh hoặc khủng hoảng.
+
+Câu 294. Chi góp vốn cổ phần, góp vốn liên doanh vào các doanh nghiệp nhà nước nhằm mục đích gì?
+A. Để thu lợi nhuận từ các doanh nghiệp.
+*B. Để kiểm soát, hướng dẫn, hoặc khống chế các hoạt động của doanh nghiệp theo định hướng của Nhà nước.
+C. Để phát triển các doanh nghiệp tư nhân.
+
+Câu 295. Chi dự trữ Nhà nước được sử dụng để làm gì?
+A. Để thực hiện các mục tiêu về bảo vệ môi trường.
+*B. Để điều tiết thị trường, tiền tệ và các mặt hàng chiến lược.
+C. Để hỗ trợ các doanh nghiệp tư nhân trong việc mở rộng sản xuất.
+
+Câu 296. Khoản chi nào dưới đây không phải là chi thường xuyên của nhà nước?
+A. Chi cho hoạt động lương bổng của cán bộ, công chức
+B. Chi cho việc mua sắm, duy trì trang thiết bị hành chính
+*C. Chi đầu tư xây dựng công trình cơ sở hạ tầng
+
+Câu 297. Quỹ dự trữ quốc gia do ai quản lý?
+A. Các bộ, ngành.
+B. Ngân hàng Nhà nước.
+*C. Cục Dự trữ quốc gia.
+
+Câu 298. Nguồn tài chính chủ yếu hình thành quỹ bảo hiểm xã hội là gì?
+*A. Đóng góp từ người lao động, người sử dụng lao động và hỗ trợ từ NSNN.
+B. Đóng góp từ các tổ chức quốc tế.
+C. Vốn vay từ Ngân hàng Thế giới.
+
+Câu 299. Quỹ bảo hiểm y tế (BHYT) được sử dụng để chi trả cho các chi phí gì?
+A. Chi phí cho các dự án phát triển cơ sở y tế.
+*B. Chi phí khám, chữa bệnh cho người tham gia bảo hiểm y tế tại các bệnh viện.
+C. Hỗ trợ chi phí đào tạo nhân viên y tế.
+
+Câu 300. Quỹ bảo hiểm y tế có mấy loại?
+A. Một loại là quỹ khám, chữa bệnh bắt buộc.
+*B. Hai loại là quỹ khám, chữa bệnh bắt buộc và quỹ khám, chữa bệnh tự nguyện.
+C. Ba loại là quỹ khám, chữa bệnh bắt buộc, tự nguyện và quỹ hỗ trợ y tế.
+
+Câu 301. Quỹ có tính chất hỗ trợ cho các hoạt động kinh tế - xã hội chủ yếu hình thành từ nguồn tài chính nào?
+A. Vốn vay từ các tổ chức quốc tế.
+*B. Vốn nhàn rỗi huy động được từ nền kinh tế, với nguồn vốn NSNN chỉ mang tính chất “vốn mồi”.
+C. Các khoản thuế thu từ doanh nghiệp lớn.
+
+Câu 302. Quyền và nghĩa vụ trả nợ công thuộc về ai?
+A. Các doanh nghiệp Nhà nước.
+B. Các cá nhân và hộ gia đình.
+*C. Nhà nước và các tổ chức thuộc khu vực công, bao gồm cả Trung ương, địa phương và Ngân hàng Nhà nước..
+
+Câu 303. Các quỹ hỗ trợ đối tượng thuộc diện chính sách xã hội thuộc nhóm quỹ nào?
+A. Quỹ bảo hiểm xã hội.
+*B. Quỹ thực hiện mục tiêu an sinh xã hội.
+C. Quỹ dự trữ quốc gia..
+
+Câu 304. Mối quan hệ giữa bội chi ngân sách nhà nước (NSNN) và nợ công là gì?
+A. Nợ công không liên quan gì đến bội chi ngân sách nhà nước.
+*B. Nợ công giúp bù đắp bội chi ngân sách nhà nước và duy trì cân đối thu chi ngân sách.
+C. Bội chi ngân sách làm giảm nợ công..
+
+Câu 305. Vay nợ công là một trong những cách thu nguồn lực công. Tuy nhiên, việc vay nợ cần phải:
+A. Chỉ thực hiện khi nền kinh tế đang phát triển mạnh.
+*B. Đảm bảo khả năng trả nợ và không ảnh hưởng đến ổn định tài chính quốc gia.
+C. Chỉ được thực hiện đối với các khoản vay từ các tổ chức quốc tế.
+
+Câu 306. Thuế giá trị gia tăng (VAT) là thuế gián thu, đối tượng chịu thuế là:
+A. Nhà cung cấp hàng hóa, dịch vụ.
+*B. Người tiêu dùng cuối cùng khi mua sản phẩm hoặc dịch vụ.
+C. Các tổ chức tài chính và ngân hàng.
+
+Câu 307. Sự khác biệt chính giữa thuế trực thu và thuế gián thu là:
+A. Thuế trực thu được thu từ doanh nghiệp, còn thuế gián thu được thu từ người tiêu dùng.
+*B. Thuế trực thu được đánh vào thu nhập và tài sản của cá nhân hoặc tổ chức, còn thuế gián thu được đánh vào hàng hóa và dịch vụ tiêu dùng.
+C. Thuế gián thu không có ảnh hưởng đến giá trị sản phẩm.
+
+Câu 308. Phí khác với thuế ở điểm nào?
+*A. Phí được thu từ người sử dụng dịch vụ công, trong khi thuế là khoản đóng góp bắt buộc vào ngân sách nhà nước.
+B. Phí được thu cho các dịch vụ tư nhân, thuế chỉ áp dụng cho dịch vụ công.
+C. Phí là một khoản đóng góp tự nguyện, trong khi thuế là khoản thu bắt buộc.
+
+Câu 309. Các khoản thu nào sau đây được coi là phí?
+A. Thuế thu nhập cá nhân
+*B. Phí cấp giấy phép xây dựng
+C. Lệ phí cấp thẻ bảo hiểm y tế
+
+Câu 310. Thu từ cổ phần hóa doanh nghiệp Nhà nước là nguồn thu nào của Nhà nước?
+A. Thu từ hoạt động tài chính.
+B. Thu từ hoạt động kinh tế.
+*C. Thu từ việc bán tài sản công.
+
+Câu 311. Vốn chủ sở hữu trong báo cáo tài chính của một doanh nghiệp bao gồm những yếu tố nào?
+A. Lợi nhuận sau thuế
+*B. Vốn góp của cổ đông và lợi nhuận chưa phân phối
+C. Tổng nợ ngắn hạn và dài hạn
+
+Câu 312. Khi doanh nghiệp sử dụng đòn bẩy tài chính, họ đang làm gì?
+*A. Sử dụng vốn vay để tài trợ cho hoạt động của mình nhằm tăng khả năng sinh lời
+B. Giảm thiểu rủi ro tài chính bằng cách không vay nợ
+C. Tăng chi phí hoạt động trong ngắn hạn
+
+Câu 313. Tại sao doanh nghiệp thường giữ lại một phần lợi nhuận sau thuế để tái đầu tư?
+A. Để trả nợ cho ngân hàng
+B. Để tăng vốn điều lệ cho công ty
+*C. Để tiếp tục mở rộng sản xuất, đầu tư vào dự án mới hoặc nâng cao năng lực kinh doanh
+
+Câu 314. Quy trình phân phối lợi nhuận phải tuân thủ những yếu tố nào?
+*A. Điều lệ công ty, quyết định của hội đồng quản trị, và các quy định của pháp luật
+B. Quyết định của giám đốc tài chính
+C. Quyết định của các cổ đông lớn
+
+Câu 315. Quá trình quản lý hàng tồn kho có thể ảnh hưởng đến gì trong doanh nghiệp?
+A. Tăng chi phí vay nợ của doanh nghiệp
+*B. Cải thiện khả năng thanh toán và giảm chi phí vốn lưu động
+C. Tăng lợi nhuận ngay lập tức mà không cần đầu tư thêm
+
+Câu 316. Huy động vốn từ cổ phiếu có thể mang lại lợi ích gì cho doanh nghiệp?
+*A. Tăng nguồn vốn dài hạn mà không cần phải trả lãi
+B. Tăng nợ vay và gánh nặng tài chính
+C. Giảm quyền kiểm soát của các cổ đông hiện tại
+
+Câu 317. Huy động vốn từ phát hành cổ phiếu có thể tạo ra rủi ro nào cho doanh nghiệp?
+A. Không có rủi ro nào, vì đây là nguồn vốn không có chi phí tài chính
+*B. Rủi ro liên quan đến việc làm loãng quyền sở hữu và kiểm soát của cổ đông hiện tại
+C. Rủi ro không thể trả lãi vay
+
+Câu 318. Lý do chính để doanh nghiệp lựa chọn huy động vốn từ cổ phiếu thay vì vay nợ là gì?
+*A. Để tránh phải trả lãi vay và giảm nợ dài hạn
+B. Để có thể duy trì quyền kiểm soát và lợi ích cho cổ đông
+C. Để giảm thiểu rủi ro tín dụng
+
+Câu 319. Điều nào sau đây là một ưu điểm của việc huy động vốn từ phát hành cổ phiếu so với phát hành trái phiếu?
+A. Doanh nghiệp phải trả lãi đều đặn cho cổ phiếu
+*B. Cổ phiếu không đòi hỏi phải trả lãi như trái phiếu, giúp giảm bớt gánh nặng tài chính
+C. Cổ phiếu không thể chuyển nhượng
+
+Câu 320. Ưu điểm lớn nhất của việc phát hành trái phiếu doanh nghiệp là gì?
+A. Doanh nghiệp không phải trả lãi cho các nhà đầu tư
+*B. Trái phiếu giúp doanh nghiệp huy động vốn mà không làm loãng quyền sở hữu của các cổ đông hiện tại
+C. Trái phiếu có thể chuyển đổi thành cổ phiếu trong tương lai
+
+Câu 321. Trái phiếu doanh nghiệp có thể mang lại cho nhà đầu tư loại lợi ích nào?
+A. Lợi nhuận từ cổ tức định kỳ
+B. Lợi nhuận từ việc tăng giá trị cổ phiếu
+*C. Lợi tức cố định qua lãi suất trái phiếu và khả năng thu hồi vốn khi đáo hạn
+
+Câu 322. Phát hành trái phiếu doanh nghiệp có thể tạo ra rủi ro gì cho doanh nghiệp?
+*A. Doanh nghiệp phải trả lãi cho trái phiếu dù có hay không có lợi nhuận
+B. Doanh nghiệp không cần phải trả nợ trái phiếu nếu không có lợi nhuận
+C. Trái phiếu có thể không mang lại lợi ích cho các cổ đông
+
+Câu 323. Huy động vốn từ vay nợ ngân hàng có thể ảnh hưởng đến tình hình tài chính của doanh nghiệp như thế nào?
+A. Tăng khả năng thanh khoản vì doanh nghiệp không phải trả nợ ngay lập tức
+*B. Tăng chi phí tài chính do phải trả lãi vay định kỳ
+C. Làm giảm quyền sở hữu của cổ đông
+
+Câu 324. Khi doanh nghiệp vay nợ ngân hàng, điều nào dưới đây là yêu cầu phổ biến?
+*A. Phải cung cấp tài sản đảm bảo để bảo vệ cho khoản vay
+B. Không cần phải trả lãi vay trong thời gian vay
+C. Doanh nghiệp sẽ không bị ràng buộc bởi bất kỳ điều kiện nào
+
+Câu 325. Đi thuê tài chính có thể giúp doanh nghiệp giải quyết vấn đề gì?
+*A. Tăng cường khả năng sở hữu tài sản cố định mà không cần phải có vốn đầu tư lớn ban đầu
+B. Tăng chi phí tài chính do phải trả lãi suất cao
+C. Đảm bảo quyền kiểm soát hoàn toàn tài sản
+
+Câu 326. Điều nào sau đây là một trong những nhược điểm của việc đi thuê tài chính?
+*A. Doanh nghiệp không sở hữu tài sản sau khi hết hạn hợp đồng thuê (trừ khi có điều khoản mua lại)
+B. Doanh nghiệp phải thanh toán toàn bộ chi phí tài sản ngay lập tức
+C. Doanh nghiệp không có quyền sử dụng tài sản trong suốt thời gian thuê
+
+Câu 327. Thuê tài chính có thể giúp doanh nghiệp giảm thiểu rủi ro nào?
+*A. Rủi ro giảm giá trị tài sản
+B. Rủi ro về việc thay đổi lãi suất
+C. Rủi ro về giảm sút nhu cầu sử dụng tài sản
+
+Câu 328. Một trong những sự khác biệt chính giữa tài sản lưu động và tài sản cố định là gì?
+A. Tài sản lưu động có thể sử dụng lâu dài, trong khi tài sản cố định có thể chuyển nhượng ngay lập tức.
+*B. Tài sản lưu động được chuyển thành tiền mặt trong vòng một năm, trong khi tài sản cố định không chuyển thành tiền mặt nhanh chóng.
+C. Tài sản lưu động không bị hao mòn trong quá trình sử dụng, trong khi tài sản cố định bị hao mòn.
+
+Câu 329. Giá thành đơn vị sản phẩm được tính như thế nào?
+*A. Tổng chi phí sản xuất chia cho tổng số sản phẩm
+B. Tổng chi phí sản xuất chia cho tổng doanh thu
+C. Tổng chi phí sản xuất cộng với chi phí bán hàng
+
+Câu 330. Lợi nhuận sau thuế của doanh nghiệp được phân phối như thế nào?
+A. Chỉ được dùng để trả nợ cho các chủ nợ
+B. Chỉ được sử dụng để tái đầu tư vào hoạt động sản xuất kinh doanh
+*C. Có thể phân phối cho cổ đông, tái đầu tư vào doanh nghiệp hoặc để dự phòng
+
+Câu 331. Thanh toán qua ngân hàng trực tuyến là gì?
+A. Việc thanh toán qua dịch vụ chuyển tiền tại quầy
+*B. Việc thanh toán thông qua các dịch vụ ngân hàng điện tử, sử dụng internet hoặc điện thoại
+C. Việc thanh toán qua các máy rút tiền tự động (ATM)
+
+Câu 332. Phương thức thanh toán nào dưới đây không được xem là thanh toán qua ngân hàng tại Việt Nam?
+A. Thanh toán qua thẻ tín dụng ngân hàng
+B. Thanh toán qua dịch vụ ví điện tử (Momo, ZaloPay, VNPAY)
+*C. Thanh toán bằng tiền mặt tại các cửa hàng
+
+Câu 333. Một trong những rủi ro khi thanh toán qua ngân hàng là:
+A. Khó khăn trong việc theo dõi giao dịch
+*B. Mất thẻ ngân hàng và thông tin cá nhân bị đánh cắp
+C. Thanh toán không thể hoàn tiền
+
+Câu 334. Hình thức thanh toán nào sau đây thường được sử dụng trong các giao dịch thanh toán mua sắm tại các cửa hàng bán lẻ tại Việt Nam?
+A. Chuyển khoản qua Internet banking
+*B. Thanh toán qua thẻ ATM hoặc thẻ tín dụng
+C. Thanh toán qua Western Union
+
+Câu 335. Thanh toán qua thẻ ATM nội địa có thể thực hiện được tại các kênh nào?
+*A. Rút tiền tại ATM, thanh toán qua POS, thanh toán online
+B. Chỉ rút tiền tại ATM
+C. Chỉ thanh toán qua các cửa hàng POS
+
+Câu 336. Các bên tham gia trong giao dịch ủy nhiệm chi bao gồm:
+A. Ngân hàng phát hành, ngân hàng thụ hưởng
+*B. Người trả tiền, ngân hàng phát hành, ngân hàng thụ hưởng
+C. Người thụ hưởng, người trả tiền
+
+Câu 337. Điều kiện để thực hiện giao dịch thanh toán bằng ủy nhiệm chi là:
+A. Người trả tiền phải có tài khoản ngân hàng
+B. Người nhận tiền phải có tài khoản ngân hàng
+*C. Cả người trả tiền và người nhận tiền phải có tài khoản ngân hàng
+
+Câu 338. Các bên tham gia trong giao dịch thanh toán bằng séc bao gồm:
+*A. Người phát hành séc, ngân hàng thanh toán và người thụ hưởng
+B. Người phát hành séc và người thụ hưởng
+C. Ngân hàng phát hành và người thụ hưởng
+
+Câu 339. Séc có thể được thanh toán trực tiếp tại ngân hàng của người phát hành hay ngân hàng khác?
+A. Chỉ có thể thanh toán tại ngân hàng phát hành
+*B. Có thể thanh toán tại bất kỳ ngân hàng nào
+C. Chỉ có thể thanh toán tại ngân hàng của người thụ hưởng
+
+Câu 340. Các bên tham gia trong phương thức thanh toán bằng uỷ thác thu bao gồm:
+*A. Người nhập khẩu, người xuất khẩu và các ngân hàng liên quan
+B. Người mua và người bán
+C. Các công ty bảo hiểm
+
+Câu 341. Trong phương thức uỷ thác thu, ngân hàng của người bán sẽ làm gì?
+A. Gửi chứng từ cho người mua sau khi thanh toán
+*B. Gửi chứng từ cho ngân hàng của người mua để thu tiền
+C. Gửi tiền trực tiếp cho người bán
+
+Câu 342. Trong phương thức uỷ thác thu, người bán muốn nhận thanh toán sẽ phải làm gì?
+A. Gửi trực tiếp tiền cho ngân hàng của người mua
+*B. Gửi chứng từ qua ngân hàng của mình cho ngân hàng của người mua
+C. Để người mua tự thanh toán mà không cần chứng từ
+
+Câu 343. Ưu điểm của phương thức uỷ thác thu đối với người mua là gì?
+A. Người mua có thể nhận chứng từ ngay lập tức mà không phải thanh toán
+*B. Người mua không cần phải trả tiền trước khi nhận hàng hóa
+C. Người mua không phải thanh toán qua ngân hàng
+
+Câu 344. Rủi ro lớn nhất đối với người bán trong phương thức uỷ thác thu là gì?
+*A. Người bán có thể không nhận được tiền nếu người mua từ chối thanh toán hoặc không ký giấy chấp nhận thanh toán
+B. Người bán phải giao hàng trước khi nhận được chứng từ
+C. Người bán phải trả phí giao dịch cho ngân hàng
+
+Câu 345. Thư tín dụng (L/C ) được phát hành bởi ai?
+A. Người mua
+B. Ngân hàng của người bán
+*C. Ngân hàng của người mua
+
+Câu 346. Một trong những ưu điểm lớn nhất của phương thức thanh toán qua L/C đối với người bán là gì?
+A. Người bán không cần phải giao hàng hóa
+B. Người bán nhận được thanh toán ngay lập tức sau khi giao hàng
+*C. Người bán có thể giao hàng mà không lo bị mất tiền nếu người mua không thanh toán
+
+Câu 347. Điều kiện tiên quyết để người bán nhận được thanh toán theo L/C là gì?
+A. Người bán phải chứng minh đã giao hàng
+*B. Người bán phải xuất trình đúng các chứng từ theo yêu cầu của L/C
+C. Người bán phải trả tiền trước cho ngân hàng phát hành
+
+Câu 348. Lợi ích của việc sử dụng L/C đối với người mua là gì?
+A. Người mua có thể thanh toán ngay lập tức khi nhận hàng
+*B. Người mua có thể kiểm tra hàng hóa trước khi thanh toán
+C. Người mua không phải chịu trách nhiệm về việc giao hàng
+
+Câu 349. Phương thức nào dưới đây là phương thức thanh toán an toàn hơn đối với người bán?
+*A. L/C (Tín dụng thư)
+B. Uỷ thác thu
+C. Chuyển tiền
+
+Câu 350. Phương thức nào dưới đây không yêu cầu người phát hành có tiền trong tài khoản khi phát hành chứng từ?
+A. Ủy nhiệm chi
+*B. Séc
+C. Chuyển khoản ngân hàng
+
+Câu 351. Người nhận séc có thể làm gì để nhận tiền?
+A. Người nhận chỉ cần ký vào séc và chuyển cho ngân hàng
+B. Người nhận chỉ cần xuất trình chứng từ giao hàng
+*C. Người nhận phải xuất trình séc tại ngân hàng và có thể chuyển nhượng séc cho người khác
+
+Câu 352. Điều nào sau đây là ưu điểm của séc so với ủy nhiệm chi?
+*A. Séc có thể thanh toán ngay lập tức và có thể chuyển nhượng dễ dàng
+B. Séc có thể yêu cầu ngân hàng trả lại số tiền ngay lập tức mà không cần chứng từ
+C. Ủy nhiệm chi là phương thức thanh toán nhanh hơn
+
+Câu 353. Khi phát hành séc, người phát hành cần làm gì để xác nhận thanh toán?
+A. Người phát hành không cần làm gì, ngân hàng sẽ tự động thanh toán
+*B. Người phát hành cần ký vào séc và đảm bảo có đủ tiền trong tài khoản
+C. Người phát hành chỉ cần gửi séc cho người nhận mà không cần ký
+
+Câu 354. Séc có thể được chuyển nhượng cho người khác không?
+*A. Có, séc có thể được chuyển nhượng cho người khác nếu có ký tên trên séc
+B. Không, séc không thể chuyển nhượng
+C. Có, nhưng phải có sự đồng ý của ngân hàng phát hành
+
+Câu 355. Phương thức thanh toán nào dưới đây có thể yêu cầu ngân hàng chuyển tiền từ tài khoản của người thanh toán sang tài khoản của người nhận ngay lập tức?
+A. Ủy nhiệm chi
+B. Séc
+*C. Chuyển khoản ngân hàng
+
+Câu 356. Khi sử dụng ủy nhiệm chi, ai là người yêu cầu thanh toán?
+A. Người nhận tiền
+B. Ngân hàng của người nhận
+*C. Người phát hành ủy nhiệm chi (người sở hữu tài khoản)
+
+Câu 357. Khi nào người bán sẽ gặp rủi ro cao nhất khi sử dụng phương thức Uỷ thác thu?
+*A. Khi người mua từ chối thanh toán hoặc không chấp nhận chứng từ
+B. Khi ngân hàng không trả lại chứng từ cho người bán
+C. Khi người bán không có đủ chứng từ hợp lệ
+
+Câu 358. Phương thức L/C được khuyến khích sử dụng trong các giao dịch nào?
+A. Các giao dịch có giá trị thấp và các bên tham gia đã quen thuộc
+*B. Các giao dịch có giá trị cao hoặc các bên không quen thuộc và cần sự đảm bảo cao về thanh toán
+C. Các giao dịch với khách hàng trong cùng một quốc gia
+
+Câu 359. Ưu điểm của phương thức L/C đối với người mua là gì?
+*A. Người mua không cần phải thanh toán trước khi nhận hàng
+B. Người mua có thể kiểm tra hàng hóa trước khi thanh toán
+C. Người mua không phải cung cấp bất kỳ thông tin nào cho ngân hàng
+
+Câu 360. Khi người bán sử dụng phương thức L/C, người bán có thể nhận thanh toán ngay khi nào?
+*A. Ngay sau khi xuất trình chứng từ hợp lệ, bất kể người mua có thanh toán hay không
+B. Sau khi người mua nhận hàng và kiểm tra
+C. Sau khi người bán giao hàng và người mua thanh toán
+
+Câu 361. Trong phương thức Uỷ thác thu, người bán sẽ nhận được tiền khi nào?
+A. Ngay khi giao hàng
+B. Sau khi ngân hàng của người mua xác nhận thanh toán
+*C. Sau khi người mua nhận chứng từ và thanh toán hoặc chấp nhận thanh toán
+
+Câu 362. Khi chuyển tiền quốc tế qua ngân hàng, thông thường ai sẽ chịu phí giao dịch?
+A. Người gửi tiền
+B. Người nhận tiền
+*C. Cả hai bên (tuỳ theo thỏa thuận)
+
+Câu 363. Chuyển tiền quốc tế là gì?
+A. Là việc chuyển tiền giữa các ngân hàng trong cùng một quốc gia
+B. Là việc chuyển tiền giữa hai cá nhân trong cùng một quốc gia
+*C. Là việc chuyển tiền từ một quốc gia này sang quốc gia khác thông qua các ngân hàng hoặc dịch vụ chuyển tiền
+
+Câu 364. Phương thức thanh toán qua L/C thường phù hợp với loại giao dịch nào?
+A. Các giao dịch có giá trị thấp và ít rủi ro
+*B. Các giao dịch có giá trị cao và các bên không quen thuộc với nhau
+C. Các giao dịch nội địa
+
+Câu 365. Trong quá trình thực hiện L/C, nếu người bán xuất trình chứng từ không chính xác, điều gì sẽ xảy ra?
+A. Ngân hàng phát hành sẽ tự động thanh toán cho người bán
+*B. Người bán sẽ không nhận được tiền cho đến khi chứng từ chính xác được xuất trình
+C. Người mua sẽ trực tiếp thanh toán cho người bán
+
+Câu 366. Quản lý tài chính doanh nghiệp nhằm mục đích nào sau đây?
+A. Tối đa hóa doanh thu
+B. Tối thiểu hóa chi phí sản xuất
+*C. Quản lý rủi ro tài chính và tối ưu hóa nguồn vốn
+
+Câu 367. Mục tiêu dài hạn của tài chính doanh nghiệp là gì?
+A. Tối thiểu hóa chi phí trong ngắn hạn
+*B. Tối đa hóa giá trị tài sản của doanh nghiệp
+C. Tăng trưởng lợi nhuận trong quý
+
+Câu 368. Quỹ khen thưởng và phúc lợi của doanh nghiệp là gì?
+A. Quỹ để chi trả cho các khoản chi phí hàng tháng của công ty
+B. Quỹ để trả thưởng cho cổ đông dựa trên tỷ lệ sở hữu cổ phần
+*C. Quỹ để chi trả tiền thưởng cho nhân viên và các phúc lợi khác
+
+Câu 369. Lợi nhuận hoạt động của doanh nghiệp là gì?
+*A. Lợi nhuận trước thuế từ các hoạt động sản xuất và kinh doanh chính của doanh nghiệp
+B. Lợi nhuận từ các hoạt động tài chính
+C. Lợi nhuận từ việc bán tài sản cố định
+
+Câu 370. Doanh thu từ hoạt động tài chính của doanh nghiệp là gì?
+A. Doanh thu từ việc bán sản phẩm và cung cấp dịch vụ
+*B. Doanh thu từ hoạt động đầu tư, cổ tức, lãi vay, lãi từ đầu tư tài chính
+C. Doanh thu từ việc cho thuê tài sản
+
+Câu 371. Doanh thu khác là gì?
+A. Doanh thu từ các hoạt động sản xuất chính của doanh nghiệp
+B. Doanh thu từ việc cung cấp dịch vụ
+*C. Doanh thu từ các hoạt động không phải là hoạt động chính của doanh nghiệp
+
+Câu 372. Doanh thu của doanh nghiệp là gì?
+*A. Số tiền doanh nghiệp thu được từ việc bán hàng hoặc cung cấp dịch vụ
+B. Số tiền doanh nghiệp chi để sản xuất sản phẩm
+C. Lợi nhuận sau thuế mà doanh nghiệp thu được
+
+Câu 373. Chi phí sản xuất chung trong giá thành bao gồm những chi phí nào?
+A. Chi phí nguyên liệu, chi phí nhân công
+B. Chi phí lao động trực tiếp, chi phí quản lý
+*C. Chi phí khấu hao, chi phí bảo trì máy móc, chi phí điện, nước
+D. Chi phí marketing, chi phí lãi vay
+
+Câu 374. Chi phí nào dưới đây có thể thay đổi tùy thuộc vào sản lượng sản xuất?
+A. Tiền thuê mặt bằng
+B. Lương nhân viên quản lý
+*C. Chi phí nguyên liệu đầu vào
+
+Câu 375. Chi phí nào dưới đây là chi phí liên quan đến hoạt động sản xuất?
+A. Chi phí bán hàng
+B. Chi phí tài chính
+*C. Chi phí nguyên liệu sản xuất
+
+Câu 376. Chi phí lãi vay là loại chi phí nào?
+A. Chi phí cố định
+B. Chi phí biến đổi
+*C. Chi phí tài chính
+
+Câu 377. Chi phí trực tiếp là gì?
+A. Chi phí không thể phân bổ cho sản phẩm nào cụ thể
+*B. Chi phí có thể phân bổ trực tiếp cho sản phẩm hoặc dịch vụ cụ thể
+C. Chi phí không liên quan đến hoạt động sản xuất
+D. Chi phí phát sinh trong quá trình quản lý và điều hành doanh nghiệp
+
+Câu 378. Chi phí gián tiếp của doanh nghiệp là gì?
+A. Chi phí trực tiếp liên quan đến việc sản xuất sản phẩm
+B. Chi phí phát sinh khi doanh nghiệp tăng trưởng
+*C. Chi phí không thể phân bổ trực tiếp cho sản phẩm hoặc dịch vụ cụ thể
+D. Chi phí trả cho các khoản vay
+
+Câu 379. Chi phí nào dưới đây thuộc chi phí gián tiếp của doanh nghiệp?
+A. Tiền lương của công nhân sản xuất
+B. Chi phí vận chuyển nguyên liệu
+*C. Tiền lương của giám đốc
+
+Câu 380. Đặc điểm của nợ phải trả đối với doanh nghiệp là gì?
+A. Doanh nghiệp không cần phải trả nợ
+B. Nợ phải trả không có lãi suất
+*C. Doanh nghiệp phải trả lại nợ trong một thời gian nhất định
+
+Câu 381. Nợ nước ngoài có thể được sử dụng vào mục đích gì?
+*A. Để chi trả cho các chương trình an sinh xã hội, bảo vệ môi trường, và phát triển cơ sở hạ tầng.
+B. Để trả nợ trước đó hoặc đầu tư vào các dự án không mang lại lợi ích dài hạn.
+C. Để chi trả các khoản nợ cho các tổ chức quốc tế mà không có kế hoạch trả nợ.
+
+Câu 382. Khi nợ nước ngoài gia tăng nhanh chóng, quốc gia có thể đối mặt với nguy cơ gì?
+*A. Khả năng vỡ nợ, áp lực tài chính tăng cao, và giảm niềm tin của nhà đầu tư quốc tế.
+B. Giảm tốc độ tăng trưởng của nền kinh tế, nhưng không ảnh hưởng đến nợ công.
+C. Giảm tỷ lệ thất nghiệp và gia tăng nguồn thu ngân sách.
+
+Câu 383. Các biện pháp nào dưới đây có thể giúp quản lý và giảm thiểu rủi ro từ nợ nước ngoài?
+A. Tăng cường vay nợ từ các tổ chức tài chính quốc tế như IMF và WB.
+B. Phát hành trái phiếu quốc tế và vay nợ ngắn hạn để tránh nợ dài hạn.
+*C. Tăng cường giám sát và cải cách chính sách tài khóa, thúc đẩy tăng trưởng kinh tế để đảm bảo khả năng trả nợ.
+D. Từ chối tất cả các khoản vay nước ngoài để tránh nợ công.
+
+Câu 384. Nợ nước ngoài bao gồm các khoản nợ nào?
+A. Nợ của Chính phủ, các doanh nghiệp nhà nước và các tổ chức tài chính quốc gia.
+*B. Nợ của Chính phủ và các khoản vay của các doanh nghiệp nhà nước, tổ chức tài chính quốc tế.
+C. Nợ của các tổ chức phi chính phủ và các khoản vay từ các cá nhân nước ngoài.
+D. Nợ của các chính quyền địa phương và các khoản vay của các công ty đa quốc gia.
+
+Câu 385. Nợ nước ngoài là gì?
+*A. Là các khoản nợ mà Chính phủ, các cơ quan nhà nước và doanh nghiệp trong nước vay từ các tổ chức, cá nhân nước ngoài.
+B. Là các khoản nợ mà chỉ có Chính phủ vay từ các quốc gia khác.
+C. Là các khoản nợ mà chỉ có các doanh nghiệp tư nhân vay từ các tổ chức quốc tế.
+
+Câu 386. Nợ công có thể gây ra những vấn đề gì đối với nền kinh tế quốc gia?
+A. Tăng trưởng kinh tế nhanh chóng và bền vững.
+*B. Tăng nợ nước ngoài, tạo áp lực trả nợ, có thể dẫn đến vỡ nợ quốc gia.
+C. Giảm tỷ lệ thất nghiệp và tăng thu nhập quốc dân..
+
+Câu 387. Biện pháp nào dưới đây không phải là phương án chính để xử lý thâm hụt ngân sách nhà nước?
+A. Tăng thuế để tăng nguồn thu ngân sách
+B. Tăng vay nợ trong và ngoài nước để bù đắp thâm hụt
+*C. Chuyển nhượng tài sản công cho các doanh nghiệp tư nhân
+
+Câu 388. Thâm hụt ngân sách nhà nước là gì?
+*A. Là tình trạng khi tổng chi ngân sách vượt quá tổng thu ngân sách trong một kỳ.
+B. Là tình trạng khi tổng thu ngân sách lớn hơn tổng chi ngân sách.
+C. Là tình trạng khi ngân sách nhà nước không có đủ nguồn lực để chi trả các khoản vay.
+
+Câu 389. Chi cho an ninh quốc phòng là khoản chi nào trong ngân sách nhà nước?
+*A. Chi thường xuyên
+B. Chi đầu tư phát triển
+C. Chi cho chương trình tín dụng
+
+Câu 390. Mục đích chính của chi thường xuyên của nhà nước là gì?
+A. Đảm bảo sự ổn định về tài chính của quốc gia
+B. Tạo nguồn lực để phát triển kinh tế
+*C. Đảm bảo các hoạt động hành chính và dịch vụ công liên tục
+
+Câu 391. Thị trường tài chính là gì?
+A. Là nơi các giao dịch về hàng hóa diễn ra
+*B. Là nơi cung cầu nguồn tài chính gặp nhau và tại đó các tài sản tài chính được mua bán
+C. Là nơi các giao dịch về bất động sản diễn ra
+
+Câu 392. Một công ty phát hành cổ phiếu để huy động vốn nhằm?
+A. Tăng lợi nhuận từ cổ tức
+B. Tăng khả năng thanh toán nợ
+*C. Tăng trưởng quy mô và mở rộng hoạt động kinh doanh
+
+Câu 393. Theo tính chất pháp lý, thị trường tài chính có thể được chia thành?
+A. Thị trường trái phiếu và thị trường cổ phiếu
+B. Thị trường tiền tệ và thị trường ngoại hối
+*C. Thị trường chính thức và thị trường không chính thức
+
+Câu 394. Lý do chủ yếu mà các công ty phát hành trái phiếu là?
+A. Để giảm chi phí hoạt động
+*B. Để huy động vốn cho các dự án lớn mà không cần phải chia sẻ quyền kiểm soát
+C. Để trả nợ ngắn hạn
+
+Câu 395. Theo tính chất tổ chức, thị trường chứng khoán có thể chia thành các loại nào?
+*A. Thị trường sơ cấp và thị trường thứ cấp
+B. Thị trường tiền tệ và thị trường vốn
+C. Thị trường ngoại hối và thị trường vàng
+D. Thị trường tín dụng và thị trường tài chính
+
+Câu 396. Trên thị trường tiền tệ, khi lãi suất ngắn hạn tăng lên, điều này sẽ có ảnh hưởng như thế nào đối với các doanh nghiệp?
+A. Doanh nghiệp có thể dễ dàng vay vốn để mở rộng sản xuất
+*B. Chi phí vay vốn của doanh nghiệp tăng lên, khiến doanh nghiệp có thể giảm bớt các khoản đầu tư mới
+C. Doanh nghiệp sẽ không bị ảnh hưởng vì họ chủ yếu vay dài hạn
+
+Câu 397. Trên thị trường tiền tệ, các công cụ tài chính ngắn hạn thường có đặc điểm gì?
+*A. Tính thanh khoản cao và kỳ hạn ngắn
+B. Lãi suất cao và tính thanh khoản thấp
+C. Được phát hành với lãi suất cố định
+
+Câu 398. Cấu trúc của thị trường vốn bao gồm?
+A. Thị trường tiền tệ, thị trường chứng khoán
+*B. Thị trường cho vay dài hạn trực tiếp, thị trường thuê mua tài chính, thị trường chứng khoán
+C. Thị trường chứng khoán, thị trường liên ngân hàng
+
+Câu 399. Trong bối cảnh nền kinh tế đang suy thoái và tỷ lệ thất nghiệp tăng cao, Ngân hàng Trung ương sẽ áp dụng chính sách tiền tệ nào để thúc đẩy tăng trưởng kinh tế?
+A. Tăng lãi suất và giảm cung tiền.
+*B. Giảm tỷ lệ dự trữ bắt buộc và giảm lãi suất.
+C. Bán trái phiếu chính phủ để giảm cung tiền.
+D. Tăng thuế và giảm chi tiêu công.
+
+Câu 400. Một trong những chức năng của ngân hàng trung ương là gì mà ngân hàng thương mại không thực hiện?
+A. Cho vay trực tiếp cho các doanh nghiệp và cá nhân.
+*B. Phát hành tiền tệ và điều hành chính sách tiền tệ.
+C. Cung cấp các sản phẩm tín dụng cho khách hàng.
+
+Câu 401. Lãi suất tín dụng có ảnh hưởng như thế nào đến người vay?
+A. Lãi suất càng cao, chi phí vay càng thấp
+B. Lãi suất càng thấp, chi phí vay càng cao
+*C. Lãi suất càng cao, chi phí vay càng cao
+
+Câu 402. Lãi suất tín dụng cơ bản (lãi suất cho vay cơ bản) thường do tổ chức nào quyết định?
+A. Chính phủ
+*B. Ngân hàng trung ương
+C. Các tổ chức tín dụng nhỏ
+
+Câu 403. Khi ngân hàng trung ương tăng lãi suất cơ bản, lãi suất tín dụng của các ngân hàng thương mại sẽ:
+A. Giảm xuống
+B. Giữ nguyên
+*C. Tăng lên
+D. Không bị ảnh hưởng
+
+Câu 404. Khi lãi suất tín dụng tăng, điều gì sẽ xảy ra với chi phí vay của doanh nghiệp?
+A. Chi phí vay giảm, doanh nghiệp dễ dàng vay vốn hơn
+*B. Chi phí vay tăng, doanh nghiệp gặp khó khăn hơn trong việc vay vốn
+C. Doanh nghiệp sẽ không phải trả lãi vay

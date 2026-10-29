@@ -62,6 +62,11 @@
             </a>
             <!-- Bảng điều khiển nút bấm trên Desktop / PC -->
             <div class="nav-actions-desktop">
+                <button type="button" class="nav-btn btn-school-select" id="btnDesktopSchoolSelect" onclick="openSchoolModal()" title="Bấm để chọn hoặc đổi trường đại học">
+                    <span id="desktopSchoolIcon" style="font-size: 1.05rem; display: inline-flex; align-items: center;">🏫</span>
+                    <span id="desktopSchoolName" style="font-weight: 800;">ĐH UTT</span>
+                    <span style="font-size: 0.65rem; opacity: 0.7;">▼</span>
+                </button>
                 <button type="button" class="nav-btn btn-update-notice" id="btnUpdateNotice" onclick="openUpdateModal()" title="Xem thông báo bản cập nhật mới">
                     <span style="position: relative;">🔔<span class="update-pulse-dot"></span></span>
                     <span>Cập nhật</span>
@@ -81,8 +86,11 @@
     </header>
     <!-- THANH THÔNG BÁO CẬP NHẬT MỚI -->
     <div class="update-banner-bar" id="updateBannerBar" onclick="openUpdateModal()" title="Bấm để xem chi tiết bản cập nhật mới">
-        <span>🔔 <strong>CẬP NHẬT MỚI:</strong> Đã có Module Học Tự Luận 23 câu & Theme Giảm màu mè!</span>
-        <span style="text-decoration: underline; font-weight: 900;">Xem ngay ➔</span>
+        <div class="update-banner-inner">
+            <span class="update-banner-badge">🎉 MỚI v3.0</span>
+            <span class="update-banner-text">Đã tích hợp <strong>trọn bộ 30 môn thi & 9.000+ câu hỏi</strong> trắc nghiệm mới!</span>
+            <span class="update-banner-cta">Xem ngay ➔</span>
+        </div>
     </div>
 
     <!-- MOBILE DRAWER MENU & BACKDROP -->
@@ -106,9 +114,21 @@
         </div>
 
         <div class="drawer-nav-list">
+            <!-- Nút đổi trường nổi bật trong Drawer Menu Mobile -->
+            <button class="drawer-item-btn btn-school-select-drawer" onclick="closeMobileMenu(); openSchoolModal();" style="width: 100%; text-align: left; background: #fef08a; border: 2.5px solid var(--neo-black); border-radius: var(--neo-radius-sm); box-shadow: 2px 2px 0 var(--neo-black); padding: 10px 14px; font-weight: 800; cursor: pointer; display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span id="drawerSchoolIcon" style="font-size: 1.25rem; display: inline-flex; align-items: center;">🏫</span>
+                    <span>
+                        <span style="display: block; font-size: 0.68rem; color: #6b7280; font-weight: 800; text-transform: uppercase;">Trường đang chọn</span>
+                        <span style="color: var(--neo-black); font-size: 0.95rem; font-weight: 800;" id="drawerSchoolName">Đại Học UTT</span>
+                    </span>
+                </span>
+                <span style="background: var(--neo-black); color: #fff; font-size: 0.72rem; padding: 3px 8px; border-radius: 6px; font-weight: 800;">Đổi ➔</span>
+            </button>
+
             <button class="drawer-item-btn btn-update-notice" onclick="closeMobileMenu(); openUpdateModal();" style="width: 100%; text-align: left; background: #ffffff; border: 2.5px solid var(--neo-black); border-radius: var(--neo-radius-sm); box-shadow: 2px 2px 0 var(--neo-black); padding: 10px 14px; font-weight: 800; cursor: pointer; display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
                 <span>🔔 <span style="color: #d97706;">BẢN CẬP NHẬT MỚI</span></span>
-                <span style="background: #ef4444; color: #fff; font-size: 0.68rem; padding: 2px 6px; border-radius: 999px; font-weight: 900;">v2.6</span>
+                <span style="background: #10b981; color: #fff; font-size: 0.68rem; padding: 2px 6px; border-radius: 999px; font-weight: 900;">v3.0</span>
             </button>
             <button class="drawer-item-btn btn-focus-theme-toggle" id="btnIndexDrawerTheme" onclick="toggleFocusTheme();" style="width: 100%; text-align: left; background: #ffffff; border: 2.5px solid var(--neo-black); border-radius: var(--neo-radius-sm); box-shadow: 2px 2px 0 var(--neo-black); padding: 10px 14px; font-weight: 800; cursor: pointer; display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
                 <span><span class="theme-toggle-icon">🌱</span> <span class="theme-toggle-text">Theme: Giảm màu mè</span></span>
@@ -179,10 +199,29 @@
                 oninput="filterAllExams(this.value)">
         </div>
 
+        <!-- THANH TRẠNG THÁI TRƯỜNG & ĐỔI TRƯỜNG NHANH -->
+        <div class="school-status-card" id="schoolStatusCard">
+            <div class="school-status-left">
+                <span class="school-status-icon" id="schoolInfoIcon">🏫</span>
+                <div class="school-status-text-wrap">
+                    <span class="school-status-sub">ĐANG XEM MÔN THI DÀNH CHO:</span>
+                    <span class="school-status-title" id="schoolInfoTitle">Đại Học Công Nghệ GTVT (UTT)</span>
+                </div>
+            </div>
+            <div class="school-status-actions">
+                <button type="button" class="btn-neo btn-change-school" onclick="openSchoolModal()" title="Bấm để chọn hoặc chuyển sang trường khác">
+                    🔄 ĐỔI TRƯỜNG
+                </button>
+                <button type="button" class="btn-neo btn-view-drive" id="btnToggleDriveView" onclick="toggleDriveView()" title="Mở kho tài liệu Drive & đề thi Azota">
+                    📁 KHO DRIVE & AZOTA
+                </button>
+            </div>
+        </div>
+
         <!-- PHÂN VÙNG: MÔN THI KHẢO THÍ -->
         <div class="zone-header">
-            <span class="zone-badge">KHẢO THÍ</span>
-            <span class="zone-title">📚 DANH SÁCH MÔN THI</span>
+            <span class="zone-badge" id="zoneBadgeText">KHẢO THÍ</span>
+            <span class="zone-title" id="zoneTitleText">📚 DANH SÁCH MÔN THI</span>
         </div>
         <div class="grid-menu" id="publicMenuGrid" style="margin-bottom: 25px;"></div>
 
@@ -193,6 +232,114 @@
             <p>ĐƯỢC TẠO BỞI CAO VĂN NAM • PHỤC VỤ FREE</p>
         </footer>
     </main>
+
+    <!-- MODAL THÔNG BÁO BẢN CẬP NHẬT MỚI (UPDATE MODAL) -->
+    <div class="neo-modal-overlay" id="updateModal" style="display: none;" onclick="if(event.target===this) closeUpdateModal()">
+        <div class="neo-modal-card update-modal-card" role="dialog" aria-modal="true" aria-labelledby="updateModalTitle">
+            <div class="update-modal-head">
+                <div id="updateModalTitle" class="update-modal-title">
+                    <span style="font-size: 1.35rem; line-height: 1;">🎉</span>
+                    <span class="update-modal-title-text">BẢN CẬP NHẬT MỚI</span>
+                    <span class="update-modal-ver-badge">v3.0</span>
+                </div>
+                <button type="button" onclick="closeUpdateModal()" class="update-modal-close-btn" title="Đóng">✕</button>
+            </div>
+
+            <div class="update-modal-body">
+                <!-- Feature 1: Đào trọn bộ tài nguyên Tùng Marketing -->
+                <div class="update-item-card">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #0284c7; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>🚀</span> Kho Đề Thi Siêu Cấp: 30 Bộ Đề & 9.000+ Câu Hỏi
+                    </div>
+                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
+                        Đã tích hợp toàn bộ ngân hàng câu hỏi chuẩn từ tungmarketing.id.vn: 30 môn học hoàn chỉnh (UTT, ULSA, PTIT...) sẵn sàng thi và ôn tập 100% offline.
+                    </div>
+                </div>
+
+                <!-- Feature 2: Kho Drive & Azota 51+ môn học -->
+                <div class="update-item-card">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #047857; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>📁</span> Tích Hợp Kho Drive & Đề Thi Azota (51+ Môn)
+                    </div>
+                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
+                        Tab mới "Kho Drive & Azota" tra cứu và truy cập trực tiếp toàn bộ thư mục Google Drive, tài liệu đề cương PDF và link thi thử Azota của hơn 51 môn học.
+                    </div>
+                </div>
+
+                <!-- Feature 3: Bộ lọc trường đại học & môn học -->
+                <div class="update-item-card">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>🏷️</span> Phân Loại Theo Trường: UTT, ULSA, PTIT, Đại Cương
+                    </div>
+                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
+                        Nhanh chóng chuyển đổi giữa các trường và tìm kiếm môn thi thần tốc ngay trên thanh công cụ neo-brutalism.
+                    </div>
+                </div>
+
+                <!-- Feature 4: Chuyên đề NLQH & Tự luận -->
+                <div class="update-item-card">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #6d28d9; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>📘</span> Nguyên Lý Quy Hoạch (NLQH) & Tự Luận 14 Câu
+                    </div>
+                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
+                        Đầy đủ 113 câu trắc nghiệm và 14 câu tự luận kèm bảng tra cứu tiêu chuẩn đô thị và chế độ học 120 FPS.
+                    </div>
+                </div>
+
+                <!-- Feature 5: Theme giảm màu mè -->
+                <div class="update-item-card">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #059669; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>🌱</span> Theme Giảm Màu Mè & Tối Ưu Tốc Độ
+                    </div>
+                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
+                        Chuyển đổi giao diện ôn tập dịu mắt chống chói khi học đêm, hỗ trợ phím tắt chuyển câu và lưu tiến độ an toàn.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Actions -->
+            <div class="update-modal-actions">
+                <button type="button" class="btn-neo btn-yellow" onclick="closeUpdateModal()" style="flex: 1.2; min-width: 140px; padding: 11px 14px; font-size: 0.92rem; font-weight: 900; justify-content: center;">
+                    🚀 Trải nghiệm ngay
+                </button>
+                <button type="button" class="btn-neo btn-white" onclick="snoozeUpdateModal(2)" title="Không tự động hiện lại trong 2 giờ" style="flex: 1; min-width: 140px; padding: 11px 12px; font-size: 0.88rem; font-weight: 800; justify-content: center; background: #fef08a;">
+                    ⏰ Tắt 2 tiếng
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL CHỌN TRƯỜNG HỌC (CHOCOLATE NEO-BRUTALISM) -->
+    <div class="neo-modal-overlay" id="schoolModal" style="display: none;" onclick="if(event.target===this) closeSchoolModal()">
+        <div class="neo-modal-card school-modal-card" role="dialog" aria-modal="true" aria-labelledby="schoolModalTitle">
+            <div class="update-modal-head">
+                <div id="schoolModalTitle" class="update-modal-title">
+                    <span style="font-size: 1.35rem; line-height: 1;">🎓</span>
+                    <span class="update-modal-title-text">CHỌN TRƯỜNG CỦA BẠN</span>
+                </div>
+                <button type="button" onclick="closeSchoolModal()" class="update-modal-close-btn" title="Đóng">✕</button>
+            </div>
+
+            <p style="font-size: 0.86rem; color: #4b5563; font-weight: 600; margin-bottom: 6px;">
+                Vui lòng chọn trường bạn đang học để hệ thống hiển thị đúng ngân hàng đề thi & tài liệu phù hợp:
+            </p>
+
+            <!-- THÔNG BÁO COOLDOWN GIỚI HẠN ĐỔI TRƯỜNG SAU 1 NGÀY -->
+            <div id="schoolCooldownNotice" style="display: none; background: #fff1f2; border: 2.5px solid #e11d48; border-radius: 10px; padding: 10px 14px; margin: 8px 0 12px 0; font-size: 0.82rem; color: #9f1239; font-weight: 700; line-height: 1.4; box-shadow: 2px 2px 0 #be123c; align-items: center; gap: 10px;">
+                <!-- Cooldown info injected dynamically -->
+            </div>
+
+            <div class="school-options-list" id="schoolOptionsList">
+                <!-- Danh sách trường sẽ được render động từ SCHOOLS_CONFIG -->
+            </div>
+
+            <div style="display: flex; gap: 8px; align-items: center; margin-top: auto; padding-top: 8px;">
+                <button type="button" class="btn-neo btn-yellow" onclick="closeSchoolModal()" style="flex: 1; padding: 11px; font-size: 0.92rem; font-weight: 900; justify-content: center;">
+                    ✔ Tiếp tục vào học
+                </button>
+            </div>
+        </div>
+    </div>
 
     <!-- Scripts lõi -->
     <script src="js/api-config.js?v=20261029"></script>
@@ -417,7 +564,327 @@
                       .toLowerCase().trim();
         }
 
-        // Render phân vùng
+        // =====================================================
+        // CẤU HÌNH & QUẢN LÝ CHỌN TRƯỜNG ĐẠI HỌC (SCHOOL SYSTEM)
+        // =====================================================
+        const SCHOOLS_CONFIG = {
+            'utt': {
+                name: 'Đại Học Công Nghệ GTVT (UTT)',
+                short: 'ĐH UTT',
+                icon: '🏫',
+                logo: 'img/logo-utt.png',
+                count: '16 Đề',
+                desc: '16 môn thi trắc nghiệm K76, NLQH, Triết học, Logistics, Quân sự...'
+            },
+            'ulsa': {
+                name: 'Đại Học Lao Động - Xã Hội (ULSA)',
+                short: 'ĐH ULSA',
+                icon: '🏢',
+                logo: 'img/logo-ulsa.png',
+                count: '8 Đề',
+                desc: '8 môn thi chuyên ngành: Triết học, Marketing, Quản trị, Vĩ mô, TCBM...'
+            },
+            'ptit': {
+                name: 'Học Viện CNBCVT (PTIT)',
+                short: 'HV PTIT',
+                icon: '📡',
+                logo: 'img/logo-ptit.png',
+                count: '1 Đề',
+                desc: 'Ngân hàng 511 câu Triết học Mác - Lênin chuẩn đề thi khảo thí'
+            },
+            'chung': {
+                name: 'Khối Môn Đại Cương Chung',
+                short: 'Đại Cương',
+                icon: '📘',
+                logo: null,
+                count: '5 Đề',
+                desc: 'Kinh tế học đại cương & các môn nền tảng đại học'
+            },
+            'all': {
+                name: 'Tất Cả Các Trường (Tổng Hợp)',
+                short: 'Tất Cả',
+                icon: '🌟',
+                logo: null,
+                count: '30 Đề',
+                desc: 'Toàn bộ 30 bộ đề & 9.000+ câu hỏi ôn thi'
+            }
+        };
+
+        let currentSchoolKey = localStorage.getItem('user_school_selected') || 'utt';
+        let currentViewMode = 'school'; // 'school' | 'extra'
+
+        // =====================================================
+        // QUẢN LÝ COOLDOWN ĐỔI TRƯỜNG (1 NGÀY = 24 TIẾNG)
+        // =====================================================
+        const SCHOOL_COOLDOWN_MS = 24 * 60 * 60 * 1000; // 24 giờ
+
+        function getSchoolCooldownInfo() {
+            const lastChangeStr = localStorage.getItem('user_school_last_changed');
+            if (!lastChangeStr) return { isLocked: false, remainingMs: 0, text: '' };
+
+            const lastChange = parseInt(lastChangeStr, 10);
+            if (isNaN(lastChange) || lastChange <= 0) return { isLocked: false, remainingMs: 0, text: '' };
+
+            const now = Date.now();
+            const elapsed = now - lastChange;
+
+            if (elapsed < SCHOOL_COOLDOWN_MS) {
+                const rem = SCHOOL_COOLDOWN_MS - elapsed;
+                const hours = Math.floor(rem / (1000 * 60 * 60));
+                const mins = Math.floor((rem % (1000 * 60 * 60)) / (1000 * 60));
+                const text = hours > 0 ? `${hours} giờ ${mins} phút` : `${Math.max(1, mins)} phút`;
+                return { isLocked: true, remainingMs: rem, text: text };
+            }
+            return { isLocked: false, remainingMs: 0, text: '' };
+        }
+
+        // Helper cho dev/admin test reset cooldown
+        window.resetSchoolCooldown = function() {
+            localStorage.removeItem('user_school_last_changed');
+            initSchoolSelection();
+            console.log('✅ Đã reset cooldown đổi trường!');
+        };
+
+        function initSchoolSelection() {
+            const listEl = document.getElementById('schoolOptionsList');
+            const noticeEl = document.getElementById('schoolCooldownNotice');
+            const cooldown = getSchoolCooldownInfo();
+
+            if (noticeEl) {
+                if (cooldown.isLocked) {
+                    noticeEl.style.display = 'flex';
+                    noticeEl.innerHTML = `
+                        <span style="font-size: 1.4rem; line-height: 1; flex-shrink: 0;">⏳</span>
+                        <div>
+                            <div style="font-size: 0.88rem; font-weight: 800; color: #9f1239; margin-bottom: 2px;">GIỚI HẠN THỜI GIAN ĐỔI TRƯỜNG</div>
+                            <div style="font-size: 0.8rem; font-weight: 600; color: #881337;">Bạn đã đổi trường gần đây. Theo quy định, <strong>sau 1 ngày</strong> mới được đổi lại trường khác (còn <strong>${cooldown.text}</strong> nữa).</div>
+                        </div>
+                    `;
+                } else {
+                    noticeEl.style.display = 'none';
+                    noticeEl.innerHTML = '';
+                }
+            }
+
+            if (listEl) {
+                listEl.innerHTML = '';
+                Object.entries(SCHOOLS_CONFIG).forEach(([key, cfg]) => {
+                    const isCurrent = (key === currentSchoolKey);
+                    const isLocked = cooldown.isLocked && !isCurrent;
+
+                    const btn = document.createElement('button');
+                    btn.type = 'button';
+                    btn.className = 'school-option-btn' + (isCurrent ? ' selected' : '') + (isLocked ? ' locked' : '');
+
+                    btn.onclick = () => {
+                        if (isLocked) {
+                            alert(`⏳ BẠN CHỈ CÓ THỂ ĐỔI TRƯỜNG SAU 1 NGÀY!\n\nBạn đã chọn trường gần đây. Vui lòng quay lại sau ${cooldown.text} để đổi trường khác nhé.`);
+                            return;
+                        }
+                        selectSchool(key);
+                    };
+
+                    const visualHtml = cfg.logo 
+                        ? `<img src="${cfg.logo}" alt="${cfg.short}" class="school-option-logo">`
+                        : `<div class="school-option-icon">${cfg.icon}</div>`;
+
+                    let badgeHtml = `<div class="school-option-badge">${cfg.count}</div>`;
+                    if (isCurrent) {
+                        badgeHtml = `<div class="school-option-badge" style="background: #10b981; color: #ffffff; border-color: var(--neo-black);">✔ Đang học</div>`;
+                    } else if (isLocked) {
+                        badgeHtml = `<div class="school-option-badge" style="background: #e5e7eb; color: #4b5563; border-color: #9ca3af;">🔒 Khóa</div>`;
+                    }
+
+                    btn.innerHTML = `
+                        ${visualHtml}
+                        <div class="school-option-info">
+                            <div class="school-option-name">${cfg.name}</div>
+                            <div class="school-option-desc">${cfg.desc}</div>
+                        </div>
+                        ${badgeHtml}
+                    `;
+                    listEl.appendChild(btn);
+                });
+            }
+            updateSchoolUI(currentSchoolKey);
+        }
+
+        function updateSchoolUI(schoolKey) {
+            currentSchoolKey = schoolKey;
+            const cfg = SCHOOLS_CONFIG[schoolKey] || SCHOOLS_CONFIG['all'];
+
+            // 1. Cập nhật nút trên Desktop Navbar
+            const desktopSchoolIcon = document.getElementById('desktopSchoolIcon');
+            const desktopSchoolName = document.getElementById('desktopSchoolName');
+            if (desktopSchoolIcon) {
+                if (cfg.logo) {
+                    desktopSchoolIcon.innerHTML = `<img src="${cfg.logo}" alt="${cfg.short}" style="width:20px;height:20px;object-fit:contain;border-radius:3px;display:inline-block;vertical-align:middle;">`;
+                } else {
+                    desktopSchoolIcon.textContent = cfg.icon;
+                }
+            }
+            if (desktopSchoolName) desktopSchoolName.textContent = cfg.short;
+
+            // 2. Cập nhật nút trên Mobile Drawer Menu
+            const drawerSchoolIcon = document.getElementById('drawerSchoolIcon');
+            const drawerSchoolName = document.getElementById('drawerSchoolName');
+            if (drawerSchoolIcon) {
+                if (cfg.logo) {
+                    drawerSchoolIcon.innerHTML = `<img src="${cfg.logo}" alt="${cfg.short}" style="width:24px;height:24px;object-fit:contain;border-radius:4px;display:inline-block;vertical-align:middle;">`;
+                } else {
+                    drawerSchoolIcon.textContent = cfg.icon;
+                }
+            }
+            if (drawerSchoolName) drawerSchoolName.textContent = cfg.name;
+
+            // 3. Cập nhật thanh trạng thái trường trên trang chủ
+            const schoolInfoIcon = document.getElementById('schoolInfoIcon');
+            const schoolInfoTitle = document.getElementById('schoolInfoTitle');
+            if (schoolInfoIcon) {
+                if (cfg.logo) {
+                    schoolInfoIcon.innerHTML = `<img src="${cfg.logo}" alt="${cfg.short}">`;
+                } else {
+                    schoolInfoIcon.textContent = cfg.icon;
+                }
+            }
+            if (schoolInfoTitle) schoolInfoTitle.textContent = cfg.name;
+
+            // 4. Đồng bộ class selected trong Modal Chọn Trường
+            const allOptionBtns = document.querySelectorAll('.school-option-btn');
+            allOptionBtns.forEach(btn => btn.classList.remove('selected'));
+            if (document.getElementById('schoolOptionsList')) {
+                const list = document.getElementById('schoolOptionsList').children;
+                const keys = Object.keys(SCHOOLS_CONFIG);
+                const idx = keys.indexOf(schoolKey);
+                if (idx !== -1 && list[idx]) list[idx].classList.add('selected');
+            }
+        }
+
+        function selectSchool(schoolKey) {
+            if (schoolKey !== currentSchoolKey) {
+                const cooldown = getSchoolCooldownInfo();
+                if (cooldown.isLocked) {
+                    alert(`⏳ BẠN CHỈ CÓ THỂ ĐỔI TRƯỜNG SAU 1 NGÀY!\n\nBạn đã chọn trường gần đây. Vui lòng quay lại sau ${cooldown.text} để đổi trường khác nhé.`);
+                    return;
+                }
+                // Ghi nhận thời điểm đổi trường (khóa đổi trường trong 24 giờ tiếp theo)
+                try {
+                    localStorage.setItem('user_school_last_changed', Date.now().toString());
+                } catch (e) {}
+            }
+
+            currentSchoolKey = schoolKey;
+            currentViewMode = 'school';
+            try {
+                localStorage.setItem('user_school_selected', schoolKey);
+            } catch (e) {}
+
+            updateSchoolUI(schoolKey);
+            closeSchoolModal();
+
+            const btnDrive = document.getElementById('btnToggleDriveView');
+            if (btnDrive) btnDrive.classList.remove('active');
+
+            const badgeEl = document.getElementById('zoneBadgeText');
+            const titleEl = document.getElementById('zoneTitleText');
+            if (badgeEl && titleEl) {
+                badgeEl.textContent = 'KHẢO THÍ';
+                titleEl.textContent = '📚 DANH SÁCH MÔN THI';
+            }
+
+            const searchVal = document.getElementById('searchInput') ? document.getElementById('searchInput').value : '';
+            renderAllZones(searchVal);
+        }
+
+        function openSchoolModal() {
+            initSchoolSelection();
+            const modal = document.getElementById('schoolModal');
+            if (modal) {
+                modal.style.display = 'flex';
+                document.body.style.overflow = 'hidden';
+            }
+        }
+
+        function closeSchoolModal() {
+            const modal = document.getElementById('schoolModal');
+            if (modal) {
+                modal.style.display = 'none';
+                document.body.style.overflow = '';
+            }
+        }
+
+        function toggleDriveView() {
+            if (currentViewMode === 'extra') {
+                currentViewMode = 'school';
+                const btnDrive = document.getElementById('btnToggleDriveView');
+                if (btnDrive) btnDrive.classList.remove('active');
+                const badgeEl = document.getElementById('zoneBadgeText');
+                const titleEl = document.getElementById('zoneTitleText');
+                if (badgeEl && titleEl) {
+                    badgeEl.textContent = 'KHẢO THÍ';
+                    titleEl.textContent = '📚 DANH SÁCH MÔN THI';
+                }
+            } else {
+                currentViewMode = 'extra';
+                const btnDrive = document.getElementById('btnToggleDriveView');
+                if (btnDrive) btnDrive.classList.add('active');
+                const badgeEl = document.getElementById('zoneBadgeText');
+                const titleEl = document.getElementById('zoneTitleText');
+                if (badgeEl && titleEl) {
+                    badgeEl.textContent = 'TÀI LIỆU';
+                    titleEl.textContent = '📁 KHO ĐỀ CƯƠNG, GOOGLE DRIVE & AZOTA (51+ MÔN HỌC)';
+                }
+            }
+            const searchVal = document.getElementById('searchInput') ? document.getElementById('searchInput').value : '';
+            renderAllZones(searchVal);
+        }
+
+        function createExtraResourceCard(slug, item) {
+            const card = document.createElement('div');
+            card.className = 'menu-btn';
+
+            let cleanTitle = (item.title || slug)
+                .replace(/\s*\|\s*Tùng Marketing.*$/i, '')
+                .replace(/\s*\|\s*Đề Cương.*$/i, '')
+                .replace(/^Tài liệu\s*/i, '');
+
+            const driveLinks = (item.links || []).filter(l => l.includes('drive.google.com') || l.includes('docs.google.com'));
+            const azotaLinks = (item.links || []).filter(l => l.includes('azota.vn'));
+
+            let buttonsHtml = '';
+            if (driveLinks.length > 0) {
+                buttonsHtml += `
+                    <a href="${driveLinks[0]}" target="_blank" rel="noopener noreferrer" class="btn-neo" style="flex: 1; padding: 10px 4px; font-size: 0.8rem; background: #e0f2fe; color: #0369a1; text-decoration: none; text-align: center; font-weight: 800;" title="Mở Drive / Docs">
+                        📂 DRIVE
+                    </a>
+                `;
+            }
+            if (azotaLinks.length > 0) {
+                buttonsHtml += `
+                    <a href="${azotaLinks[0]}" target="_blank" rel="noopener noreferrer" class="btn-neo btn-yellow" style="flex: 1; padding: 10px 4px; font-size: 0.8rem; text-decoration: none; text-align: center; font-weight: 800;" title="Mở Azota">
+                        ⚡ AZOTA
+                    </a>
+                `;
+            }
+            if (!buttonsHtml) {
+                buttonsHtml = `
+                    <div style="font-size: 0.8rem; color: #6b7280; font-weight: 700; text-align: center; width: 100%;">Tài liệu đang đồng bộ...</div>
+                `;
+            }
+
+            card.innerHTML = `
+                <div class="badge-score" style="background: #fef08a; border-color: #ca8a04; color: #854d0e;">TÀI LIỆU MỞ RỘNG</div>
+                <div class="menu-icon" style="font-size: 2.2rem; margin-top: 6px;">📁</div>
+                <div class="menu-title" style="font-size: 1.05rem; line-height: 1.35; margin-bottom: 6px;">${cleanTitle}</div>
+                <div class="menu-desc" style="font-size: 0.82rem; color: #4b5563; margin-bottom: 14px;">Trọn bộ đề cương PDF, bài tập có giải & đề thi khảo thí online.</div>
+                <div style="display: flex; gap: 6px; width: 100%; margin-top: auto;">
+                    ${buttonsHtml}
+                </div>
+            `;
+            return card;
+        }
+
+        // Render phân vùng môn thi
         function renderAllZones(searchQuery = '') {
             const q = removeVietnameseTones(searchQuery);
             const publicGrid = document.getElementById('publicMenuGrid');
@@ -425,8 +892,28 @@
 
             publicGrid.innerHTML = '';
 
+            if (currentViewMode === 'extra') {
+                const resources = (typeof EXTRA_STUDY_RESOURCES !== 'undefined') ? EXTRA_STUDY_RESOURCES : {};
+                const entries = Object.entries(resources).filter(([slug, item]) => {
+                    if (!q) return true;
+                    const titleNorm = removeVietnameseTones(item.title || '');
+                    const slugNorm = removeVietnameseTones(slug);
+                    return titleNorm.includes(q) || slugNorm.includes(q);
+                });
+
+                if (entries.length === 0) {
+                    publicGrid.innerHTML = `<div style="grid-column: 1/-1; padding: 25px; text-align: center; background: white; border: 2.5px solid var(--neo-black); border-radius: 12px; font-weight: 800;">🔍 Không có tài liệu nào khớp với từ khóa!</div>`;
+                } else {
+                    entries.forEach(([slug, item]) => {
+                        publicGrid.appendChild(createExtraResourceCard(slug, item));
+                    });
+                }
+                return;
+            }
+
             const exams = (typeof DEFAULT_EXAMS !== 'undefined' && DEFAULT_EXAMS.length > 0) ? DEFAULT_EXAMS : [];
             const filteredExams = exams.filter(e => {
+                if (currentSchoolKey !== 'all' && e.category !== currentSchoolKey) return false;
                 if (!q) return true;
                 const nameNorm = removeVietnameseTones(e.ten || '');
                 const descNorm = removeVietnameseTones(e.desc || '');
@@ -435,7 +922,15 @@
             });
 
             if (filteredExams.length === 0) {
-                publicGrid.innerHTML = `<div style="grid-column: 1/-1; padding: 25px; text-align: center; background: white; border: 2.5px solid var(--neo-black); border-radius: 12px; font-weight: 800;">🔍 Không có môn thi nào khớp với từ khóa!</div>`;
+                publicGrid.innerHTML = `
+                    <div style="grid-column: 1/-1; padding: 30px 20px; text-align: center; background: white; border: 2.5px solid var(--neo-black); border-radius: 12px; font-weight: 800;">
+                        🔍 Không có môn thi nào khớp với từ khóa tìm kiếm!
+                        <div style="margin-top: 14px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
+                            <button type="button" class="btn-neo btn-yellow" onclick="selectSchool('all')">🌟 Xem tất cả 30 môn thi</button>
+                            <button type="button" class="btn-neo" onclick="openSchoolModal()">🏫 Chọn trường khác</button>
+                        </div>
+                    </div>
+                `;
             } else {
                 filteredExams.forEach(item => publicGrid.appendChild(createExamCard(item)));
             }
@@ -449,7 +944,8 @@
             }, 150);
         }
 
-        // Khởi động render danh sách môn thi
+        // Khởi động hệ thống chọn trường & render danh sách môn thi
+        initSchoolSelection();
         renderAllZones();
 
         // 3. XỬ LÝ THANH TIẾN TRÌNH PRELOADER (3 GIÂY) KÈM HÌNH NỀN ĐỘNG HOC.GIF
@@ -482,6 +978,12 @@
                 if (pageLoader) {
                     pageLoader.classList.add('loaded');
                 }
+                // Nếu người dùng mới vào lần đầu (chưa từng chọn trường), tự động mở popup Chọn Trường chào mừng
+                if (!localStorage.getItem('user_school_selected')) {
+                    setTimeout(() => {
+                        openSchoolModal();
+                    }, 400);
+                }
             }
         }, 50);
 
@@ -494,72 +996,6 @@
             });
         }
     </script>
-
-    <!-- MODAL THÔNG BÁO BẢN CẬP NHẬT MỚI (UPDATE MODAL) -->
-    <div class="neo-modal-overlay" id="updateModal" style="display: none;" onclick="if(event.target===this) closeUpdateModal()">
-        <div class="neo-modal-card update-modal-card" role="dialog" aria-modal="true" aria-labelledby="updateModalTitle" style="max-width: 480px; text-align: left; padding: 22px;">
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; border-bottom: 2.5px solid var(--neo-black); padding-bottom: 10px;">
-                <div id="updateModalTitle" style="font-family: 'Fredoka', sans-serif; font-size: 1.25rem; font-weight: 800; display: flex; align-items: center; gap: 8px; color: var(--neo-black);">
-                    <span style="font-size: 1.35rem;">🎉</span> BẢN CẬP NHẬT MỚI
-                    <span style="background: #10b981; color: #fff; font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; font-weight: 900; margin-left: 2px;">v2.9</span>
-                </div>
-                <button type="button" onclick="closeUpdateModal()" style="border: 2px solid var(--neo-black); background: var(--neo-pink); color: #fff; width: 32px; height: 32px; border-radius: 8px; font-weight: 900; cursor: pointer; box-shadow: 2px 2px 0 var(--neo-black); font-size: 1rem; line-height: 1;" title="Đóng">✕</button>
-            </div>
-
-            <div style="max-height: 380px; overflow-y: auto; padding-right: 4px; margin-bottom: 18px; display: flex; flex-direction: column; gap: 10px;">
-                <!-- Feature 1: Chuyên đề trọng tâm NLQH -->
-                <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #0284c7; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>📘</span> Chuyên Đề Trọng Tâm: Nguyên Lý Quy Hoạch (NLQH)
-                    </div>
-                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Tập trung toàn diện cho môn Nguyên Lý Quy Hoạch (NLQH) với đầy đủ 113 câu trắc nghiệm cốt lõi và 14 câu tự luận đề cương chuẩn thi.
-                    </div>
-                </div>
-
-                <!-- Feature 2: Tự luận & bảng tra cứu đô thị -->
-                <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #047857; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>📝</span> Tự Luận 14 Câu & Bảng Tra Cứu Tiêu Chuẩn Đô Thị
-                    </div>
-                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Trọn bộ 14 câu tự luận mẫu chi tiết kèm bảng tra cứu tiêu chuẩn phân loại đô thị (Loại V, IV, III, II, I, Đặc biệt) chuẩn chỉnh theo bài giảng.
-                    </div>
-                </div>
-
-                <!-- Feature 3: Giao diện học tự luận 120 FPS & Đầy đủ chế độ -->
-                <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>⚡</span> Đầy Đủ 4 Chế Độ Học & Tự Luận 120 FPS
-                    </div>
-                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Dù đang làm dở hay thi mới, các chế độ Ôn Tập, Flashcard, Học Tự Luận và Ôn Sai luôn sẵn sàng ngay bên dưới để bạn luyện tập linh hoạt.
-                    </div>
-                </div>
-
-                <!-- Feature 4: Theme giảm màu mè -->
-                <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #6d28d9; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🌱</span> Theme Giảm Màu Mè & Tối Ưu Tốc Độ
-                    </div>
-                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Chuyển đổi giao diện ôn tập dịu mắt chống chói khi học đêm, hỗ trợ phím tắt chuyển câu và lưu tiến độ an toàn.
-                    </div>
-                </div>
-            </div>
-
-            <!-- Actions -->
-            <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-                <button type="button" class="btn-neo btn-yellow" onclick="closeUpdateModal()" style="flex: 1.2; min-width: 140px; padding: 11px 14px; font-size: 0.92rem; font-weight: 900; justify-content: center;">
-                    🚀 Trải nghiệm ngay
-                </button>
-                <button type="button" class="btn-neo btn-white" onclick="snoozeUpdateModal(2)" title="Không tự động hiện lại trong 2 giờ" style="flex: 1; min-width: 140px; padding: 11px 12px; font-size: 0.88rem; font-weight: 800; justify-content: center; background: #fef08a;">
-                    ⏰ Tắt 2 tiếng
-                </button>
-            </div>
-        </div>
-    </div>
-
 </body>
 
 </html>

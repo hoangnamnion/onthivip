@@ -1,0 +1,1805 @@
+Câu 1. Theo Luật Kế toán Việt Nam, kế toán quản trị là việc thu thập, xử lý, phân tích và cung. cấp thông tin kinh tế, tài chính theo yêu cầu của đối tượng nào?
+A. Cơ quan Thuế và cơ quan thống kê Nhà nước.
+B. Các nhà đầu tư và cô đông trên thị trường chứng khoán.
+*C. Yêu cầu quản trị và quyết định kinh tế, tài chính trong nội bộ đơn vị.
+D. Các ngân hàng thương mại và tỏ chức tin dụng cho vay.
+
+Câu 2. Theo tỏ chức IFAC, trọng tâm của kế toán quan tri trong giai đoạn từ 1950 — 1965 là gi?
+A. Xác định chi phí và kiểm soát tai chính.
+B. Cắt giảm hao phí thông qua chiến lược quản trị chỉ phi.
+*C. Lợi nhuận: cung cấp thông tin cho hoạch định và kiểm soát.
+D. Quản trị nguồn lực chiến lược để tạo ra giá trị.
+
+Câu 3. Tại Việt Nam, khái niệm Kế toán quản trị lần đầu tiên được chính thức thừa nhận và đưa vào văn bản pháp lý (Luật Kế toán) từ năm nào?
+A. Năm 1990.
+B. Nam 1995.
+*C. Năm 2003 (có hiệu lực từ 01/01/2004).
+D. Năm2015.
+
+Câu 4. Xét về bản chất hệ thống thông tin, thông tin kế toán quản trị phục vụ chủ yếu cho:
+A. Việc lập báo cáo tài chính công bố ra bên ngoài.
+B. Việc quyết toán thuế thu nhập doanh nghiệp hang năm.
+*C. Các cấp quản trị nội bộ trong việc điều hành và kiểm soát hoạt động.
+D. Việc kiểm toán độc lập theo định kỳ.
+
+Câu 5. Đối tượng nghiên cứu đặc thù được kế toán quản trị coi trong hàng đầu để giúp nhà quản lý tối ưu hóa lợi nhuận là gi?
+*A. Thông tin về chi phí (phân loại, dự toán, định mức, mối quan hệ C-V-P).
+B. Các chính sách thuế và nghĩa vụ với Ngân sách Nhà nước.
+C. Sự biến động giá cỗ phiếu của doanh nghiệp trên thị trường.
+D. Hồ sơ pháp lý của các đối tác liên doanh.
+
+Câu 6. Trong kế toán quản trị, phương pháp nào được sử dụng đặc thù để hiểu rõ bản chất các yếu tố phát sinh, giúp kiểm soát và ra quyết định thích hợp?
+A. Phương pháp chứng từ.
+B. Phương pháp tài khoản kế toán.
+*C. Phương pháp phân loại chi phí.
+D. Phương pháp tổng hợp cân đối kế toán.
+
+Câu 7. Phương pháp thể hiện thông tin nào của kế toán quản trị giúp nhà quan lý dễ nhìn thấy nhất mói quan hệ và xu hướng biến động của các chỉ tiêu?
+A. Phương pháp lập tai khoản cấp 4, cấp 5.
+*B. Trình bày thông tin dưới dang đồ thị, mô hình.
+C. Phương pháp ghi số kép truyền thống.
+D. Phương pháp chứng từ bắt buộc.
+
+Câu 8. Nhận định nào sau đây đúng về đặc điểm của thông tin kế toán quản trị?
+A. Chỉ sử dụng duy nhất thước đo bằng tiền.
+B. Phải đảm bảo tính pháp lệnh và chính xác tuyệt đối.
+*C. Bao gồm cả thông tin định lượng (tài chính) và định tính (phi tài chính).
+D. Chỉ tập trung phan ánh số liệu lịch sử trong quá khứ.
+
+Câu 9. Điểm giống nhau cơ bản giữa kế toán tài chính (KTTC) vả kế toán quản trị (KTQT) là gì?
+A. Đều có tính pháp lệnh và bắt buộc sử dụng biểu mẫu thống nhất.
+*B. Đều dựa trên hệ thống ghi chép ban đầu của kế toán và đề cập nghiệp vụ phát sinh.
+C. Đều nhằm mục đích cung cấp số liệu chính xác tuyệt đối cho cơ quan Thuế.
+D. Đều có cùng đối tượng sử dung thông tin là các nhà quản lý nội bộ.
+
+Câu 10. Sự khác biệt cót lõi về nguyên tắc trình bày thông tin giữa KTTC và KTQT là:
+A. KTTC không cần tuân thủ chế độ kế toán quốc gia.
+B. KTQT phải tuân thủ nghiêm ngặt các chuẩn mực kế toán chung.
+*C. KTTC phải tuân thủ chuẩn mực và chế độ kế toán; KTQT linh hoạt, không bắt buộc tuân thủ chuẩn mực chung.
+D. KTQT có tính pháp lệnh cao hơn KTTC.
+
+Câu 11. Về đặc điểm thời gian của thông tin, điểm khác biệt của kế toán quản trị so với kế toán. tài chính là:
+A. KTQT chỉ phản ánh các nghiệp vụ kinh tế đã xảy ra.
+*B. KTQT đặt trọng tâm vào tương lai nhằm phục vụ việc lựa chọn phương án.
+C. KTQT thường chỉ sử dụng thông tin của một năm hoặc một quý đã qua.
+D. KTTC hướng tới tương lai nhiều hơn KTQT.
+
+Câu 12. Thước đo sử dụng trong hệ thống thông tin của KTQT và KTTC khác nhau như thế nào?
+A. KTTC sử dụng cả thước đo hiện vật; KTQT chi dùng thước đo giá trị.
+B. Cả hai phân hệ chỉ sử dụng thước đo thời gian lao động.
+*C. KTTC chủ yếu dùng hình thức giá trị; KTQT dùng cả hình thức giá trị và hiện vật.
+D. KTQT không dùng thước đo bằng tiền.
+
+Câu 13. Dinh kỳ soạn thảo báo cáo của kế toán quản trị được thực hiện như thé nào so với kế toán tài chính?
+A. KTQT chỉ lập hàng năm vào cuối niên độ kế toán giống KTTC.
+B. KTTC lập hàng ngày, KTQT lập hàng quý.
+*C. KTTC soạn thảo định kỳ (thường là hàng năm); KTQT soạn thảo thường xuyên theo yêu cầu quản trị.
+D. KTQT bắt buộc phải nộp báo cáo công khai theo quý cho cơ quan quản lý nhà nước.
+
+Câu 14. Đối tượng sử dụng thông tin chủ yếu của kế toán tài chính là aï?
+*A. Các đối tượng bên ngoài doanh nghiệp (cơ quan thuế, cố đông, người cho vay, nhà cung cấp).
+B. Các chủ sở hữu va ban giám đốc điều hành trực tiếp bên trong doanh nghiệp.
+C. Quản lý các phân xưởng, đội sản xuất nội bộ.
+D. Nhân viên trực tiếp vận hành máy móc.
+
+Câu 15. Yêu cầu nào sau đây KHÔNG phải là yêu cầu của tô chức công tác kế toán quản trị trong doanh nghiệp?
+A. Cung cấp kip thời, đầy đủ thông tin chỉ tiết về chi phí của từng công việc, bộ phận.
+B. Cung cấp thông tin thực hiện, định mức, đơn giá phục vụ việc lập kế hoạch và điều hành.
+*C. Cung cấp thông tin bắt buộc phải công khai ra công chúng đúng thời hạn pháp luật.
+D. Đảm bảo tinh so sánh được giữa dự toán và thực hiện.
+
+Câu 16. Khi tổ chức công tác kế toán quản tri, để tránh sự lăng phí tài nguyên và dữ liệu, doanh nghiệp cần tuân thủ nguyên tắc nào?
+A. Tach biệt tuyệt đối, không chia sẻ bat cứ dữ liệu nào với kế toán tài chính.
+B. Chỉ xây dựng biểu mẫu theo đúng mẫu quy định sẵn của Bộ Tài chính.
+*C. Có sự kết hợp hài hòa với hệ thống kế toán tài chính, tránh sự trùng lặp.
+D. Chỉ áp dụng một mô hình tổ chức duy nhất cho mọi quy mô doanh nghiệp.
+
+Câu 17. Mô hình tổ chức mà các nội dung công tác kế toán được nhân viên thực hiện đồng thời cả KTTC và KTQT trên cùng một bộ phận được gọi là:
+*A. Mô hình kết hợp kế toán tài chính và kế toán quản trị.
+B. Mô hình tách biệt kế toán tài chính và kế toán quản trị.
+C. Mô hình hỗn hợp kế toán tài chính và kế toán quản trị.
+D. M6 hình kế toán độc lập hoàn toàn.
+
+Câu 18. Ưu điểm lớn nhất của mô hình kết hợp kế toán tài chính và kế toán quản trị là gì?
+A. Giúp giải quyết công việc mang tính chuyên sâu và triệt để nhất.
+*B. Giảm thiểu được bộ máy kế toán và nhân sự, tổ chức công tác kế toán nhanh chóng.
+C. Tạo ra hai bức tranh tài chính độc lập giúp để đối chiếu chéo.
+D. Không đòi hỏi người làm kế toán phải có trình độ chuyên môn cao.
+
+Câu 19. Mô hình tổ chức bộ máy kế toán quản trị tách biệt hoàn toàn với kế toán tài chính thường áp dụng phù hợp nhất cho loại hình doanh nghiệp nào?
+A. Doanh nghiệp siêu nhỏ, hộ kinh doanh gia đình.
+B. Doanh nghiệp nhỏ và vừa có quy trình sản xuất don giản.
+*C. Doanh nghiệp quy mô lớn, đa ngành nghề, hoạt động phức tạp và đa dạng sản phẩm.
+D. Các đơn vị hành chính sự nghiệp phụ thuộc hoàn toàn vào ngân sách.
+
+Câu 20. Nhận định nao sau đây DUNG về mô hình hỗn hợp kế toán tài chính và kế toán quản tri?
+A. Công việc kế toán hoàn toàn chuyên trách và tách biệt ở tat cả các khâu.
+*B. Có những nội dung kết hợp và có những nội dung tách biệt giữa KTTC và KTQT; đòi hỏi Kế toán trưởng phải có kinh nghiệm.
+C. Tiết kiệm chi phí tuyệt đối vì loại bỏ hoàn toàn bộ phận báo cáo tài chính.
+D. Giúp có được hệ thống thông tin tng thể mà không cần định hướng rõ ràng.
+
+Câu 21. Quá trình sản xuất hàng hóa là sự kết hợp của ba yếu tố cơ bản nào?
+A. Tư liệu lao động, đối tượng lao động và tiền vốn.
+*B. Tư liệu lao động, đối tượng lao động và sức lao động.
+C. Nguyên vật liệu, máy móc thiết bị và công nghệ.
+D. Sức lao động, tiền lương và lợi nhuận.
+
+Câu 22. Chi phí sản xuất được định nghĩa là gì?
+A. Toàn bộ các khoản tiền doanh nghiệp chỉ ra để mua sắm vật tu, tài sản trong kỳ.
+B. Sự giảm di đơn thuần các loại vat tư, tai sản, tiền vốn của doanh nghiệp.
+*C. Toàn bộ hao phí về lao động sống, lao động vật hóa và các chi phí can thiết khác bằng tiền cho quá trình sản xuất trong một thời kỳ nhất định.
+D. Giá thành của toàn bộ sản phẩm đã được tiêu thụ trên thị trường.
+
+Câu 23. Hao phí về lao động vật hóa trong chi phí sản xuất bao gồm những yếu t6 nào?
+A. Tiền lương va các khoản trích theo lương của công nhân.
+*B. Khấu hao tài sản cố định, chi phí vé nguyên nhiên vật liệu.
+C. Chi phí bằng tiền trả cho các dich vụ mua ngoài.
+D. Tiền hoa hồng bán hàng và chi phí tiếp thị.
+
+Câu 24. Độ lớn của chi phí sản xuất phụ thuộc vào những nhân tố nào?
+A. Khối lượng sản phẩm tiêu thụ và giá bán trên thị trường.
+B. Trình độ của kế toán trưởng va phần mềm kế toán áp dụng.
+*C. Khối lượng lao động, tư liệu sản xuất tiêu hao va giá ca của chúng (giá vat tư, tiền công).
+D. Tổng số tiền mặt hiện có tại quỹ của doanh nghiệp.
+
+Câu 25. Theo cách phân loại chi phí theo chức năng hoạt động, chi phí sản xuất bao gồm các khoản mục nào?
+A. Chi phí sản phẩm và chi phí thời kỳ.
+*B. Chi phí nguyên vật liệu trực tiếp, chi phí nhân công trực tiếp và chi phí sản xuất chung.
+C. Chi phí cơ bản và chi phí chung.
+D. Chi phí bán hàng và chi phí quản lý doanh nghiệp.
+
+Câu 26. Chi phí ngoài sản xuất bao gồm những khoản mục nào?
+A. Chi phí sản xuất chung va chỉ phi quản lý doanh nghiệp.
+*B. Chi phí bán hàng và chi phí quản lý doanh nghiệp.
+C. Chi phí tài chính và giá vốn hàng bán.
+D. Chi phí nguyên vật liệu trực tiếp và chi phí bán hàng.
+
+Câu 27. Đặc điểm nào sau đây thuộc về "Chi phí sản xuất chung"?
+A. Chỉ bao gồm duy nhất biến phí và để định lượng chính xác lập tức.
+*B. Bao gồm nhiều yếu tố chi phí, liên quan đến nhiều hoạt động sản xuất nên khó kiểm soát, thu thập thông tin thường chậm.
+C. Là chi phí phát sinh ngoài phạm vi phân xưởng sản xuất.
+D. Hoan toàn không chứa định phí.
+
+Câu 28. Chi phí quản lý doanh nghiệp bao gồm các khoản chi phí liên quan đến công việc hành chính, quản trị ở phạm vi nào?
+A. Chỉ tại phân xưởng sản xuất chính.
+B. Chỉ tại bộ phận bán hàng và đại lý.
+*C. Toàn doanh nghiệp.
+D. Chỉ tại các đơn vị liên kết bên ngoài.
+
+Câu 29. Tiêu thức phân loại chi phí theo tính chat, nội dung kinh tế (yếu tố chi phí) phân chia chi phí thành mấy yếu tố chính? + AB yếu tố. + —B.4 yếu tố. 5C. 5 yếu tố (Nguyên vật liệu, nhân công, khấu hao TSCĐ, dịch vụ mua ngoài, chi phí khác bằng tiền). + =D.6yếu tố.
+A. 3 yếu tố.
+B. 4 yếu tố.
+*C. 5 yếu tố (Nguyên vật liệu, nhân công, khấu hao TSCĐ, dịch vụ mua ngoài, chi phí khác bằng tiền).
+D. 6 yếu tố.
+
+Câu 30. Ý nghĩa của việc phân loại chi phí theo tính chất, nội dung kinh tế là gì?
+A. Để xác định giá vốn hàng bán trên báo cáo kết quả kinh doanh.
+*B. Hiéu rõ cơ cấu, tỷ trọng từng yếu tố chi phí để phân tích, đánh giá tình hình thực hiện dự toán chi phí; làm cơ sở lập kế hoạch cung ứng vật tư, tiền vốn.
+C. Để tính toán điểm hòa vốn chính xác.
+D. Để phân chia chi phí thành biến phí và định phí. Phần 2
+
+Câu 31. Tiêu chí nào được sử dụng để phân chia tổng chi phi của doanh nghiệp thành "Chi phí sản xuất" và "Chi phí ngoài sản xuất"?
+A. Căn cứ vào mối quan hệ của chi phí với khối lượng hoạt động.
+B. Căn cứ vào khả năng quy nạp chỉ phi vào các đối tượng kế toán.
+*C. Căn cứ vào chức năng hoạt động và công dụng kinh tế của chi phí.
+D. Căn cứ vào tính chất, nội dung kinh tế ban đầu của chi phí.
+
+Câu 32. Sự khác biệt cét lõi giữa "Chi phí nguyên vật liệu trực tiếp" và "Chi phí sản xuất chung" xét theo chức năng hoạt động là gì?
+A. Chi phí nguyên vật liệu trực tiếp luôn là định phi, còn chi phí sản xuất chung luôn là biến phí.
+*B. Chi phí nguyên vật liệu trực tiếp dễ nhận diện và định lượng chính xác cho từng sản phẩm; chi phí sản xuất chung liên quan đến nhiều sản phẩm và khó kiểm soát hơn.
+C. Chi phí sản xuất chung phát sinh ngoài phạm vi phân xưởng, còn chi phí nguyên vật liệu trực tiếp phát sinh trong phân xưởng.
+D. Chi phí nguyên vật liệu trực tiếp thuộc chi phí thời kỳ, còn chi phí sản xuất chung thuộc chi phí sản phẩm.
+
+Câu 33. Diém khác biệt căn bản giữa cách phân loại chi phí theo "Chức năng hoạt động" và phân loại theo "Nội dung, tính chất kinh tế" là gì?
+A. Phân loại theo chức năng phục vụ tính giá vốn; phân loại theo nội dung phục vụ tính giá bán sản phẩm mới.
+B. Phân loại theo chức năng chia chi phí thành biến phí và định phí; phân loại theo nội dung chia thành chi phí trực tiếp và gián tiếp.
+*C. Phân loại theo chức năng căn cứ vào vị tri phát sinh và công dụng; phân loại theo nội dung tập hợp chi phí có cùng bản chất kinh tế không phân biệt nơi phát sinh.
+D. Phân loại theo chức năng chỉ dùng hình thức hiện vật; phân loại theo nội dung chi dùng hình thức giá trị.
+
+Câu 34. Khi so sánh "Chi phi sản pham" và "Chi phí thời kỳ", nhận định nào sau đây diễn ta đúng cách ứng xử của chúng trên Báo cáo tài chính?
+A. Cả hai loại chi phí đều được tính toán để xác định kết quả kinh doanh ngay trong ky chúng phát sinh.
+B. Chi phí sản phẩm nằm trên báo cáo kết quả kinh doanh; chi phí thời kỳ chi nằm trên bảng cân đối kế toán.
+*C. Chi phí sản phẩm tồn tại dưới dang hàng tồn kho nếu sản phẩm chưa bán; chi phí thời kỳ được trừ thắng vào doanh thu để tính lợi nhuận trong kỳ phát sinh.
+D. Chi phí thời kỳ có thể được lưu lại thành giá trị tài sản lưu động qua nhiều kỳ kế toán khác nhau.
+
+Câu 35. Khoản mục chi phí nào dưới đây được phân loại là "Chi phí thời kỳ" trong doanh nghiệp sản xuất?
+A. Chi phí nhân công trực tiếp tại phân xưởng.
+B. Chi phí khấu hao máy móc thiết bị sản xuất.
+*C. Chi phí hành chính và quản trị ở phạm vi toàn doanh nghiệp.
+D. Chi phí nguyên vật liệu chính dùng đẻ chế tao sản phẩm.
+
+Câu 36. Diém khác biệt khi phân tích cặp chi phí "Cơ bản — Chung" so với cặp chi phí "Trực tiếp — Gian tiếp" là:
+A. Chi phí cơ bản bắt buộc phải là chi phí gián tiếp, chi phí chung bắt buộc phải là chi phí trực tiếp.
+B. Cặp chi phí co bản - chung phân loại dựa trên kỹ thuật hạch toán; cặp trực tiếp - gián tiếp phân loại dựa trên quy trình công nghệ.
+*C. Cặp cơ bản - chung gắn với quy trình công nghệ sản xuất; cặp trực tiếp - gián tiếp gắn với mối quan hệ và khả năng quy nạp vào đối tượng kế toán.
+D. Chi phí chung không bao giờ có thé trở thành chi phí trực tiếp trong bat kỳ điều kiện sản xuất nào.
+
+Câu 37. Một khoản chi phí được gọi là "Chi phí trực tiếp" khi:
+A. Nó là chỉ phi tổng hợp của nhiều yếu tố chi phí khác nhau phát sinh tại văn phòng công ty.
+*B. Nó chỉ quan hệ trực tiếp đến việc sản xuất một loại sản phẩm, một công việc cụ thé và hoàn toàn tinh thang được cho đối tượng đó.
+C. N6 thay đổi tỷ lệ thuận với sự biến động của khối lượng sản phẩm sản xuất ra trong kỳ.
+D. Nó bắt buộc phải áp dụng phương pháp phân bé gián tiếp theo các tiêu thức tỷ lệ.
+
+Câu 38. Tại sao nhà quản trị phải đặc biệt quan tâm đến tiêu thức phân bỏ đối với "Chi phí gián tiếp"?
+A. Vì chi phí gián tiếp luôn chiếm tỷ trọng lớn hơn chi phí trực tiếp trong mọi doanh nghiệp.
+*B. Vì sử dụng các tiêu thức phân bỗ khác nhau sẽ tạo ra sự khác biệt về giá thành sản phẩm, dễ làm sai lệch thông tin lợi nhuận.
+C. Vì chi phí gián tiếp không thể biểu hiện bằng thước đo giá trị tiền tệ.
+D. Vì chi phí gián tiếp là bộ phận duy nhất chịu sự chỉ phối trực tiếp của luật thuế.
+
+Câu 39. Thuật ngữ "Cách ứng xử của chi phí" (cost behavior) được dùng đẻ biểu thị mối quan hệ giữa chi phí với yếu tố nào?
+A. Trình độ tô chức quản lý của ban giám đốc doanh nghiệp.
+B. Khả năng quy nạp chi phí vào hồ sơ kỹ thuật sản xuất.
+C. Quy trình công nghệ chế tạo sản phẩm là đơn giản hay phức tạp.
+*D. Sy thay đổi của chi phí tương ứng với các mức độ hoạt động đạt được.
+
+Câu 40. Sự khác biệt về mặt bản chất giữa "Biến phí" và "Định phí" tính trên một đơn vị sản phẩm khi khối lượng hoạt động tăng lên là:
+*A. Biến phí đơn vị không thay đổi; định phí đơn vị giám xuống.
+B. Biến phí đơn vị tăng lên; định phí đơn vị không thay đổi.
+C. Cả biến phí don vị và định phí đơn vị đều tăng lên theo tỷ lệ thuận.
+D. Biến phí đơn vị giảm xuống; định phí don vị tăng lên.
+
+Câu 41. Téng biến phí (Y) và tổng định phí có điểm khác biệt gì khi doanh nghiệp ngừng hoạt động (mức độ hoạt động bằng không)?
+A. Tổng định phi bằng không, tổng biến phí đạt mức tối đa.
+B. Cả tổng biến phí và tổng định phí đều bằng không.
+*C. Tổng biến phí bằng không, còn tổng định phí vẫn phat sinh.
+D. Tổng định phí bằng không, tổng biến phí vẫn giữ nguyên.
+
+Câu 42. Về mặt toán học, biến phí tỷ lệ được biéu diễn bằng phương trình \(Y =a \cdot X\). Trong phương trình này, yếu t6 \(a\) thé hiện điều gi?
+A. Tổng biến phi phát sinh trong kỳ.
+B. Mức độ hoạt động cụ thé đạt được.
+*C. Biến phí tính cho một đơn vị hoạt động.
+D. Phạm vi năng lực hoạt động tối đa của máy móc.
+
+Câu 43. Phân tích để thị biểu diễn chi phí, đường tổng định phí bắt buộc sẽ có hình dạng như thế nào trong giới hạn của phạm vi hoạt động?
+A. Là một đường thăng đi qua gốc tọa độ O và đốc lên trên về phía bên phải.
+*B. Là một đường thang song song với trục hoành (trục mức độ hoạt động).
+C. Là một đường cong gãy khúc tăng dan theo mô hình cấp bậc.
+D. Là một đường thăng dốc xuống góc dưới bên phải đồ thị.
+
+Câu 44. Sự khác biệt giữa "Biến phí tỷ lệ" và "Biến phí cấp bậc" là:
+*A. Biến phí tỷ lệ biến đối liên tục và tuyến tính với mức độ hoạt động; biến phí cấp bậc chỉ thay đổi khi mức độ hoạt động thay đối nhiều, vượt qua một giới hạn nhất định.
+B. Biến phí tỷ lệ luôn bằng không khi hoạt động; biến phí cấp bậc luôn lớn hơn không tại mọi thời điểm.
+C. Biến phí tỷ lệ tính trên đơn vị sản phẩm sẽ thay đổi; biến phí cấp bậc đơn vị luôn có. định.
+D. Biến phí tỷ lệ thuộc chi phí thời kỳ; biến phi cấp bậc thuộc chi phí sản phẩm.
+
+Câu 45. Biểu thức nào dưới đây phản ánh đúng nhát cấu trúc của một "Chi phí hỗn hợp"?
+A. Chỉ bao gồm các yếu tố chi phí biến đổi theo tỷ lệ thuận.
+B. Chỉ bao gồm các khoản định phí bắt buộc không thé cất giảm.
+*C. Bao gồm cả yếu tố biến phí và yếu tố định phí.
+D. Là phần chi phi bằng không khi mức độ hoạt động đạt tối đa.
+
+Câu 46. Khi phân tích chi phí ngoài sản xuất, khoản mục "Chi phí ban hàng" thường chứa đựng. đặc điểm nào giống với "Chi phí quản lý doanh nghiệp"?
+A. Đều để dàng hạch toán trực tiếp, tinh thẳng vào giá thành sản xuất của từng loại sản phẩm.
+B. Đều là các yếu tố chi phí phat sinh trong phạm vi phân xưởng sản xuất.
+*C. Đều bao gồm nhiều yếu tố chi phí có nguồn gốc phát sinh khác nhau, thông tin thường thu thập chậm và việc phân bo phức tap.
+D. Đều không làm ảnh hưởng đến lợi nhuận thuần của kỳ kế toán mà chúng phát sinh.
+
+Câu 47. Sự khác biệt cốt lõi giữa "Chi phi" (Cost) và "Chỉ tiêu" (Expenditure) của doanh nghiệp được thé hiện ở điểm nào?
+A. Chi phí lam tăng tài sản của doanh nghiệp; chỉ tiêu làm giảm nguồn vốn chủ sở hữu.
+B. Chỉ tiêu là một bộ phận nhỏ nằm trong tông chi phí sản xuất kinh doanh của kỳ hạch toán.
+*C. Chi phí chỉ gồm những hao phí tài sản, lao động liên quan đến khối lượng sản phẩm sản xuất trong kỳ; chỉ tiêu là sự giảm đơn thuần vật tư, tài sản, tiền vốn bat kế dùng vào mục đích gì.
+D. Chi phí và chỉ tiêu luôn luôn trùng nhau tuyệt đối cả về mặt số lượng lẫn thời gian phat sinh trong kỳ.
+
+Câu 48. Tại sao nói một khoản chi tiêu ở ky này chưa chắc đã được tính vào chỉ phi của kỳ nay?
+A. Vì chỉ tiêu là sự giảm di đơn thuần của tiền vốn nên không bao giờ chuyên hóa thành chi phí.
+*B. Vì khoản chỉ tiêu đó có thé dùng để mua vật tu, hàng hóa nhập kho (chưa đưa vào sản xuất hoặc chưa tiêu thụ).
+C. Vì mọi khoản chỉ tiêu của doanh nghiệp bắt buộc phải phân bỏ đều trong vòng 10 năm theo luật thuế.
+D. Vì chỉ tiêu thuộc phân hệ kế toán quản trị, còn chi phí thuộc phân hệ kế toán tài chính. 0)
+
+Câu 49. Phân tích môi quan hệ giữa chi phí trực tiếp va chi phí sản phẩm, nhận định nào sau đây là đúng?
+A. Chi phí trực tiếp không bao giờ được coi là chi phí sản phẩm.
+B. Chi phí sản phẩm chỉ bao gồm chi phí gián tiếp chứ không chứa chi phí trực tiếp.
+*C. Chi phí nguyên vật liệu trực tiếp và chi phí nhân công trực tiếp vừa là chi phí trực tiếp, vừa là thành phần của chi phí sản phẩm.
+D. Chi phí sản xuất chung là chi phí trực tiếp duy nhất cấu thành nên chi phí sản phẩm. 0)
+
+Câu 50. Nếu một phân xưởng của doanh nghiệp chỉ sản xuất duy nhất một loại sản phẩm, thì chi phi quản lý phân xưởng (vồn là chi phí chung) sẽ trở thành:
+A. Chi phí thời kỳ trừ thẳng vào kết quả kinh doanh toàn công ty.
+B. Biến phí tỷ lệ thuận với số lượng giờ máy hoạt động.
+*C. Chi phí trực tiếp đối với loại sản phẩm duy nhất đó.
+D. Chi phí ngoài sản xuất không được tính vào giá thành sản phẩm. Phần 3
+
+Câu 51. Doanh nghiệp Công nghệ GTVT có các số liệu chi phí phát sinh trong tháng như sau: Chi phí nguyên vật liệu trực tiếp là 150 triệu đồng; Chi phí nhân công trực tiếp là 80 triệu đồng; Chi phí sản xuất chung là 60 triệu đồng; Chi phí bán hàng là 40 triệu đồng; Chi phí quản lý doanh nghiệp là 30 triệu đồng. Tổng chi phí sản phẩm (product cost) trong kỳ của doanh nghiệp là bao nhiêu?
+A. 230 triệu đồng
+B. 360 triệu đồng
+*C. 290 triệu đồng
+D. 140 triệu đồng
+
+Câu 52. Dựa trên số liệu của Câu 1, tổng chi phí thời ky (period cost) kết chuyển để xác định kết quả kinh doanh ngay trong tháng của doanh nghiệp này là bao nhiêu?
+A. 290 triệu đồng
+B. 60 triệu đồng
+*C. 70 triệu đồng
+D. 130 triệu đồng
+
+Câu 53. Tại một phân xưởng sản xuất, chi phí nguyên vật liệu trực tiếp định mức là 200.000 đồng/sản phẩm, chi phí nhân công trực tiếp là 50.000 đồng/sản phẩm. Tổng định phí của phân xưởng trong tháng cố định là 100 triệu đồng. Nếu trong kỳ phân xưởng tiến hành sản xuất hoàn thành 2.000 sản phẩm, chi phí sản xuất đơn vị toàn bộ của một sản phẩm là bao nhiêu?
+A. 250.000 đồng/sản phẩm
+*B. 300.000 đồng/sản phẩm
+C. 350.000 đồng/sản phẩm
+D. 200.000 đồng/sản phẩm
+
+Câu 54. Sử dụng phương pháp cực đại - cực tiểu (High-Low method) để phân tach chi phí bảo dưỡng máy (chi phí hỗn hợp) dựa trên số liệu lịch sử hoạt động: * Mức hoạt động cao nhất: 4.000 giờ máy, tông chi phí phát sinh là 42 triệu đồng. + _ Mức hoạt động thấp nhất: 1.500 giờ máy, tổng chi phi phát sinh là 22 triệu đồng. Biến phí đơn vị tính cho mỗi giờ máy hoạt động là bao nhiêu?
+A. 10.000 đồng/giờ may
+*B. 8.000 đồng/giờ may
+C. 5.000 đồng/giờ may
+D. 15.000 đồng/giờ máy
+
+Câu 55. Từ kết quả phân tách dữ liệu chi phí ở Câu 4, tổng khoản định phí bảo dưỡng máy có định phát sinh mỗi tháng của doanh nghiệp là bao nhiêu?
+A. 22 triệu đồng
+*B. 10 triệu đồng
+C. 12 triệu đồng
+D. 32 triệu đồng
+
+Câu 56. Bộ phận KTQT phân tích và lập được phương trình chi phí hỗn hợp đối với chi phí điện năng tại phân xưởng sản xuất là: \(Y = 5.000.000 + 3.000 \cdot X\) (với X là số giờ máy chạy). Nếu tháng tới doanh nghiệp dự kiến kế hoạch máy chạy 1.200 giờ, tống chi phí điện năng ước tính phát sinh là bao nhiêu?
+A. 3.600.000 đồng.
+B. 5.000.000 đồng
+*C. 8.600.000 đồng
+D. 6.200.000 đồng
+
+Câu 57. Doanh nghiệp B sản xuất sản phẩm Y có tai liệu định mức chi phí: Chi phí nguyên vật liệu trực tiếp là 120.000 đồng/sp; Chi phí nhân công trực tiếp là 40.000 đồng/sp; Chi phí sản xuất chung biến đổi là 15.000 đồng/sp. Tổng định phí sản xuất chung toàn phân xưởng trong tháng là 60 triệu đồng. Biết trong tháng doanh nghiệp thực tế sản xuất được 4.000 sản phẩm Y. Tổng biến phí sản xuất phát sinh là bao nhiêu?
+A. 640 triệu đồng
+*B. 700 triệu đồng
+C. 760 triệu dong
+D. 480 triệu dong
+
+Câu 58. Đầu năm, doanh nghiệp X ước tính tổng chi phí sản xuất chung phát sinh là 600 triệu đồng và tổng số giờ công nhân sản xuất trực tiếp là 30.000 giờ. Doanh nghiệp lựa chon phân bỏ chi phí sản xuất chung theo tiêu thức giờ công trực tiếp. Tỷ lệ phân bé chi phi sản xuất chung ước tính trước của doanh nghiệp là bao nhiêu?
+A. 10.000 đồng/giờ công
+*B. 20.000 đồng/giờ công.
+C. 15.000 đồng/giờ cong
+D. 5.000 đồng/giờ công
+
+Câu 59. Tiếp tục sử dụng số liệu của Câu 8, đơn đặt hàng số 101 tiêu hao hết 15 triệu đồng nguyên vật liệu trực tiếp, 8 triệu đồng chi phí nhân công trực tiếp và tốn 400 giờ công lao động trực tiếp. Tổng chi phí sản xuất tập hợp cho đơn đặt hàng só 101 này là bao nhiêu?
+A. 23 triệu đồng
+*B. 31 triệu đồng
+C. 27 triệu đồng
+D. 35 triệu đồng
+
+Câu 60. Áp dụng phương pháp xác định chi phí mục tiêu (Target Costing): Doanh nghiệp khảo sát thị trường và xác định mức giá bán sản phẩm mới dự kiến là 500.000 đồng/sản phẩm. Đề đảm bảo hiệu quả kinh doanh, ban quản lý yêu cầu tỷ suất lợi nhuận mong muốn là 25% tính trên giá bán. Chi phí mục tiêu tối đa cho phép để chế tạo sản phẩm này là bao nhiêu?
+A. 125.000 đồng/sản phẩm
+*B. 375.000 đồng/sản phẩm
+C. 400.000 đồng/sản phẩm
+D. 300.000 đồng/sản phẩm
+
+Câu 61. Trong phương pháp xác định chi phi dựa trên mức độ hoạt động (ABC), doanh nghiệp xác định nhóm chi phí vận hành máy có tổng ngân sách là 120 triệu đồng: tổng số Lin thiết lập máy (hoạt động đại diện) tương ứng của nhóm là 400 lần. Tỷ lệ chi phí hoạt động (activity rate) cho mỗi lần thiết lập máy là bao nhiêu?
+A. 200.000 đồng/lần
+*B. 300.000 đồng/lần
+C. 400.000 đòng/lần
+D. 150.000 đồng/lần
+
+Câu 62. Tiếp tục sử dụng số liệu của Câu 11, một mã sản phẩm loại A khi sản xuất yêu cầu thực. hiện 50 lần thiết lập máy trong kỳ. Tổng số chi phí vận hành máy được phân bé cho sản phẩm loại A theo phương pháp ABC là bao nhiêu?
+A. 10 triệu đồng
+*B. 15 triệu đồng
+C. 20 triệu đồng
+D. 7,5 triệu đồng
+
+Câu 63. Một phân xưởng áp dụng phương pháp xác định chi phí theo quá trình sản xuất. Đầu kỳ không có sản phẩm đở dang. Trong kỳ đưa vào sản xuất 1.000 sản phẩm. Đến cuối kỳ đã sản xuất hoàn thành chuyển kho 800 sản phẩm, còn lại 200 sản phẩm dở dang với mức độ hoàn thành chi phí chế biến ước tính là 50%. Hãy tinh sản lượng tương đương đối với khoản mục chi phí chế biến trong kỳ?
+A. 800 sản phẩm
+B. 1.000 sản phẩm
+*C. 900 sản phẩm
+D. 850 sản phẩm
+
+Câu 64. Dựa trên kết quả tính toán sản lượng của Câu 13, biết tổng chi phí chế biến phát sinh thực tế tập hợp trong kỳ là 180 triệu đồng. Chi phí chế biến đơn vị tương đương tính cho mỗi sản phẩm là bao nhiêu?
+A. 180.000 đồng/sản phẩm
+*B. 200.000 đồng/sản phẩm
+C. 225.000 đồng/sản phẩm
+D. 150.000 đồng/sản phẩm
+
+Câu 65. Doanh nghiệp tiền hành một cuộc chỉ tiêu bằng tiền mặt mua 10.000 kg vật liệu nhập kho với tông số tiền là 50 triệu đồng. Trong thang, phân xưởng sản xuất xuất kho sử dụng 6.000 kg vật liệu cho công nghệ chế tạo sản phẩm. Hãy xác định khoản chi phí nguyên vật liệu thực tế được tính vào chi phí sản xuất trong kỳ hạch toán?
+A. 50 triệu đồng
+*B. 30 triệu đồng
+C. 20 triệu đồng
+D. 10 triệu đồng
+
+Câu 66. Theo cách phân loại chi phí theo mối quan hệ với khối lượng hoạt động, tông định phí của doanh nghiệp trong tháng là 80 triệu đồng khi doanh nghiệp sản xuất ở mức sản lượng bình thường là 4.000 sản phẩm. Nếu tháng này doanh nghiệp tăng quy mô sản xuất lên thành 5.000 sản phẩm (vẫn nằm trong phạm vi phù hợp), tổng khoản định phí sản xuất của tháng này sẽ là bao nhiêu?
+A. Tăng lên thành 100 triệu đồng
+B. Giảm xuống còn 64 triệu đồng
+*C. Vẫn giữ nguyên là 80 triệu đồng.
+D. Biến động theo tỷ lệ thuận 25%
+
+Câu 67. Cũng từ số liệu thông tin chi phí của Câu 16, mức định phí tính trên một đơn vị sản phẩm tại mức sản lượng thực tế 5.000 sản phẩm là bao nhiêu?
+A. 20.000 đồng/sản phẩm
+*B. 16.000 đồng/sản phẩm.
+C. 25.000 đồng/sản phẩm
+D. 16.300 đồng/sản phẩm
+
+Câu 68. Chi phí sản xuất của một doanh nghiệp trong tháng tập hợp được gồm có: Chi phí nguyên vật liệu trực tiếp là 90 triệu đồng; Chi phí nhân công trực tiếp là 40 triệu đồng; Biến phí sản xuất chung là 20 triệu đồng; Định phí sản xuất chung là 30 triệu đồng. Tổng chi phí chế biến (conversion cost) phat sinh trong kỳ của doanh nghiệp là bao nhiêu?
+A. 130 triệu đồng
+B. 150 triệu đồng
+*C. 90 triệu đồng
+D. 60 triệu đồng
+
+Câu 69. Doanh nghiệp áp dụng phương pháp xác định chi phí sản xuất theo mô hình cải tiến Kaizen nhằm mục tiêu cắt giảm hao phí nguồn lực. Chi phí sản xuất thực tế kỳ trước của một đơn vị sản phẩm là 100.000 đồng. Kỳ này, mục tiêu Kaizen đặt ra là phải cắt giảm được 2% chi phí sản xuất đơn vị so với kỳ trước. Chi phí mục tiêu Kaizen cần đạt được cho mỗi sản phẩm ở kỳ này là bao nhiêu?
+A. 102.000 đồng/sản phẩm
+B. 100.000 đồng/sản phẩm
+*C. 98.000 đồng/sản phẩm.
+D. 95.000 đồng/sản phẩm
+
+Câu 70. Khi quản trị chi phí theo dòng đời sản phẩm (Life Cycle Costing - LCC), doanh nghiệp tổng hợp toàn bộ các chi phí của một dự án sản phẩm Z như sau: Chi phí nghiên cứu & phát triển (R&D) là 200 triệu đồng; Chi phí sản xuất là 600 triệu dong; Chi phi bảo hành và dịch vụ khách hàng sau bán hàng ước tính là 100 triệu đồng. Tổng sản lượng sản phẩm Z dự kiến tiêu thụ trong. suốt cả vòng đời là 10.000 sản phẩm. Chi phí vòng đời trung bình của một sản phẩm Z là bao nhiêu?
+A. 60.000 đồng/sản phẩm
+B. 80.000 đồng/sản phẩm.
+*C. 90.000 đồng/sản phẩm
+D. 70.000 đồng/sản phẩm Phần 1
+
+Câu 71. Trong các phương pháp định giá bán sản phẩm thông thường, phương pháp nào lấy giá thành sản xuất làm căn cứ nền tang để cộng thêm phan tiền tăng thêm (markup)?
+A. Định giá bán dựa vào biến phí.
+*B. Dinh giá bán dựa vào giá thành sản xuất sản phẩm.
+C. Dinh giá bán sản phẩm theo giá thị trường.
+D. Định giá theo chi phí nguyên vật liệu và nhân công.
+
+Câu 72. Khi áp dụng phương pháp định giá bán sản phẩm thông thường dựa trên biến phí, khoản tiền tăng thêm (markup) phải đảm bảo bù đắp được yếu tố nào và có lãi?
+A. Toàn bộ biến phí của sản phẩm.
+B. Chỉ bao gồm chi phí bán hàng và chi phí quản lý doanh nghiệp.
+*C. Toàn bộ định phí của giá thành toàn bộ và lợi nhuận mục tiêu.
+D. Chỉ bao gồm định phí sản xuất chung.
+
+Câu 73. Việc định giá bán sản phẩm chuyển giao, tiêu thụ nội bộ giữa các bộ phận trong cùng một doanh nghiệp thường áp dụng các phương pháp nao?
+A. Định giá theo chi phí nguyên vật liệu và chi phí nhân công.
+*B. Định giá theo biến phí hoặc định giá theo giá thị trường.
+C. Dinh giá dựa vào giá vốn hàng bán và chi phí tài chính.
+D. Dinh giá dựa trên mô hình Kaizen va giá thành toàn bộ.
+
+Câu 74. Khi doanh nghiệp định giá bán sản phẩm nội bộ theo giá thị trường, điều kiện lý tưởng nao thường được giả định?
+A. Sản phẩm nội bộ không có hàng hóa tương đương trên thị trường.
+B. Các bộ phận không có quyền tự chủ mua bán ra ngoài.
+*C. Có thị trường cạnh tranh hoàn hảo cho sản phẩm chuyến giao đó.
+D. Doanh nghiệp đang bị giới hạn nghiêm trọng về năng lực sản xuất.
+
+Câu 75. Phương pháp định giá bán sản phẩm dựa vào chi phí nguyên vật liệu và chi phí nhân công thường được cấu thành từ hai yếu tố nào?
+A. Giá thành toàn bộ và tỷ suất lợi nhuận gộp.
+*B. Giá chi phí nhân công (tính theo gid) và tỷ lệ tăng thêm tiền nguyên vật liệu.
+C. Biến phi sản xuất don vị và định phí quản lý doanh nghiệp.
+D. Chi phí R&D và chi phi bảo hành dòng đời sản phẩm.
+
+Câu 76. Trong phương pháp định giá dựa vào giá thành sản xuất sản phẩm, khoản "tiền tăng thêm" (markup) cần phải bao gồm những thành phần nào?
+*A. Chi phí bán hàng, chi phí quản lý doanh nghiệp và lợi nhuận mong muốn.
+B. Chi phí nguyên vật liệu trực tiếp và chi phí nhân công trực tiếp.
+C. Biến phí sản xuất chung và định phí sản xuất chung.
+D. Chi phí tài chính và các khoản thuế gián thu.
+
+Câu 77. Nội dung nào phản ánh đúng bản chất của việc định giá bán cho một sản phẩm mới của doanh nghiệp?
+A. Chỉ dựa vào số liệu chi phí lich sử từ 5 năm trước để tính toán.
+B. Phải tuân thủ tuyệt đối quy định thống nhất của Bộ Tài chính về khung giá.
+*C. Doanh nghiệp cần xác định giá bán sản phẩm mới nhằm thâm nhập thị trường hoặc hớt váng thị trường.
+D. Không cần quan tâm đến tâm lý người tiêu dùng hay đối thủ cạnh tranh.
+
+Câu 78. Trường hợp nào dưới đây được coi là định giá bán sản phẩm trong trường hợp đặc biệt theo kế toán quản trị?
+A. Định giá bán cho các sản phẩm tiêu thụ hàng ngày trên thị trường ôn định.
+B. Dinh giá chuyển giao giữa hai trung tâm trách nhiệm nội bộ.
+*C. Định giá bán trong điều kiện công suất sản xuất còn dư thừa hoặc nhận đơn đặt hàng đặc biệt.
+D. Định giá dựa trên chi phí nguyên vật liệu thực tế phát sinh.
+
+Câu 79. Khi định giá sản phẩm chuyển giao theo phương pháp biến phí, mức giá này thường đại diện cho:
+A. Giá bán cao nhất có thể có trên thị trường tự do.
+*B. Chi phí kha biến để sản xuất ra một don vị sản phẩm nội bộ đó.
+C. Giá thành toàn bộ của sản phẩm tiêu thụ cộng với 25% lợi nhuận.
+D. Tổng chi phí nhân công trực tiếp theo thời gian lao động. II
+
+Câu 80. Điểm khác biệt lớn nhất giữa việc định giá bán dựa trên "giá thành sản xuất" và dựa trên "biến phí" là gì?
+A. Định giá dựa trên giá thành sản xuất hon toàn bỏ qua yếu tố định phí.
+*B. Nền tảng chi phí của phương pháp giá thành sản xuất bao gồm ca định phí san xuất chung; còn phương pháp biến phí chỉ tập trung vào các chi phí khả biến.
+C. Dinh giá dựa trên biến phí bắt buộc phải áp dụng biểu mẫu báo cáo tài chính của nha nước.
+D. Phuong pháp giá thành sản xuất chỉ áp dụng cho sản phẩm chuyển giao nội bộ.
+
+Câu 81. Khái niệm "Tỷ lệ tăng thêm" (Markup percentage) trong định giá sản phẩm được hiểu là:
+A. Tỷ lệ phần trăm chiết khấu thương mại dành cho khách hàng mua số lượng lớn.
+*B. Tỷ lệ phần trăm được cộng thêm vào nền tang chi phí để bù đắp các chi phí còn lại và tạo lợi nhuận mục tiêu.
+C. Tỷ lệ hao hụt nguyên vật liệu cho phép trong quy trình công nghệ.
+D. Ty lệ lạm phát dự kiến của nền kinh tế thị trường.
+
+Câu 82. Khi một doanh nghiệp kinh doanh dịch vụ sửa chữa ô tô tiền hành định giá bán dựa trên chi phí vật liệu và nhân công, chi phí quản lý phân xưởng phục vụ thợ sửa chữa sẽ được tính gop vào yêu tố nào?
+A. Tỷ lệ phan trăm tăng thêm của giá mua nguyên vật liệu.
+B. Chi phí thời kỳ kết chuyển thẳng vào tài khoản lợi nhuận gộp.
+*C. Giá chi phí nhân công cho mỗi giờ lao động trực tiếp.
+D. Giá bán của sản phẩm mới thâm nhập thị trường.
+
+Câu 83. Mục tiêu hàng đầu của việc nghiên cứu lý thuyết kinh tế trong định giá bán sản phẩm là tìm ra mối quan hệ tối ưu giữa các yếu tố nào để tối đa hóa lợi nhuận?
+*A. Giá bán, khối lượng sản phẩm tiêu thụ và chi phí.
+B. Định mức lý tưởng và định mức thực tế.
+C. Mô hình Kaizen và mô hình chi phí mục tiêu.
+D. Sổ nhật ký và hệ thống báo cáo trách nhiệm.
+
+Câu 84. Trong điều kiện doanh nghiệp còn dư thừa năng lực sản xuất chung và không có cơ hội bán ra ngoài, mức giá tối thiêu chấp nhận được cho một đơn đặt hàng đặc biệt ngắn hạn chỉ cần:
+A. Bằng với giá thành toàn bộ của sản phẩm.
+*B. Bu đắp được biến phi don vị tăng thêm của đơn hang đó.
+C. Cao hơn giá bán hiện tại trên thị trường tự do.
+D. Bằng với tông định phí bắt buộc của toàn bộ doanh nghiệp.
+
+Câu 85. Nhận định nào sau đây đúng về việc định giá sản phẩm tiêu thụ nội bộ theo giá thị trường?
+*A. Giúp đánh giá khách quan và khách quan hóa thành quả hoạt động của các trung tâm lợi nhuận nội bộ.
+B. Làm giảm động lực cạnh tranh của các bộ phận trong doanh nghiệp.
+C. Bắt buộc giá bán phải thấp hơn biến phi sản xuất của đơn vị chuyển giao.
+D. Chỉ áp dụng được khi doanh nghiệp sử dụng duy nhất mô hình kế toán kết hợp. Phần 2
+
+Câu 86. Chức năng chính của thông tin kế toán quản trị trong việc định giá bán sản phẩm là gi?
+A. Đưa ra quyết định cuối cùng thay cho nha quản trị.
+*B. Cung cấp thông tin chi phí làm cơ sở khoa học để thiết lập giá bán.
+C. Quyết định mức giá trần và giá sàn quy định bởi nhà nước.
+D. Theo dõi dòng tiền thu được từ khách hàng nộp về quỹ.
+
+Câu 87. Phương pháp định giá bán sản phẩm thông thường bao gồm các phương pháp nào sau đây?
+*A. Định giá dựa vào giá thành sản xuất và định giá dựa vào biến phí.
+B. Định giá theo chi phí cơ hội và chi phí chìm.
+C. Định giá theo giá trần của Chính phủ và giá sàn của thị trường.
+D. Định giá theo lợi nhuận mục tiêu của đối thủ cạnh tranh.
+
+Câu 88. Trong phương pháp định giá bán dựa vào giá thành sản xuất sản phẩm, phần tiền cộng thêm (markup) phải bù đắp được những chi phí nào?
+A. Chi phí nguyên vật liệu trực tiếp và chi phí nhân công trực tiếp.
+B. Chi phi sản xuất chung cố định và biến đồi.
+*C. Chi phí ngoài sản xuất (chi phí bán hàng, chi phí quan lý doanh nghiệp) và mức lợi nhuận tông rnuồn)
+D. Toàn bộ giá thành toàn bộ của sản phẩm tiêu thụ.
+
+Câu 89. Khi định giá sản phẩm dựa trên biến phí trong giá thành toàn bộ, phần tiền cộng thêm (markup) được tính toán nhằm mục đích bao phủ loại chi phí nào?
+A. Toàn bộ biến phí sản xuất.
+*B. Toàn bộ định phí (định phí sản xuất và định phí ngoài sản xuất) cùng lợi nhuận mục tiêu.
+C. Chi phí nguyên vật liệu và chi phí nhân công trực tiếp.
+D. Chỉ riêng chi phí quản lý doanh nghiệp.
+
+Câu 90. Nhược điểm lớn nhất của phương pháp định giá dựa vào giá thành sản xuất sản phẩm (phương pháp toàn bộ) là gì?
+A. Không tính đến chi phí nguyên vật liệu.
+B. Giả định rằng toàn bộ chi phí sản xuất chung đều là biến phí.
+*C. Có thé dẫn đến việc định giá quá cao khi khối lượng sản xuất thực tế giảm vì định phí phân bồ tăng lên,
+D. Không quan tâm đến mức lợi nhuận mong muốn của doanh nghiệp.
+
+Câu 91. Giá chuyển giao nội bộ (transfer price) là mức giá được áp dụng trong trường hợp nào?
+A. Khi doanh nghiệp bán sản phẩm ra thị trường bên ngoài.
+*B. Khi trao đổi mua bán hàng hóa, dich vụ giữa các bộ phận, trung tâm trách nhiệm trong cùng một doanh nghiệp.
+C. Khi doanh nghiệp mua nguyên vật liệu từ nhà cung cap độc lập.
+D. Khi cơ quan thuế ấn định giá bán sản phẩm cho doanh nghiệp.
+
+Câu 92. Phương pháp định giá chuyến giao sản phẩm nội bộ theo giá thị trường (Market- based transfer price) được xem là tối ưu nhất khi nào?
+*A. Khi thị trường bên ngoài là thị trường cạnh tranh hoàn hảo và đơn vị bán không có năng lực sản xuất nhàn rồi.
+B. Khi đơn vị bán có rất nhiều năng lực sản xuất nhàn rỗi và không bán được ra bên ngoài.
+C. Khi sản phẩm nội bộ là sản phẩm độc quyền chưa từng có trên thị trường.
+D. Khi không thé xác định được chi phí sản xuất của đơn vị bán.
+
+Câu 93. Nếu một bộ phận bán trong nội bộ doanh nghiệp đang có năng lực sản xuất nhàn rỗi (idle capacity), mức giá chuyền giao tối thiểu mà bộ phận này có thé chấp nhận mà không bị lỗ là gì?
+A. Giá thị trường của sản phẩm.
+*B. Biến phí đơn vị của sản phẩm (cộng thêm chi phí cơ hội bằng 0).
+C. Giá thành toàn bộ của sản phẩm.
+D. Chi phí nhân công trực tiếp đơn vị.
+
+Câu 94. Khi định giá sản phẩm chuyển giao nội bộ theo biến phi (Variable cost-based), nhược điểm chính đối với phân xưởng bán là gì?
+A. Lam tăng doanh thu của phân xưởng bán lên quá cao.
+*B. Ph phân xưởng bán không có cơ hội ghi nhận lợi nhuận, gây ảnh hưởng đến việc đánh giá hiệu quả kinh doanh của trung tâm lợi nhuận này.
+C. Phân xưởng mua sẽ từ chối nhận hàng do giá quá cao.
+D. Không tính được chi phí nguyên vật liệu trực tiếp.
+
+Câu 95. Mục tiêu cơ bản của việc thiết lập giá chuyến giao nội bộ trong kế toán quản trị là gì?
+A. Tối đa hóa nghĩa vụ nộp thuế thu nhập cho Nhà nước.
+*B. Kích thích sự hợp tác nội bộ và đảm bảo lợi ích tối ưu cho cả các bộ phận lẫn toàn bộ doanh nghiệp.
+C. Làm giảm giá trị hàng tồn kho cuối kỳ trên Bang cân đối kế toán.
+D. Triệt tiêu hoàn toàn chi phí ngoài sản xuất của doanh nghiệp.
+
+Câu 96. Phương pháp định giá bán sản phẩm theo chi phí nguyên vật liệu và chi phí nhân công thường được áp dụng phố biến nhất ở loại hình doanh nghiệp nào?
+A. Doanh nghiệp sản xuất hàng loạt, quy mô lớn (ví dụ: xi măng, sắt thép).
+*B. Các doanh nghiệp kinh doanh dịch vụ sửa chữa, bảo dưỡng, tư vấn hoặc xây dựng theo đơn đặt hàng.
+C. Doanh nghiệp khai khoáng tự nhiên.
+D. Doanh nghiệp chuyên kinh doanh nông sản xuất khẩu.
+
+Câu 97. Trong phương pháp định giá theo chi phí vật liệu và nhân công, tỷ lệ phần trăm cộng thêm đối với chi phí nguyên vật liệu (Material markup) nhằm mục đích bù đắp chi phí nào?
+A. Tiền lương của thợ sửa chữa trực tiếp.
+*B. Chi phi đặt hàng, thu mua, vận chuyển, lưu kho bãi vật liệu và mức lợi nhuận mong muốn từ vật liệu.
+C. Chi phí khấu hao máy móc tại văn phòng công ty.
+D. Chi phí quảng cáo thương hiệu sản phẩm mới.
+
+Câu 98. Giá nhân công tính cho một giờ lao động (Labor rate per hour) trong phương pháp này thường bao gồm các thành phần nào?
+A. Chỉ bao gồm lương cơ bản của người lao động trực tiếp.
+*B. Lương trực tiếp, các khoản trích theo lương, chi phí quản Iý/phục vụ liên quan đến nhân công và lợi nhuận mục tiêu trên một giờ công.
+C. Giá mua nguyên vật liệu chính chia cho tông số giờ làm việc.
+D. Toàn bộ định phí ngoài sản xuất chia đều cho số lượng thợ.
+
+Câu 99. Khi áp dụng phương pháp định giá theo thời gian và nguyên vật liệu, hóa đơn thanh toán cuối cùng gửi cho khách hàng sẽ được cấu thành từ:
+*A. Tổng số giờ công thực tế nhân với giá một giờ công, cộng với chi phí vật liệu thực tế sử dụng (đã bao gồm tỷ lệ markup vật liệu).
+B. Giá thành sản xuất toàn bộ nhân với khối lượng sản phẩm sản xuất hàng loạt.
+C. Giá thị trường trừ đi phần chiết khấu thương mại nội bộ.
+D. Tổng biến phí thực tế phát sinh cộng lợi nhuận mục tiêu toàn doanh nghiệp.
+
+Câu 100. Chiến lược định giá "hót váng sữa" (Skimming pricing) đối với sản phẩm mới thường được áp dụng khi nào?
+*A. Sản phẩm mới có tính khác biệt cao, độc đáo, ít đối thủ cạnh tranh và doanh nghiệp muốn thu hồi vốn nhanh từ phân khúc khách hàng cao cấp.
+B. Sản phẩm có tính phổ thông, nhắm vào đối tượng khách hàng có thu nhập thấp.
+C. Doanh nghiệp muốn mở rộng tối đa thị phan trong thời gian ngắn nhất.
+D. Thị trường đang có sự cạnh tranh gay gắt về giá bán.
+
+Câu 101. Chiến lược định giá "thâm nhập thị trường" (Penetration pricing) áp dụng cho sản phẩm mới có đặc điểm gì?
+A. Đặt giá bán ban đầu thật cao để khang định đăng cấp thương hiệu.
+*B. Đặt giá bán ban đầu thấp hơn hin so với đối thủ nhằm thu hút lượng lớn khách hàng và chiếm lĩnh thị phần nhanh chóng.
+C. Giữ mức giá bằng đúng với biến phí sản xuất trong mọi giai đoạn.
+D. Chỉ bán sản phẩm trong nội bộ doanh nghiệp chứ không bán ra ngoài.
+
+Câu 102. Trong trường hợp đặc biệt, một doanh nghiệp có năng lực sản xuất nhàn rỗi nhận được một đơn đặt hàng đặc biệt (ngoài kế hoạch), mức giá bán tối thiếu để doanh nghiệp chấp nhận đơn hàng này phải:
+A. Cao hơn giá thành sản xuất toàn bộ của sản phẩm.
+*B. Cao hơn biến phí tăng thêm (incremental variable cost) do đơn hàng này mang lại.
+C. Bằng đúng với chi phí quản lý doanh nghiệp phân bổ.
+D. Bằng với mức giá bán thông thường trên thị trường tự do.
+
+Câu 103. Khi doanh nghiệp đối mặt với tình trạng cạnh tranh gay gắt hoặc suy thoái kinh tế nghiêm trọng, họ có thể định giá bán sản phẩm chỉ cần bù đắp được biến phí sản xuất nhằm mục đích gì trong ngắn hạn?
+A. Tối đa hóa lợi nhuận thuần trong kỳ kế toán.
+*B. Duy trì hoạt động, giữ chân khách hàng và lực lượng lao động thay vì đóng cửa phân xưởng.
+C. Tăng lượng tiền gửi tiết kiệm tại các ngân hàng thương mại.
+D. Tránh việc phải nộp thuế giá trị gia tăng.
+
+Câu 104. Lý thuyết kinh tế về định giá chỉ ra rằng, để tối đa hóa lợi nhuận toàn diện, doanh nghiệp nên sản xuất và bán hàng tại mức sản lượng mà ở đó:
+*A. Doanh thu biên (MR) bằng với Chi phí biên (MC).
+B. Tổng doanh thu đạt giá trị nhỏ nhất.
+C. Chi phí có định bằng với chi phí biến đổi.
+D. Giá bán bằng đúng chi phí nguyên vật liệu trực tiếp.
+
+Câu 105. Khi định giá sản phẩm mới theo mô hình dựa trên vòng đời sản phẩm (Life Cycle Pricing), nhà quản trị cần phải chú ý điều gì?
+A. Chỉ quan tâm đến chi phí phát sinh tại phân xưởng sản xuất trực tiếp.
+*B. Tính toán và bao quát tắt cả các chỉ phi từ khâu nghiên cứu và phát triển (R&D), thiết kế, sản xuất cho đến khâu marketing, phân phối và dịch vụ sau bán hàng.
+C. Đặt một mức giá có định không thay đổi từ lúc sản phẩm ra mắt đến khi khai tử.
+D. Bỏ qua hoàn toàn các yếu tố chi phí ngoài sản xuất để hạ giá bán tối da. Phần 3:
+
+Câu 106. Công ty Alpha kế hoạch sản xuất và tiêu thụ 10.000 sản phẩm A. Chi phí sản xuất định mức cho 1 sản phẩm gồm: Nguyên vật liệu trực tiếp: 50.000 đ, Nhân công trực tiếp: 30.000 đ, Biến phí sản xuất chung: 10.000 đ. Tổng định phi sản xuất chung phân bỏ là 100.000.000 đ. Chi phí bán hàng và quản lý doanh nghiệp (QLDN) dự kiến là 150.000.000 đ. Doanh nghiệp mong. muốn đạt lợi nhuận mục tiêu là 250.000.000 đ. Tỷ lệ phần trăm cộng thêm (Markup) tính trên giá thành sản xuất là bao nhiêu?
+A. 25%
+B. 36,36%
+*C. 40%
+D. 15%
+
+Câu 107. Sử dụng số liệu của Câu 1, hãy xác định giá bán của một sản phẩm A theo phương pháp định giá dựa vào giá thành sản xuất sản phẩm?
+A. 125.000 đ
+B. 136.360 đ
+*C. 140.000 đ
+D. 150.000 đ
+
+Câu 108. Công ty Beta có giá thành sản xuất định mức cho một sản phẩm B là 200.000 đ. Chi phí ngoài sản xuất hàng năm là 400.000.000 đ. Doanh nghiệp muốn dat tỷ lệ hoàn vốn đầu tu (ROI) là 20% trên tông vốn đầu tư sản xuất kinh doanh sản phẩm B là 3.000.000.000 đ. Biết sản lượng tiêu thụ dự kiến là 25.000 sản phẩm. Hãy tính giá bán sản phẩm B?
+*A. 240.000 d
+B. 216.000 đ
+C. 232.000 đ
+D. 224.000 đ
+
+Câu 109. Công ty Omega sản xuất sản phẩm C với chi phí nguyên vật liệu trực tiếp là 80.000 đ/sp, chi phí nhân công trực tiếp là 40.000 đ/sp, biến phí sản xuất chung là 20.000 đ/sp. Định phí sản xuất chung hàng năm là 600.000.000 đ. Công ty áp dụng phương pháp toàn bộ với tỷ lệ Markup cố định là 30% dựa trên giá thành sản xuất. Nếu sản lượng ky nay là 15.000 sản phẩm, giá ban sản phẩm C sẽ là:
+*A. 234,000 d
+B. 182.000 đ
+C. 208.000 đ
+D. 260.000 đ Cách tính: Giá thành sản xuất đơn vị = 80 + 40 + 20 + (600 tr / 15.000) = 180.000 đ. Giá bán = 180.000 x 1,3 = 234.000 đ.
+
+Câu 110. Doanh nghiệp X dự kiến tiêu thy 5.000 sản phẩm D. Biến phí đơn vị của sản phẩm bao gồm: Biến phí sản xuất: 60.000 đ, Biến phí bán hảng: 10.000 đ. Tổng định phí hoạt động cả năm của công ty là 200.000.000 đ. Vốn đầu tư vào sản phẩm này là 1.000.000.000 đ với tỷ lệ ROI mong muốn là 15%. Tính tỷ lệ phần trăm cộng thêm (Markup) dựa trên biến phí toàn bộ?
+A. 57,14%
+*B. 100%
+C. 42,86%
+D. 50%
+
+Câu 111. Sử dụng dữ liệu của Câu 5, giá bán một sản phẩm D theo phương pháp biến phí là bao nhiêu?
+A. 110.000 đ
+*B. 140.000 đ
+C. 105.000 đ
+D. 120.000 đ
+
+Câu 112. Giá thành sản xuất (giá thành công xướng) đơn vị của sản phẩm X là bao nhiêu?
+A. 80.000 đ
+B. 90.000 đ
+*C. 110.000 đ
+D. 130.000 đ
+
+Câu 113. Tỗng chi phí ngoài sản xuất (bán hàng va quản lý doanh nghiệp) đơn vị của sản phẩm X là bao nhiêu?
+A. 5.000 đ
+B. 15.000 đ
+*C. 20.000 đ
+D. 40.000 đ
+
+Câu 114. Nếu doanh nghiệp áp dụng phương pháp định giá dựa vào giá thành sản xuất (phương pháp toàn bộ), tỷ lệ phần trăm cộng thêm (Markup %) là bao nhiêu?
+A. 31,82%
+B. 45,45%
+*C. 63,64%
+D. 25,00% Giải thích nhanh: Mức lợi nhuận mong muốn = 2,5 tỷ x 20% = 500 triệu d (tương đương 50.000 asp). Chi phí ngoài SX = 20.000 dsp. Tổng tiền cộng thêm = 50.000 + 20.000 = 70.000 a. Markup % = 70.000 / 110.000 = 63,64%.
+
+Câu 115. Giá ban đơn vị của sản phẩm X theo phương pháp toàn bộ là bao nhiêu?
+A. 130.000 đ
+B. 160.000 đ
+*C. 180.000 đ
+D. 200.000 đ
+
+Câu 116. Một doanh nghiệp sản xuất sản phẩm Y với tổng biến phí đơn vị (toàn bộ) là 60.000 đ, tổng định phi phân bỗ đơn vị là 30.000 đ. Doanh nghiệp muốn có lợi nhuận mục tiêu là 20.000 đ/sp. Nếu doanh nghiệp áp dụng phương pháp định giá dựa vào biến phí, tỷ lệ Markup % là bao nhiêu?
+A. 33,33%
+B. 55,56%
+*C. 83,33%
+D. 60,00%
+
+Câu 117. Giá tính cho một giờ lao động trực tiếp (Labor rate per hour) của công ty là bao nhiêu?
+A. 60.000 đ/giờ
+B. 80.000 đ/giờ
+*C. 100.000 đ/giờ'
+D. 120.000 đ/giờ
+
+Câu 118. Tỷ lệ phần trăm cộng thêm đối với chi phí nguyên vật liệu (Material markup %) là bao nhiêu?
+A. 10%
+*B. 20%
+C. 15%
+D. 25%
+
+Câu 119. Khách hàng K đến sửa chữa laptop hết 3 giờ công lao động trực tiếp và sử dụng một mainboard thay thế có giá mua vào là 1.500.000 đ. Tổng số tiền trên hóa đơn khách hàng K phải trả là bao nhiêu?
+A. 1.800.000 đ
+B. 1.950.000 đ
+*C. 2.100.000 đ
+D. 2.250.000 đ
+
+Câu 120. Giá sử phân xưởng X đang hoạt động hết công suất và không thể phục vụ hết nhu cầu của thị trường bên ngoài. Giá chuyển giao tối thiểu phân xưởng X chấp nhận để bán linh kiện A cho phân xưởng Y là bao nhiêu?
+A. 40.000 đ
+B. 55.000 đ
+*C. 75.000 đ
+D. 80.000 đ
+
+Câu 121. Giả sử phân xưởng X đang dư thừa năng lực sản xuất (nhàn rỗi) và lượng linh kiện Y cần mua hoàn toàn nằm trong phan năng lực dư thừa này. Giá chuyển giao tối thiểu phân xướng X chấp nhận để chuyển giao cho Y là bao nhiêu?
+*A. 40.000 đ
+B. 55.000 đ
+C. 75.000 đ
+D. 80.000 đ
+
+Câu 122. Phân tích mối quan hệ C - V - P trong kế toán quần trị là nghiên cứu sự tương tác giữa các yếu tố nào sau đây?
+A. Chi phí, giá thành sản xuất, doanh thu và dòng tiền.
+*B. Chi phí, khối lượng hoạt động và lợi nhuận.
+C. Định phí, biến phí và tai sản cố định.
+D. Khối lượng sản phẩm để dang, thành phẩm và giá vốn.
+
+Câu 123. Thuật ngữ "Số dư đảm phí" (Contribution Margin) được định nghĩa là:
+A. Phần chênh lệch giữa tổng doanh thu và tông định phí.
+*B. Phần chênh lệch giữa tổng doanh thu và tổng biến phí.
+C. Phần lợi nhuận thuần còn lại sau khi trừ tắt cả chi phí.
+D. Số dư tài khoản tiền mặt tại thời điểm cuối kỳ kế toán.
+
+Câu 124. Số dư đảm phí đơn vị sản phẩm được tính bằng công thức nào?
+*A. Giá bán đơn vị trừ Biến phí đơn vị.
+B. Giá bán đơn vị trừ Định phí đơn vị.
+C. Giá bán đơn vị trừ Giá thành sản xuất đơn vị.
+D. Doanh thu đơn vị cộng Lợi nhuận mục tiêu.
+
+Câu 125. Ý nghĩa kinh tế bản chất của "Số dư đảm phí" là gì?
+*A. Là khoản tiền dùng để bù đắp định phí trước, phần còn lại sau khi bù đắp mới tạo ra lợi nhuận,
+B. Là khoản tiền dùng để chi trả lương trực tiếp cho công nhân sản xuất.
+C. Là phan lợi nhuận giữ lại để tái đầu tư vào tài sản có định.
+D. Là số tiền bù đắp cho các hao hụt nguyên vật liệu trong quá trình công nghệ.
+
+Câu 126. Tỷ suất số dư đảm phí (Contribution Margin Ratio) được xác định bằng tỷ lệ phần trăm giữa:
+A. Tổng định phí và Tổng doanh thu.
+*B. Số dư đảm phí và Doanh thu.
+C. Lợi nhuận thuần và Tổng chi phí.
+D. Biến phí đơn vị và Giá bán đơn vị.
+
+Câu 127. Khi khối lượng tiêu thụ tăng lên trong phạm vi phù hợp, chỉ tiêu nào sau đây KHÔNG thay đỗi?
+A. Tổng số dư đảm phí của doanh nghiệp.
+B. Tổng biến phí của doanh nghiệp.
+*C. Số dư đảm phí đơn vị sản phẩm.
+D. Tổng lợi nhuận thuần của doanh nghiệp.
+
+Câu 128. "Điểm hòa vốn" là điểm mà tại đó doanh nghiệp đạt được trạng thái nào?
+A. Tổng doanh thu lớn hơn tổng chi phí.
+*B. Tông doanh thu bằng tổng chi phí (lợi nhuận bằng 0).
+C. Số dư đảm phí bằng 0.
+D. Tổng biến phí bằng tổng định phí.
+
+Câu 129. Ở trạng thái hòa vốn, tổng số dư đám phí của doanh nghiệp sẽ bằng đúng với:
+A. Tổng biến phí.
+*B. Tông định phí.
+C. Lợi nhuận mục tiêu.
+D. Giá vốn hàng bán.
+
+Câu 130. Công thức xác định sản lượng hòa vốn (Sản lượng bằng hiện vật) là:
+*A. Tổng định phí / Số dư đảm phí đơn vị.
+B. Tổng định phí / Biến phí đơn vị.
+C. Tổng định phí / Tỷ suất số dư đảm phí.
+D. Tổng biến phí / Giá bán đơn vị.
+
+Câu 131. Công thức xác định doanh thu hòa vốn (Doanh thu bằng tiền) là:
+A. Tổng định phí / Số dư đảm phí đơn vị.
+*B. Tổng định phí / Tỷ suất s6 dư đảm phí.
+C. Tổng biến phí / Tỷ suất só dư đảm phí.
+D. Tổng chi phí / Giá bán đơn vị.
+
+Câu 132. Nếu doanh nghiệp kinh doanh nhiều loại sản phẩm (đa sản phẩm), việc phân tích điểm hòa vốn bắt buộc phải căn cứ vào chỉ tiêu nào?
+A. Số dư đảm phí đơn vị của sản phẩm có giá bán cao nhất.
+*B. Kết cầu giá bán sản phẩm (hoặc kết cầu sản lượng tiêu thụ phối hợp).
+C. Tổng chi phi quản lý doanh nghiệp phân bổ bồ sung.
+D. Giá bán bình quân hình học của các mặt hàng.
+
+Câu 133. "Doanh thu an toàn" hay "Số dư an toàn" (Margin of Safety) được định nghĩa là:
+*A. Phần chênh lệch giữa Doanh thu dự kiến (hoặc thực tế) và Doanh thu hỏa vốn.
+B. Phần chênh lệch giữa Doanh thu hòa von và Tổng định phí.
+C. Phần doanh thu tối đa mà máy móc thiết bị có thé sản xuất được.
+D. Khoản doanh thu thu bằng tiền mặt đã gửi vào tải khoản ngân hàng.
+
+Câu 134. Chỉ tiêu "Tỷ lệ doanh thu an toàn” cho nhà quản trị biết điều gì?
+*A. Tỷ lệ phần trăm doanh thu giảm đi tối đa trước khi doanh nghiệp bắt đầu bị lỗ.
+B. Tỷ lệ phần trăm lợi nhuận thu được trên một đồng vốn chủ sở hữu.
+C. Khả năng thanh toán nợ ngắn hạn của đơn vị bằng hàng tồn kho.
+D. Tốc độ tăng trưởng của thị trường tiêu thụ bên ngoài.
+
+Câu 135. Đòn bấy kinh doanh (Operating Leverage) phản ánh:
+A. Mức độ sử dụng nợ vay dài han trong cơ cấu nguồn vốn kinh doanh.
+*B. Mức độ nhạy cảm của lợi nhuận trước sự thay đổi của doanh thu tiêu thụ (do sự tồn tại của định phí).
+C. Tỷ lệ phân bé chi phí nhân công trực tiếp vào giá thành thành phẩm.
+D. Khả năng chiếm dụng vốn của nhà cung cấp nguyên vật liệu.
+
+Câu 136. Độ lớn đòn bẩy kinh doanh (DOL) tại một mức doanh thu được tính bằng công thức:
+A. Lợi nhuận thuần / Số dư đảm phí.
+*B. Số dư đảm phí / Lợi nhuận thuần.
+C. Doanh thu tiêu thụ / Tổng định phí.
+D. Tổng chi phí / Số dư đảm phí đơn vị.
+
+Câu 137. Doanh nghiệp có độ lớn đòn bẩy kinh doanh cao khi cơ cấu chi phí của doanh nghiệp có đặc điểm:
+A. Ty trọng biến phí rất cao và định phí rất thấp.
+*B. Tỷ trọng định phí rit cao và biến phí rat thấp.
+C. Không phát sinh chi phí sản xuất chung.
+D. Toàn bộ chi phí đều là chi phí ngoài sản xuất.
+
+Câu 138. Một trong những giả định cơ bản làm cơ sở cho việc phân tích mối quan hệ C - V - Plàgì?
+*A. Chi phí phải được phân chia thành biến phí và định phí một cách rõ rằng trong phạm vi phù hợp.
+B. Giá bán sản phẩm thay đồi liên tục theo số lượng sản phẩm bán ra trên thị trường.
+C. Năng suất lao động của công nhân luôn giảm dần theo thời gian.
+D. Doanh nghiệp luôn áp dụng phương pháp kế toán hàng tồn kho theo giá thực tế đích danh.
+
+Câu 139. Giả định nào sau đây về mối quan hệ tuyến tính được áp dụng trong phân tích CVP?
+A. Đồ thị biểu diễn tổng doanh thu và tổng chi phí là các đường cong lỗi.
+*B. Ham số doanh thu và hàm số chi phí đều có dang đường thẳng (tuyến tính) trong phạm vi phù hợp.
+C. Định phi đơn vị là một hằng số có định khi sản lượng thay đổi.
+D. Biến phí tổng số không thay đổi khi sản lượng thay đồi.
+
+Câu 140. Phân tích CVP giả định điều gì về mối quan hệ giữa sản lượng sản xuất và sản lượng tiêu thụ?
+A. Sản lượng sản xuất luôn lớn hơn nhiều so với sản lượng tiêu thụ để dự phòng kho.
+*B. Toàn bộ khối lượng sản phẩm sản xuất ra trong kỳ được tiêu thụ hết trong kỳ đó (không có biến động tồn kho).
+C. Doanh nghiệp chỉ tiến hành sản xuất sản phẩm dở dang chứ không hoàn thành thành phẩm.
+D. Hàng tồn kho đầu kỳ phải bằng đúng với hàng tồn kho cuối kỳ kế toán.
+
+Câu 141. Hạn chế lớn nhất khi ứng dụng mô hình CVP trong thực tế điều hành doanh nghiệp là:
+*A. Các điều kiện thực tế kinh doanh thường biến động phức tạp và khó thỏa man hoàn hảo các giả định nghiêm ngặt của mô hình.
+B. Mô hình đòi hỏi sử dụng
+C. Kế toán tài chính không cung cấp sỏ nhật ký chung cho mô hình này. c phần mềm máy tính có dung lượng quá lớn.
+D. Mô hình chỉ áp dụng được duy nhất cho các doanh nghiệp thương mại mua bán hàng hóa sẵn có. PHAN 2:
+
+Câu 142. Nhận định nào sau đây giải thích đúng nhất về bản chất của chỉ tiêu " phí tống số"? ó dư dam
+A. Là phần doanh thu còn lại giúp doanh nghiệp nộp thuế thu nhập sau khi đã trả hết tiền mua nguyên vật liệu.
+B. Là phan chênh lệch mang tinh chat cá biệt nhằm phản ánh dòng tiền thuần của một sản phẩm trong kho.
+*C. Là nguồn tài trợ trước hết để trang trai định phí, nếu có thing dư sau khi trang trải mới tạo ra lợi nhuận thuần.
+D. Là chỉ tiêu dùng để phân tích xem giá vốn hàng bán chiếm bao nhiêu phan trăm trong doanh thu của kỳ hiện tại.
+
+Câu 143. Nếu giá bán đơn vị sản phẩm tăng 10% và biến phí đơn vị sản phẩm cũng tăng 10% thì chỉ tiêu nào sau đây chắc chắn sẽ tăng lên về mặt giá trị tuyệt đi
+A. Tỷ suất số dư đảm phí của sản phẩm.
+*B. Số dư đảm phí đơn vị sản phẩm.
+C. Sản lượng hòa vốn của doanh nghiệp.
+D. Tỷ lệ biến phí trên doanh thu.
+
+Câu 144. Phát biểu nào sau đây đúng khi nói về "Tỷ suất số dư đảm phí"?
+A. Phản ánh số sản lượng tối thiểu cần bán ra để dz trạng thái lợi nhuận mục tiêu.
+*B. Cho biết khi doanh thu thay đổi 1 đồng thì lợi nhuận thuần sẽ thay đồi tương ứng bao nhiêu đồng (với điều kiện đã bù đắp hết định phí).
+C. Phản ánh mối quan hệ giữa tổng định phí bắt buộc và tng định phí không bắt buộc.
+D. Cho biết tỷ lệ phần trăm của chi phí nguyên vật liệu trực tiếp cầu thành trong giá bán.
+
+Câu 145. Khi doanh nghiệp đạt được sản lượng tiêu thụ vượt qua điểm hòa von, phan số du dam phí tăng thêm từ các sản phẩm bán thêm nay sẽ đóng góp trực tiếp vào chỉ tiêu nào?
+A. Tăng tông định phí của doanh nghiệp.
+*B. Tăng tổng lợi nhuận thuần của doanh nghiệp.
+C. Giảm biến phí đơn vị của sản phẩm.
+D. Tăng tỷ suất số dư dam phí của kỳ sau.
+
+Câu 146. Tại sao nhà quản tri thường ưu tiên sử dụng Báo cáo kết quả kinh doanh theo dang số dư đầm phí thay vi báo cáo theo kế toán tài chính truyền thống khi ra quyết định?
+*A. Vì nó tách biệt rõ ràng hành vi ứng xử của chi phí thành biến phí và định phí, giúp dự báo lợi nhuận chính xác khi khối lượng thay đồi.
+B. Vì nó giúp doanh nghiệp tối ưu hóa và giảm trừ số thuế giá trị gia tăng phải nộp.
+C. Vì nó cung cấp thông tin chính xác về giá trị thuần có thé thực hiện được của hàng tồn kho.
+D. Vì nó là mẫu biểu bắt buộc phải nộp cho các cơ quan quản lý nhà nước đúng định kỳ.
+
+Câu 147. Nếu một doanh nghiệp có tổng định phí không đỗi, khi giá bán don vị sản phẩm giảm xuống (các yếu tố khác giữ nguyên) thì:
+A. Sản lượng hòa vốn sẽ giảm xuống.
+B. Số dư đảm phi đơn vị sẽ tăng lên.
+*C. Sản lượng hòa vốn sẽ tăng lên.
+D. Tỷ suất số dư đảm phí không thay đồi.
+
+Câu 148. Điểm hòa vốn của doanh nghiệp kinh doanh đa sản phẩm phụ thuộc mạnh mẽ vào yếu tố nào sau đây?
+A. Giá vốn hàng bán của sản phẩm chủ lực.
+*B. Kết cầu sản lượng phối hop (kết cấu tiêu thụ) giữa các loại sản phẩm.
+C. Chi phí tài chính tăng thêm từ các khoản vay ngắn hạn.
+D. Quy trình công nghệ được áp dung tại phân xưởng sản xuat trực tiếp.
+
+Câu 149. Ở trạng thái sản lượng tiêu thụ thấp hơn sản lượng hòa vốn, điều gì sẽ xảy ra?
+A. Tổng số dư đảm phí lớn hơn tổng định phí.
+*B. Doanh nghiệp rơi vào trạng thai lỗ vì sé dư đảm phí chưa đủ bù đắp định phí.
+C. Lợi nhuận thuần của doanh nghiệp đạt giá tri dương.
+D. Biến phí đơn vị sản phẩm vượt quá mức giá bán đơn vị.
+
+Câu 150. Khi phân tích hòa vốn, nếu định phí bắt buộc (định phí gắn liền với năng lực sản xuấp) tăng lên thì doanh nghiệp cần phải:
+A. Giảm sản lượng tiêu thụ để tránh rủi ro.
+*B. Tăng sản lượng tiêu thụ hoặc tăng hiệu quả số dư đảm phí để đạt lại trang thái hòa vốn.
+C. Chuyên toàn bộ phần chi phí tăng thêm này thành biến phí sản xuất chung.
+D. Khai tử sản phẩm hiện tại để chuyển sang kinh doanh ngành nghề mới.
+
+Câu 151. Ý nghĩa kinh tế của việc xác định "Khung giá bán sản phẩm" dựa trên phân tích điểm hòa vốn là gì?
+*A. Giúp doanh nghiệp xác định mức giá bán tối thiểu nhằm đảm bảo bù đắp chi phí trong các tình huống cạnh tranh ngắn hạn.
+B. Giúp doanh nghiệp đăng ký độc quyền giá bán với các cơ quan quản lý giá của Chính phủ.
+C. Giúp xác định mức giá trằn mà khách hàng sẵn sàng chỉ trả cho sản phẩm cao cấp.
+D. Giúp triệt tiêu hoàn toàn sự biến động của giá cả nguyên vật liệu đầu vào.
+
+Câu 152. Một doanh nghiệp có "Chỉ số doanh thu an toàn" rất cao (hoặc tỷ lệ số dư an toàn lớn). Điều này thể hiện:
+A. Doanh nghiệp có nguy cơ bị phá sản cao nếu thị trường biến động giảm nhẹ.
+*B. Doanh nghiệp có độ an toàn kinh doanh cao, ít rủi ro bị 16 khi doanh thu bị sụt giảm.
+C. Doanh nghiệp dang phân bồ quá nhiều chi phí vào định phí không bắt buộc.
+D. Doanh nghiệp bán hàng chủ yếu dưới dạng thu tiền mặt ngay tại quầy.
+
+Câu 153. Đòn bẩy kinh doanh (Operating Leverage) được hiểu một cách chính xác là gì?
+A. Là việc doanh nghiệp vay vốn ngân hàng để tài trợ cho hoạt động mua sắm nguyên vật liệu.
+*B. Khả năng nhân giá trị lợi nhuận thuần lên nhiều lần khi doanh thu tăng, nhờ vào việc tồn tại một tỷ trọng định phí nhát định trong téng chi phí.
+C. Công cụ điều tiết dòng tiền từ hoạt động đầu tư sang hoạt động kinh doanh.
+D. Tỷ lệ phần trăm chênh lệch giữa giá bán đơn vị và biến phí đơn vị.
+
+Câu 154. Tại sao nói doanh nghiệp có độ lớn đòn bay kinh doanh (DOL) cao thì có độ rủi ro kinh doanh lớn?
+*A. Vì khi doanh thu chỉ cần sụt giảm một tỷ lệ nhỏ, lợi nhuận thuần sẽ sụt giảm với một tỷ lệ lớn hơn rất nhiều (thậm chí gây lỗ nặng).
+B. Vì doanh nghiệp đó không có khả năng thanh toán các khoản nợ vay ngắn hạn cho ngân hàng.
+C. Vi giá bán của sản phẩm luôn bị kiểm soát chặt chẽ bởi các đối thủ cạnh tranh trên thị trường.
+D. Vì doanh nghiệp phải liên tục thay đổi kết cầu sản phẩm tiêu thụ đầu vào.
+
+Câu 155. Khi doanh nghiệp tiến càng gần về phía điểm hòa vốn (doanh thu giảm dần về mức hòa von) thi Độ lớn đòn bay kinh doanh (DOL) sẽ biến động như thế nào?
+A. DOL sẽ giảm dần về giá trị bằng 0.
+B. DOL giữ nguyên ở một hang số có định không đồi.
+*C. DOL sẽ tiến đến giá trị vô cùng lớn (rất cao).
+D. DOL sẽ chuyển sang giá trị âm.
+
+Câu 156. Giả sử Doanh nghiệp A có cấu trúc chi phí gồm 80% định phí và 20% biến phí, Doanh nghiệp B có 20% định phí và 80% biến phí (Doanh thu hai bên bằng nhau). Phát biểu nào sau đây đúng?
+A. Doanh nghiệp B sẽ có tốc độ tăng trưởng lợi nhuận nhanh hơn Doanh nghiệp A khi thị trường mở rộng.
+*B. Doanh nghiệp A có đòn bẩy kinh doanh cao hơn và chịu rủi ro cao hơn Doanh nghiệp B nếu doanh thu sụt giảm.
+C. Doanh nghiệp B có sản lượng hòa vốn cao hơn Doanh nghiệp A.
+D. Doanh nghiệp A sẽ có tỷ lệ doanh thu an toàn lớn hơn Doanh nghiệp B.
+
+Câu 157. Khi nhà quản trị quyết định tăng chi phí quảng cáo (định phí) lên một lượng cụ thể với hy vọng tăng doanh thu, quyết định này sẽ có lợi khi và chỉ khi:
+*A. Lượng doanh thu tăng thêm nhân với tỷ suất số dư đảm phí lớn hơn lượng định phí quảng cáo bora.
+B. Tổng doanh thu mới vượt qua tổng chi phí ngoài sản xuất của ky trước.
+C. Biến phí đơn vị của sản phẩm được giảm xuống tương ứng.
+D. Doanh nghiệp đạt trạng thái đòn bẩy kinh doanh tối đa bằng 1.
+
+Câu 158. Trong bài toán "Quyết định nhận hay từ chối một đơn đặt hàng đặc biệt" (khi doanh nghiệp còn năng lực sản xuất nhàn rỗi), nhà quản trị dựa vào CVP để hiểu rằng đơn hàng được chấp nhận nếu:
+A. Giá bán của đơn hàng đặc biệt cao hơn giá thành sản xuất toàn bộ.
+*B. Giá bán của đơn hàng đặc biệt lớn hơn biến phi tăng thêm do đơn hàng đó mang lại.
+C. Don hàng đặc biệt giúp doanh nghiệp giảm tông định phí bắt buộc xuống bằng 0.
+D. Sản lượng của đơn hàng đặc biệt lớn hơn sản lượng hòa vốn hiện tại.
+
+Câu 159. Giả định "Giá bán sản phẩm không thay đổi tại mọi mức sản lượng tiêu thu" trong phân tích CVP có hàm ý gì về mặt kinh tế?
+*A. Doanh nghiệp hoạt động trong môi trường thị trường cạnh tranh hoàn hảo, không có chiết khấu thương mại theo số lượng.
+B. Doanh nghiệp có quyền ấn định giá độc quyền và bắt buộc khách hàng tuân theo.
+C. Lợi nhuận của doanh nghiệp luôn tỷ lệ nghịch với chi phí nguyên vật liệu.
+D. Biến phí đơn vị luôn biến đổi theo mô hình bậc thang tăng dan.
+
+Câu 160. Tại sao giả định "Sản lượng sản xuất bằng sản lượng tiêu thụ" lại quan trọng trong mô hình phân tích CVP?
+*A. Nhằm loại bỏ ảnh hưởng của biến động hàng tồn kho để dang và thành phẩm đến việc tính toán lợi nhuận thuần trong kỳ.
+B. Để đảm bảo chi phí sản xuất chung có định luôn được vốn hóa vào giá trị tài sản.
+C. Nhằm giúp doanh nghiệp không phải theo dõi các bảng phân bồ chi phí bán hàng.
+D. Nhằm mục đích đưa tỷ suất số dư đảm phí tiến vẻ giá trị tối đa bằng 100%.
+
+Câu 161. Bản chất hạn chế của việc phân tích mối quan hệ CVP trong thực tế điều hành dài hạn là gì?
+A. Mô hình hoàn toàn không sử dụng thước đo bằng tiền mặt.
+*B. Mô hình chỉ đúng trong một "Phạm vi phù hợp" ngắn hạn; ngoài phạm vi đó, giá bán, biến phí đơn vị và định phí tông số đều có thé thay đổi không theo dạng tuyến tính.
+C. Kế toán quản trị không có phương pháp nao để tính toán số dư an toàn cho đa sản phẩm.
+D. Mô hình bắt buộc doanh nghiệp không được phát sinh chi phí quản lý doanh nghiệp. PHAN 3:
+
+Câu 162. Doanh nghiệp A sản xuất một loại sản phẩm X với giá bán là 50.000 đồng/sp, biến phí đơn vi là 30.000 đồng/sp. Tổng định phí trong tháng của doanh nghiệp là 120.000.000 đồng. Hãy tính sản lượng hòa vốn của doanh nghiệp.
+A. 2.400 sản phẩm
+B. 4.000 sản phẩm
+*C. 6.000 sản phẩm
+D. 3.000 sản phẩm
+
+Câu 163. Doanh nghiệp B kinh doanh một mặt hàng có tỷ suất số dư đảm phí là 40%. Tổng, định phí cố định hàng năm là 600.000.000 đồng. Doanh nghiệp cần đạt mức doanh thu bao nhiêu để có thé hòa vốn?
+*A. 1.500.000.000 đồng
+B. 2.400.000.000 đồng.
+C. 1.000.000.000 đồng
+D. 900.000.000 đồng.
+
+Câu 164. Một công ty đang bán sản phẩm với giá 100 USD/sp, số dư đảm phí đơn vị là 40 USD. Nếu công ty muốn đạt được mức lợi nhuận mục tiêu là 80.000 USD trong khi tống định phí bắt buộc là 160.000 USD, công ty phải tiêu thụ được bao nhiêu sản phẩm?
+A. 4.000 sản phẩm
+*B. 6.000 sản phẩm
+C. 2.400 sản phẩm
+D. 5.500 sản phẩm
+
+Câu 165. Doanh nghiệp có tài liệu: Giá bán: 20 USD/sp; Biến phí đơn vị: 12 USD/sp; Định phí: 40.000 USD. Ban giám đốc quyết định chỉ thêm 8.000 USD cho chiến dịch quảng cáo nhằm tăng sản lượng tiêu thụ. Điểm hòa vốn mới bằng sản lượng sẽ thay đỗi như thế nào so. với trước khi quảng cáo?
+*A. Tăng thêm 1:000 sản phẩm
+B. Tăng thêm 4.000 sản phẩm.
+C. Giảm đi 1.000 sản phẩm
+D. Tăng thêm 6.000 sản phẩm
+
+Câu 166. Công ty Hải Nam có sản lượng tiêu thụ dự kiến là 15.000 sản phẩm, sản lượng hòa vốn được tính toán là 9.000 sản phẩm. Chỉ số "Sản lượng an toàn" (hệ số an toàn bằng hiện vật) của công ty là bao nhiêu?
+A. 24.000 sản phẩm
+*B. 6.000 sản phẩm
+C. 9.000 sản phẩm
+D. 1.667 sản phẩm
+
+Câu 167. Doanh nghiệp X có doanh thu hiện tại là 2.000.000.000 đồng, doanh thu hòa vốn là 1.400.000.000 đồng. Tỷ lệ doanh thu an toàn (Margin of Safety Ratio) của doanh nghiệp đạt mức nào?
+A. 70%
+B. 42,8%
+*C. 30%
+D. 60%
+
+Câu 168. Tai mức doanh thu hiện tại, doanh nghiệp có Tổng số dư đảm phí là 300.000.000 đồng và Lợi nhuận thuần là 100.000.000 đồng. Nếu doanh thu kỳ tới tăng 15%, lợi nhuận thuần của doanh nghiệp dự kiến sẽ tăng bao nhiêu phần trăm?
+A. 15%
+B. 30%
+*C. 45%
+D. 60%
+
+Câu 169. Một doanh nghiệp đang có kết quả kinh doanh: Doanh thu: 500.000 USD, Lợi nhuận thuần: 50.000 USD, Độ lớn đòn bay kinh doanh (DOL) = 4. Nếu thị trường suy thoái khiến doanh thu sụt giám 10%, mức lỗ hoặc lãi thuần mới của doanh nghiệp là bao nhiêu?
+*A. Lãi thuần 30.000 USD.
+B. Lãi thuần 20.000 USD
+C. Lỗ thuần 10.000 USD
+D. Lãi thuần 40.000 USD.
+
+Câu 170. Doanh nghiệp Minh Trí bán sản phẩm với giá 80.000 đồng/sp, biến phí chiếm 60% trên giá bán. Tổng định phí của doanh nghiệp là 240.000.000 đồng. Nếu doanh nghiệp đặt mục tiêu đạt lợi nhuận sau thuế là 64.000.000 đồng, biết thuế suất thuế thu nhập doanh nghiệp là 20%, sản lượng tiêu thụ cần thiết là:
+*A. 10.000 sản phẩm
+B. 9.500 sản phẩm
+C. 12.500 sản phẩm
+D. 8.000 sản phẩm
+
+Câu 171. Công ty K đang tiêu thụ 5.000 sản phẩm với giá bán 60 USD/sp, biến phí đơn vị là 36 USD/sp, tổng định phí là 90.000 USD. Phòng kinh doanh đề xuất giảm giá bán đi 10% để sản lượng tiêu thụ tăng thêm 30%. Nếu thực hiện đề xuất này, lợi nhuận thuần của công ty sẽ thay đỗi thế nào?
+A. Tăng thêm 9.000 USD.
+*B. Giảm đi 3.000 USD
+C. Giảm đi 9.000 USD
+D. Tăng thêm 12.000 USD
+
+Câu 172. Khi doanh nghiệp tiến hành tự động hóa dây chuyền, thay thế công nhân trực tiếp bằng máy móc công nghệ cao, cấu trúc chi phí biến động theo hướng tăng định phí và giám biến phí đơn vị. Sự thay đổi này tác động như thế nào đến Điểm hòa vốn và Độ lớn đòn bay kinh doanh (DOL)?
+A. Điểm hòa vốn giảm va DOL giảm.
+*B. Điểm hòa von tăng và DOL tăng.
+C. Điểm hòa von tăng và DOL giảm.
+D. Điểm hòa vốn giảm và DOL tăng.
+
+Câu 173. Doanh nghiệp đang hoạt động ở mức sản lượng nằm trên điểm hòa vốn. Nếu nhà quản trị kiểm soát tốt và cắt giảm được 10% tổng định phí không bắt buộc thì chỉ tiêu nào sau đây sẽ biến động?
+A. Số dư đảm phí đơn vị sản phẩm tăng lên.
+*B. Doanh thu hòa vốn giảm xuống và lợi nhuận thuần tăng lên.
+C. Tỷ suất số dư đảm phí tổng số tăng lên.
+D. Độ lớn đòn bảy kinh doanh (DOL) tăng lên.
+
+Câu 174. Hai doanh nghiệp M và N có cùng tống doanh thu và tổng chi phí như nhau nhưng. doanh nghiệp M có định phí cao hơn doanh nghiệp N. Khi nhu cầu thị trường tăng trưởng, mạnh mẽ, doanh nghiệp nào sẽ có tốc độ tăng lợi nhuận nhanh hơn?
+A. Doanh nghiệp N, vì có biến phí đơn vị cao hơn.
+*B. Doanh nghiệp M, vì có độ lớn đòn bay kinh doanh (DOL) cao hơn.
+C. Cả hai doanh nghiệp có tốc độ tăng lợi nhuận bằng nhau vì tổng chi phí bằng nhau.
+D. Không doanh nghiệp nào tăng vì giá bán bị bão hòa.
+
+Câu 175. Giả định nào sau đây của mô hình phân tích CVP bị vi phạm khi một doanh nghiệp quyết định áp dụng chương trình "Chiết khấu thương mại giảm giá 5% cho các đơn hàng mua trên 1.000 sản phẩm"?
+A. Giả định sản lượng sản xuất bằng sản lượng tiêu thụ.
+*B. Giả định giá bán sản phẩm là hằng số cố định, không thay đồi theo quy mô khối lượng.
+C. Giả định chi phí được phân chia rõ rang thành biến phi và định phí.
+D. Giả định kết cấu phối hợp sản phẩm tiêu thụ không thay đổi.
+
+Câu 176. Khi phân tích mối quan hệ CVP của một doanh nghiệp kinh doanh đơn sản phẩm, nếu biến phí đơn vị sản phẩm tăng lên trong khi định phí và giá bán giữ nguyên, điều này kéo theo hệ quả nào?
+A. Đường tổng chi phí trên để thị sẽ dịch chuyển song song đi lên phía trên.
+*B. Đường tổng chi phí sẽ có độ dốc lớn hon và điểm hòa von dịch chuyền sang bên phải.
+C. Đường doanh thu sẽ có độ dốc thấp hơn.
+D. Góc mở của vùng an toàn trên đồ thị hòa vốn sẽ rộng ra.
+
+Câu 177. Một cửa hàng kinh doanh hai loại sản phẩm A và B với kết cấu sản lượng phối hợp. tiêu thụ tương ứng là 3:2. Biết số dư đảm phí đơn vị sản phẩm A là 20.000 đồng, sản phẩm. B là 30.000 đồng. Số dư dam phí bình quân của một sản phẩm phối hợp là:
+A. 25.000 đồng
+*B. 24.000 đồng.
+C. 26.000 dong
+D. 50.000 đồng
+
+Câu 178. Công ty X bán hai loại sản phẩm là Giày và Dép. Tỷ suất số dư đảm phí của Giày là 60%, của Dép là 30%. Hiện tại, kết cấu doanh thu phối hợp là 50% Giày và 50% Dép. Nếu kỳ tới công ty thay đối chiến lược kinh doanh làm kết cấu doanh thu chuyển thành 70% Giày và 30% Dép (Tống doanh thu không đổi) thì Điểm hòa vốn tổng thé của công ty sẽ biến động như thế nào?
+A. Tăng lên, vì doanh thu bán Giày chiếm nhiều hơn.
+*B. Giảm xuống, vi tỷ suất số dư đảm phí bình quân tăng lên giúp bù đắp định phí nhanh hơn.
+C. Không thay đồi, vì tng chi phí có định toàn doanh nghiệp giữ nguyên.
+D. Tiến về giá trị bằng 0.
+
+Câu 179. Doanh nghiệp đa sản phẩm có tống định phí là 420.000.000 đồng. Tỷ suất số dư: đảm phí bình quân tính theo kết cấu doanh thu hiện tại là 35%. Hãy xác định Doanh thu hòa vốn tổng thể của doanh nghiệp.
+*A. 1.200.000.000 đồng
+B. 1.470.000.000 đồng
+C. 850.000.000 đồng
+D. 1.500.000.000 dong
+
+Câu 180. Công ty dịch vụ du lịch lữ hành tính toán đòn bẩy kinh doanh DOL tại mức doanh thu hiện tại là 5. Ban giám đốc muốn gia tăng lợi nhuận thuần thêm 50% cho kỳ tới thì số lượng hành khách phục vụ tối thiểu phải tăng trưởng ở mức nào (giả định cấu trúc giá và chi phí không đối)?
+A. Tăng trưởng 50%
+B. Tăng trưởng 25%
+*C. Tăng trưởng 10%
+D. Tăng trưởng 5%
+
+Câu 181. Công ty may mặc ABC kinh doanh có lãi 6n định với tỷ lệ doanh thu an toàn là 25%. Nếu doanh thu thực tế trong tháng đột ngột sụt giảm 30% do sự cố chuỗi cung ứng, điều gì sẽ chắc chắn xảy ra đối với công ty?
+A. Lợi nhuận thuần của công ty sẽ bị giảm đi nhưng vẫn giữ được mức lãi nhỏ.
+*B. Công ty sẽ chuyên sang trạng thái bị lỗ nặng vì doanh thu đã rơi xuống dưới điểm hòa von.
+C. Điểm hòa vốn bằng doanh thu của công ty sẽ bị day lên cao hơn 5%.
+D. Tổng số dư đảm phí của doanh nghiệp tự động tăng vọt để cân bằng chi phí. PHAN |:
+
+Câu 182. Ban chất của quyết định ngắn han trong quan lý doanh nghiệp là những quyết định có thời gian thực hiện mang tính chất như thế nào?
+*A. Thường trong vòng một chu kỳ kinh doanh hoặc dưới 1 năm.
+B. Luôn kéo dài từ 3 đến 5 năm trở lên.
+C. Gắn liền với sự thay đồi quy trình công nghệ cốt lõi.
+D. Chỉ thực hiện khi doanh nghiệp tiến hành giải thé.
+
+Câu 183. Đặc điểm nào sau đây thuộc về quyết định ngắn hạn?
+A. Đồi hỏi lượng vốn đầu tư ban đầu rat lớn.
+B. Khó thu hồi vốn và không thé thay đổi phương án một cách linh hoạt.
+*C. Có tinh chất thường xuyên, liên tục trong điều hành sản xuất kinh doanh và ít tốn kém nguồn lực.
+D. Chỉ do Hội đồng quản trị cắp tập đoàn thông qua.
+
+Câu 184. Tiêu chuẩn cơ bản về mặt định lượng được lựa chọn để ra các quyết định ngắn hạn là gi?
+A. Đạt được tổng chi phí chìm tối đa.
+*B. Tạo ra lợi nhuận chênh lệch lớn nhất (hoặc chi phí thấp nhát).
+C. Tăng lượng hàng tn kho cuối kỳ lên mức cao nhất.
+D. Giảm tối đa số lượng lao động sống tại phân xưởng.
+
+Câu 185. Quá trình ra quyết định ngắn hạn của nhà quản trị bao gồm việc phân tích loại thông tin nào sau đây?
+A. Thông tin lịch sử từ 10 năm trước.
+*B. Thông tin thích hợp.
+C. Các báo cáo tài chính đã được kiểm toán độc lập bên ngoài.
+D. Định mức lý tưởng mang tính lý thuyết thuần túy.
+
+Câu 186. "Thông tin thích hợp" (Relevant Information) cho quá trình ra quyết định ngắn hạn là thông tin:
+A. Đã xảy ra trong quá khứ và không thê thay đổi được.
+*B. Thuộc về tương lai và có sự khác biệt giữa các phương án lựa chọn.
+C. Giống nhau tuyệt đối ở mọi phương án kinh doanh.
+D. Chỉ bao gồm các chỉ tiêu phi tài chính mang tính định tính.
+
+Câu 187. Để một khoản chi phí được coi là "Chi phí thích hợp", nó phải thỏa mãn đồng thời hai điều kiện nào?
+A. Là chi phí chìm và phát sinh ở phân xưởng sản xuất.
+*B. Là chi phí phát sinh ở tương lai va có sự chênh lệch giữa các phương án.
+C. Đã được ghi số kế toán tài chính và đã quyết toán thuế.
+D. Là định phí bắt buộc và chi phí ngoài sản xuất.
+
+Câu 188. Loại chi phí nào sau đây được định nghĩa là chi phí phát sinh trong quá khứ, không thé thay đối bang bat kỳ quyết định nào ở hiện tại và tương lai?
+A. Chi phí cơ hội.
+*B. Chi phí chìm (Sunk Cost).
+C. Chi phí chênh lệch.
+D. Biến phí trực tiếp.
+
+Câu 189. Nhận định nao sau đây là DUNG khi nói về chi phí chìm?
+A. Luôn là thông tin thích hợp để lựa chọn phương án.
+*B. Là thông tin không thích hợp và cần được loại bỏ khi phân tích quyết định ngắn hạn.
+C. Là chi phí chỉ phát sinh khi doanh nghiệp nhận đơn đặt hàng đặc biệt.
+D. Là khoản tiền doanh nghiệp thu về từ việc bán thanh lý tài sản có định.
+
+Câu 190. "Chi phi cơ hội" (Opportunity Cost) được hiểu là:
+A. Khoản chi phí bằng tiền thực tế chỉ ra để mua sắm công cụ dụng cụ phục vụ văn phòng.
+*B. Thu nhập hoặc lợi ích tiềm năng lớn nhất bị mat đi khi lựa chọn phương án nay thay vì phương án khác.
+C. Khoản lỗ thuần phát sinh khi doanh nghiệp ngừng sản xuất một bộ phận kinh doanh.
+D. Tổng các khoản mục chi phí bán hàng và chi phí quản lý doanh nghiệp phát sinh trong kỳ.
+
+Câu 191. Chi phí cơ hội có đặc điểm nào sau đây về mặt ghi chép hạch toán?
+A. Bắt buộc phải phản ánh trên Báo cáo tình hình tài chínhtheo định kỳ năm.
+*B. Không được ghi chép chính thức trên số sách kế toán tài chính nhưng phải được cân nhắc trong kế toán quản trị.
+C. Được cơ quan thuế chấp thuận làm chi phí hợp lý để tính thuế thu nhập doanh nghiệp.
+D. Luôn có giá trị bằng đúng với số chỉ tiêu bằng tiền mặt của kỳ hạch toán.
+
+Câu 192. "Chi phí chênh lệch" (Differential Cost) là:
+A. Phần chi phí giống nhau hoàn toàn giữa tắt cả các phương án được xem xét.
+*B. Phân chi phí có sự khác biệt hoặc tăng thêm (giảm di) khi so sánh giữa các phương án khác nhau,
+C. Giá trị còn lại của tai sản có định tại thời điểm cuối kỳ kế toán.
+D. Phần chi phí phát sinh ngoài sản xuất của doanh nghiệp thương mại.
+
+Câu 193. Trong quyết định "Tự sản xuất hay mua ngoài" một chỉ tiết, linh kiện, thông tin nào sau đây thường là thông tin không thích hợp?
+A. Biến phí nguyên vật liệu trực tiếp đề tự sản xuất.
+B. Giá mua chỉ tiết, linh kiện từ nhà cung cp bên ngoài.
+*C. Chi phí khấu hao thiết bị sản xuất hiện tại không thé cho thuê hay bán lại (định phí bắt buộc).
+D. Chi phí nhân công trực tiếp tăng thêm nếu tự sản xuất.
+
+Câu 194. Khi xem xét quyết định "Bán nứa thành phẩm hay tiếp tục chế biến thành thành phẩm", doanh nghiệp sẽ quyết định tiếp tục chế biến sâu khi:
+*A. Doanh thu tăng thêm lớn hơn chi phí chế biến thêm.
+B. Chi phi chim của giai đoạn trước dat mức tối thiểu.
+C. Giá bán thành phẩm bằng đúng với biến phí đơn vị.
+D. Toàn bộ định phí sản xuất chung được phân bồ hết vào nửa thành phẩm.
+
+Câu 195. Đối với quyết định "Loại bỏ hay tiếp tục kinh doanh một bộ phận (phân xưởng, cửa hàng) bị lỗ", chỉ tiêu cốt lõi nào cần được đánh giá?
+*A. Tổng số dư đảm phí mà bộ phận đó tạo ra có bù đắp được định phí tránh khỏi (định phí riêng) của nó hay không.
+B. Số thuế thu nhập doanh nghiệp mà bộ phận đó đã nộp trong 5 năm qua.
+C. Tổng chi phí chìm phát sinh khi thành lập bộ phận.
+D. Kết cầu giá bán của sản phẩm chủ lực tại văn phòng công ty mẹ.
+
+Câu 196. Khi quyết định loại bỏ một bộ phận kinh doanh, phần định phí chung của toàn doanh nghiệp được phân bố cho bộ phận đó trước đây sẽ biến động như thế nào?
+A. Sẽ mắt đi hoàn toàn cùng với bộ phận bị loại bỏ.
+*B. Không mắt đi mà sẽ dịch chuyển và phân bd sang cho các bộ phận còn lại gánh chịu.
+C. Tự động chuyên thành chi phí nguyên vật liệu trực tiếp.
+D. Được cơ quan bảo hiểm chỉ trả toàn bộ.
+
+Câu 197. "Định phí tránh khỏi" (Avoidable Fixed Cost) là khoản chi phí:
+*A. Sẽ không còn phát sinh nữa nếu doanh nghiệp ngừng thực hiện một phương án hoặc loại bỏ. một bộ phận.
+B. Luôn luôn tồn tại cho dù doanh nghiệp có đóng cửa toàn bộ nhà máy hay không.
+C. Là khoản chi phi phát sinh bằng tiền mặt tại văn phòng quản lý tập đoàn.
+D. Chi phí phân bé khấu hao của tòa nhà văn phòng trung tâm.
+
+Câu 198. "Định phí không tránh khỏi" (Unavoidable Fixed Cost) có đặc điểm là:
+A. Sẽ biến mất hoàn toàn khi doanh nghiệp cắt giảm quy mô sản xuất sản phẩm dở dang.
+*B. Vẫn tiếp tục phát sinh cho dù phương án hay bộ phận liên quan có bị bãi bỏ.
+C. Luôn tỷ lệ thuận với số lượng sản phẩm tiêu thụ thực tế.
+D. Là thông tin tối mật của phân hệ kế toán tài chính.
+
+Câu 199. Tình huống "Quyết định trong điều kiện sản xuất kinh doanh bị giới hạn" xảy ra khi doanh nghiệp gặp phải rào cản nào?
+A. Nhu cầu mua hàng của người tiêu dùng trên thị trường lớn hơn vô hạn.
+*B. Bị hạn chế về nguồn lực đầu vào như số giờ máy, giờ công lao động, hoặc nguyên vật liệu khan hiểm.
+C. Doanh nghiệp có quá nhiều tiền mặt nhàn rỗi trong tài khoản ngân hàng.
+D. Thuế suất thuế thu nhập doanh nghiệp giảm xuống bằng 0%.
+
+Câu 200. Trong điều kiện năng lực sản xuất bị giới hạn (ví dụ: thiếu giờ máy), tiêu chuẩn thích hợp nhất để nhà quản trị lựa chọn thứ tự ưu tiên sản xuất các loại sản phẩm là dựa vào:
+A. Giá bán đơn vị sản phẩm từ cao đến thấp.
+B. Biến phí đơn vị của từng loại sản phẩm nhỏ nhất.
+*C. Số dư đảm phí trên một đơn vị yếu tố giới hạn (số dư đảm phí/1 giờ máy).
+D. Tổng giá thành toàn bộ của thành phẩm.
+
+Câu 201. Mục đích tối cao của việc ứng dụng thông tin thích hợp trong các quyết định ngắn hạn là giúp doanh nghiệp:
+A. Lập báo cáo tài chính tuân thủ tuyệt đối chuẩn mực kế toán quốc gia.
+*B. Phản ứng nhanh chóng, linh hoạt để tối ưu hóa hiệu quả kinh tế trong phạm vi nguồn lực và thời gian bị giới hạn.
+C. Triệt tiêu hoàn toàn sự tồn tại của biến phí sản xuất trong doanh nghiệp.
+D. Công khai toàn bộ thông tin chi phí nội bộ cho các đối thủ cạnh tranh. PHAN 2:
+
+Câu 202. Nhận định nào sau đây phản ánh đúng nhất về ban chất của "Thong tin thích hợp" khi nhà quản trị lựa chọn giữa các phương án kinh doanh ngắn hạn?
+A. Là những thông tin kế toán quá khứ đã được kiểm toán để đảm bảo tính chính xác tuyệt đối.
+*B. Là thông tin về các khoản doanh thu và chi phí trong tương lai có sự khác biệt giữa các phương án.
+C. Là toàn bộ các yếu tố chi phí sản xuất cố định phát sinh tại phân xưởng.
+D. Là thông tin tài chính bắt buộc phải trình bày theo đúng mẫu biểu quy định của Bộ Tài chính.
+
+Câu 203. Một khoản chi phí được phân loại là "Chi phí không thích hợp" trong quyết định ngắn hạn vì lý do nào sau đây?
+A. Khoản chi phi đó có số tiền quá nhỏ so với tổng doanh thu dự kiến của doanh nghiệp.
+*B. Khoản chi phí đó giống nhau ở mọi phương án hoặc là chi phí đã phát sinh trong quá khứ.
+C. Khoản chi phi đó không có chứng từ, hóa đơn hợp pháp theo quy định của luật thuế.
+D. Khoản chi phí đó chỉ liên quan đến chi phí bán hàng và quản lý doanh nghiệp.
+
+Câu 204. Tại sao "Chi phí chim" (Sunk Cost) luôn bị coi là thông tin không thích hợp khi đưa ra các quyết định kinh doanh mới?
+A. Vì nó là dong chi phí ước tinh dựa trên các dự báo thiếu căn cứ khoa học.
+*B. Vì nó đã phát sinh trong quá khứ, không thê thay đồi hay thu hồi được dù chọn bắt kỳ phương án nào.
+C. Vì nó không biêu hiện dưới hình thức giá trị tiền mặt mà biểu hiện bằng hiện vật.
+D. Vì nó chỉ ảnh hưởng trực tiếp đến kết quả lợi nhuận thuần của các kỳ sau.
+
+Câu 205. Mối quan hệ giữa "Chi phí cơ hội" và các phương án hành động của nhà quản trị được hiểu như thế nào?
+A. Chi phí cơ hội chỉ xuất hiện khi doanh nghiệp rơi vào trạng thái sản xuất kinh doanh bị lỗ.
+*B. Chi phí cơ hội là lợi ích tiềm năng bị mắt di của phương án tốt nhất bị bỏ qua khi lựa chọn một phương án khác.
+C. Chi phí cơ hội là số tiền thực tế doanh nghiệp phải chỉ thêm để thực hiện chiến dịch quảng. cáo.
+D. Chi phí cơ hội luôn tỷ lệ thuận với tổng năng lực sản xuất hiện tại của phân xưởng.
+
+Câu 206. Trong quyết định "Tự sản xuất hay mua ngoài" một loại linh kiện, nếu doanh nghiệp có năng lực sản xuất nhàn rỗi không thể cho thuê, khoản chi phí nào sau đây thường KHÔNG THÍCH HỢP?
+A. Chi phí nguyên vật liệu trực tiếp để chế tạo linh kiện.
+B. Chi phí nhân công trực tiếp tăng thêm khi tự sản xuất.
+*C. Chi phí khấu hao thiết bị sản xuất hiện tại (định phí bắt buộc).
+D. Giá mua linh kiện chào bán từ nhà cung cấp bên ngoài.
+
+Câu 207. Doanh nghiệp nên lựa chọn phương án "Mua ngoài" thay vì "Tự sản xuất" trong trường hợp ngắn hạn nào dưới đây?
+A. Giá mua ngoài nhỏ hơn tổng giá thành sản xuất toàn bộ (bao gồm cả định phí chung phan bỏ).
+*B. Giá mua ngoài nhỏ hon các chi phí thích hợp ting thêm để tự sản xuất (biến phí và định phí tiêng phát sinh thêm).
+C. Chi phí chìm của phân xưởng sản xuất hiện tại đạt giá trị bằng 0.
+D. Tổng số dư đảm phí của doanh nghiệp đạt mức tối đa.
+
+Câu 208. Nếu doanh nghiệp tận dụng năng lực nhàn rỗi để tự sản xuất linh kiện thay vì mua ngoài, "Chi phí cơ hội" xuất hiện khi nào?
+*A. Khi năng lực nhàn rồi đó có thé được đem cho thuê hoặc dùng để sản xuất một sản phẩm khác. mang lại thu nhập.
+B. Khi nhà cung cấp bên ngoài quyết định giảm giá bán linh kiện xuống 10%.
+C. Khi doanh nghiệp phải trích thêm khấu hao tài sản cố định theo phương pháp đường thing.
+D. Khi chi phí bán hàng của doanh nghiệp tăng lên do mở rộng thị trường.
+
+Câu 209. Khi phân tích quyết định "Ban nửa thành phẩm ngay hay tiếp tục chế biến thành thành phẩm", khoản chi phí phát sinh trước giai đoạn nửa thành phẩm (chi phí chung ban đầu) được ứng xử như thế nào?
+A. Là chi phí thích hợp vì nó cấu thành nên giá trị gốc của sản phẩm dở dang.
+*B. Là chi phí chìm (không thích hợp) vì nó đã phát sinh và không thay đổi dù chọn phương án nào,
+C. Phải được phân bỏ lại theo tỷ lệ sản lượng phối hợp mới đề làm căn cứ ra quyết định.
+D. Phải được loại trừ hoàn toàn ra khỏi Báo cáo kết quả kinh doanh của doanh nghiệp.
+
+Câu 210. Tiêu chuẩn cốt lõi để doanh nghiệp quyết định "Tiếp tục chế biến sâu" sản phẩm là:
+A. Doanh thu bán thành phẩm cao hơn doanh thu bán nửa thành phẩm.
+*B. Phần doanh thu tăng thêm (chênh lệch doanh thu) lớn hơn chi phí chế biến thêm thích hợp.
+C. Chi phi chế biến thêm nhỏ hơn chi phí sản xuất ban đầu của giai đoạn 1.
+D. Giá bán thành phẩm cuối cùng phải bù đắp được toàn bộ định phí chung của công ty.
+
+Câu 211. Khi một phân xưởng hoặc dòng sản phẩm đang bị lỗ trên báo cáo kế toán truyền thống, nhà quản trị dựa vào yếu tố nào để quyết định "Tiếp tục duy trì" bộ phận đó trong ngắn hạn?
+*A. Bộ phận đó vẫn tạo ra số dư đảm phí dương và lớn hơn định phí tránh khỏi (định phí riêng) của chính nó,
+B. Tổng doanh thu của bộ phận đó lớn hơn chi phi quản lý doanh nghiệp phân bỏ vẻ.
+C. Khấu hao tài sản cố định của bộ phận đó chiếm tỷ trọng lớn nhất toàn công ty.
+D. Bộ phận đó không làm phát sinh chi phí nguyên vật liệu trực tiếp.
+
+Câu 212. "Định phí chung phân bố" cho một bộ phận bị loại bỏ sẽ tác động như thế nào đến tổng lợi nhuận của toàn doanh nghiệp?
+A. Tổng lợi nhuận toàn doanh nghiệp sẽ tăng lên đúng bằng phần chi phí chung này.
+*B. Chi phí này không mắt di mà các bộ phận còn lại phải gánh chịu, có thé làm giảm tổng lợi nhuận toàn doanh nghiệp nếu bộ phận bị loại bỏ vẫn có số dư đảm phí dương.
+C. Tự động chuyên thành chi phí thời kỳ và được hoàn lại hoàn toàn bằng tiền mặt.
+D. Làm giảm sản lượng hòa von tổng thé của các dòng sản phẩm còn lại.
+
+Câu 213. Khái niệm "Định phí tránh khỏi" (Avoidable Cost) trong quyết định ngừng kinh doanh một cửa hàng được hiểu là:
+A. Các khoản chi phí có định tại văn phòng tập đoàn được phân bỏ định kỳ cho cửa hàng.
+*B. Các chi phí cố định riêng biệt của cửa hàng đó sẽ biến mắt hoàn toàn nếu cửa hàng đóng cửa (như tiền thuê mặt bằng của cửa hàng đó, lương quản lý cửa hàng).
+C. Phần biến phí trực tiếp cấu thành nên giá thành của hàng hóa mua vào để bán.
+D. Khấu hao của hệ thông tổng đài chăm sóc khách hàng chung của toàn công ty.
+
+Câu 214. Khi doanh nghiệp đối mặt với tình trạng "Nguồn lực bị giới han" (như thiếu giờ. máy, thiếu nguyên vật liệu khan hiếm), nhận định nào sau đây là DUNG về chiến lược tối wu hóa lợi nhuận?
+A. Doanh nghiệp nên tập trung sản xuất sản phẩm có giá bán đơn vị sản phẩm cao nhất.
+*B. Doanh nghiệp nên wu tiên sản xuất sản phẩm có số dư đảm phí trên một đơn vị nguồn lực giới hạn cao nhất.
+C. Doanh nghiệp nên sản xuất đều các sản phẩm theo tỷ lệ kết cầu sản lượng 1:1.
+D. Doanh nghiệp nên cắt giảm tối đa biến phí đơn vị của sản phẩm có sản lượng lớn nhất.
+
+Câu 215. Nếu số giờ máy hoạt động của phân xưởng bị giới hạn, chỉ tiêu nào giúp nhà quản trị đánh giá chính xác nhất thứ tự ưu tiên sản xuất giữa Sản phẩm A và Sản phẩm B?
+*A. Số dư đảm phí đơn vị sản phẩm / Số giờ máy cân thiết để sản xuất một đơn vị sản phẩm đó.
+B. Giá bán đơn vị sản phẩm / Tổng định phí riêng trực tiếp của sản phẩm đó.
+C. Tổng số dư đảm phi kỳ trước / Số lượng lao động sóng tiêu hao trong kỳ.
+D. Chi phí sản xuất chung biến đổi đơn vị sản phẩm / Tổng doanh thu mục tiêu.
+
+Câu 216. Bản chất kinh tế của việc lựa chọn sản phẩm sản xuất dựa trên "Số dư đảm phí trên một đơn vị nguồn lực giới hạn" là gì?
+A. Nhằm mục dich triệt tiêu hoàn toàn sự tồn tại của định phí bắt buộc trong ngắn hạn.
+*B. Giúp doanh nghiệp khai thác tối đa hiệu quả sinh lời trên mỗi một đơn vị nguồn lực khan hiếm dang sở hữu.
+C. Đề hạ thấp giá vốn hàng bán của dòng sản phẩm thứ yếu xuống mức tối thiéu.
+D. Giúp doanh nghiệp chứng minh năng lực tài chính với các tô chức tín dụng bên ngoài.
+
+Câu 217. Trong bài toán "Chấp nhận hay từ chối một đơn đặt hàng đặc biệt" với mức giá thấp hơn giá bán thông thường, điều kiện tiên quyết về mặt năng lực sản xuất là gì?
+A. Nhà máy phải đang hoạt động vượt quá công suất thiết kế tối đa.
+*B. Doanh nghiệp phải còn năng lực sản xuất nhàn rỗi và đơn hàng không làm phát sinh thêm định phí bắt buộc mới.
+C. Doanh nghiệp bắt buộc phải phân bồ lại chi phí quản lý doanh nghiệp cho đơn hang nay.
+D. Toàn bộ hàng tồn kho của doanh nghiệp đã được tiêu thụ hết trên thị trường chính thức.
+
+Câu 218. Khi phân tích các quyết định ngắn hạn, tại sao nhà quản trị cần đặc biệt lưu ý đến các "Yếu tố định tính" (phi tài chính)?
+A. Vì các yếu tố định tính quyết định trực tiếp số thuế thu nhập doanh nghiệp phải nộp.
+*B. Vì các quyết định ngắn hạn có thé ảnh hưởng đến uy tín thương hiệu, mối quan hệ với khách hàng truyền thống hoặc tâm lý người lao động về lâu dài.
+C. Vì kế toán quản trị không có bat kỳ phương pháp nào để tính toán các chỉ tiêu định lượng.
+D. Vì các yếu tố định tính giúp doanh nghiệp chuyển đổi định phí bắt buộc thành biến phí tỉ lệ.
+
+Câu 219. Nhận định nào sau đây đúng khi so sánh giữa Quyết định ngắn hạn và Quyết định đài hạn dưới góc độ thông tin kế toán quản trị?
+*A. Quyết định ngắn hạn không cần quan tâm đền giá trị thời gian của tiền tệ, trong khi quyết định dài hạn bắt buộc phải xem xét (như phương pháp NPV, IRR).
+B. Quyết định ngắn hạn đòi hỏi lượng vốn đầu tư ban đầu lớn hơn nhiều so với quyết định dài hạn.
+C. Quyết định ngắn han chi sử dụng thông tin của kế toán tai chính, còn quyết định dài hạn thì không.
+D. Quyết định ngắn hạn có tính chất không thé đảo ngược, còn quyết định dài hạn rat linh hoạt.
+
+Câu 220. Bản chất của "Thông tin không thích hợp" trong các báo cáo phân tích phương án là gi?
+A. Là những thông tin sai lệch về mặt số liệu do nhân viên kế toán tính toán nhằm lẫn.
+*B. Là những khoản doanh thu hoặc chi phí giống nhau ở mọi phương án, việc đưa chúng vào phân tích không làm thay đồi kết quả lựa chọn cuối cùng nhưng làm phức tạp quá trình xử lý thông tin.
+C. Là toàn bộ các khoản chi phi phát sinh ngoài phạm vi phân xưởng sản xuất.
+D. Là chỉ tiêu số dư đảm phí của dòng sản phẩm có kết cấu sản lượng phối hợp nhỏ nhất.
+
+Câu 221. Khi một doanh nghiệp kinh doanh trong điều kiện bị giới hạn về nguyên vật liệu khan hiếm, nếu tăng quy mô sản xuất sản phẩm này thì phải giảm quy mô sản xuất sản phẩm khác. Phần thu nhập mắt đi của sản phẩm bị cắt giảm đóng vai trò là:
+A. Chi phí chìm của phương án mới.
+*B. Chi phi cơ hội (thích hợp) của phương án mới cần được tính toán khi ra quyết định.
+C. Định phi chung phân bé của toàn doanh nghiệp.
+D. Biến phí trực tiếp tăng thêm của giai đoạn chế biến sâu. PHAN 3:
+
+Câu 222. Công ty An Bình đang cân nhắc thay thế một máy sản xuất cũ bằng máy mới. Giá mua máy cũ trước đây là 500 triệu đồng, khấu hao lũy kế là 300 triệu đồng. Nếu thanh ly máy cũ ngay bây giờ, công ty thu được 50 triệu đồng. Khi phân tích quyết định ngắn hạn này, khoản chi phí nào sau đây được coi là chi phí chìm (không thích hợp)?
+A. Giá trị thu hồi từ thanh lý máy cũ (50 triệu đồng).
+*B. Giá trị còn lại của máy cũ trên số sách (200 triệu đồng).
+C. Chi phí vận hành máy mới trong tương lai.
+D. Giá mua máy mới từ nhà cung cấp.
+
+Câu 223. Công ty may mặc X có năng lực nhàn rỗi để sản xuất thêm một đơn hàng đặc biệt. Nếu nhận đơn hàng này, công ty phải từ bỏ một hợp đồng gia công khác có mức lợi nhuận dự kiến là 45 triệu đồng. Khoản 45 triệu đồng này được cấu thành vào phương án nhận đơn hàng đặc biệt dưới dạng:
+A. Chi phí chìm.
+*B. Chi phí cơ hội và là thông tin thích hợp.
+C. Định phí chung phân bỏ.
+D. Biến phí trực tiếp sản xuất.
+
+Câu 224. Một khách sạn có 50 phòng trống trong mùa thấp điểm. Giá cho thuê thông thường là 800.000 đồng/phòng/đêm. Một đoàn khách đề nghị thuê 20 phòng với giá 400.000 đồng/phòng/đêm. Biết biến phí phục vụ (giặt ủi, điện nước, dọn dep) là 150.000 đồng/phòng/đêm, định phí chung phân bố là 300.000 đồng/phòng/đêm. Về mặt định lượng. ngắn hạn, khách sạn nên:
+A. Từ chối đơn hang, vì giá đề nghị thấp hơn tổng giá thành toàn bộ (450.000 đồng).
+*B. Chấp nhận đơn hàng, vì giá đề nghị lớn hơn biến phí thích hợp (150.000 đồng), giúp tăng lợi nhuận thêm 5 triệu đồng.
+C. Từ chối đơn hàng, vì sẽ làm giảm uy tín thương hiệu của khách sạn.
+D. Chấp nhận đơn hàng, vì giúp tăng tổng doanh thu thêm 16 triệu đồng.
+
+Câu 225. Doanh nghiệp Bình Minh cần 10.000 chỉ tiết máy mỗi năm để lắp ráp sản phẩm. Chi phí sản xuất 1 đơn vị chỉ tiết tại phân xưởng gồm: Biến phí sản xuất (12.000 đồng); Định phí sản xuất riêng trực tiếp tránh được (3.000 đồng); Định phí chung phân bỗ không tránh được (5.000 đồng). Một nhà cung cấp chào bán với giá 18.000 đồng/chỉ tiết. Nếu mua ngoài, năng lực nhàn rỗi của phân xưởng không thé sử dụng vào việc khác. Doanh nghiệp nên chọn phương án nào?
+A. Mua ngoài để tiết kiệm 2.000 đồng/chỉ tiết.
+*B. Tự sản xuất để tiết kiệm 3.000 đồng/chỉ tiết.
+C. Mua ngoài để giảm bớt áp lực quản lý định phí chung.
+D. Tự sản xuất để tiết kiệm 1.000 đồng/chỉ tiết.
+
+Câu 226. Tiếp tục dữ liệu của Câu 4, giả sử nếu mua ngoài, doanh nghiệp có thể cho thuê toàn bộ diện tích nhà xưởng nhàn rỗi với giá 40.000.000 đồng/năm. Lúc này, chi phí thích hợp của phương án "Tự sản xuất" tính cho tổng sản lượng 10.000 chỉ tiết sẽ là:
+A. 150.000.000 đồng.
+*B. 190.000.000 đồng
+C. 200.000.000 đồng
+D. 120.000.000 đồng.
+
+Câu 227. Dựa trên kết quả tính toán mới ở Câu 5 (đã bao gồm chi phí cơ hội), nhà quản trị nên đưa ra quyết định ngắn hạn như thế nào?
+A. Tiếp tục tự sản xuất để tiết kiệm 30.000.000 đồng.
+*B. Chuyển sang mua ngoài để tăng lợi ích kinh tế thêm 10,000,000 đồng.
+C. Tiếp tục tự sản xuất để tiết kiệm 10.000.000 dong.
+D. Chuyển sang mua ngoài để tăng lợi ích kinh tế thêm 30.000.000 đồng.
+
+Câu 228. Công ty hóa chất Y sản xuất ra nửa thành phẩm A với chi phí sản xuất đã tập hợp ở giai đoạn đầu là 80 triệu đồng. Tại điểm chia tách, sản lượng nửa thành phẩm A có thé bán ngay với tổng doanh thu là 110 triệu đồng. Nếu công ty bỏ thêm 30 triệu đồng để chế biến sâu thành thành phẩm cao cấp, tổng doanh thu dự kiến sẽ dat 150 triệu đồng. Kết qua phân tích chênh lệch cho thấy:
+*A. Nên tiếp tục chế biến vì lợi nhuận chênh lệch tăng thêm 10 triệu đồng.
+B. Nên bán ngay nửa thành phẩm vì chi phí chìm 80 triệu đồng quá cao.
+C. Nên tiếp tục chế biến vì tổng doanh thu thành phẩm đạt tới 150 triệu đồng.
+D. Nên bán ngay vì chi phí chế biến thêm (30 triệu đồng) lớn hơn lợi nhuận tăng thêm.
+
+Câu 229. Từ bài toán ở Câu 7, nếu giá bán của thành phẩm trên thị trường bất ngờ sụt giảm khiến tổng doanh thu sau chế biến sâu chỉ còn 135 triệu đồng (các dữ liệu khác không đối), nhà quản trị nên thay đối quyết định như thế nào?
+A. Vẫn tiếp tục chế biến sâu vì tông doanh thu (135 triệu) vẫn lớn hơn chi phí giai đoạn đầu (80 triệu).
+*B. Chuyên sang bán ngay nửa thành phẩm tại điểm chia tách để tránh khoản thiệt hại chênh lệch 5 triệu đồng.
+C. Tiếp tục chế biến sâu để tận dụng tối đa giá trị nguyên vật liệu của giai đoạn 1.
+D. Ngừng hoàn toàn việc sản xuất sản phẩm này để bảo toàn vốn kinh doanh.
+
+Câu 230. Báo cáo kết quả kinh doanh của Cửa hàng số 3 thuộc Công ty thương mại ABC có tài liệu: Doanh thu: 400 triệu đồng; Biến phí: 260 triệu đồng; Số dư đảm phí: 140 triệu đồng; Định phí riêng của cửa hàng (tránh được): 90 triệu đồng; Định phí chung phân bo từ công ty (không tránh được): 70 triệu đồng; Lợi nhuận thuần của cửa hàng: âm 20 triệu đồng. Nếu công ty quyết định đóng cửa Cửa hàng số 3, tổng lợi nhuận của toàn công ty sẽ thay đối thé nào?
+A. Tăng thêm 20 triệu đồng.
+*B. Giảm đi 50 triệu đồng.
+C. Tăng thêm 50 triệu đồng.
+D. Giảm đi 140 triệu đồng.
+
+Câu 231. Tiếp tục dữ liệu của Câu 9, giả sử nếu đóng cửa Cửa hàng số 3, công ty có thể điều chuyển một số thiết bị riêng của cửa hàng này sang bộ phận khác để tiết kiệm chi phí thuê ngoài cho bộ phận đó là 15 triệu đồng/kỳ. Lúc này, việc đóng cửa Cửa hàng số 3 sẽ làm tổng lợi nhuận của toàn công ty biến động ra sao?
+*A. Giảm đi 35 triệu đồng.
+B. Giảm đi 50 triệu đồng.
+C. Giảm đi 5 triệu đồng.
+D. Tăng thêm 15 triệu đồng.
+
+Câu 232. Một dòng sản phẩm quần áo trẻ em đang có kết quả lỗ trên số sách kế toán là 10 triệu đồng. Biết dong sản phẩm này tạo ra số dư đảm phí tổng số là 35 triệu đồng. Khi quyết định ngừng sản xuất dòng sản phẩm này, nhà quản trị xác định được lượng "Định phí không tránh khỏi” gánh chịu ngược lại là 45 triệu đồng. Quyết định loại bỏ này là:
+A. Đúng đắn, vì loại bỏ được sản phẩm dang gây lỗ lỗ cho doanh nghiệp.
+*B. Sai lầm, vì sẽ làm tổng lợi nhuận toàn doanh nghiệp sụt giảm đi 35 triệu đồng.
+C. Đúng đắn, vì giúp cắt giảm được toàn bộ biến phí sản xuất trong kỳ.
+D. Sai lầm, vì làm tăng sản lượng hòa vốn của các dòng sản phẩm khác thêm 10%.
+
+Câu 233. Công ty may ABC sản xuất hai loại sản phẩm là Áo sơ mi và Áo khoác. Năng lực máy may của công ty bị giới hạn tối da là 2.000 giờ/tháng. Tài liệu về hai sản phẩm như: sau: + Áo sơ mi: Giá bán: 200.000 đồng/sp; Biến phí: 120.000 đồng/sp; Thời gian may: 0,5 giờ/sp. + Áo khoác: Giá bán: 500.000 đồng/sp; Biến phí: 320.000 đồng/sp; Thời gian may: 1,5 giờ/sp. Để tối ưu hóa lợi nhuận trong điều kiện giới hạn giờ máy, thứ tự ưu tiên sản xuất là gì?
+A. Ưu tiên Áo khoác vì có số dư đảm phí đơn vị cao hon (180.000 đồng > 80.000 đồng).
+*B. Ưu tiên Áo sơ mi vì có số dư đảm phí trên 1 giờ máy cao hơn (160.000 đồng > 120.000 đồng).
+C. Ưu tiên Áo khoác vì giá bán đơn vị sản phẩm cao hơn nhiều so với Áo sơ mi.
+D. Sản xuất cả hai sản phẩm với số lượng bằng nhau để cân bằng thị trường.
+
+Câu 234. Dựa trên tài liệu tại Câu 12, nếu nhu cầu thị trường đối với Áo sơ mi tối đa là 3.000 sản phẩm/tháng, doanh nghiệp nên phân bỗ số giờ máy giới han (2.000 gid) như thế nào để đạt lợi nhuận cao nhất?
+*A. Dành 1.500 giờ để sản xuất 3.000 Áo sơ mi, còn lại 500 giờ sản xuất 333 Áo khoác.
+B. Dành toàn bộ 2.000 giờ để sản xuất 1.333 Áo khoác.
+C. Dành toàn bộ 2.000 giờ để sản xuất 4.000 Áo sơ mi.
+D. Dành 1.000 giờ cho Áo so mi và 1.000 giờ cho Áo khoác.
+
+Câu 235. Một phân xưởng gặp tình trạng khan hiếm về nguyên vật liệu X (chỉ có sẵn 1.200 kg). Sản phẩm M có số dư đảm phí đơn vị là 50 USD và tiêu hao 2 kg vật liệu X. Sản phẩm N có số dư đảm phí đơn vị là 60 USD và tiêu hao 3 kg vật liệu X. Nha quản trị sẽ ra quyết định phân bỗ vật liệu cho sản phẩm nào trước?
+A. Sản phẩm N, vì mang lại mức lãi gộp đơn vị lớn hơn.
+*B. Sản phẩm M, vì có s6 dư đảm phí trên 1 kg vật liệu cao hơn (25 USD > 20 USD).
+C. Sản phẩm N, vì day nhanh được tốc độ tiêu hao nguyên vật liệu tồn kho.
+D. Chia đôi nguồn vật liệu, mỗi sản phẩm nhận 600 kg vật liệu X.
+
+Câu 236. Nhà máy cơ khí có công suất tối đa là 8.000 giờ máy nhưng hiện tại chỉ hoạt động. 6.000 giờ (còn dư 2.000 giờ nhàn rỗi). Một khách hàng nước ngoài đề nghị một đơn hàng đặc biệt tiêu tốn 1.500 giờ máy với giá mua là 150.000 đồng/sp. Biết biến phí sản xuất là 110.000 đồng/sp, định phí chung phân bỗ theo giờ máy là 50.000 đồng/sp. Nhận định nào sau đây giải thích đúng về quyết định hành động của doanh nghiệp?
+A. Từ chối, vì giá bán (150.000 đồng) nhỏ hơn tổng chi phí sản xuất day đủ (160.000 dong).
+*B. Chap nhận, vì đơn hàng này không làm phát sinh thêm định phí bắt buộc và giá bán lớn hơn biến phí thích hợp (110.000 đồng).
+C. Từ chối, vì doanh nghiệp không còn đủ năng lực giờ máy đẻ đáp ứng đơn hàng đặc biệt này.
+D. Chấp nhận, vì đơn hàng đặc biệt sẽ giúp doanh nghiệp chuyển đổi toàn bộ định phí thành biến phí.
+
+Câu 237. Giả sử tình huống tương tự Câu 15, nhưng don hàng đặc biệt đòi hỏi phải sử dung một khuôn mẫu dập đặc thù mà doanh nghiệp phải tự mua thêm với chi phí là 12.000.000 đồng (khuôn mẫu này không thể tái sử dụng sau đơn hàng). Lượng định phí riêng phát sinh thêm này được kế toán quản trị phân loại là:
+A. Chi phí chìm không thích hợp.
+*B. Chi phí thích hợp và phải được đưa vào để tính toán lại hiệu quả của đơn hàng.
+C. Chi phí thời ky cấu thành trực tiếp vào chi phí quản lý doanh nghiệp.
+D. Chi phí cơ hội của năng lực nhàn rỗi.
+
+Câu 238. Doanh nghiệp thương mại K đang bán sản phẩm với giá 40 USD/sp, biến phí mua hàng là 22 USD/sp. Doanh nghiệp nhận được một lời đề nghị mua số lượng lớn từ một đại lý vùng sâu vùng xa với giá 28 USD/sp, nhưng doanh nghiệp phải tự gánh chịu chi phí vận chuyển tăng thêm là 4 USD/sp. Doanh nghiệp có nên chấp nhận đơn hàng đặc biệt này không?
+A. Không, vì mức giá 28 USD quá thấp so với giá thị trường 40 USD.
+*B. Có, vì đơn hàng vẫn tạo ra số dư đảm phí chênh lệch dương là 2 USD/sp (\(28 = 22 - 4\)).
+C. Không, vì chi phí vận chuyển đã làm triệt tiêu hoàn toàn lợi nhuận gộp của sản phẩm.
+D. Có, vì tổng doanh thu của doanh nghiệp sẽ tăng trưởng mạnh mẽ trong ngắn han.
+
+Câu 239. Khi phân tích quyết định tiếp tục hay ngừng kinh doanh một bộ phận, nếu nhà quản trị phát hiện ra rằng 100% định phí của bộ phận đó hoàn toàn là "Định phí không tránh khỏi" (Unavoidable Fixed Cost), hành động tối ưu nhất về mặt tài chính ngắn hạn là:
+A. Đóng cửa bộ phận ngay lập tức để cắt giảm lỗ.
+B. Tiếp tục duy trì bộ phận miễn là bộ phận đó tạo ra mức doanh thu lớn hơn 0.
+*C. Tiếp tục duy trì bộ phận nếu bộ phận đó còn tạo ra Số dư đảm phí dương (\(Doanh\ thu > Bién\ phí\)).
+D. Phân bé lại toàn bộ chi phí chìm sang cho văn phòng tập đoàn.
+
+Câu 240. Bộ phận sản xuất linh kiện điện tử có năng lực nhàn rỗi đang được một đơn vị khác hỏi thuê với giá 18 triệu đồng/tháng. Nếu bộ phận này tự sản xuất mã hàng A thì đạt được tống số dư đảm phí là 25 triệu đồng, nhưng làm mắt cơ hội cho thuê xưởng. Lợi nhuận chênh lệch thuần (lợi ích ròng) của phương án tự sản xuất mã hàng A so với đi thuê là:
+A. 25 triệu đồng
+B. 18 triệu đồng
+*C. 7 triệu đồng
+D. 43 triệu đồng
+
+Câu 241. Giả sử một công ty đang đứng trước 2 phương án ngắn hạn. Phương án 1 mang lại lợi nhuận chênh lệch là 120 triệu đồng. Phương án 2 mang lại lợi nhuận chênh lệch là 150 triệu đồng. Nhà quần trị quyết định lựa chọn Phương án 2. Hãy xác định mức "Chi phí cơ hội" của quyết định lựa chọn này.
+A. 150 triệu đồng
+*B. 120 triệu đồng
+C. 30 triệu đồng
+D. 270 triệu đồng PHAN 1
+
+Câu 242. Bản chất của dự toán sản xuất kinh doanh trong doanh nghiệp được hiểu là:
+A. Một hệ thống các chỉ tiêu phản ánh kết quả kinh doanh thực tế đã diễn ra trong quá khứ.
+B. Phương pháp tính giá thực tế của hàng hóa, vật tư tồn kho cuối kỳ hạch toán.
+C. Báo cáo tài chính quy ước bắt buộc phải gửi cho cơ quan thuế.
+*D. Việc dự kiến một cách có căn cứ khoa học các chỉ tiêu kế hoạch kinh doanh cho một thời kỳ tương lai.
+
+Câu 243. Hệ thống dự toán hoạt động sản xuất kinh doanh bao gồm những nội dung cốt lõi nào?
+*A. Hệ thống dự toán hoạt động (dự toán tiêu thy, dự toán sản xuất...) và dự toán tai chính (dự toán tiền, Báo cáo tình hình tài chínhdự toán...).
+B. Hệ thống chứng từ ban đầu và số kế toán tổng hợp.
+C. Các báo cáo phân tích hoạt động kinh tế doanh nghiệp trong 5 năm qua.
+D. Bảng phân bổ chi phi sản xuất chung và chi phí quan lý doanh nghiệp.
+
+Câu 244. Theo giáo trình, kỳ lập dự toán sản xuất kinh doanh thông thường của doanh nghiệp là:
+A. Hàng ngày hoặc hang giờ tùy theo tiến độ công việc.
+B. Thường xuyên liên tục theo từng giờ máy hoạt động.
+*C. Hang năm, được chỉ tiết theo từng quý, từng tháng.
+D. Chỉ lập duy nhất một lần khi doanh nghiệp bắt đầu thành lập.
+
+Câu 245. Dự toán nào sau đây đóng vai trò là "điểm khởi đầu", căn cứ quan trọng nhất để lập các dự toán khác trong hệ thống dự toán tống thế?
+A. Dự toán chi phí nhân công trực tiếp.
+B. Dự toán sản xuất.
+*C. Dự toán tiêu thụ.
+D. Dự toán tiền.
+
+Câu 246. Nhận định nào sau đây phát biểu đúng về định mức chi phí?
+A. Định mức chi phí là số chi phí thực tế phat sinh tai phân xưởng sản xuất.
+*B. Định mức chi phí là chi phí dự toán tính cho từng đơn vị sản phẩm sản xuất hoặc dịch vụ.
+C. Định mức chi phí là tổng chi phi sản xuất tinh cho toàn bộ khối lượng sản phẩm.
+D. Định mức chi phí luôn luôn bằng đúng với số dư đảm phí của sản phẩm gộp.
+
+Câu 247. "Định mức thực tế" (định mức khả thi) được xây dựng dựa trên cơ sở nào?
+A. Điều kiện sản xuất kinh doanh hoàn hảo, không có bat kỳ lang phi hay sự có nào.
+B. Phương pháp thống kê kinh nghiệm lịch sử của 10 năm trước.
+*C. Điều kiện thực tế hợp lý, có tính đến hao hụt, dừng máy kỹ thuật và có khả năng đạt được nếu đóïgÉng.
+D. Quy định bắt buộc mang tính pháp lệnh của Bộ Giao thông Vận tải.
+
+Câu 248. Điểm khác biệt cơ bản về phạm vi giữa "Dự toán" và "Định mức" là gì?
+*A. Dự toán tính cho toàn bộ khối lượng hoặc công việc, còn định mức chỉ tính cho một đơn vị.
+B. Dự toán là thông tin quá khứ, còn định mức là thông tin tương lai.
+C. Dự toán do cơ quan thuế lập, còn định mức do doanh nghiệp tự xây dựng.
+D. Dự toán chỉ phản ánh bằng hiện vật, còn định mức chỉ phản ánh bằng giá trị.
+
+Câu 249. Nội dung chính của Dự toán tiêu thụ bao gồm việc xác định các chỉ tiêu nào?
+A. Khối lượng sản phẩm sản xuất, định mức nhân công và định phí chung.
+*B. Khối lượng sản phẩm tiêu thụ dự kiến, giá bán và doanh thu tiêu thụ dự kiến.
+C. Số tiền thực tế đã thu được từ khách hàng tai thời điểm dau kỳ.
+D. Khối lượng hàng tồn kho đở dang tại phân xưởng sản xuất.
+
+Câu 250. Báo cáo nào đi kèm với dự toán tiêu thụ nhằm giúp doanh nghiệp chủ động kế hoạch tài chính và cân đối dòng tiền mặt?
+A. Dự toán chi phí bán hàng và chi phí quản lý doanh nghiệp.
+B. Dự toán sản xuất thành phẩm tồn kho.
+*C. Dự toán thu tiền bán hàng.
+D. Dự toán bảng cân đối kế toán.
+
+Câu 251. Chỉ tiêu "Số lượng thành phẩm cần sản xuất trong kỳ" trên Dự toán sản xuất được xác định bằng công thức nào?
+*A. Số lượng tiêu thụ kỳ này + Số lượng tồn kho cuối kỳ dự kiến - Số lượng tồn kho đầu kỳ.
+B. Số lượng tiêu thụ kỳ này + Số lượng tồn kho đầu kỳ - Số lượng tồn kho cuối kỳ dự kiến.
+C. Số lượng tồn kho cuối kỳ dự kiến - Số lượng tồn kho đầu kỳ.
+D. Số lượng tiêu thụ kỳ này \(\times \) Định mức nguyên vật liệu trực tiếp.
+
+Câu 252. Dự toán chi phí nguyên vật liệu trực tiếp được lập dựa trên căn cứ trực tiếp nào?
+A. Khối lượng thành phẩm cần tiêu thụ và đơn giá bán sản phẩm.
+*B. Khối lượng thành pham can sản xuất (từ dự toán sản xuất) và định mức tiêu hao, đơn giá vật tư.
+C. Tổng số tiền dự kiến thu được từ hoạt động thanh lý tài sản có định.
+D. Biến phí sản xuất chung biến đổi theo cap bậc của phân xưởng.
+
+Câu 253. Dự toán chi phí nhân công trực tiếp xác định tống số giờ công và tổng chi phí nhân công cần thiết phục vụ cho khâu nào?
+A. Khâu bán hàng tại các đại lý vùng sâu vùng xa.
+B. Khâu quản lý hành chính ở phạm vi toàn doanh nghiệp.
+*C. Khâu sản xuất để hoàn thành khối lượng sản phẩm theo dự toán sản xuất.
+D. Khâu nghiên cứu và thử nghiệm sản phẩm mới.
+
+Câu 254. Dự toán chi phí sản xuất chung phản ánh các khoản chi phí phát sinh tại đâu?
+A. Tại văn phòng Hội đồng quản trị của tổng công ty mẹ.
+*B. Trong phạm vi các phân xưởng, đội sản xuất phục vụ chế tạo sản phẩm.
+C. Tại các cửa hàng phân phối và trung tâm chăm sóc khách hàng.
+D. Toàn bộ các khoản chi phí bằng tiền ngoài sản xuất phát sinh trong kỳ.
+
+Câu 255. Khi lập dự toán chi phí sản xuất chung, chi phí bán hàng và chi phí quản lý doanh nghiệp, các yếu tố chi phí thường được phân loại rõ ràng thành:
+A. Chi phi chìm và chi phí cơ hội.
+*B. Biến phí và định phí.
+C. Chi phí trực tiếp và chi phí gián tiếp.
+D. Hao phí lao động sóng và lao động vật hóa.
+
+Câu 256. Khái niệm "Dự toán linh hoạt" (Flexible Budget) được hiểu là:
+A. Dự toán được lập có định cho một mức độ hoạt động duy nhất đã xác định trước.
+*B. Dự toán cho phép điều chỉnh các chỉ tiêu chi phí biến đôi theo các mức độ hoạt động thực tế đạt được.
+C. Dự toán do bộ phận bán hàng lập ra và không thé sửa đỏi mẫu biểu.
+D. Dự toán chỉ áp dụng tại các doanh nghiệp có quy mô nhỏ và vừa.
+
+Câu 257. Điểm khác biệt lớn nhất giữa dự toán linh hoạt và dự toán tĩnh (dự toán cố định) là gi?
+A. Dự toán tĩnh tính toán chi phí cho nhiều mức độ hoạt động, còn dự toán linh hoạt chỉ tính cho một mức.
+B. Dự toán tĩnh dựa trên thông tin quá khứ, còn dự toán linh hoạt dựa trên thông tin tương lai.
+*C. Dự toán linh hoạt điều chỉnh biến phí theo sản lượng thực tế, còn dự toán tĩnh giữ nguyên chi phí theo sản lượng kế hoạch gốc.
+D. Dự toán linh hoạt bắt buộc phải tuân thủ nghiêm ngặt các chuẩn mực kế toán tài chính công.
+
+Câu 258. Biến động chi phí nguyên vật liệu trực tiếp (hoặc chi phí nhân công trực tiếp) thường được phân tích chỉ tiết thành hai loại biến động nào?
+A. Biến động chi phi chìm và biến động chi phí chênh lệch.
+*B. Biến động giá cả (biến động tỷ giá/đơn giá) và bién động số lượng (biến động lượng tiêu hao/năng suất).
+C. Biến động định phí bắt buộc và định phí không bắt buộc.
+D. Biến động chi phí thời kỳ và chi phí sản phẩm.
+
+Câu 259. Biến động giá của nguyên vật liệu trực tiếp phản ánh sự chênh lệch giữa:
+A. Giá vốn hàng bán và doanh thu tiêu thụ thực tế.
+*B. Giá thực tế và giá định mức của lượng vật liệu đã mua (hoặc sử dụng).
+C. Lượng nguyên vật liệu thực tế sử dụng và lượng nguyên vật liệu định mức.
+D. Tổng định phí sản xuất chung thực tế phát sinh tại phân xưởng.
+
+Câu 260. Biến động lượng (biến động hiệu năng sử dụng) của nguyên vật liệu trực tiếp phản ánh sự chênh lệch giữa:
+*A. Lượng vật liệu thực tế sử dụng và lượng vật liệu định mức cho phép theo sản lượng thực tế.
+B. Đơn giá thực tế và đơn giá định mức của một đơn vị vật liệu.
+C. Khối lượng thành phẩm tiêu thụ thực tế và khối lượng thành phẩm dự toán.
+D. Số tiền trích khấu hao tài sản cố định thực tế so với dự toán linh hoạt.
+
+Câu 261. Phân tích biến động tiêu thụ giúp nhà quản lý xác định được nguyên nhân chênh lệch giữa kết quả thực hiện và dự toán về chỉ tiêu nào?
+A. Tổng chi phí dich vụ mua ngoài phục vụ bộ phận hành chính văn phòng.
+*B. Số lượng sản phẩm, giá bán sản phẩm gộp làm ảnh hưởng đến doanh thu hoặc số dư đảm phí.
+C. Khoản chênh lệch tỷ giá hồi đoái phát sinh từ hoạt động đầu tư dài han.
+D. Tỷ lệ phân bé chi phi bộ phận phục vụ theo phương pháp bậc thang. PHAN 2
+
+Câu 262. Tai sao Kế toán quản trị lai coi dự toán tiêu thy là khởi điểm quan trọng nhất của toàn bộ hệ thống dự toán kinh doanh?
+A. Vi dự toán tiêu thụ phản ánh toàn bộ các khoản mục chỉ phi chìm đã phát sinh ở ky trước.
+*B. Vì quy mô tiêu thụ dự kiến quyết định khối lượng sản phẩm cần sản xuất và mức độ huy động các nguồn lực chi phí khác.
+C. Vì đây là báo cáo duy nhất được nộp cho cơ quan quản lý nhà nước để quyết toán thuế.
+D. Vì doanh thu tiêu thụ luôn luôn bằng đúng số tiền mặt thực tế thu được trong đơn vị.
+
+Câu 263. Phát biểu nào sau đây giải thích đúng nhất về mối quan hệ giữa Dự toán sản xuất và Dự toán tiêu thụ?
+A. Dự toán sản xuất hoàn toàn độc lập và không phụ thuộc vào tiền độ của dự toán tiêu thụ.
+*B. Dự toán sản xuất được lập dựa trên sản lượng tiêu thụ dự kiến kết hợp với việc điều chỉnh lượng tồn kho thành phẩm đầu kỳ và cuối kỳ.
+C. Sản lượng trên dự toán sản xuất luôn bằng đúng sản lượng trên dự toán tiêu thụ nhằm triệt tiêu. hàng tồn kho.
+D. Dự toán tiêu thụ chỉ được lập sau khi doanh nghiệp hoàn thành việc lập dự toán sản xuất.
+
+Câu 264. Mục đích chính của việc lập "Dự toán thu tiền bán hàng" đi kèm với Dự toán tiêu thụ là gì?
+A. Để xác định tổng giá vốn của lượng hàng hóa đã xuất kho trong kỳ.
+*B. Để giúp nhà quản trị nắm bắt tiến độ và lượng dòng tiền mặt thực tế đi vào doanh nghiệp phục. vụ khả năng thanh toán.
+C. Để tinh toán số dư đảm phí đơn vị của các phân khúc thị trường bị giới han.
+D. Đề phân bé lại chi phí bán hàng và chi phí quản lý doanh nghiệp theo kết cấu cố định.
+
+Câu 265. Mối quan hệ giữa "Định mức chi phí" và "Dự toán chi phí" được thể hiện như thế nào trong công tác quản trị?
+A. Định mức chi phí là tổng số chi phí cho toàn bộ sản lượng, còn dự toán là chi phí cho một sản phẩm.
+*B. Định mức chi phí là cơ sở, nền tảng để xây dựng hệ thống dự toán chi phí cho các mức sản lượng tương ứng.
+C. Dự toán chi phí là thông tin lịch sử đã phát sinh, còn định mức chi phí là ước tính cho tương. lại xa.
+D. Hai khái niệm này hoàn toàn trùng khớp về mặt phạm vi và phương pháp tính toán bằng tiền.
+
+Câu 266. Tại sao nhà quản trị doanh nghiệp không nên sử dụng "Định mức lý tưởng" làm căn cứ trực tiếp để lập dự toán sản xuất kinh doanh?
+A. Vì định mức lý tưởng có chi phí quá cao khiến doanh nghiệp rơi vào tình trạng bị lỗ trên số sách.
+*B. Vì định mức lý tưởng được xây dựng trong điều kiện hoàn hảo, không tính đến hao hụt hay sự cố kỹ thuật thông thường nên thiếu tính khả th trong thực tế.
+C. Vì định mức lý tưởng không biểu hiện bằng thước do giá trị tiền tệ mà chỉ dùng thước đo hiện vật.
+D. Vì định mức lý tưởng chỉ do kế toán tài chính lập ra cho mục đích báo cáo ra bên ngoài.
+
+Câu 267. Khoản mục chi phí nào dưới đây trên Dự toán sản xuất kinh doanh sẽ thay đổi về TONG SO khi sản lượng thực tế biến động trong phạm vi phù hợp?
+A. Định phí sản xuất chung của phân xưởng.
+*B. Tổng chi phí nguyên vật liệu trực tiếp.
+C. Chi phí khấu hao máy móc thiết bị tính theo phương pháp đường thẳng.
+D. Lương của nhân viên quản lý hành chính toàn công ty.
+
+Câu 268. Chi phí nào sau đây được dự kiến giữ nguyên về BON VI SAN PHAM khi doanh nghiệp thay déi mức độ hoạt động trên dự toán?
+A. Định phí sản xuất chung đơn vị sản phẩm.
+*B. Biến phí nguyên vật liệu trực tiếp đơn vị sản phẩm.
+C. Chỉ phi bán hàng cố định phân bổ cho một sản phẩm tiêu thụ.
+D. Chi phí quản lý doanh nghiệp đơn vị sản phẩm.
+
+Câu 269. Bản chất kinh tế của "Dự toán linh hoạt" (Flexible Budget) là gi?
+A. Là việc điều chỉnh tăng hoặc giảm giá bán sản phẩm một cách linh hoạt theo sự biến động của thị trường.
+*B. Là hệ thống dự toán được thiết lập nhằm xây dựng các chỉ tiêu chi phí phù hợp với nhiều mức độ hoạt động thực tế khác nhau.
+C. Là loại dự toán chỉ tập trung vào việc quản lý dòng tiền mặt tại quỹ của doanh nghiệp.
+D. Là dự toán được thiết kế cố định cho một mức sản lượng duy nhất để dễ kiểm tra, kiểm soát.
+
+Câu 270. Điểm hạn chế lớn nhất của việc sử dụng Dự toán tĩnh (Dự toán cố định) trong khâu đánh giá, kiểm soát hiệu quả hoạt động là gì?
+A. Không thé hiện được tông só định phí bắt buộc của doanh nghiệp.
+*B. Khó khăn trong việc so sánh vì chi phí thực tế ở sản lượng này lại di so sánh với chi phí dir toán ở một sản lượng khác.
+C. Doi hỏi quá nhiều chi phí để tổ chức luân chuyền chứng từ kế toán quản tri.
+D. Làm sai lệch bản chất của các khoản mục chi phí ngoài sản xuất.
+
+Câu 271. Khi xây dựng dự toán linh hoạt, khoản mục chi phí nào sau đây được dự kiến sẽ KHONG thay đỗi về tổng số giữa các mức độ hoạt động khác nhau?
+*A. Định phi sản xuất chung và định phí bán hàng, quản ly.
+B. Biến phí nhân công trực tiếp cầu thành trong sản phẩm.
+C. Chi phí nguyên vật liệu trực tiếp dùng cho quản lý phân xưởng.
+D. Chi phí dịch vụ mua ngoài tính theo số giờ máy hoạt động.
+
+Câu 272. Ý nghĩa của việc tách biệt Biến động chi phí nguyên vật liệu trực tiếp thành Biến động giá và Biến động lượng là nhằm mục đích:
+A. Giúp doanh nghiệp tối đa hóa số thuế thu nhập doanh nghiệp được hoãn lại.
+*B. Xác định rõ trách nhiệm cy thé của từng bộ phận (như bộ phận cung ứng vật tư hay bộ phận sản xuất tại phân xưởng).
+C. Chuyển đổi toàn bộ các chi phí gián tiếp thành chi phi trực tiếp quy nạp thẳng vào sản phẩm.
+D. Triệt tiêu hoàn toàn sự chênh lệch giữa giá vốn thực tế và giá vốn kế hoạch trên báo cáo tài chính.
+
+Câu 273. Khi phân tích chênh lệch chi phí, nếu phát sinh "Biến động giá nguyên vật liệu trực tiếp" theo chiều hướng bắt lợi (vượt dự toán), nguyên nhân chủ quan thường thuộc về bộ phận nào?
+A. Bộ phận sản xuất tại các phân xưởng do làm lãng phí vật tư.
+*B. Bộ phận mua hàng (cung ứng) do không tìm kiếm được nguồn hàng có giá hợp lý hoặc do biến động giá thị trường.
+C. Bộ phận marketing và bán hàng do thiết kế kết cấu giá ban sai lệch.
+D. Bộ phận hành chính văn phòng do lập sai lệch hệ thông mã hóa tài khoản kế toán.
+
+Câu 274. "Biến động lượng nguyên vật liệu trực tiếp" phản ánh điều gì cho nhà quản trị doanh nghiệp?
+A. Sự chênh lệch giữa đơn giá mua thực tế và đơn giá mua định mức của một đơn vị vật liệu.
+*B. Hiệu quả sử dụng vật tư của khâu sản xuất, thong qua việc so sánh lượng vật liệu thực tế tiêu hao với lượng định mức tiêu chuẩn cho phép theo sản lượng thực tế.
+C. Sự thay đổi kết cấu giữa hàng tồn kho thành phẩm để dang đầu kỳ và cuối kỳ.
+D. Tổng số tiền doanh nghiệp đã tiết kiệm được nhờ việc cắt giảm chi phí thời kỳ.
+
+Câu 275. Biến động giá của chi phí nhân công trực tiếp (thường gọi là Biến động tỷ suất lương/giá công ca) phan ánh:
+A. Sự chênh lệch giữa số giờ công thực tế sử dụng và số giờ.
+*B. Sự chênh lệch giữa đơn giá tiền lương thực tế trả cho một giờ công và đơn giá lương định mức tiêu chuẩn. ng định mức cho phép.
+C. Tổng số tiền lương phát sinh của nhân viên quản lý ở phạm vi toàn doanh nghiệp.
+D. Tốc độ tăng trưởng của năng suất lao động sống tại phân xưởng sản xuất.
+
+Câu 276. Nếu phát sinh "Biến động hiệu năng nhân công trực tiếp" (Biến động lượng/năng suất) mang tính chất bắt lợi, điều này chứng t
+A. Doanh nghiệp đã trả đơn giá lương cho một giờ công lao động cao hơn mức định mức tiêu chuẩn.
+*B. Công nhân đã tồn nhiều thời gian (giờ công) hơn so với định mức tiêu chuẩn cho phép đẻ hoàn thành khối lượng sản phẩm thực tế.
+C. Tổng số lượng thành phẩm tiêu thụ trên thị trường bị sụt giảm nghiêm trong trong kỳ.
+D. Định phí sản xuất chung biến đôi theo cấp bậc bị phân bé sai lệch tiêu thức.
+
+Câu 277. Tình huống nào sau đây có thé dẫn đến việc phát sinh biến động hiệu năng nhân công trực tiếp mang tính chất CÓ LỢI (tiết kiệm giờ công)?
+A. Doanh nghiệp tuyển dụng công nhân có tay nghề thấp đẻ giảm tiền lương phải trả.
+B. Máy móc thiết bị thường xuyên bị hỏng hóc gây gián đoạn quy trình công nghệ.
+*C. Nguyên vật liệu đưa vào sản xuất có chat lượng tốt hơn định mức, giúp công nhân thao tác nhanh và giảm thời gian sửa lỗi sản phẩm.
+D. Doanh nghiệp cắt giảm bớt số lượng nhân viên thuộc trung tâm trách nhiệm doanh thu.
+
+Câu 278. Tại sao việc phân tích biến động chi phí sản xuất chung thường phức tạp hơn so với chi phí nguyên vật liệu và chi phí nhân công trực tiếp?
+A. Vì chi phí sản xuất chung chỉ phát sinh dưới hình thức hiện vật chứ không biểu hiện bằng tiền.
+*B. Vì khoản mục này bao gồm nhiều yếu tố chi phí có nguồn gốc, đặc điểm khác nhau và chứa đựng cả thành phần biến phí lẫn định phí.
+C. Vì chi phí sản xuất chung luôn luôn là thông tin không thích hợp cho mọi quyết định của nhà quản trị.
+D. Vì báo cáo chi phí sản xuất chung chỉ được lập định kỳ 5 năm một lần theo chu kỳ sống sản phẩm.
+
+Câu 279. Phân tích biến động tiêu thụ giúp nhà quản trị làm rõ khoản chênh lệch doanh thu hoặc số dư đảm phí phát sinh do hai nhân tố cơ bản nào tác động?
+A. Biến động chi phí cơ bản và biến động chi phí chung của doanh nghiệp.
+*B. Biến động về khối lượng sản phẩm tiêu thụ (sản lượng) và biến động về giá bán sản phẩm thực tế so với dự toán.
+C. Biến động của định phí bắt buộc và định phí không bắt buộc ngoài sản xuất.
+D. Biến động kết cấu của tài sản có định và nguồn vốn chủ sở hữu.
+
+Câu 280. Một báo cáo dự toán hoạt động kinh doanh toàn diện không chỉ phản ánh các chỉ tiêu bằng giá trị (tiền) mà bắt buộc phải kết hợp với thước đo nào để tăng tính kiểm soát?
+A. Các chỉ tiêu về giá trị hiện tại thuần điều chỉnh theo thời gian (NPV).
+*B. Các thước đo hiện vật (số lượng nguyên vật liệu, số lượng thành phẩm, số giờ công, giờ máy).
+C. Các chỉ số chứng khoán công khai trên thị trường tài chính bên ngoài.
+D. Ty lệ sinh lời giảm đơn của các dự án đầu tư dài hạn gộp.
+
+Câu 281. Khi tiến hành đánh giá trách nhiệm quản lý thông qua hệ thống báo cáo biến động dự toán linh hoạt, nhà quản trị cần thực hiện nguyên tắc nào?
+*A. Chỉ tập trung giải trình các khoản mục chênh lệch vượt định mức mang tính chat trọng yếu và tìm rõ nguyên nhân cốt lõi để khắc phục.
+B. Bắt buộc phải kỷ luật toàn bộ nhân viên kế toán nếu tổng chi phí thực tế sai lệch so với dự toán tĩnh.
+C. Công khai toàn bộ báo cáo chênh lệch dự toán nội bộ cho khách hàng và nhà cung cấp bên ngoài.
+D. Thay đổi liên tục định mức thực tế hàng ngày để triệt tiêu mọi khoản mục biến động chi phí sản xuất. PHAN 3:
+
+Câu 282. Công ty X dự kiến sản lượng tiêu thụ sản phẩm A trong Quý 1 là 5.000 sản phẩm, Quý 2 là 6.500 sản phẩm. Công ty có chính sách tồn kho thành phẩm cuối mỗi quý bằng 20% sản lượng tiêu thụ của quý liền kề sau đó. Biết lượng tồn kho đầu Quý 1 là 1.000 sản phẩm. Sản lượng cần sản xuất trong Quý 1 là:
+*A. 5.300 sản phẩm
+B. 4.300 sản phẩm
+C. 6.300 sản phẩm
+D. 5.000 sản phẩm
+
+Câu 283. Công ty vận tải GTVT lập dự toán doanh thu tiêu thụ cho 3 tháng đầu năm. Sản lượng dự kiến bán: Tháng 1: 2.000 sản phẩm; Tháng 2: 2.500 sản phẩm; Tháng 3: 3.000 sản phẩm. Giá bán chưa thuế là 150.000 đồng/sản phẩm. Tổng doanh thu dự kiến thu được trên dự toán tiêu thụ của cả Quý 1 là:
+A. 300.000.000 đồng.
+*B. 1.125.000.000 đồng
+C. 450.000.000 đồng
+D. 750.000.000 đồng.
+
+Câu 284. Doanh nghiệp Thiên Long có tài liệu về kế hoạch thu tiền bán hàng: Doanh thu tháng 10: 200 triệu đồng; tháng 11: 300 triệu đồng. Chính sách thu tiền: 60% doanh thu được thu ngay trong tháng bán hàng, 40% thu vào tháng kế tiếp. Số tiền dự kiến thu được trong tháng 11 là:
+A. 180 triệu đồng
+*B. 260 triệu đồng
+C. 300 triệu đồng.
+D. 200 triệu dong
+
+Câu 285. Công ty M cần lập dự toán sản xuất cho sản phẩm B trong tháng 5. Sản lượng tiêu thụ dự kiến là 8.000 sản phẩm. Lượng thành phẩm tồn kho dự kiến ngày 1/5 là 800 sản phẩm và mục tiêu tồn kho ngày 31/5 là 1.200 sản phẩm. Lượng sản phẩm B cần đưa vào sắn xuất trong tháng 5 là:
+*A. 8.400 sản phẩm
+B. 7.600 sản phẩm
+C. 9.200 sản phẩm
+D. 8.000 sản phẩm
+
+Câu 286. Theo dự toán sản xuất, công ty cần sản xuất 4.000 sản phẩm X trong Quý 2. Định mức tiêu hao nguyên vật liệu trực tiếp là 3 kg vật liệu/sản phẩm. Chính sách tồn kho vật liệu cuối kỳ bằng 10% nhu cầu sản xuất trong kỳ. Biết lượng vật liệu tồn kho đầu kỳ là 1.200 kg. Khối lượng nguyên vật liệu trực tiếp cần mua trong kỳ là:
+*A. 12.000 kg
+B. 13.200 kg
+C. 10.800 kg
+D. 12.120 kg
+
+Câu 287. Tiếp tục số liệu từ Câu 5, đơn giá mua nguyên vật liệu dự kiến là 25.000 đồng/kg. Tổng chi phí mua nguyên vật liệu trực tiếp dự kiến phát sinh trên toán mua vật tư trong Quý 2 là:
+*A. 300.000.000 đồng
+B. 270.000.000 đồng
+C. 330.000.000 đồng
+D. 280.000.000 đồng.
+
+Câu 288. Doanh nghiệp K lập dự toán chi phí nhân công trực tiếp cho tháng 8 để sản xuất 1.500 sản phẩm. Định mức thời gian lao động là 2 giờ/sản phẩm. Đơn giá lương định mức là 40.000 đồng/giờ. Tổng chi phí nhân công trực tiếp dự kiến trên báo cáo dự toán là:
+A. 60.000.000 đồng
+*B. 120.000.000 đồng
+C. 30.000.000 đồng
+D. 80.000.000 đồng
+
+Câu 289. Phân xưởng may mặc dự kiến sản xuất 5.000 sản phẩm trong kỳ. Dinh mức thời gian lao động trực tiếp là 0,5 giờ/sản phẩm. Tống số giờ công lao động trực tiếp cần thiết để phục vụ khâu lập dự toán nhân công là:
+A. 5.000 giờ
+*B. 2.500 giờ
+C. 10.000 giờ
+D. 1.250 giờ
+
+Câu 290. Công ty cơ khí xây dựng dự toán tĩnh cho chi phí sản xuất chung ở mức sản lượng, 2.000 giờ máy gồm: Biến phí sản xuất chung: 40 triệu đồng; Định phí sản xuất chung: 60 triệu đồng. Nếu lập dự toán linh hoạt ở mức sản lượng thực tế đạt 2.500 giờ máy, tổng chi phí sản xuất chung sẽ là:
+A. 125 triệu đồng
+*B. 110 triệu đồng
+C. 100 triệu đồng
+D. 115 triệu đồng
+
+Câu 291. Dự toán tĩnh về chi phí bán hàng của một doanh nghiệp ở mức sản lượng tiêu thụ 10.000 sản phẩm là 150 triệu đồng, trong đó định phí cố định là 50 triệu đồng. Khi sản lượng tiêu thụ thực tế giảm xuống còn 9.000 sản phẩm, tổng chi phí bán hàng theo mô hình dự toán linh hoạt là:
+A. 135 triệu đồng
+*B. 140 triệu đồng
+C. 100 triệu đồng
+D. 120 triệu đồng
+
+Câu 292. Một doanh nghiệp có phương trình dự toán linh hoạt về tổng chi phí sản xuất là: Y = 15.000 X + 200.000.000 (đồng). Nếu doanh nghiệp tiến hành sản xuất khối lượng sản phẩm X = 8.000 sản phẩm, tổng chi phí dự toán linh hoạt là:
+A. 200.000.000 đồng.
+*B. 320.000.000 đồng
+C. 120.000.000 đồng
+D. 320.000.000 đồng.
+
+Câu 293. Để sản xuất sản phẩm A, công ty có tài liệu định mức tiêu chuẩn: Lượng vật liệu: 2 kg/sp; Giá tiêu chuẩn: 30.000 đ/kg. Kết quả thực tế sản xuất được 1.000 sản phẩm A, đã sử dụng hết 2.100 kg vật liệu với giá mua thực tế là 28.000 đ/kg. Biến động giá của chi phí nguyên vật liệu trực tiếp là:
+*A. 4.200.000 đồng
+B. 4.200.000 đồng
+C. 3.000.000 đồng
+D. 2.000.000 đồng
+
+Câu 294. Từ số liệu của Câu 12, hãy tính toán "Biến động lượng" (biến động hiệu năng sir dụng) của chi phí nguyên vật liệu trực tiếp:
+*A. 3.000.000 đồng.
+B. 2.800.000 đồng
+C. 3.000.000 đồng.
+D. 3.150.000 đồng
+
+Câu 295. Công ty sản xuất thiết bị điện mua và sử dụng 5.000 kg vật liệu trong kỳ. Báo cáo kế toán quản trị chỉ ra Biến động giá vật liệu bị bat lợi là 10.000.000 đồng. Biết đơn giá định mức tiêu chuẩn của loại vật liệu này là 50.000 đồng/kg. Don giá mua thực tế của vật liệu trong kỳ là:
+*A. 48.000 đồng/kg.
+B. 52.000 đồng/kg
+C. 50.000 đồng/kg
+D. 55.000 đồng/kg
+
+Câu 296. Doanh nghiệp dét may có tài liệu: Sản lượng thực tế sản xuất: 2.000 sản phẩm. Định mức tiêu hao: 1,5 mét vải/sản phẩm. Thực tế doanh nghiệp đã sử dụng hết 2.900 mét vải. Biết giá tiêu chuẩn là 80.000 đồng/mét. Biến động lượng vật liệu phát sinh mang tính chất gì và giá trị bao nhiêu?
+*A. 8,000,000 đồng.
+B. 8.000.000 đồng
+C. 7.200.000 đồng
+D. 12.000.000 đồng
+
+Câu 297. Định mức chi phí nhân công trực tiếp để sản xuất 1 sản phẩm là: 3 giờ công với đơn giá lương tiêu chuẩn là 50.000 đồng/giờ. Thực tế kỳ này doanh nghiệp sản xuất được 500 sản phẩm, tiêu tốn hết 1.450 giờ công trực tiếp với tổng chi phí lương thực tế chỉ trả là 75.400.000 đồng. Biến động giá (tỷ suất lương) của nhân công trực tiếp là:
+*A. 2.900.000 đồng.
+B. 2.900.000 đồng
+C. 400.000 dong
+D. 400.000 đồng
+
+Câu 298. Dựa trên tài liệu tại Câu 16, biến động hiệu năng (biến động lượng/năng suất) của chi phí nhân công trực tiếp được xác định là:
+*A. 2.500.000 đồng.
+B. 2.500.000 đồng
+C. 2.600.000 đồng
+D. 400.000 đồng
+
+Câu 299. Bộ phận kế toán quản trị tính toán được Biến động hiệu năng nhân công trực tiếp trong tháng là 6.000.000 đồng (Có lợi). Biết đơn giá lương tiêu chuẩn là 40.000 đồng/giờ, số giờ công tiêu chuẩn cho phép theo sản lượng thực tế là 2.000 giờ. Số giờ công lao động thực tế mà công nhân đã sử dụng là:
+A. 2.150 giờ
+*B. 1.850 giờ
+C. 2.000 giờ
+D. 1.700 giờ
+
+Câu 300. Doanh nghiệp lập kế hoạch bán 1.000 sản phẩm với giá bán dự toán là 200.000 đồng/sản phẩm. Thực tế trong kỳ, doanh nghiệp bán được 1.100 sản phẩm với đơn giá bán thực tế đạt 210.000 đồng/sản phẩm. Biến động doanh thu do nhân tố "Giá bán thực tế biến động" tác động là:
+*A. 11.000.000 đồng
+B. 10.000.000 đồng
+C. 20.000.000 đồng
+D. 31.000.000 đồng
+
+Câu 301. Tiếp tục dữ liệu tại Câu 19, hãy tính toán mức độ ảnh hưởng của nhân tố "Khối lượng sản phẩm tiêu thụ biến động" đến chỉ tiêu tổng doanh thu của doanh nghiệp:
+A. 21.000.000 đồng
+*B. 20.000.000 đồng.
+C. 10.000.000 đồng
+D. 31.000.000 đồng

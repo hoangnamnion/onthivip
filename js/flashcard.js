@@ -23,13 +23,13 @@ function loadFlashcards(fileName) {
 }
 
 function parseFlashcardData(text) {
-    text = text.replace(/(\s+)(\*?[A-D]\.)/g, "\n$2");
+    text = text.replace(/(\s+)(\*?[A-F]\.)/gi, "\n$2");
     const lines = text.split('\n');
     let currentQ = null;
     flashcards = [];
     
     const qStartRegex = /^(Câu\s+\d+|Bài\s+\d+|Question\s+\d+)/i;
-    const optRegex = /^(\*)?([A-D])\./;
+    const optRegex = /^(\*)?([A-F])\./i;
 
     lines.forEach(line => {
         line = line.trim();
