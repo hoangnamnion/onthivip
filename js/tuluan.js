@@ -8,7 +8,7 @@
     'use strict';
 
     // State
-    let activeCourseId = 'KTCQ';
+    let activeCourseId = 'NLQH';
     let currentCourse = null;
     let currentIndex = 0; // 0 to questions.length - 1
     let questions = [];
@@ -32,7 +32,7 @@
     }
 
     function init() {
-        const courses = window.TULUAN_COURSES || (window.TULUAN_DATA ? { 'KTCQ': window.TULUAN_DATA } : null);
+        const courses = window.TULUAN_COURSES || (window.TULUAN_DATA ? { 'NLQH': window.TULUAN_DATA } : null);
         if (!courses) {
             console.error('Không tìm thấy dữ liệu TULUAN_COURSES!');
             return;
@@ -46,10 +46,10 @@
             activeCourseId = urlId.toUpperCase();
         } else {
             const savedCourse = localStorage.getItem('tuluan_last_active_course');
-            if (savedCourse && courses[savedCourse]) {
+            if (savedCourse && courses[savedCourse] && savedCourse === 'NLQH') {
                 activeCourseId = savedCourse;
             } else {
-                activeCourseId = 'KTCQ';
+                activeCourseId = courses['NLQH'] ? 'NLQH' : Object.keys(courses)[0];
             }
         }
 
@@ -99,6 +99,11 @@
         const titleEl = document.getElementById('tuluanPageTitle');
         if (titleEl && currentCourse) {
             titleEl.innerHTML = `<span>${currentCourse.icon || '📖'}</span> TỰ LUẬN: ${currentCourse.shortName || currentCourse.id}`;
+        }
+
+        const drawerTitle = document.querySelector('.drawer-title');
+        if (drawerTitle && currentCourse) {
+            drawerTitle.textContent = `📑 Chọn Câu Hỏi (${questions.length} câu)`;
         }
 
         // Active state trên Course Switcher Pills

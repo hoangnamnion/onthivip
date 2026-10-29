@@ -130,7 +130,7 @@ const getTelegramChatId = () => atob(_T_CHAT_);
 // =====================================================
 // QUẢN LÝ THÔNG BÁO BẢN CẬP NHẬT MỚI & SNOOZE 2 TIẾNG
 // =====================================================
-const CURRENT_UPDATE_VERSION = 'v2.7_20261024';
+const CURRENT_UPDATE_VERSION = 'v2.9_20261029';
 
 function checkNewUpdateNotification() {
     // Nếu có phiên bản cập nhật mới, tự động xóa snooze cũ để người dùng thấy thông báo mới

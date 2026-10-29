@@ -848,7 +848,7 @@
                     <span>←</span> Quay lại
                 </a>
                 <div class="nav-page-title" id="tuluanPageTitle">
-                    <span>📖</span> TỰ LUẬN: KTCQ
+                    <span>📘</span> TỰ LUẬN: NLQH
                 </div>
             </div>
 
@@ -869,18 +869,15 @@
         <div class="progress-header-inner">
             <!-- Course Switcher -->
             <div class="course-switcher-bar" style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap; padding-bottom: 8px; border-bottom: 1.5px dashed #e2e8f0;">
-                <span style="font-weight: 900; font-size: 0.82rem; color: #475569;">CHỌN MÔN:</span>
-                <button type="button" class="course-switch-btn active" data-course="KTCQ" onclick="window.switchCourse('KTCQ')">
-                    🌿 Kiến Trúc Cảnh Quan (23 câu)
-                </button>
-                <button type="button" class="course-switch-btn" data-course="KCXDCB" onclick="window.switchCourse('KCXDCB')">
-                    🏗️ Kết Cấu Xây Dựng (27 câu)
+                <span style="font-weight: 900; font-size: 0.82rem; color: #475569;">MÔN HỌC:</span>
+                <button type="button" class="course-switch-btn active" data-course="NLQH" onclick="window.switchCourse('NLQH')">
+                    📘 Nguyên Lý Quy Hoạch (14 câu)
                 </button>
             </div>
 
             <div class="progress-top-row">
                 <div class="read-progress-label" id="readProgressText">
-                    Đã đọc rùi: <b>0/23 câu</b> (0%)
+                    Đã đọc rùi: <b>0/14 câu</b> (0%)
                 </div>
                 <div class="chapter-pills-row" id="chapterChipsRow">
                     <!-- Dynamically rendered by tuluan.js -->
@@ -915,7 +912,7 @@
     <div class="mobile-drawer-overlay" id="drawerOverlay" onclick="window.closeMobileDrawer()"></div>
     <div class="mobile-drawer" id="mobileDrawer">
         <div class="drawer-header">
-            <div class="drawer-title">📑 Chọn Câu Hỏi (23 câu)</div>
+            <div class="drawer-title">📑 Chọn Câu Hỏi (14 câu)</div>
             <button type="button" class="drawer-close-btn" onclick="window.closeMobileDrawer()">✕</button>
         </div>
         <div class="drawer-grid-box" id="drawerNavGrid">
@@ -924,13 +921,15 @@
     </div>
 
     <!-- SCRIPTS -->
-    <script src="js/api-config.js"></script>
-    <script src="js/tuluan-data.js"></script>
-    <script src="js/tuluan.js"></script>
+    <script src="js/api-config.js?v=20261029"></script>
+    <script src="js/tuluan-data.js?v=20261029"></script>
+    <script src="js/tuluan.js?v=20261029"></script>
     <script>
         if ('serviceWorker' in navigator && window.location.protocol.startsWith('http')) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('./sw.js').catch(() => {});
+                navigator.serviceWorker.register('./sw.js').then(reg => {
+                    reg.update();
+                }).catch(() => {});
             });
         }
     </script>

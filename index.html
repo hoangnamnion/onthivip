@@ -195,8 +195,8 @@
     </main>
 
     <!-- Scripts lõi -->
-    <script src="js/api-config.js"></script>
-    <script src="js/hihihaaaa.js?v=20261024_2"></script>
+    <script src="js/api-config.js?v=20261029"></script>
+    <script src="js/hihihaaaa.js?v=20261029"></script>
     <script>
         // Xóa cờ admin cũ nếu có
         localStorage.removeItem('neo_admin_logged');
@@ -317,40 +317,74 @@
                 }
             }
 
-            const isTuluan = item.isTuluanOnly || item.file === 'KCXDCB';
-            const featureTags = isTuluan ? `
-                <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-bottom:18px;">
-                    <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">📝 27 Câu Tự Luận</span>
-                    <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">🏗️ Thép & BTCT</span>
-                    <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">💡 Đáp Án Chi Tiết</span>
-                </div>
-            ` : `
-                <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-bottom:18px;">
-                    <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">📝 ${item.questions || 100} Câu Hỏi</span>
-                    <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">⏱️ 60 Phút</span>
-                    <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">⚡ Tự Động Chấm</span>
-                </div>
-            `;
+            const isTuluanOnly = item.isTuluanOnly || item.file === 'KCXDCB';
+            const hasTuluan = item.hasTuluan || item.file === 'NLQH';
 
-            const actionButtons = isTuluan ? `
-                <div style="display: flex; gap: 8px; margin-top: auto; width: 100%;">
-                    <button class="btn-neo" onclick="event.stopPropagation(); window.location.href='tuluan.html?id=${item.file}&name=${encodeURIComponent(item.ten)}';" style="flex: 1; padding: 11px 8px; font-size: 0.9rem; background: #ffffff;">
-                        📖 ĐỀ CƯƠNG
-                    </button>
-                    <button class="btn-neo btn-yellow" onclick="event.stopPropagation(); window.location.href='tuluan.html?id=${item.file}&name=${encodeURIComponent(item.ten)}';" style="flex: 1.2; padding: 11px 8px; font-size: 0.9rem;">
-                        🚀 HỌC TỰ LUẬN
-                    </button>
-                </div>
-            ` : `
-                <div style="display: flex; gap: 8px; margin-top: auto; width: 100%;">
-                    <button class="btn-neo" onclick="event.stopPropagation(); window.location.href='ontap.html?id=${item.file || 'KTCQ'}&name=${encodeURIComponent(item.ten)}';" style="flex: 1; padding: 11px 8px; font-size: 0.9rem; background: #ffffff;">
-                        📖 ÔN TẬP
-                    </button>
-                    <button class="btn-neo btn-yellow" onclick="event.stopPropagation(); window.location.href='product.html?id=${item.file || 'KTCQ'}&name=${encodeURIComponent(item.ten)}';" style="flex: 1.2; padding: 11px 8px; font-size: 0.9rem;">
-                        🚀 VÀO THI
-                    </button>
-                </div>
-            `;
+            let featureTags = '';
+            if (isTuluanOnly) {
+                featureTags = `
+                    <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-bottom:18px;">
+                        <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">📝 27 Câu Tự Luận</span>
+                        <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">🏗️ Thép & BTCT</span>
+                        <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">💡 Đáp Án Chi Tiết</span>
+                    </div>
+                `;
+            } else if (hasTuluan) {
+                featureTags = `
+                    <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-bottom:18px;">
+                        <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">📝 113 TN & 14 Tự Luận</span>
+                        <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">⏱️ 60 Phút</span>
+                        <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">⚡ Đề Cương Mẫu</span>
+                    </div>
+                `;
+            } else {
+                featureTags = `
+                    <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-bottom:18px;">
+                        <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">📝 ${item.questions || 100} Câu Hỏi</span>
+                        <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">⏱️ 60 Phút</span>
+                        <span style="background:#fffdf5; border:2px solid var(--neo-black); border-radius:8px; padding:4px 10px; font-size:0.78rem; font-weight:800; box-shadow:1.5px 1.5px 0 var(--neo-black);">⚡ Tự Động Chấm</span>
+                    </div>
+                `;
+            }
+
+            let actionButtons = '';
+            if (isTuluanOnly) {
+                actionButtons = `
+                    <div style="display: flex; gap: 8px; margin-top: auto; width: 100%;">
+                        <button class="btn-neo" onclick="event.stopPropagation(); window.location.href='tuluan.html?id=${item.file}&name=${encodeURIComponent(item.ten)}';" style="flex: 1; padding: 11px 8px; font-size: 0.9rem; background: #ffffff;">
+                            📖 ĐỀ CƯƠNG
+                        </button>
+                        <button class="btn-neo btn-yellow" onclick="event.stopPropagation(); window.location.href='tuluan.html?id=${item.file}&name=${encodeURIComponent(item.ten)}';" style="flex: 1.2; padding: 11px 8px; font-size: 0.9rem;">
+                            🚀 HỌC TỰ LUẬN
+                        </button>
+                    </div>
+                `;
+            } else if (hasTuluan) {
+                actionButtons = `
+                    <div style="display: flex; gap: 6px; margin-top: auto; width: 100%;">
+                        <button class="btn-neo" onclick="event.stopPropagation(); window.location.href='tuluan.html?id=${item.file}&name=${encodeURIComponent(item.ten)}';" style="flex: 1; padding: 11px 4px; font-size: 0.82rem; background: #fffdf5;" title="Học 14 câu đề cương tự luận">
+                            📝 TỰ LUẬN
+                        </button>
+                        <button class="btn-neo" onclick="event.stopPropagation(); window.location.href='ontap.html?id=${item.file || 'NLQH'}&name=${encodeURIComponent(item.ten)}';" style="flex: 1; padding: 11px 4px; font-size: 0.82rem; background: #ffffff;" title="Ôn tập trắc nghiệm">
+                            📖 ÔN TẬP
+                        </button>
+                        <button class="btn-neo btn-yellow" onclick="event.stopPropagation(); window.location.href='product.html?id=${item.file || 'NLQH'}&name=${encodeURIComponent(item.ten)}';" style="flex: 1.1; padding: 11px 4px; font-size: 0.82rem;" title="Vào thi trắc nghiệm tính giờ">
+                            🚀 VÀO THI
+                        </button>
+                    </div>
+                `;
+            } else {
+                actionButtons = `
+                    <div style="display: flex; gap: 8px; margin-top: auto; width: 100%;">
+                        <button class="btn-neo" onclick="event.stopPropagation(); window.location.href='ontap.html?id=${item.file || 'NLQH'}&name=${encodeURIComponent(item.ten)}';" style="flex: 1; padding: 11px 8px; font-size: 0.9rem; background: #ffffff;">
+                            📖 ÔN TẬP
+                        </button>
+                        <button class="btn-neo btn-yellow" onclick="event.stopPropagation(); window.location.href='product.html?id=${item.file || 'NLQH'}&name=${encodeURIComponent(item.ten)}';" style="flex: 1.2; padding: 11px 8px; font-size: 0.9rem;">
+                            🚀 VÀO THI
+                        </button>
+                    </div>
+                `;
+            }
 
             btn.innerHTML = `
                 ${badge}
@@ -365,10 +399,10 @@
             `;
 
             btn.onclick = () => {
-                if (isTuluan) {
+                if (isTuluanOnly) {
                     window.location.href = `tuluan.html?id=${item.file}&name=${encodeURIComponent(item.ten)}`;
                 } else {
-                    window.location.href = `product.html?id=${item.file || 'KTCQ'}&name=${encodeURIComponent(item.ten)}`;
+                    window.location.href = `product.html?id=${item.file || 'NLQH'}&name=${encodeURIComponent(item.ten)}`;
                 }
             };
 
@@ -467,39 +501,39 @@
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; border-bottom: 2.5px solid var(--neo-black); padding-bottom: 10px;">
                 <div id="updateModalTitle" style="font-family: 'Fredoka', sans-serif; font-size: 1.25rem; font-weight: 800; display: flex; align-items: center; gap: 8px; color: var(--neo-black);">
                     <span style="font-size: 1.35rem;">🎉</span> BẢN CẬP NHẬT MỚI
-                    <span style="background: #10b981; color: #fff; font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; font-weight: 900; margin-left: 2px;">v2.7</span>
+                    <span style="background: #10b981; color: #fff; font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; font-weight: 900; margin-left: 2px;">v2.9</span>
                 </div>
                 <button type="button" onclick="closeUpdateModal()" style="border: 2px solid var(--neo-black); background: var(--neo-pink); color: #fff; width: 32px; height: 32px; border-radius: 8px; font-weight: 900; cursor: pointer; box-shadow: 2px 2px 0 var(--neo-black); font-size: 1rem; line-height: 1;" title="Đóng">✕</button>
             </div>
 
             <div style="max-height: 380px; overflow-y: auto; padding-right: 4px; margin-bottom: 18px; display: flex; flex-direction: column; gap: 10px;">
-                <!-- Feature 1: Xáo trộn đề KTCQ -->
+                <!-- Feature 1: Chuyên đề trọng tâm NLQH -->
                 <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🔀</span> Xáo Trộn Đề Kiến Trúc Cảnh Quan (KTCQ)
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #0284c7; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>📘</span> Chuyên Đề Trọng Tâm: Nguyên Lý Quy Hoạch (NLQH)
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Toàn bộ 100 câu hỏi và 4 phương án A, B, C, D đã được xáo trộn ngẫu nhiên hoàn toàn. Giúp các bạn ôn luyện phản xạ chắc chắn, chống học vẹt vị trí đáp án trước kỳ thi!
+                        Tập trung toàn diện cho môn Nguyên Lý Quy Hoạch (NLQH) với đầy đủ 113 câu trắc nghiệm cốt lõi và 14 câu tự luận đề cương chuẩn thi.
                     </div>
                 </div>
 
-                <!-- Feature 2: Bổ sung môn Kết cấu xây dựng cơ bản KCXDCB -->
+                <!-- Feature 2: Tự luận & bảng tra cứu đô thị -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #047857; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🏗️</span> Thêm Môn Kết Cấu Xây Dựng Cơ Bản (KCXDCB)
+                        <span>📝</span> Tự Luận 14 Câu & Bảng Tra Cứu Tiêu Chuẩn Đô Thị
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Bổ sung 27 câu tự luận trọng tâm kèm đầy đủ công thức, bảng tra cứu và 5 sơ đồ kỹ thuật chi tiết (Phần 1: Kết cấu Thép 15 câu, Phần 2: Bê tông cốt thép 12 câu).
+                        Trọn bộ 14 câu tự luận mẫu chi tiết kèm bảng tra cứu tiêu chuẩn phân loại đô thị (Loại V, IV, III, II, I, Đặc biệt) chuẩn chỉnh theo bài giảng.
                     </div>
                 </div>
 
-                <!-- Feature 3: Giao diện học tự luận 120 FPS -->
+                <!-- Feature 3: Giao diện học tự luận 120 FPS & Đầy đủ chế độ -->
                 <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #0369a1; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>📝</span> Học Tự Luận 120 FPS & "Đã Đọc Rùi"
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>⚡</span> Đầy Đủ 4 Chế Độ Học & Tự Luận 120 FPS
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Mỗi trang 1 câu siêu mượt mà không lag, chuyển đổi nhanh giữa KTCQ và KCXDCB, ghi nhớ độc lập tiến độ "Đã đọc rùi" trên thiết bị.
+                        Dù đang làm dở hay thi mới, các chế độ Ôn Tập, Flashcard, Học Tự Luận và Ôn Sai luôn sẵn sàng ngay bên dưới để bạn luyện tập linh hoạt.
                     </div>
                 </div>
 

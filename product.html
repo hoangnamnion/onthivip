@@ -171,7 +171,7 @@
             </div>
 
             <!-- NẾU CÓ BÀI DỞ DANG -->
-            <div id="resumeSection" class="resume-box" style="display: none;">
+            <div id="resumeSection" class="resume-box" style="display: none; max-width: 480px; margin: 10px auto 20px;">
                 <div
                     style="font-weight: 900; font-size: 1.05rem; display: flex; align-items: center; justify-content: center; gap: 6px; color: var(--neo-black);">
                     <span>📌</span> PHÁT HIỆN BÀI ĐANG LÀM DỞ
@@ -191,38 +191,39 @@
                 </div>
             </div>
 
-            <!-- NÚT BẮT ĐẦU CHÍNH & CÁC CHẾ ĐỘ ÔN TẬP -->
-            <div id="normalActions" style="max-width: 480px; margin: 10px auto 0;">
+            <!-- NÚT BẮT ĐẦU CHÍNH (KHI KHÔNG CÓ BÀI DỞ) -->
+            <div id="startActionBox" style="max-width: 480px; margin: 10px auto 16px;">
                 <button id="btnStart" class="btn-neo btn-yellow"
-                    style="padding: 16px; font-size: 1.15rem; width: 100%; margin-bottom: 14px;">
+                    style="padding: 16px; font-size: 1.15rem; width: 100%;">
                     <span>🚀</span> BẮT ĐẦU LÀM BÀI
                 </button>
+            </div>
 
-                <div class="neo-sub-actions" id="subActionsGrid">
-                    <a href="#" id="btnReview" class="neo-sub-btn" title="Ôn Tập">
-                        <span style="font-size: 1.5rem;">📖</span>
-                        <span style="font-size: 0.88rem;">Ôn Tập</span>
-                        <span style="font-size: 0.68rem; color: #64748b; font-weight: 600;">Xem đáp án</span>
-                    </a>
+            <!-- CÁC CHẾ ĐỘ ÔN TẬP PHỤ (LUÔN HIỂN THỊ Ở DƯỚI) -->
+            <div class="neo-sub-actions" id="subActionsGrid" style="max-width: 480px; margin: 0 auto;">
+                <a href="#" id="btnReview" class="neo-sub-btn" title="Ôn Tập">
+                    <span style="font-size: 1.5rem;">📖</span>
+                    <span style="font-size: 0.88rem;">Ôn Tập</span>
+                    <span style="font-size: 0.68rem; color: #64748b; font-weight: 600;">Xem đáp án</span>
+                </a>
 
-                    <a href="#" id="btnFlashcard" class="neo-sub-btn" title="Flashcard">
-                        <span style="font-size: 1.5rem;">🗂️</span>
-                        <span style="font-size: 0.88rem;">Flashcard</span>
-                        <span style="font-size: 0.68rem; color: #64748b; font-weight: 600;">Lật thẻ nhớ</span>
-                    </a>
+                <a href="#" id="btnFlashcard" class="neo-sub-btn" title="Flashcard">
+                    <span style="font-size: 1.5rem;">🗂️</span>
+                    <span style="font-size: 0.88rem;">Flashcard</span>
+                    <span style="font-size: 0.68rem; color: #64748b; font-weight: 600;">Lật thẻ nhớ</span>
+                </a>
 
-                    <a href="tuluan.html" id="btnTuluan" class="neo-sub-btn tuluan-highlight" title="Học Tự Luận" aria-label="Học Tự Luận">
-                        <span style="font-size: 1.5rem;">📝</span>
-                        <span style="font-size: 0.88rem;">Học Tự Luận</span>
-                        <span style="font-size: 0.68rem; color: #d97706; font-weight: 700;">Đề Cương & Đáp Án</span>
-                    </a>
+                <a href="tuluan.html" id="btnTuluan" class="neo-sub-btn tuluan-highlight" title="Học Tự Luận" aria-label="Học Tự Luận">
+                    <span style="font-size: 1.5rem;">📝</span>
+                    <span style="font-size: 0.88rem;">Học Tự Luận</span>
+                    <span style="font-size: 0.68rem; color: #d97706; font-weight: 700;">Đề Cương & Đáp Án</span>
+                </a>
 
-                    <a href="onsai.html" id="btnWrong" class="neo-sub-btn" title="Ôn Sai">
-                        <span style="font-size: 1.5rem;">🧠</span>
-                        <span style="font-size: 0.88rem;">Ôn Sai</span>
-                        <span style="font-size: 0.68rem; color: #64748b; font-weight: 600;">Luyện câu sai</span>
-                    </a>
-                </div>
+                <a href="onsai.html" id="btnWrong" class="neo-sub-btn" title="Ôn Sai">
+                    <span style="font-size: 1.5rem;">🧠</span>
+                    <span style="font-size: 0.88rem;">Ôn Sai</span>
+                    <span style="font-size: 0.68rem; color: #64748b; font-weight: 600;">Luyện câu sai</span>
+                </a>
             </div>
         </div>
 
@@ -292,10 +293,10 @@
         </div>
     </div>
 
-    <script src="js/hihihaaaa.js?v=20261024_2"></script>
+    <script src="js/hihihaaaa.js?v=20261029"></script>
     <script>
         const params = new URLSearchParams(window.location.search);
-        const fileID = params.get('id') || 'KTCQ';
+        const fileID = params.get('id') || 'NLQH';
         let fileName = params.get('name');
         if (!fileName && typeof DEFAULT_EXAMS !== 'undefined') {
             const found = DEFAULT_EXAMS.find(e => e.file === fileID);
@@ -345,11 +346,11 @@
 
         if (hasUnsubmittedExam) {
             document.getElementById('resumeSection').style.display = 'block';
-            document.getElementById('normalActions').style.display = 'none';
+            if (document.getElementById('startActionBox')) document.getElementById('startActionBox').style.display = 'none';
             displayProgressInfo(examData);
         } else {
             document.getElementById('resumeSection').style.display = 'none';
-            document.getElementById('normalActions').style.display = 'block';
+            if (document.getElementById('startActionBox')) document.getElementById('startActionBox').style.display = 'block';
         }
 
         document.getElementById('btnStart').addEventListener('click', function (e) {
@@ -557,7 +558,9 @@
 
         if ('serviceWorker' in navigator && window.location.protocol.startsWith('http')) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('./sw.js').catch(() => { });
+                navigator.serviceWorker.register('./sw.js').then(reg => {
+                    reg.update();
+                }).catch(() => { });
             });
         }
     </script>
@@ -568,39 +571,39 @@
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; border-bottom: 2.5px solid var(--neo-black); padding-bottom: 10px;">
                 <div id="updateModalTitle" style="font-family: 'Fredoka', sans-serif; font-size: 1.25rem; font-weight: 800; display: flex; align-items: center; gap: 8px; color: var(--neo-black);">
                     <span style="font-size: 1.35rem;">🎉</span> BẢN CẬP NHẬT MỚI
-                    <span style="background: #10b981; color: #fff; font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; font-weight: 900; margin-left: 2px;">v2.7</span>
+                    <span style="background: #10b981; color: #fff; font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; font-weight: 900; margin-left: 2px;">v2.9</span>
                 </div>
                 <button type="button" onclick="closeUpdateModal()" style="border: 2px solid var(--neo-black); background: var(--neo-pink); color: #fff; width: 32px; height: 32px; border-radius: 8px; font-weight: 900; cursor: pointer; box-shadow: 2px 2px 0 var(--neo-black); font-size: 1rem; line-height: 1;" title="Đóng">✕</button>
             </div>
 
             <div style="max-height: 380px; overflow-y: auto; padding-right: 4px; margin-bottom: 18px; display: flex; flex-direction: column; gap: 10px;">
-                <!-- Feature 1: Xáo trộn đề KTCQ -->
+                <!-- Feature 1: Chuyên đề trọng tâm NLQH -->
                 <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🔀</span> Xáo Trộn Đề Kiến Trúc Cảnh Quan (KTCQ)
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #0284c7; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>📘</span> Chuyên Đề Trọng Tâm: Nguyên Lý Quy Hoạch (NLQH)
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Toàn bộ 100 câu hỏi và 4 phương án A, B, C, D đã được xáo trộn ngẫu nhiên hoàn toàn. Giúp các bạn ôn luyện phản xạ chắc chắn, chống học vẹt vị trí đáp án trước kỳ thi!
+                        Tập trung toàn diện cho môn Nguyên Lý Quy Hoạch (NLQH) với đầy đủ 113 câu trắc nghiệm cốt lõi và 14 câu tự luận đề cương chuẩn thi.
                     </div>
                 </div>
 
-                <!-- Feature 2: Bổ sung môn Kết cấu xây dựng cơ bản KCXDCB -->
+                <!-- Feature 2: Tự luận & bảng tra cứu đô thị -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #047857; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🏗️</span> Thêm Môn Kết Cấu Xây Dựng Cơ Bản (KCXDCB)
+                        <span>📝</span> Tự Luận 14 Câu & Bảng Tra Cứu Tiêu Chuẩn Đô Thị
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Bổ sung 27 câu tự luận trọng tâm kèm đầy đủ công thức, bảng tra cứu và 5 sơ đồ kỹ thuật chi tiết (Phần 1: Kết cấu Thép 15 câu, Phần 2: Bê tông cốt thép 12 câu).
+                        Trọn bộ 14 câu tự luận mẫu chi tiết kèm bảng tra cứu tiêu chuẩn phân loại đô thị (Loại V, IV, III, II, I, Đặc biệt) chuẩn chỉnh theo bài giảng.
                     </div>
                 </div>
 
-                <!-- Feature 3: Giao diện học tự luận 120 FPS -->
+                <!-- Feature 3: Giao diện học tự luận 120 FPS & Đầy đủ chế độ -->
                 <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #0369a1; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>📝</span> Học Tự Luận 120 FPS & "Đã Đọc Rùi"
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>⚡</span> Đầy Đủ 4 Chế Độ Học & Tự Luận 120 FPS
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Mỗi trang 1 câu siêu mượt mà không lag, chuyển đổi nhanh giữa KTCQ và KCXDCB, ghi nhớ độc lập tiến độ "Đã đọc rùi" trên thiết bị.
+                        Dù đang làm dở hay thi mới, các chế độ Ôn Tập, Flashcard, Học Tự Luận và Ôn Sai luôn sẵn sàng ngay bên dưới để bạn luyện tập linh hoạt.
                     </div>
                 </div>
 
