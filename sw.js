@@ -6,7 +6,7 @@
  * =========================================================================
  */
 
-const CACHE_NAME = 'neo-dethi-cache-v3.0.0';
+const CACHE_NAME = 'neo-dethi-cache-v3.1.3';
 
 const PRECACHE_MANIFEST = [
   './',

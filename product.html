@@ -18,8 +18,8 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-    <script src="js/api-config.js"></script>
+    <link rel="stylesheet" href="css/style.css?v=20261030_2">
+    <script src="js/api-config.js?v=20261030"></script>
     <style>
         .product-meta-badge {
             display: inline-block;
@@ -156,6 +156,15 @@
         </div>
     </header>
 
+    <!-- THANH THÔNG BÁO CẬP NHẬT MỚI -->
+    <div class="update-banner-bar" id="updateBannerBar" onclick="openUpdateModal()" title="Bấm để xem chi tiết bản cập nhật mới">
+        <div class="update-banner-inner">
+            <span class="update-banner-badge">🎉 MỚI v3.1</span>
+            <span class="update-banner-text">Mới: <strong>Chọn phạm vi câu hỏi (1-20, 21-40...)</strong> & Ghi nhớ tiến độ!</span>
+            <span class="update-banner-cta">Xem ngay ➔</span>
+        </div>
+    </div>
+
     <main class="container" style="max-width: 650px; padding-top: 25px;">
         <div class="neo-card" style="text-align: center;">
             <div class="product-meta-badge">KHOẢO THÍ CHÍNH THỨC 2026</div>
@@ -278,6 +287,53 @@
                 <div class="mode-desc">Làm bài bảo mật, chỉ hiện điểm số và đáp án khi nộp bài.</div>
             </div>
 
+            <!-- MỤC CHỌN SỐ LƯỢNG / PHẠM VI CÂU HỎI TRONG ĐỀ -->
+            <div class="range-select-card" id="rangeSelectCard">
+                <div class="range-select-header">
+                    <div style="display: flex; align-items: center; gap: 6px;">
+                        <span style="font-size: 1.15rem;">🎯</span>
+                        <span style="font-weight: 800; font-size: 0.95rem; color: var(--neo-black);">PHẠM VI CÂU HỎI</span>
+                    </div>
+                    <span class="range-total-badge" id="rangeTotalBadge">Tổng: -- câu</span>
+                </div>
+
+                <!-- GHI CHÚ TIẾN ĐỘ ĐÃ LÀM ĐƯỢC ĐẶT TRỰC TIẾP Ở ĐÂY -->
+                <div class="range-history-banner" id="rangeHistoryBanner">
+                    <!-- Cập nhật tự động qua JS -->
+                </div>
+
+                <!-- Nút chọn nhanh (Presets) -->
+                <div class="range-preset-row">
+                    <button type="button" class="range-preset-btn active" id="presetAll" onclick="selectRangePreset('all')">Tất cả</button>
+                    <button type="button" class="range-preset-btn" id="preset20" onclick="selectRangePreset(20)">20 câu</button>
+                    <button type="button" class="range-preset-btn" id="preset30" onclick="selectRangePreset(30)">30 câu</button>
+                    <button type="button" class="range-preset-btn" id="preset50" onclick="selectRangePreset(50)">50 câu</button>
+                    <button type="button" class="range-preset-btn" id="presetCustom" onclick="selectRangePreset('custom')">Tùy chỉnh</button>
+                </div>
+
+                <!-- Khung nhập Từ câu -> Đến câu + nút Lùi / Tiến đợt -->
+                <div class="range-controls-row">
+                    <div class="range-input-wrap">
+                        <span class="range-input-label">Từ câu:</span>
+                        <input type="number" id="inputRangeFrom" class="range-number-input" min="1" value="1" oninput="onRangeInputChange()">
+                    </div>
+                    <span class="range-separator">➔</span>
+                    <div class="range-input-wrap">
+                        <span class="range-input-label">Đến câu:</span>
+                        <input type="number" id="inputRangeTo" class="range-number-input" min="1" value="20" oninput="onRangeInputChange()">
+                    </div>
+                    <div class="range-nav-btns">
+                        <button type="button" class="range-nav-btn" onclick="stepRangeBatch(-1)" title="Lùi về đợt trước">◀</button>
+                        <button type="button" class="range-nav-btn" onclick="stepRangeBatch(1)" title="Chuyển sang đợt tiếp theo">▶</button>
+                    </div>
+                </div>
+
+                <!-- Dòng tóm tắt đợt làm -->
+                <div class="range-summary-bar" id="rangeSummaryBar">
+                    <span>✨ Sẽ làm: <strong id="rangeCountText" style="color: #0284c7;">--</strong> câu (Từ câu <strong id="rangeFromText">--</strong> đến <strong id="rangeToText">--</strong>)</span>
+                </div>
+            </div>
+
             <div class="mode-sub-options">
                 <div class="sub-option" onclick="selectOrder('normal')" id="orderNormal">Giữ nguyên câu</div>
                 <div class="sub-option" onclick="selectOrder('random')" id="orderRandom">Đảo câu hỏi</div>
@@ -293,7 +349,7 @@
         </div>
     </div>
 
-    <script src="js/hihihaaaa.js?v=20261029"></script>
+    <script src="js/hihihaaaa.js?v=20261030"></script>
     <script>
         const params = new URLSearchParams(window.location.search);
         const fileID = params.get('id') || 'NLQH';
@@ -328,6 +384,250 @@
         let selectedMode = 'normal';
         let selectedOrder = 'normal';
         let isAutoNextEnabled = true;
+
+        // =====================================================
+        // QUẢN LÝ PHẠM VI CÂU HỎI & LỊCH SỬ ĐỢT LÀM (RANGE SYSTEM)
+        // =====================================================
+        let totalExamQuestions = 100;
+        let currentBatchStep = 20;
+
+        if (typeof DEFAULT_EXAMS !== 'undefined') {
+            const found = DEFAULT_EXAMS.find(e => e.file === fileID);
+            if (found && found.questions) {
+                totalExamQuestions = found.questions;
+            }
+        }
+
+        // Tải số lượng câu hỏi thật từ file txt để chính xác 100%
+        fetch('filethi/' + fileID + '.txt')
+            .then(res => res.text())
+            .then(text => {
+                const matches = text.match(/^(?:Câu\s+\d+|Bài\s+\d+|Question\s+\d+)/gmi);
+                if (matches && matches.length > 0) {
+                    totalExamQuestions = matches.length;
+                    const badge = document.getElementById('rangeTotalBadge');
+                    if (badge) badge.innerText = `Tổng: ${totalExamQuestions} câu`;
+                    updateRangeSummary();
+                }
+            })
+            .catch(() => {});
+
+        function getRangeHistory() {
+            try {
+                // 1. Kiểm tra trực tiếp exam_last_range_
+                const raw = localStorage.getItem('exam_last_range_' + fileID);
+                if (raw) {
+                    const h = JSON.parse(raw);
+                    if (h && (h.lastFrom !== undefined || h.from !== undefined)) {
+                        const fromVal = parseInt(h.lastFrom !== undefined ? h.lastFrom : h.from) || 1;
+                        const toVal = parseInt(h.lastTo !== undefined ? h.lastTo : h.to) || 20;
+                        return {
+                            lastFrom: fromVal,
+                            lastTo: toVal,
+                            batchSize: h.batchSize || (toVal - fromVal + 1) || 20,
+                            total: h.total || totalExamQuestions,
+                            completed: Boolean(h.completed)
+                        };
+                    }
+                }
+
+                // 2. Fallback: Kiểm tra exam_mode_
+                const rawMode = localStorage.getItem('exam_mode_' + fileID);
+                if (rawMode) {
+                    const m = JSON.parse(rawMode);
+                    if (m && m.rangeFrom && m.rangeTo) {
+                        const fromVal = parseInt(m.rangeFrom) || 1;
+                        const toVal = parseInt(m.rangeTo) || 20;
+                        return {
+                            lastFrom: fromVal,
+                            lastTo: toVal,
+                            batchSize: (toVal - fromVal + 1),
+                            total: totalExamQuestions,
+                            completed: false
+                        };
+                    }
+                }
+
+                // 3. Fallback: Kiểm tra quiz_data_ (nếu từng làm bài dở hoặc nộp)
+                const rawQuiz = localStorage.getItem('quiz_data_' + fileID);
+                if (rawQuiz) {
+                    const q = JSON.parse(rawQuiz);
+                    if (q) {
+                        if (q.rangeFrom && q.rangeTo) {
+                            const fromVal = parseInt(q.rangeFrom) || 1;
+                            const toVal = parseInt(q.rangeTo) || 20;
+                            return {
+                                lastFrom: fromVal,
+                                lastTo: toVal,
+                                batchSize: (toVal - fromVal + 1),
+                                total: totalExamQuestions,
+                                completed: Boolean(q.isSubmitted)
+                            };
+                        } else if (Array.isArray(q.history) && q.history.length > 0) {
+                            const first = (q.history[0].originalIndex !== undefined ? q.history[0].originalIndex : 0) + 1;
+                            const last = (q.history[q.history.length - 1].originalIndex !== undefined ? q.history[q.history.length - 1].originalIndex : q.history.length - 1) + 1;
+                            return {
+                                lastFrom: first,
+                                lastTo: last,
+                                batchSize: (last - first + 1),
+                                total: totalExamQuestions,
+                                completed: Boolean(q.isSubmitted)
+                            };
+                        }
+                    }
+                }
+            } catch(e) {}
+            return null;
+        }
+
+        function initRangeSelector() {
+            const history = getRangeHistory();
+            const banner = document.getElementById('rangeHistoryBanner');
+            const fromInput = document.getElementById('inputRangeFrom');
+            const toInput = document.getElementById('inputRangeTo');
+            const totalBadge = document.getElementById('rangeTotalBadge');
+
+            if (totalBadge) totalBadge.innerText = `Tổng: ${totalExamQuestions} câu`;
+
+            if (history) {
+                const lastFrom = history.lastFrom || 1;
+                const lastTo = history.lastTo || 20;
+                const batch = history.batchSize || (lastTo - lastFrom + 1) || 20;
+                currentBatchStep = batch;
+
+                if (lastTo >= totalExamQuestions) {
+                    // Đã làm đến câu cuối cùng của đề thi
+                    banner.className = 'range-history-banner completed-cycle';
+                    banner.innerHTML = `
+                        <span>🎉 Trước đó đã làm: từ câu <strong>1 - ${totalExamQuestions}</strong> rồi (vòng mới)</span>
+                        <span style="font-size: 0.72rem; opacity: 0.85;">(Xong hết)</span>
+                    `;
+                    fromInput.value = 1;
+                    toInput.value = Math.min(batch, totalExamQuestions);
+                    setPresetActive(batch === 20 || batch === 30 || batch === 50 ? batch : 'custom');
+                } else {
+                    // Gợi ý đợt câu tiếp theo
+                    const nextFrom = lastTo + 1;
+                    const nextTo = Math.min(nextFrom + batch - 1, totalExamQuestions);
+
+                    banner.className = 'range-history-banner';
+                    banner.innerHTML = `
+                        <span>📌 Trước đó đã làm: từ câu <strong>${lastFrom} - ${lastTo}</strong> rồi</span>
+                        <span style="font-size: 0.72rem; opacity: 0.85;">(Tiếp: ${nextFrom}-${nextTo})</span>
+                    `;
+                    fromInput.value = nextFrom;
+                    toInput.value = nextTo;
+                    setPresetActive(batch === 20 || batch === 30 || batch === 50 ? batch : 'custom');
+                }
+            } else {
+                // Lần đầu vào làm bài
+                banner.className = 'range-history-banner first-time';
+                banner.innerHTML = `
+                    <span>🌱 Trước đó chưa làm câu nào</span>
+                    <span style="font-size: 0.72rem; opacity: 0.85;">(Khuyên: 20 câu)</span>
+                `;
+                const initTo = Math.min(20, totalExamQuestions);
+                fromInput.value = 1;
+                toInput.value = initTo;
+                setPresetActive(initTo === totalExamQuestions ? 'all' : 20);
+            }
+
+            updateRangeSummary();
+        }
+
+        function selectRangePreset(preset) {
+            const fromInput = document.getElementById('inputRangeFrom');
+            const toInput = document.getElementById('inputRangeTo');
+            let curFrom = parseInt(fromInput.value) || 1;
+
+            if (preset === 'all') {
+                fromInput.value = 1;
+                toInput.value = totalExamQuestions;
+                currentBatchStep = totalExamQuestions;
+            } else if (typeof preset === 'number') {
+                currentBatchStep = preset;
+                if (curFrom + preset - 1 > totalExamQuestions) {
+                    curFrom = Math.max(1, totalExamQuestions - preset + 1);
+                }
+                fromInput.value = curFrom;
+                toInput.value = Math.min(curFrom + preset - 1, totalExamQuestions);
+            }
+            setPresetActive(preset);
+            updateRangeSummary();
+        }
+
+        function setPresetActive(preset) {
+            ['all', 20, 30, 50, 'custom'].forEach(p => {
+                const btn = document.getElementById('preset' + (typeof p === 'number' ? p : (p === 'all' ? 'All' : 'Custom')));
+                if (btn) btn.classList.toggle('active', p === preset);
+            });
+        }
+
+        function stepRangeBatch(direction) {
+            const fromInput = document.getElementById('inputRangeFrom');
+            const toInput = document.getElementById('inputRangeTo');
+            let fromVal = parseInt(fromInput.value) || 1;
+            let toVal = parseInt(toInput.value) || 20;
+            let step = (toVal - fromVal + 1);
+            if (step <= 0) step = currentBatchStep || 20;
+
+            if (direction > 0) {
+                if (toVal >= totalExamQuestions) {
+                    alert(`Đã đạt tới câu cuối cùng (${totalExamQuestions}) của ngân hàng câu hỏi!`);
+                    return;
+                }
+                let nextFrom = toVal + 1;
+                let nextTo = Math.min(nextFrom + step - 1, totalExamQuestions);
+                fromInput.value = nextFrom;
+                toInput.value = nextTo;
+            } else {
+                if (fromVal <= 1) {
+                    alert('Đã ở đợt câu hỏi đầu tiên (từ câu 1)!');
+                    return;
+                }
+                let prevTo = fromVal - 1;
+                let prevFrom = Math.max(1, prevTo - step + 1);
+                fromInput.value = prevFrom;
+                toInput.value = prevTo;
+            }
+            setPresetActive('custom');
+            updateRangeSummary();
+        }
+
+        function onRangeInputChange() {
+            setPresetActive('custom');
+            updateRangeSummary();
+        }
+
+        function updateRangeSummary() {
+            const fromInput = document.getElementById('inputRangeFrom');
+            const toInput = document.getElementById('inputRangeTo');
+            const summaryBar = document.getElementById('rangeSummaryBar');
+            if (!fromInput || !toInput || !summaryBar) return;
+
+            let fromVal = parseInt(fromInput.value);
+            let toVal = parseInt(toInput.value);
+
+            if (isNaN(fromVal) || fromVal < 1) fromVal = 1;
+            if (isNaN(toVal)) toVal = fromVal;
+
+            if (fromVal > toVal) {
+                summaryBar.style.background = '#fff1f2';
+                summaryBar.style.borderColor = '#f43f5e';
+                summaryBar.innerHTML = `<span style="color: #e11d48; font-weight: 800;">⚠️ 'Từ câu' (${fromVal}) không thể lớn hơn 'Đến câu' (${toVal})!</span>`;
+                return;
+            }
+
+            if (toVal > totalExamQuestions) {
+                toVal = totalExamQuestions;
+                toInput.value = toVal;
+            }
+
+            const count = toVal - fromVal + 1;
+            summaryBar.style.background = '#f1f5f9';
+            summaryBar.style.borderColor = '#cbd5e1';
+            summaryBar.innerHTML = `<span>✨ Sẽ làm: <strong style="color: #0284c7; font-size: 0.95rem;">${count}</strong> câu (Từ câu <strong>${fromVal}</strong> đến <strong>${toVal}</strong> / ${totalExamQuestions})</span>`;
+        }
 
         // Kiểm tra có bài đang làm dở không
         const savedData = localStorage.getItem('quiz_data_' + fileID);
@@ -367,6 +667,7 @@
             selectMode('normal');
             selectOrder('normal');
             updateAutoNextButton();
+            initRangeSelector();
         }
 
         function closeModeModal() {
@@ -424,6 +725,8 @@
             let mode = 'normal';
             let order = 'normal';
             let auto = false;
+            let from = null;
+            let to = null;
 
             if (savedMode) {
                 try {
@@ -431,9 +734,15 @@
                     mode = modeData.mode || 'normal';
                     order = modeData.order || 'normal';
                     auto = modeData.autoNext || false;
+                    from = modeData.rangeFrom || null;
+                    to = modeData.rangeTo || null;
                 } catch (e) { }
             }
-            window.location.href = `thi.html?id=${fileID}&name=${encodeURIComponent(fileName)}&mode=${mode}&order=${order}&auto=${auto}`;
+            let url = `thi.html?id=${fileID}&name=${encodeURIComponent(fileName)}&mode=${mode}&order=${order}&auto=${auto}`;
+            if (from && to) {
+                url += `&from=${from}&to=${to}`;
+            }
+            window.location.href = url;
         }
 
         function startExam(isNewAttempt) {
@@ -442,14 +751,35 @@
                 localStorage.removeItem('quiz_data_' + fileID);
                 localStorage.removeItem('bookmarks_' + fileID);
             }
+
+            let fromVal = parseInt(document.getElementById('inputRangeFrom')?.value) || 1;
+            let toVal = parseInt(document.getElementById('inputRangeTo')?.value) || totalExamQuestions;
+
+            if (fromVal < 1) fromVal = 1;
+            if (toVal < fromVal) toVal = fromVal;
+            if (toVal > totalExamQuestions) toVal = totalExamQuestions;
+
             const modeData = {
                 mode: selectedMode,
                 order: selectedOrder,
                 autoNext: isAutoNextEnabled,
+                rangeFrom: fromVal,
+                rangeTo: toVal,
                 timestamp: Date.now()
             };
             localStorage.setItem('exam_mode_' + fileID, JSON.stringify(modeData));
-            window.location.href = `thi.html?id=${fileID}&name=${encodeURIComponent(fileName)}&mode=${selectedMode}&order=${selectedOrder}&auto=${isAutoNextEnabled}`;
+
+            // Lưu lịch sử phạm vi câu hỏi đã chọn
+            const history = {
+                lastFrom: fromVal,
+                lastTo: toVal,
+                batchSize: (toVal - fromVal + 1),
+                total: totalExamQuestions,
+                timestamp: Date.now()
+            };
+            localStorage.setItem('exam_last_range_' + fileID, JSON.stringify(history));
+
+            window.location.href = `thi.html?id=${fileID}&name=${encodeURIComponent(fileName)}&mode=${selectedMode}&order=${selectedOrder}&auto=${isAutoNextEnabled}&from=${fromVal}&to=${toVal}`;
         }
         const startExamWithMode = startExam;
 
@@ -466,7 +796,13 @@
             const mins = Math.floor((data.totalSeconds || 0) / 60);
             const secs = (data.totalSeconds || 0) % 60;
 
+            let rangeBadgeHtml = '';
+            if (data.rangeFrom && data.rangeTo) {
+                rangeBadgeHtml = `<div style="grid-column: 1/-1; background: #e0f2fe; border: 1.5px solid var(--neo-black); border-radius: 6px; padding: 4px 8px; font-size: 0.82rem; font-weight: 800; color: #0369a1; text-align: center; margin-bottom: 2px;">🎯 Đợt câu hỏi: Câu ${data.rangeFrom} đến ${data.rangeTo}</div>`;
+            }
+
             statsElement.innerHTML = `
+                ${rangeBadgeHtml}
                 <div class="resume-stat-col">
                     <div class="resume-stat-val">${answered}/${totalQuestions}</div>
                     <div class="resume-stat-lbl">Đã làm</div>
@@ -572,39 +908,49 @@
                 <div id="updateModalTitle" class="update-modal-title">
                     <span style="font-size: 1.35rem; line-height: 1;">🎉</span>
                     <span class="update-modal-title-text">BẢN CẬP NHẬT MỚI</span>
-                    <span class="update-modal-ver-badge">v3.0</span>
+                    <span class="update-modal-ver-badge">v3.1</span>
                 </div>
                 <button type="button" onclick="closeUpdateModal()" class="update-modal-close-btn" title="Đóng">✕</button>
             </div>
 
             <div class="update-modal-body">
-                <!-- Feature 1: Đào trọn bộ tài nguyên Tùng Marketing -->
+                <!-- Feature mới v3.1: Chia đợt câu hỏi thông minh -->
+                <div class="update-item-card" style="border-color: #ef4444; background: #fff5f5;">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #dc2626; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>🎯</span> MỚI: Chia Đợt Câu Hỏi & Ghi Nhớ Tiến Độ (1-20, 21-40...)
+                    </div>
+                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
+                        Tùy chọn số lượng câu thi theo khoảng: 20 câu, 30 câu hoặc tùy chỉnh. Có dòng chữ đỏ ghi nhớ câu đã làm trước đó và tự động nhảy sang đợt tiếp theo cực tiện lợi!
+                    </div>
+                </div>
+
+                <!-- Feature mới v3.1: Hệ thống chọn trường & logo -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #0284c7; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>🏫</span> Phân Loại Trường: UTT, ULSA, PTIT & Logo Chính Thức
+                    </div>
+                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
+                        Tích hợp trọn bộ logo chính thức, lọc môn thi theo trường đang học và khóa giới hạn đổi trường sau 1 ngày (24 giờ).
+                    </div>
+                </div>
+
+                <!-- Feature 2: Đào trọn bộ tài nguyên Tùng Marketing -->
+                <div class="update-item-card">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #059669; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
                         <span>🚀</span> Kho Đề Thi Siêu Cấp: 30 Bộ Đề & 9.000+ Câu Hỏi
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Đã tích hợp toàn bộ ngân hàng câu hỏi chuẩn từ tungmarketing.id.vn: 30 môn học hoàn chỉnh (UTT, ULSA, PTIT...) sẵn sàng thi và ôn tập 100% offline.
+                        Đã tích hợp toàn bộ ngân hàng câu hỏi chuẩn từ tungmarketing.id.vn: 30 môn học hoàn chỉnh sẵn sàng thi và ôn tập 100% offline.
                     </div>
                 </div>
 
-                <!-- Feature 2: Kho Drive & Azota 51+ môn học -->
+                <!-- Feature 3: Kho Drive & Azota 51+ môn học -->
                 <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #047857; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
                         <span>📁</span> Tích Hợp Kho Drive & Đề Thi Azota (51+ Môn)
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Tab mới "Kho Drive & Azota" tra cứu và truy cập trực tiếp toàn bộ thư mục Google Drive, tài liệu đề cương PDF và link thi thử Azota của hơn 51 môn học.
-                    </div>
-                </div>
-
-                <!-- Feature 3: Bộ lọc trường đại học & môn học -->
-                <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🏷️</span> Phân Loại Theo Trường: UTT, ULSA, PTIT, Đại Cương
-                    </div>
-                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Nhanh chóng chuyển đổi giữa các trường và tìm kiếm môn thi thần tốc ngay trên thanh công cụ neo-brutalism.
+                        Tab "Kho Drive & Azota" tra cứu và truy cập trực tiếp toàn bộ thư mục Google Drive, tài liệu đề cương PDF và link thi thử Azota của hơn 51 môn học.
                     </div>
                 </div>
 
@@ -615,16 +961,6 @@
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
                         Đầy đủ 113 câu trắc nghiệm và 14 câu tự luận kèm bảng tra cứu tiêu chuẩn đô thị và chế độ học 120 FPS.
-                    </div>
-                </div>
-
-                <!-- Feature 5: Theme giảm màu mè -->
-                <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #059669; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🌱</span> Theme Giảm Màu Mè & Tối Ưu Tốc Độ
-                    </div>
-                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Chuyển đổi giao diện ôn tập dịu mắt chống chói khi học đêm, hỗ trợ phím tắt chuyển câu và lưu tiến độ an toàn.
                     </div>
                 </div>
             </div>

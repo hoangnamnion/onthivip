@@ -182,6 +182,9 @@ function openFlaggedModal() {
     if (modal) modal.style.display = 'flex';
 }
 
+// Biến quản lý phạm vi câu hỏi (Range System)
+let currentExamRange = null; // { from: number, to: number, total: number }
+
 // --- 1. TẢI ĐỀ THI ---
 function loadExam(fileName) {
     currentFileName = fileName;
@@ -194,23 +197,29 @@ function loadExam(fileName) {
     const autoParam = params.get('auto');
     isAutoNextEnabled = (autoParam === null || autoParam === '' || autoParam === 'true');
 
-    if (!params.get('mode')) {
-        const savedMode = localStorage.getItem('exam_mode_' + fileName);
-        if (savedMode) {
-            try {
-                const modeData = JSON.parse(savedMode);
-                if (modeData && typeof modeData === 'object') {
-                    if (modeData.mode) examMode = modeData.mode;
-                    if (modeData.order) questionOrder = modeData.order;
-                    // Nếu lưu cả cấu hình auto trong localStorage thì lấy ra ở đây
-                    if (modeData.autoNext !== undefined) {
-                        isAutoNextEnabled = modeData.autoNext;
-                    }
+    // NHẬN PHẠM VI CÂU HỎI (FROM - TO)
+    let rangeFrom = parseInt(params.get('from'), 10);
+    let rangeTo = parseInt(params.get('to'), 10);
+
+    const savedMode = localStorage.getItem('exam_mode_' + fileName);
+    let modeData = null;
+    if (savedMode) {
+        try {
+            modeData = JSON.parse(savedMode);
+            if (modeData && typeof modeData === 'object') {
+                if (!params.get('mode') && modeData.mode) examMode = modeData.mode;
+                if (!params.get('order') && modeData.order) questionOrder = modeData.order;
+                if (modeData.autoNext !== undefined && autoParam === null) {
+                    isAutoNextEnabled = modeData.autoNext;
                 }
-            } catch (e) {
-                console.warn('Corrupted exam_mode in localStorage, resetting:', e);
-                localStorage.removeItem('exam_mode_' + fileName);
+                if ((isNaN(rangeFrom) || isNaN(rangeTo)) && modeData.rangeFrom && modeData.rangeTo) {
+                    rangeFrom = parseInt(modeData.rangeFrom, 10);
+                    rangeTo = parseInt(modeData.rangeTo, 10);
+                }
             }
+        } catch (e) {
+            console.warn('Corrupted exam_mode in localStorage, resetting:', e);
+            localStorage.removeItem('exam_mode_' + fileName);
         }
     }
 
@@ -248,6 +257,40 @@ function loadExam(fileName) {
             document.getElementById('loading').style.display = 'none';
             document.getElementById('quizArea').style.display = 'block';
             parseData(text);
+
+            const totalFileQuestions = allQuestions.length;
+            let isRangeActive = false;
+
+            // XỬ LÝ LỌC THEO PHẠM VI CÂU HỎI (FROM - TO)
+            if (!isNaN(rangeFrom) && !isNaN(rangeTo) && rangeFrom >= 1 && rangeTo >= rangeFrom) {
+                const safeFrom = Math.max(1, Math.min(totalFileQuestions, rangeFrom));
+                const safeTo = Math.max(safeFrom, Math.min(totalFileQuestions, rangeTo));
+                currentExamRange = { from: safeFrom, to: safeTo, total: totalFileQuestions };
+                isRangeActive = true;
+                // Mỗi câu trong parseData đã có originalIndex = vị trí ban đầu
+                allQuestions = allQuestions.slice(safeFrom - 1, safeTo);
+            } else {
+                currentExamRange = { from: 1, to: totalFileQuestions, total: totalFileQuestions };
+            }
+
+            // Ghi nhận ngay phạm vi đợt này để khi quay lại product.html luôn biết đợt vừa làm
+            if (currentExamRange) {
+                try {
+                    localStorage.setItem('exam_last_range_' + currentFileName, JSON.stringify({
+                        lastFrom: currentExamRange.from,
+                        lastTo: currentExamRange.to,
+                        batchSize: (currentExamRange.to - currentExamRange.from + 1),
+                        total: currentExamRange.total || allQuestions.length,
+                        timestamp: Date.now()
+                    }));
+                } catch(e) {}
+            }
+
+            // Gắn huy hiệu phạm vi lên tiêu đề
+            if (isRangeActive && titleElement) {
+                const rangeBadge = ` <span class="range-badge" style="background:#2563eb; color:white; padding:2px 8px; border-radius:10px; font-size:0.7em; font-weight:800; margin-left:5px; box-shadow:1.5px 1.5px 0 #1e3a8a;">🎯 CÂU ${currentExamRange.from}-${currentExamRange.to}</span>`;
+                titleElement.innerHTML += rangeBadge;
+            }
 
             originalQuestions = JSON.parse(JSON.stringify(allQuestions));
 
@@ -644,7 +687,9 @@ function renderQuestion(index) {
 
     let qNumberText = `Câu ${index + 1}/${questionsToShow.length}`;
 
-    if (questionOrder === 'random') {
+    if (currentExamRange && (currentExamRange.from > 1 || currentExamRange.to < currentExamRange.total)) {
+        qNumberText += ` (Gốc: ${(q.originalIndex !== undefined ? q.originalIndex : index) + 1})`;
+    } else if (questionOrder === 'random') {
         qNumberText += ` (Gốc: ${q.originalIndex + 1})`;
     }
 
@@ -1384,7 +1429,26 @@ function showResultModal() {
         modeText += `<div>✅ Câu sai đã sửa: <strong>${retryCorrect}/${wrong}</strong></div>`;
     }
 
+    if (currentExamRange && (currentExamRange.from > 1 || currentExamRange.to < currentExamRange.total)) {
+        modeText += `<div>🎯 Phạm vi đợt này: <strong>Câu ${currentExamRange.from} đến ${currentExamRange.to}</strong> (Tổng ${allQuestions.length} câu)</div>`;
+    }
+
     modeInfo.innerHTML = modeText;
+
+    // Lưu lại lịch sử đợt vừa hoàn thành vào localStorage
+    if (currentExamRange) {
+        try {
+            localStorage.setItem('exam_last_range_' + currentFileName, JSON.stringify({
+                lastFrom: currentExamRange.from,
+                lastTo: currentExamRange.to,
+                batchSize: (currentExamRange.to - currentExamRange.from + 1),
+                total: currentExamRange.total || allQuestions.length,
+                completed: true,
+                score: firstAttemptScore,
+                timestamp: Date.now()
+            }));
+        } catch (e) { }
+    }
 
     const timeElement = document.getElementById('resTime');
     resultBox.insertBefore(modeInfo, timeElement);
@@ -1392,6 +1456,32 @@ function showResultModal() {
     const oldRetryButton = resultBox.querySelector('.retry-button');
     if (oldRetryButton) {
         oldRetryButton.remove();
+    }
+
+    const oldNextBatch = resultBox.querySelector('.next-batch-btn');
+    if (oldNextBatch) {
+        oldNextBatch.remove();
+    }
+
+    const actionsContainer = resultBox.querySelector('.result-actions');
+
+    // Nút làm tiếp đợt sau (nếu còn câu hỏi trong ngân hàng đề)
+    if (currentExamRange && currentExamRange.to < currentExamRange.total) {
+        const nextFrom = currentExamRange.to + 1;
+        const batchSize = (currentExamRange.to - currentExamRange.from + 1);
+        const nextTo = Math.min(nextFrom + batchSize - 1, currentExamRange.total);
+
+        const nextBatchBtn = document.createElement('button');
+        nextBatchBtn.className = 'result-btn next-batch-btn';
+        nextBatchBtn.style.cssText = 'background: #10b981 !important; color: #ffffff !important; width: 100%; flex-basis: 100%; margin-top: 8px; cursor: pointer; font-weight: 800; border: 2.5px solid var(--neo-black); box-shadow: 2.5px 2.5px 0 var(--neo-black); font-size: 0.95rem;';
+        nextBatchBtn.innerText = `🚀 Làm tiếp câu ${nextFrom} đến ${nextTo} ➔`;
+        nextBatchBtn.onclick = function () {
+            startNextRangeBatch(nextFrom, nextTo);
+        };
+
+        if (actionsContainer) {
+            actionsContainer.prepend(nextBatchBtn);
+        }
     }
 
     if (examMode === 'normal' && wrong > 0 && !isRetryMode) {
@@ -1406,7 +1496,6 @@ function showResultModal() {
             }, 300);
         };
 
-        const actionsContainer = resultBox.querySelector('.result-actions');
         if (actionsContainer) {
             actionsContainer.appendChild(retryButton);
         }
@@ -1419,6 +1508,27 @@ function showResultModal() {
         hasReportedScore = true;
         reportScoreAndFirework(correct, wrong, skip);
     }
+}
+
+function startNextRangeBatch(nextFrom, nextTo) {
+    localStorage.removeItem('quiz_data_' + currentFileName);
+    localStorage.removeItem('bookmarks_' + currentFileName);
+    const nextHistory = {
+        lastFrom: nextFrom,
+        lastTo: nextTo,
+        batchSize: (nextTo - nextFrom + 1),
+        total: currentExamRange ? currentExamRange.total : 100,
+        timestamp: Date.now()
+    };
+    try {
+        localStorage.setItem('exam_last_range_' + currentFileName, JSON.stringify(nextHistory));
+    } catch(e) {}
+
+    const params = new URLSearchParams(window.location.search);
+    params.set('from', nextFrom);
+    params.set('to', nextTo);
+    params.set('new', 'true');
+    window.location.search = params.toString();
 }
 
 async function reportScoreAndFirework(correct, wrong, skip) {
@@ -1588,6 +1698,9 @@ function saveProgress() {
         firstAttemptScore: firstAttemptScore,
         autoNext: isAutoNextEnabled, // Lưu trạng thái Auto Next
         currentStreak: currentStreak, // Lưu trạng thái Combo Hỏa lực
+        rangeFrom: currentExamRange ? currentExamRange.from : null,
+        rangeTo: currentExamRange ? currentExamRange.to : null,
+        totalExamFileQuestions: currentExamRange ? currentExamRange.total : null,
         wrongQuestions: wrongQuestions.map(item => item.index),
         history: allQuestions.map(q => ({
             userSelected: q.userSelected,
@@ -1700,13 +1813,21 @@ function loadProgress() {
 
         updateTimerDisplay();
 
+        if (data.rangeFrom && data.rangeTo) {
+            currentExamRange = {
+                from: data.rangeFrom,
+                to: data.rangeTo,
+                total: data.totalExamFileQuestions || allQuestions.length
+            };
+        }
+
         if (Array.isArray(data.history)) {
             const originalParsed = JSON.parse(JSON.stringify(allQuestions));
             const restoredQuestions = [];
 
             data.history.forEach((h, i) => {
                 if (!h || typeof h !== 'object') return;
-                let q = originalParsed[h.originalIndex !== undefined ? h.originalIndex : i];
+                let q = originalParsed.find(item => item.originalIndex === h.originalIndex) || originalParsed[i];
                 if (q) {
                     q = JSON.parse(JSON.stringify(q));
                     if (Array.isArray(h.shuffledOptionIndices)) {

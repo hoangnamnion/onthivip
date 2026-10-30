@@ -87,8 +87,8 @@
     <!-- THANH THÔNG BÁO CẬP NHẬT MỚI -->
     <div class="update-banner-bar" id="updateBannerBar" onclick="openUpdateModal()" title="Bấm để xem chi tiết bản cập nhật mới">
         <div class="update-banner-inner">
-            <span class="update-banner-badge">🎉 MỚI v3.0</span>
-            <span class="update-banner-text">Đã tích hợp <strong>trọn bộ 30 môn thi & 9.000+ câu hỏi</strong> trắc nghiệm mới!</span>
+            <span class="update-banner-badge">🎉 MỚI v3.1</span>
+            <span class="update-banner-text">Mới: <strong>Chọn phạm vi câu hỏi (1-20, 21-40...)</strong> & Ghi nhớ tiến độ câu đã làm!</span>
             <span class="update-banner-cta">Xem ngay ➔</span>
         </div>
     </div>
@@ -128,7 +128,7 @@
 
             <button class="drawer-item-btn btn-update-notice" onclick="closeMobileMenu(); openUpdateModal();" style="width: 100%; text-align: left; background: #ffffff; border: 2.5px solid var(--neo-black); border-radius: var(--neo-radius-sm); box-shadow: 2px 2px 0 var(--neo-black); padding: 10px 14px; font-weight: 800; cursor: pointer; display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
                 <span>🔔 <span style="color: #d97706;">BẢN CẬP NHẬT MỚI</span></span>
-                <span style="background: #10b981; color: #fff; font-size: 0.68rem; padding: 2px 6px; border-radius: 999px; font-weight: 900;">v3.0</span>
+                <span style="background: #10b981; color: #fff; font-size: 0.68rem; padding: 2px 6px; border-radius: 999px; font-weight: 900;">v3.1</span>
             </button>
             <button class="drawer-item-btn btn-focus-theme-toggle" id="btnIndexDrawerTheme" onclick="toggleFocusTheme();" style="width: 100%; text-align: left; background: #ffffff; border: 2.5px solid var(--neo-black); border-radius: var(--neo-radius-sm); box-shadow: 2px 2px 0 var(--neo-black); padding: 10px 14px; font-weight: 800; cursor: pointer; display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
                 <span><span class="theme-toggle-icon">🌱</span> <span class="theme-toggle-text">Theme: Giảm màu mè</span></span>
@@ -240,39 +240,49 @@
                 <div id="updateModalTitle" class="update-modal-title">
                     <span style="font-size: 1.35rem; line-height: 1;">🎉</span>
                     <span class="update-modal-title-text">BẢN CẬP NHẬT MỚI</span>
-                    <span class="update-modal-ver-badge">v3.0</span>
+                    <span class="update-modal-ver-badge">v3.1</span>
                 </div>
                 <button type="button" onclick="closeUpdateModal()" class="update-modal-close-btn" title="Đóng">✕</button>
             </div>
 
             <div class="update-modal-body">
-                <!-- Feature 1: Đào trọn bộ tài nguyên Tùng Marketing -->
+                <!-- Feature mới v3.1: Chia đợt câu hỏi thông minh -->
+                <div class="update-item-card" style="border-color: #ef4444; background: #fff5f5;">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #dc2626; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>🎯</span> MỚI: Chia Đợt Câu Hỏi & Ghi Nhớ Tiến Độ (1-20, 21-40...)
+                    </div>
+                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
+                        Tùy chọn số lượng câu thi theo khoảng: 20 câu, 30 câu hoặc tùy chỉnh. Có dòng chữ đỏ ghi nhớ câu đã làm trước đó và tự động nhảy sang đợt tiếp theo cực tiện lợi!
+                    </div>
+                </div>
+
+                <!-- Feature mới v3.1: Hệ thống chọn trường & logo -->
                 <div class="update-item-card">
                     <div style="font-weight: 800; font-size: 0.95rem; color: #0284c7; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                        <span>🏫</span> Phân Loại Trường: UTT, ULSA, PTIT & Logo Chính Thức
+                    </div>
+                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
+                        Tích hợp trọn bộ logo chính thức, lọc môn thi theo trường đang học và khóa giới hạn đổi trường sau 1 ngày (24 giờ).
+                    </div>
+                </div>
+
+                <!-- Feature 2: Đào trọn bộ tài nguyên Tùng Marketing -->
+                <div class="update-item-card">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #059669; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
                         <span>🚀</span> Kho Đề Thi Siêu Cấp: 30 Bộ Đề & 9.000+ Câu Hỏi
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Đã tích hợp toàn bộ ngân hàng câu hỏi chuẩn từ tungmarketing.id.vn: 30 môn học hoàn chỉnh (UTT, ULSA, PTIT...) sẵn sàng thi và ôn tập 100% offline.
+                        Đã tích hợp toàn bộ ngân hàng câu hỏi chuẩn từ tungmarketing.id.vn: 30 môn học hoàn chỉnh sẵn sàng thi và ôn tập 100% offline.
                     </div>
                 </div>
 
-                <!-- Feature 2: Kho Drive & Azota 51+ môn học -->
+                <!-- Feature 3: Kho Drive & Azota 51+ môn học -->
                 <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #047857; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                    <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
                         <span>📁</span> Tích Hợp Kho Drive & Đề Thi Azota (51+ Môn)
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Tab mới "Kho Drive & Azota" tra cứu và truy cập trực tiếp toàn bộ thư mục Google Drive, tài liệu đề cương PDF và link thi thử Azota của hơn 51 môn học.
-                    </div>
-                </div>
-
-                <!-- Feature 3: Bộ lọc trường đại học & môn học -->
-                <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #b45309; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🏷️</span> Phân Loại Theo Trường: UTT, ULSA, PTIT, Đại Cương
-                    </div>
-                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Nhanh chóng chuyển đổi giữa các trường và tìm kiếm môn thi thần tốc ngay trên thanh công cụ neo-brutalism.
+                        Tab "Kho Drive & Azota" tra cứu và truy cập trực tiếp toàn bộ thư mục Google Drive, tài liệu đề cương PDF và link thi thử Azota của hơn 51 môn học.
                     </div>
                 </div>
 
@@ -283,16 +293,6 @@
                     </div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
                         Đầy đủ 113 câu trắc nghiệm và 14 câu tự luận kèm bảng tra cứu tiêu chuẩn đô thị và chế độ học 120 FPS.
-                    </div>
-                </div>
-
-                <!-- Feature 5: Theme giảm màu mè -->
-                <div class="update-item-card">
-                    <div style="font-weight: 800; font-size: 0.95rem; color: #059669; display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
-                        <span>🌱</span> Theme Giảm Màu Mè & Tối Ưu Tốc Độ
-                    </div>
-                    <div style="font-size: 0.85rem; font-weight: 600; color: #374151; line-height: 1.5;">
-                        Chuyển đổi giao diện ôn tập dịu mắt chống chói khi học đêm, hỗ trợ phím tắt chuyển câu và lưu tiến độ an toàn.
                     </div>
                 </div>
             </div>
@@ -342,7 +342,7 @@
     </div>
 
     <!-- Scripts lõi -->
-    <script src="js/api-config.js?v=20261029"></script>
+    <script src="js/api-config.js?v=20261030"></script>
     <script src="js/hihihaaaa.js?v=20261029"></script>
     <script>
         // Xóa cờ admin cũ nếu có
